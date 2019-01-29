@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="chapter.about.OmegaT">
+  <title><application>OmegaT</application> Hakkında - giriş</title>
+
+  <section id="OmegaT-Highlists">
+    <title>OmegaT'nin temel özellikleri</title>
+
+    <para><application>OmegaT</application> özgür (ve ücretsiz) her platformda çalışan bir Bilgisayar Destekli Çeviri aracıdır; temel özellikleri şunlardır:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Çeviri belleği:</emphasis><application>OmegaT</application>, çevirilerinizi bir çeviri belleği dosyasında tutar. Aynı zamanda, daha önce yapmış olduğunuz çevirileri referans amaçlı olarak kullanabilir. Çeviri bellekleri, tekrarların ya da makul düzeyde benzerliklerin çok olduğu bir metni çevirirken son derece kullanışlı olabilir. OmegaT, çeviri belleklerini kullanarak daha önce yapmış olduğunuz çevirileri saklar ve üzerinde çalışmakta olduğunuz metnin olası çevirilerini size önerir.</para>
+
+        <para>Daha önce tercüme edilmiş bir metnin güncellenmesi gerektiğinde çeviri bellekleri son derece yararlı olabilir. Değişmeden kalan cümleler, çevrilmiş olarak gösterilecek ve güncellenen cümleler, eski cümlenin en benzer çevirisiyle birlikte gösterilecektir. Böylelikle asıl metinde yapılmış tüm değişiklikler çok daha kolay şekilde gözden geçirilebilir. Eğer elinizde daha önceden oluşturulmuş çeviri belleklerini varsa (mesela çeviri bürosu ya da müşteri tarafından verilen bellekler gibi) OmegaT bunları referans bellekleri olarak kullanabilir.</para>
+
+        <para>OmegaT, çeviri belleklerine erişip veri kaydetmek için standart TMX dosya formatını kullanır. Bu da bu dosya formatını destekleyen diğer Bilgisayar Destekli Çeviri (BDÇ) uygulamalarıyla çeviri malzemesi alış verişini mümkün kılar.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Terminoloji yönetimi:</emphasis> Çeviride tutarlılık açısından terminoloji yönetimi önemlidir. OmegaT, tek sözcüklerin ya da küçük ibarelerin karşılıklarını içeren sözlükçeler kullanır; bunlar, belli bir alana özgü basit iki dilli sözlükler olarak görülebilir. OmegaT, mevcut dilimde yer alan sözcükleri sözlükçeyle karşılaştırıp her ikisinde bulunan sözcükleri gösterir.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Çeviri süreci:</emphasis>Tek bir dosyayı tercüme edebileceğiniz gibi alt dizinler halinde düzenlenmiş ve çok sayıda farklı dosya formatına sayı dosyalarla dolu bir dizini de çevirmeniz gerekebilir. Tercüme edilecek dosyaları yüklediğinizde OmegaT, dosya filtreleme kurallarını dikkate alarak desteklediği dosyalara bakar ve bu dosyalardaki metinleri tespit eder ve bu metinleri dilimleme kurallarına göre parçalara böler ve bu dilimleri teker teker size gösterip tercüme etmenizi ister. OmegaT, çevirilerinizi depolar ve çevirili belleği dosyalarında bulunan benzer dilimler arasından olası çevirileri size önerir. Dosyaların tercüme edildikten sonraki haline görmek isterseniz tercümesi yapılmış dosyaları dışarı aktarabilir ve ilgili uygulamada açarak çevirinizi görebilirsiniz.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section id="OmegaT.chapters.summary">
+    <title>Bölümlerin özeti</title>
+
+    <para>Bu dokümantasyon hem bir öğretici hem de bir başvuru kılavuzu olarak hazırlanmıştır. Bölümlerin kısa bir özeti aşağıda verilmiştir:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Learn to use OmegaT in 5
+        minutes!:</emphasis> this chapter is intended as a quick tutorial for
+        beginners as well as people who already know CAT tools, showing the
+        complete procedure from opening a new translation project through to
+        completing the translation.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">OmegaT'nin kurulması ve çalıştırılması:</emphasis> Bu bölüm daha çok OmegaT'yi kurup çalıştırma konusunda işinize yarar. OmegaT'nin Windows, Mac OS X ve Linux sistemlerine nasıl kurulup ve bu sistemlerde nasıl çalıştırılacağına yönelik talimatları içerir. Deneyimli kullanıcılar için bu bölümde komut satırı modu ve bu modu kullanılarak yapılabilecekler anlatılmaktadır.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Kullanıcı arayüzü</emphasis>, <emphasis role="bold">Ana Menü ve Klavye Kısayolları</emphasis>: Bu iki bölüme sık sık başvurmanız gerekecektir, çünkü bu bölümlerde OmegaT'nin kullanıcı arayüzü ve ana menüden ulaşılabilecek işlevler ve klavye kısayolları açıklanmaktadır.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Project properties</emphasis>, <emphasis role="bold"><application>OmegaT</application> Files and Folders:</emphasis> a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle. Bu bölümde kaynak ve hedef diller gibi proje özellikleri açıklanmaktadır. Bu bölümlerin ikincisinde bir çeviri projesindeki alt dizinlerin ve dosyalar, bunların işlevleri ve OmegaT ile ilişkili diğer kullanıcı ve uygulama dosyaları anlatılmaktadır.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Alan davranışını düzenleme:</emphasis> Tercüme edilmekte olan dilime ilişkin düzenleme davranışlarının nasıl ayarlanacağını gösteren kısa bir bölümdür.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Düz metinlerle çalışma</emphasis> ve <emphasis role="bold">Biçimlendirilmiş metinlerle çalışma</emphasis>: Bu iki bölüm tercüme edilecek metinlere ilişkin olarak geçerli kodlama (düz metinlerde) ve etiketlerle çalışma (biçimlendirilmiş metinlerde) gibi önemli bazı hususları ele almaktadır.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">Translation memories: </emphasis> explains
+        the role of the various subfolders containing translation memories,
+        and provides information on other important aspects relating to
+        translation memories.</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Dilimleme </emphasis>: Çeviri belleği araçları, metin birimlerini dilimlere ayırarak çalışır. OmegaT'de dilimler paragraflar halinde belirlenebileceği gibi dilimleme kurallarına göre de belirlenebilir. Paragraf temelli dilimleme pek yaygın kullanılmamakla beraber yaratıcılığın öne çıktığı bazı metinlerde yararlı olabilir. Kurallara göre yapılan dilimleme, cümle temelli dilimleme ile aynı anlama gelecek şekilde kullanılmaktadır. Programda var alon dilimleme kurallarına ek olarak kullanıcı bu bölümde anlatıldığı üzere ek kurallar belirleyebilir.</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Aramalar </emphasis> ve<emphasis role="bold"> </emphasis><emphasis role="bold">Kurallı ifadeler </emphasis>: OmegaT'de arama yapmak &quot;<emphasis> </emphasis><emphasis> 'kanguru' kelimesini içeren dilimleri listele&quot; gibi basit bir şekilde olabilir. </emphasis> İki ya da daha fazla boşluk içeren dilimler aramak gibi daha karmaşık aramalar da yapılabilir. Bu durumda ^s^s+ kurallı ifadesinin kullanılması gerekecektir. Kurallı ifadeler dilimleme kurallarında da yaygın şekilde kullanılır.</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Sözlükler, Sözlükçeler</emphasis>, <emphasis role="bold">Makine çevirisi</emphasis> , <emphasis role="bold">Yazım kontrolü, Gramer kontrolü (LanguageTool):</emphasis> OmegaT'de sözlük ve sözlükçeleri rahatlıkla kullanabilirsiniz. İnternet bağlantısı olması durumunda Google Translate ve Microsoft Translator gibi bazı makine çevirisi hizmetlerinden de yararlanabilirsiniz. Yazım kontrolü seçeneği seçili ise çeviri sırasında OmegaT size düzeltebilmeniz için yazım yanlışlarını gösterecektir. The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Çeşitli konular </emphasis>: Bu bölümde veri kaybının nasıl önlenebileceği gibi ilgi duyulabilecek diğer konular yer almaktadır.</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Ekler </emphasis> aşağıdaki bilgileri içerir:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">İnternet'te OmegaT:</emphasis> OmegaT ile ilgili olarak çevrim içi ulaşılabilecek kaynaklar hakkında bilgiler</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Diller:</emphasis> Dil ve dil kodlarına ilişkin ISO listesi verilmiştir</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Editörde kullanılabilecek klavye kısayolları</emphasis>: Editörde kullanılan kısayolların listesi</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Kısayolların özelleştirilmesi:</emphasis> Kısayollar kişisel tercihlere göre özelleştirilebilir.</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Introduction to tokenizers and
+            scripts</emphasis></para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">Ekip Projeleri</emphasis></para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Yasal uyarılar ve Teşekkürler</emphasis></para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">Anahtar sözcük dizini:</emphasis> Okuyucuların ilgili bilgilere ulaşmasına yardımcı olarak geniş bir anahtar sözcük dizini verilmiştir.</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</chapter>

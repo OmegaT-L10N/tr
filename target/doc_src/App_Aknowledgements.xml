@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<appendix id="appendix.acknowledgements">
+  <title>Teşekkürler</title>
+
+  <section>
+    <title>Hepinize teşekkürler!</title>
+
+    <para>Bu sürümde bulabileceğiniz her türlü tutarsızlık, eksiklik ve hatanın bana ait olduğunu burada belirtmek isterim. Öte yandan diğer birçok kişinin yardım ve desteği olmaksızın bu kılavuzu hazırlamak mümkün olmazdı. Özellikle aşağıdaki kişilere bu konuda teşekkür etmek isterim:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Marc Prior: correcting my first draft was an act of love for
+        OmegaT and the English language.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Sabır ve sebatla DocBook konusundaki sıkıntıları aşmama yardımcı olan Didier Briel.  Bu arada kendisinin depoları yerli yerince ve sorunsuz işletme konusundaki özen ve gayretlerinden de bahsetmeden geçemeyeceğim.</para>
+      </listitem>
+
+      <listitem>
+        <para>&quot;5 dakikada OmegaT'yi kullanmayı öğrenin&quot; başlıklı bölümü yazan Samuel Murray.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Son bir kez taslağı gözden geçirip beni bir sürü utançtan kurtaran Will Helton. Onun paha biçilmez yardımları olmasa metinde sayısız edat (ilgeç) eksik kalacaktır.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>OmegaT'nin nasıl çalıştığı, komut satırı parametrelerinin neler olduğu ve daha farkına varmadığım bir sürü ayrıntıları net bir şekilde açıklayan ve özel teşekkür hak eden Jean-Christophe Helary.</para>
+      </listitem>
+
+      <listitem>
+        <para>Ayrıca yardım ve destek belgelerinin öncesi sürümlerindeki tutarsızlık ve hataları <ulink url="https://sourceforge.net/p/omegat/documentation/">OmegaT dokümantasyon  takipçisini</ulink> kullanarak rapor eden herkese de teşekkürü borç bilirim. Çalışmalarının devamını bekliyorum!</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</appendix>
