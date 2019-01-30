@@ -4543,6 +4543,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092100Z" creationid="Erhan Yükselci" creationdate="20190130T092100Z">
+        <seg>Soldan Sağa Gömme (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T091925Z" creationid="Erhan Yükselci" creationdate="20190130T091925Z">
+        <seg>Soldan Sağa İşareti (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094841Z">
@@ -6452,6 +6468,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111045Z">
         <seg>Sonuç:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T091935Z" creationid="Erhan Yükselci" creationdate="20190130T091935Z">
+        <seg>Sağdan Sola İşareti (RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
