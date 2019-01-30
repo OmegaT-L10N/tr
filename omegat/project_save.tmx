@@ -1988,6 +1988,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T175012Z" creationid="Erhan Yükselci" creationdate="20190130T175012Z">
+        <seg>&amp;Tüm Verileri Panoya Kopyala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105129Z" creationid="Erhan Yükselci" creationdate="20190130T090252Z">
@@ -8813,8 +8821,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Unique Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112303Z">
-        <seg>Tekrarsız Karakter (boşluksuz)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T174841Z">
+        <seg>Tekrarsız Karakter (boşluklu)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8829,8 +8837,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112307Z">
-        <seg>Geriye Kalan Tekrarsız Karakter (boşluksuz)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T174850Z">
+        <seg>Tekrarsız Geriye Kalan Karakter (boşluklu)</seg>
       </tuv>
     </tu>
     <tu>
