@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081619Z" creationid="Erhan Yükselci" creationdate="20190130T081619Z">
+        <seg>Atla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123528Z">
@@ -5892,6 +5900,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081353Z">
         <seg>Fi&amp;ltreyi Kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081455Z" creationid="Erhan Yükselci" creationdate="20190130T081455Z">
+        <seg>Tü&amp;münü Değiştir</seg>
       </tuv>
     </tu>
     <tu>
