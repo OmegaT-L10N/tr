@@ -2006,8 +2006,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çeviri belgeler için dizin oluşturulamıyor:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T160346Z">
+        <seg>Çevrilmiş belgeler için klasör oluşturulamıyor:</seg>
       </tuv>
     </tu>
     <tu>
