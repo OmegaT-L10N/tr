@@ -5778,6 +5778,22 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153849Z" creationid="Erhan Yükselci" creationdate="20190130T153849Z">
+        <seg>Hedef Dosyayı Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153921Z" creationid="Erhan Yükselci" creationdate="20190130T153921Z">
+        <seg>Hedef Dosya Konumunu Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="TR">
@@ -5806,6 +5822,22 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153843Z" creationid="Erhan Yükselci" creationdate="20190130T153843Z">
         <seg>{0} Kaynak Dosya Konumlarını Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153917Z" creationid="Erhan Yükselci" creationdate="20190130T153917Z">
+        <seg>{0} Hedef Dosyaları Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153932Z" creationid="Erhan Yükselci" creationdate="20190130T153932Z">
+        <seg>{0} Hedef Dosya Konumlarını Aç</seg>
       </tuv>
     </tu>
     <tu>
