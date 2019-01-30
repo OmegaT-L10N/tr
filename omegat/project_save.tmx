@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122958Z" creationid="Erhan Yükselci" creationdate="20190130T122958Z">
+        <seg>Tercihler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
       <tuv lang="TR">
@@ -1449,6 +1457,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR">
         <seg>Hakkında...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122955Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
+        <seg>Yapılandırma Klasörüne Eriş</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,6 +3976,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>İpuçları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122908Z" creationid="Erhan Yükselci" creationdate="20190130T122908Z">
+        <seg>Geçmiş</seg>
       </tuv>
     </tu>
     <tu>
