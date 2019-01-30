@@ -1517,6 +1517,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181153Z" creationid="Erhan Yükselci" creationdate="20190130T181153Z">
+        <seg>Ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="TR">
@@ -6849,6 +6857,22 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181202Z" creationid="Erhan Yükselci" creationdate="20190130T181202Z">
+        <seg>Uzak Depolar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181154Z" creationid="Erhan Yükselci" creationdate="20190130T181154Z">
+        <seg>Kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130837Z">
@@ -6981,6 +7005,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaynağı Üzerine Yaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181151Z" creationid="Erhan Yükselci" creationdate="20190130T181151Z">
+        <seg>Depo Eşlemi</seg>
       </tuv>
     </tu>
     <tu>
@@ -8784,6 +8816,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Türkçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181203Z" creationid="Erhan Yükselci" creationdate="20190130T181203Z">
+        <seg>Tür</seg>
       </tuv>
     </tu>
     <tu>
