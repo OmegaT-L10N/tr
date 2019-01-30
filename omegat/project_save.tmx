@@ -782,6 +782,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121342Z" creationid="Erhan Yükselci" creationdate="20190130T121342Z">
+        <seg>İlgili Önerileri Otomatik Olarak Göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121416Z" creationid="Erhan Yükselci" creationdate="20190130T121416Z">
+        <seg>İlgili önerileri otomatik olarak göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081619Z" creationid="Erhan Yükselci" creationdate="20190130T081619Z">
@@ -1377,6 +1393,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124820Z">
         <seg>To&amp;plu Etiketler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121347Z" creationid="Erhan Yükselci" creationdate="20190130T121347Z">
+        <seg>Otomatik Tamamlama</seg>
       </tuv>
     </tu>
     <tu>
@@ -7388,6 +7412,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T131109Z">
         <seg>İsveççe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121446Z" creationid="Erhan Yükselci" creationdate="20190130T121446Z">
+        <seg>{0} ile {1} görünümleri arasında geçiş yap</seg>
       </tuv>
     </tu>
     <tu>
