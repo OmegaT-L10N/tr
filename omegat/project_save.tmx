@@ -2878,8 +2878,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>E&amp;xclusions...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180627Z" creationid="Erhan Yükselci" creationdate="20190130T180627Z">
-        <seg>İstinalar...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181522Z" creationid="Erhan Yükselci" creationdate="20190130T180627Z">
+        <seg>İstisnalar...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8824,6 +8824,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181203Z" creationid="Erhan Yükselci" creationdate="20190130T181203Z">
         <seg>Tür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181452Z" creationid="Erhan Yükselci" creationdate="20190130T181452Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
