@@ -1643,8 +1643,8 @@ TMX dosyası yüklenmeyecek.</seg>
       <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T111331Z">
-        <seg>Dizeler analiz ediliyor - {0} / {1} tamamlandı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154409Z">
+        <seg>Dizgiler analiz ediliyor - {0} / {1} tamamlandı</seg>
       </tuv>
     </tu>
     <tu>
@@ -5137,8 +5137,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Başımız sağolsun&lt;p&gt;404 aramızdan ayrıldı&lt;p&gt;Ebediyete gitti</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154019Z">
+        <seg>Başımız sağ olsun&lt;p&gt;404 aramızdan ayrıldı&lt;p&gt;Ebediyete gitti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,8 +5513,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Tekrarlanmayan dilim sayısı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153943Z">
+        <seg>Tekrarsız dilim sayısı</seg>
       </tuv>
     </tu>
     <tu>
