@@ -1,5 +1,4 @@
 interface	arayüz
-string	dizge
 string	ifade
 Computer Aided Translation	Bilgisayar Destekli Çeviri
 Computer Aided Translation	BDÇ
@@ -124,3 +123,4 @@ history prediction	geçmişe dayalı tahmin
 unique	tekrarsız
 font	yazı tipi
 filter	filtre
+string	dizgi
