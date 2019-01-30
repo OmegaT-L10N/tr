@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122851Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
-        <seg>Geçmişe dayalı tamamlamayı etkinleştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T135854Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
+        <seg>&amp;Geçmişe dayalı tamamlamayı etkinleştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -2870,8 +2870,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122907Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
-        <seg>Geçmişe dayalı tahmini etkinleştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T135957Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
+        <seg>Geçmişe &amp;dayalı tahmini etkinleştir</seg>
       </tuv>
     </tu>
     <tu>
