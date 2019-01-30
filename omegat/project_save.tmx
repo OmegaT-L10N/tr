@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081833Z" creationid="Erhan Yükselci" creationdate="20190130T081833Z">
+        <seg>Bitir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120205Z">
@@ -590,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081908Z" creationid="Erhan Yükselci" creationdate="20190130T081908Z">
+        <seg>Filtreyi Kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081419Z" creationid="Erhan Yükselci" creationdate="20190130T075626Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="TR">
         <seg>Kayde&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081918Z" creationid="Erhan Yükselci" creationdate="20190130T081918Z">
+        <seg>Farklı Kaydet...</seg>
       </tuv>
     </tu>
     <tu>
