@@ -5402,6 +5402,18 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T080313Z" creationid="Erhan Yükselci" creationdate="20190130T080313Z">
+        <seg>Kaynak dosyalarını ./source dizinine ve yardımcı
+materyalleri ./tm, ./glossary ve ./dictionary dizinlerine yerleştirin,
+sonra her şeyi depoya gönderin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Plain text</seg>
       </tuv>
       <tuv lang="TR">
