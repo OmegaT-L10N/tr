@@ -841,6 +841,28 @@ java.exe adlı dosyadır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075219Z" creationid="Erhan Yükselci" creationdate="20190130T075219Z">
+        <seg>--remote-project
+		&lt;proje yolu&gt; olarak verilen URL'den omegat.project dosyasını indir
+		ve projeyi yükle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075206Z" creationid="Erhan Yükselci" creationdate="20190130T075206Z">
+        <seg>-h, --help
+		Kullanım bilgilerini göster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="TR">
@@ -4016,6 +4038,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075149Z" creationid="Erhan Yükselci" creationdate="20190130T075149Z">
+        <seg>Ayrıntılar için `team -h` girin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Irish</seg>
       </tuv>
       <tuv lang="TR">
@@ -5200,6 +5230,22 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR">
         <seg>Seçenekler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075130Z" creationid="Erhan Yükselci" creationdate="20190130T075130Z">
+        <seg>Seçenekler:
+	Hiçbiri: Grafiksel kullanıcı arayüzü
+	Sadece proje yolu: Grafiksel kullanıcı arayüzünü başlat ve belirtilen
+	proje ekibini yükle
+		Ekip projesi aracı.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8087,6 +8133,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kullanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075124Z" creationid="Erhan Yükselci" creationdate="20190130T075124Z">
+        <seg>Kullanım: java -jar OmegaT.jar [&lt;seçenekler&gt;] [&lt;proje yolu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
