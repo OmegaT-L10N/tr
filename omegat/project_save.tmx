@@ -8565,6 +8565,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092853Z" creationid="Erhan Yükselci" creationdate="20190130T092853Z">
+        <seg>Kaynak metinde ayrı ayrı görünen terimleri kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115809Z">
