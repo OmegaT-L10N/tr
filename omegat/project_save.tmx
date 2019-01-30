@@ -632,8 +632,8 @@
       <tuv lang="EN">
         <seg>&amp;Quit</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T125900Z">
-        <seg>P&amp;rogramı Kapat</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105143Z">
+        <seg>Ç&amp;ık</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +904,8 @@
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090303Z" creationid="Erhan Yükselci" creationdate="20190130T090303Z">
-        <seg>Yazılabilir Sözlükçe</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105136Z" creationid="Erhan Yükselci" creationdate="20190130T090303Z">
+        <seg>Y&amp;azılabilir Sözlükçe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,8 +1894,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090252Z" creationid="Erhan Yükselci" creationdate="20190130T090252Z">
-        <seg>Güncel Hedef Belge</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105129Z" creationid="Erhan Yükselci" creationdate="20190130T090252Z">
+        <seg>G&amp;eçerli Hedef Belge</seg>
       </tuv>
     </tu>
     <tu>
