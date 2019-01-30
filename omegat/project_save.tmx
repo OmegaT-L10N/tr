@@ -5258,6 +5258,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085121Z" creationid="Erhan Yükselci" creationdate="20190130T085121Z">
+        <seg>Son Projeyi Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="TR">
