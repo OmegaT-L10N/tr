@@ -113,3 +113,7 @@ pattern	desen
 regex	düzenli ifade
 whitelist	beyaz liste
 pseudotranslate	sözde çevirmek
+embed	gömmek
+embedding	gömme
+embedded	gömülü
+embed	gömmek
