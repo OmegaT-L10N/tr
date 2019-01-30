@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121525Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
+        <seg>Tarihçe tamamlamayı etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="TR">
@@ -1704,6 +1712,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123658Z">
         <seg>&amp;Üstbilgideki 'nplurals=INTEGER; &amp;plural=EXPRESSION;' değişikliklerini otomatik olarak yap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121450Z" creationid="Erhan Yükselci" creationdate="20190130T121450Z">
+        <seg>Otomatik Tamamlama</seg>
       </tuv>
     </tu>
     <tu>
@@ -3936,6 +3952,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>İpuçları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121459Z" creationid="Erhan Yükselci" creationdate="20190130T121459Z">
+        <seg>Tarihçe Tamamlaması</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121508Z" creationid="Erhan Yükselci" creationdate="20190130T121508Z">
+        <seg>Tarihçe Tahmini</seg>
       </tuv>
     </tu>
     <tu>
