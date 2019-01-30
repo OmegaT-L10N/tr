@@ -3910,6 +3910,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085415Z" creationid="Erhan Yükselci" creationdate="20190130T085415Z">
+        <seg>Wiki Sayfası aktarılamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T093852Z">
