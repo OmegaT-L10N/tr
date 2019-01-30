@@ -8525,16 +8525,16 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated document created</seg>
       </tuv>
-      <tuv lang="TR" changeid="eyukselci" changedate="20190129T095812Z" creationid="eyukselci" creationdate="20190129T095812Z">
-        <seg>Çeviri belgesi oluşturuldu</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155357Z" creationid="eyukselci" creationdate="20190129T095812Z">
+        <seg>Çevrilmiş belge oluşturuldu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çeviri belgeleri oluşturuldu</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155344Z">
+        <seg>Çevrilmiş belgeler oluşturuldu</seg>
       </tuv>
     </tu>
     <tu>
