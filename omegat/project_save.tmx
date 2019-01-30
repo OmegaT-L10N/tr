@@ -344,8 +344,8 @@
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103715Z">
-        <seg>&amp;Tarihçede İleri Git</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122541Z">
+        <seg>&amp;Geçmişte İleri Git</seg>
       </tuv>
     </tu>
     <tu>
@@ -2848,6 +2848,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Ruhum bomboş&lt;p&gt;Bu karanlık beynimde zonkluyor&lt;p&gt;Yardım sayfanız bulunamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121537Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
+        <seg>Tarihçe tahminini etkinleştir</seg>
       </tuv>
     </tu>
     <tu>
