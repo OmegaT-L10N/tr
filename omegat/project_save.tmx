@@ -2286,8 +2286,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T125604Z">
-        <seg>Kaynak Di&amp;zinine Dosya Kopyala...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155040Z">
+        <seg>Kaynak Klasö&amp;rüne Dosya Kopyala...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2302,8 +2302,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T102704Z">
-        <seg>Kaynak Dizinine Dosya Kopyala...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155101Z">
+        <seg>Kaynak Klasörüne Dosya Kopyala...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9395,8 +9395,8 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="EN">
         <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T124211Z">
-        <seg>Ayrıca istediğiniz bir dosya yöneticisi ile dosyalarınızı projenizin 'kaynak' (/source/) dizinine kopyalayabilir ve "Proje" menüsünden "Yeniden Yükle" komutuyla projenizi kapatıp açarak değişikliklerin görünmesini sağlayabilirsiniz.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155007Z">
+        <seg>Ayrıca istediğiniz bir dosya yöneticisi ile dosyalarınızı projenizin 'kaynak' (/source/) klasörüne kopyalayabilir ve "Proje" menüsünden "Yeniden Yükle" komutuyla projenizi kapatıp açarak değişikliklerin görünmesini sağlayabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
