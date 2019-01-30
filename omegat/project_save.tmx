@@ -6472,6 +6472,14 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092225Z" creationid="Erhan Yükselci" creationdate="20190130T092225Z">
+        <seg>Sağdan Sola Gömme (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T091935Z" creationid="Erhan Yükselci" creationdate="20190130T091935Z">
