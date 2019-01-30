@@ -1956,6 +1956,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092505Z" creationid="Erhan Yükselci" creationdate="20190130T092505Z">
+        <seg>Sorunları Kontrol Et...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103029Z">
@@ -4983,6 +4991,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092430Z" creationid="Erhan Yükselci" creationdate="20190130T092430Z">
+        <seg>Sonraki Tekrarsız Dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="TR">
@@ -7148,6 +7164,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaynak dil: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092400Z" creationid="Erhan Yükselci" creationdate="20190130T092400Z">
+        <seg>Seçilen Eşleşme Kaynağı</seg>
       </tuv>
     </tu>
     <tu>
