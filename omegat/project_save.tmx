@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>&amp;Dizine Gözat</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180611Z">
+        <seg>&amp;Gözat</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,8 +1926,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Dizin&amp;e Gözat</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180643Z">
+        <seg>Gö&amp;zat</seg>
       </tuv>
     </tu>
     <tu>
@@ -2856,6 +2856,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112448Z">
         <seg>&amp;Cümle Temelli Dilimlemeyi Etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180627Z" creationid="Erhan Yükselci" creationdate="20190130T180627Z">
+        <seg>İstinalar...</seg>
       </tuv>
     </tu>
     <tu>
