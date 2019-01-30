@@ -2238,8 +2238,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Create Current Translated &amp;Document</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085631Z" creationid="Erhan Yükselci" creationdate="20190130T085627Z">
-        <seg>Güncel Çeviri Belgesini Oluştur</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104000Z" creationid="Erhan Yükselci" creationdate="20190130T085627Z">
+        <seg>&amp;Geçerli Çeviri Belgesini Oluştur</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,8 +5484,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085709Z" creationid="Erhan Yükselci" creationdate="20190130T085709Z">
-        <seg>MD Projesi Aç...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104012Z" creationid="Erhan Yükselci" creationdate="20190130T085709Z">
+        <seg>ME&amp;D Projesi Aç...</seg>
       </tuv>
     </tu>
     <tu>
