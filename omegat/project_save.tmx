@@ -4825,8 +4825,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115254Z" creationid="Erhan Yükselci" creationdate="20190130T092617Z">
-        <seg>&amp;Dosya Temelli Eşleme İstatistikleri</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115613Z" creationid="Erhan Yükselci" creationdate="20190130T092617Z">
+        <seg>&amp;Dosya Başına Eşleme İstatistikleri</seg>
       </tuv>
     </tu>
     <tu>
