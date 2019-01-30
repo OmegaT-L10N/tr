@@ -592,8 +592,8 @@
       <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075626Z" creationid="Erhan Yükselci" creationdate="20190130T075626Z">
-        <seg>Değiştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081419Z" creationid="Erhan Yükselci" creationdate="20190130T075626Z">
+        <seg>D&amp;eğiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -5890,8 +5890,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120112Z">
-        <seg>Filtreyi &amp;Kaldır</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081353Z">
+        <seg>Fi&amp;ltreyi Kaldır</seg>
       </tuv>
     </tu>
     <tu>
