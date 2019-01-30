@@ -392,8 +392,8 @@
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T095801Z" creationid="Erhan Yükselci" creationdate="20190130T095801Z">
-        <seg>Aşırı büyük/küçük harf farkı olan eşleşmeleri (FOO - foo gibi) göz ardı et</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133514Z" creationid="Erhan Yükselci" creationdate="20190130T095801Z">
+        <seg>Aşı&amp;rı büyük/küçük harf farkı olan eşleşmeleri (FOO - foo gibi) göz ardı et</seg>
       </tuv>
     </tu>
     <tu>
@@ -6570,8 +6570,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T094655Z" creationid="Erhan Yükselci" creationdate="20190130T094655Z">
-        <seg>Kaynak metni araya eklerken sözlükçe eşleşmeleriyle değiştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133442Z" creationid="Erhan Yükselci" creationdate="20190130T094655Z">
+        <seg>K&amp;aynak metni araya eklerken sözlükçe eşleşmeleriyle değiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -8703,8 +8703,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T093033Z" creationid="Erhan Yükselci" creationdate="20190130T093033Z">
-        <seg>Sözlükçe girdileri için köklerine ayırmayı kullan</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133438Z" creationid="Erhan Yükselci" creationdate="20190130T093033Z">
+        <seg>&amp;Sözlükçe girdileri için köklerine ayırmayı kullan</seg>
       </tuv>
     </tu>
     <tu>
@@ -8727,8 +8727,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092853Z" creationid="Erhan Yükselci" creationdate="20190130T092853Z">
-        <seg>Kaynak metinde ayrı ayrı görünen terimleri kullan</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133435Z" creationid="Erhan Yükselci" creationdate="20190130T092853Z">
+        <seg>&amp;Kaynak metinde ayrı ayrı görünen terimleri kullan</seg>
       </tuv>
     </tu>
     <tu>
