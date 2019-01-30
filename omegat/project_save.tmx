@@ -920,8 +920,8 @@
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T114547Z">
-        <seg>&amp;Çeviri Dosya Dili:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180314Z">
+        <seg>&amp;Çevrilmiş Dosya Dili:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,8 +2598,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Sözlük Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180340Z">
+        <seg>Sözlük Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8653,8 +8653,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Folder:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çeviri Belleği Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180258Z">
+        <seg>Çeviri Belleği Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
