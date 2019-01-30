@@ -8549,6 +8549,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T093033Z" creationid="Erhan Yükselci" creationdate="20190130T093033Z">
+        <seg>Sözlükçe girdileri için köklerine ayırmayı kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="TR">
