@@ -8671,8 +8671,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T123223Z" creationid="Erhan Yükselci" creationdate="20190130T095812Z">
-        <seg>Sözlük Girdileri İçin Bulanık Eşleşme Kullan</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133647Z" creationid="Erhan Yükselci" creationdate="20190130T095812Z">
+        <seg>Sözlük &amp;Girdileri İçin Bulanık Eşleşme Kullan</seg>
       </tuv>
     </tu>
     <tu>
