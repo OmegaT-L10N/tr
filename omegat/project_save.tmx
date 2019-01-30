@@ -8812,6 +8812,22 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181119Z" creationid="Erhan Yükselci" creationdate="20190130T181119Z">
+        <seg>Proje dönüştürülemiyor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181147Z" creationid="Erhan Yükselci" creationdate="20190130T181126Z">
+        <seg>Ekip projesi indirilemiyor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="TR">
@@ -9592,6 +9608,14 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Şu an projenizde desteklenen dosya formatında herhangi bir dosya bulunmamaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181102Z" creationid="Erhan Yükselci" creationdate="20190130T181102Z">
+        <seg>ZIP dosyaları</seg>
       </tuv>
     </tu>
     <tu>
