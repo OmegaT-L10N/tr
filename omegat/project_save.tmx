@@ -160,8 +160,8 @@
       <tuv lang="EN">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120340Z" creationid="Erhan Yükselci" creationdate="20190130T120340Z">
-        <seg>Güncellemeleri Denetle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120632Z" creationid="Erhan Yükselci" creationdate="20190130T120340Z">
+        <seg>Gü&amp;ncellemeleri Denetle</seg>
       </tuv>
     </tu>
     <tu>
@@ -4505,8 +4505,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120523Z" creationid="Erhan Yükselci" creationdate="20190130T120523Z">
-        <seg>Günlük...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120626Z" creationid="Erhan Yükselci" creationdate="20190130T120523Z">
+        <seg>&amp;Günlük...</seg>
       </tuv>
     </tu>
     <tu>
