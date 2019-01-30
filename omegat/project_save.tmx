@@ -1972,6 +1972,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085546Z" creationid="Erhan Yükselci" creationdate="20190130T085546Z">
+        <seg>Hedef Dosyaları Depoya Gönderin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113932Z">
@@ -2096,6 +2104,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110820Z">
         <seg>Alternatif Çeviri Oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085627Z" creationid="Erhan Yükselci" creationdate="20190130T085627Z">
+        <seg>Güncel Çeviri Belgesini Oluşturun</seg>
       </tuv>
     </tu>
     <tu>
