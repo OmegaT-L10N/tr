@@ -8695,8 +8695,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121323Z" creationid="Erhan Yükselci" creationdate="20190130T121323Z">
-        <seg>Sözlük girdileri için bulanık eşleşme kullan</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133651Z" creationid="Erhan Yükselci" creationdate="20190130T121323Z">
+        <seg>Sözlük &amp;girdileri için bulanık eşleşme kullan</seg>
       </tuv>
     </tu>
     <tu>
