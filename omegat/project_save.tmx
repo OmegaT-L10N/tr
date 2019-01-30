@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092711Z" creationid="Erhan Yükselci" creationdate="20190130T092711Z">
-        <seg>Dosyaları Hizala...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115315Z" creationid="Erhan Yükselci" creationdate="20190130T092711Z">
+        <seg>D&amp;osyaları Hizala...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1998,8 +1998,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092528Z" creationid="Erhan Yükselci" creationdate="20190130T092528Z">
-        <seg>Geçerli Belge için Sorunları Kontrol Et</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115207Z" creationid="Erhan Yükselci" creationdate="20190130T092528Z">
+        <seg>&amp;Geçerli Belge için Sorunları Kontrol Et</seg>
       </tuv>
     </tu>
     <tu>
@@ -4825,8 +4825,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092617Z" creationid="Erhan Yükselci" creationdate="20190130T092617Z">
-        <seg>Dosya Temelli Eşleme İstatistikleri</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115254Z" creationid="Erhan Yükselci" creationdate="20190130T092617Z">
+        <seg>&amp;Dosya Temelli Eşleme İstatistikleri</seg>
       </tuv>
     </tu>
     <tu>
