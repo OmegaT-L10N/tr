@@ -2180,6 +2180,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141755Z" creationid="Erhan Yükselci" creationdate="20190130T141755Z">
+        <seg>Hedef dosyalar depoya gönderiliyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="TR">
@@ -2744,6 +2752,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115050Z">
         <seg>Yinelenen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141912Z" creationid="Erhan Yükselci" creationdate="20190130T141912Z">
+        <seg>Yinelenen dilimler: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3416,6 +3432,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T105714Z">
         <seg>Proje için çeviri belleği {0} yüklenemedi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141813Z" creationid="Erhan Yükselci" creationdate="20190130T141813Z">
+        <seg>Proje özellikleri güncellenemedi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,6 +7636,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Hedef dosya adı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141758Z" creationid="Erhan Yükselci" creationdate="20190130T141758Z">
+        <seg>Hedef dosyalar depoya gönderildi</seg>
       </tuv>
     </tu>
     <tu>
