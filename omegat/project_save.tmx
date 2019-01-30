@@ -5127,6 +5127,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T144122Z" creationid="Erhan Yükselci" creationdate="20190130T144122Z">
+        <seg>Öne Taşı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
       <tuv lang="TR">
