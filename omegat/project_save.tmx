@@ -600,8 +600,8 @@
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122958Z" creationid="Erhan Yükselci" creationdate="20190130T122958Z">
-        <seg>Tercihler...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133207Z" creationid="Erhan Yükselci" creationdate="20190130T122958Z">
+        <seg>&amp;Tercihler...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,8 +2462,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T095806Z" creationid="Erhan Yükselci" creationdate="20190130T095806Z">
-        <seg>Sözlük</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133149Z" creationid="Erhan Yükselci" creationdate="20190130T095806Z">
+        <seg>Sö&amp;zlük</seg>
       </tuv>
     </tu>
     <tu>
