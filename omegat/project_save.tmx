@@ -272,8 +272,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121525Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
-        <seg>Tarihçe tamamlamayı etkinleştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122851Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
+        <seg>Geçmişe dayalı tamamlamayı etkinleştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -2854,8 +2854,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121537Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
-        <seg>Tarihçe tahminini etkinleştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122907Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
+        <seg>Geçmişe dayalı tahmini etkinleştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,16 +3966,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>History Completion</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121459Z" creationid="Erhan Yükselci" creationdate="20190130T121459Z">
-        <seg>Tarihçe Tamamlaması</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122835Z" creationid="Erhan Yükselci" creationdate="20190130T121459Z">
+        <seg>Geçmişe Dayalı Tamamlama</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121508Z" creationid="Erhan Yükselci" creationdate="20190130T121508Z">
-        <seg>Tarihçe Tahmini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122839Z" creationid="Erhan Yükselci" creationdate="20190130T121508Z">
+        <seg>Geçmişe Dayalı Tahmin</seg>
       </tuv>
     </tu>
     <tu>
