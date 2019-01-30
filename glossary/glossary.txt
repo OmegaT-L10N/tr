@@ -1,0 +1,115 @@
+interface	arayüz
+string	dizge
+string	ifade
+Computer Aided Translation	Bilgisayar Destekli Çeviri
+Computer Aided Translation	BDÇ
+CAT	Bilgisayar Destekli Çeviri
+CAT	BDÇ
+translation memory	çeviri belleği
+repetition	tekrar
+terminology	terminoloji
+terminology management	terminoloji yönetimi
+phrase	ibare
+word	sözcük
+domain	alan
+glossary	sözlükçe
+dictionary	sözlük
+bilingual	iki dilli
+subfolder	alt klasör
+file filtering	dosya filtreleme
+segment	dilim
+tutorial	öğretici
+reference guide	başvuru kılavuzu
+command line	komut satırı
+command line mode	komut satırı modu
+user interface	kullanıcı arayüzü
+Main Menu	Ana Menü
+Keyboard Shortcut	Klavye Kısayolu
+function	işlev
+folder	klasör
+file	dosya
+source	kaynak
+target	hedef
+source language	kaynak dil
+target language	hedef dil
+project properties	proje özellikleri
+plain text	düz metin
+formatted	biçimlendirilmiş
+formatted text	biçimlendirilmiş metin
+encoding	kodlama
+tag	etiket
+tag handling	etiketlerle çalışma
+segmentation	dilimleme
+paragraph segmentation	paragraf temelli dilimleme
+creative	yaratıcılığın öne çıktığı
+sentence-based segmentation	cümle temelli dilimleme
+rule-based segmentation	kurallara göre yapılan dilimleme
+search	arama
+regular expression	düzenli ifade
+segmentation rule	dilimleme kuralı
+machine translation	makine çevirisi
+spellchecker	yazım denetleyici
+MT	makine çevirisi
+Google Translate	Google Çeviri
+spell checking	yazım denetimi
+spelling	yazım
+open source	açık kaynak
+editor	düzenleyici
+customization	özelleştirilme
+customization	özelleştirme
+tokenizer	belirteç ayırıcı
+script	betik dosyası
+team project	ekip projesi
+keyword	anahtar sözcük
+keyword index	anahtar sözcük dizini
+command line parameter	komut satırı parametresi
+documentation tracker	dokümantasyon takipçisi
+pane	bölme
+editor pane	düzenleyici bölmesi
+cursor	imleç
+key behavior	tuş davranışı
+key combination	tuş bileşimi
+contextual suggestion	bağlamsal öneri
+Auto-completer	Otomatik Tamamlayıcı
+dialog box	iletişim kutusu
+glossary entries	sözlükçe girdileri
+auto-text entries	otomatik metin girdileri
+missing tag	eksik etiket
+character table	karakter tablosu
+key	tuş
+Select All	Tümünü Seç
+Paste	Yapıştır
+Cut	Kes
+Copy	Kopyala
+Insert	Araya Ekle
+Insert Match	Eşleşmeyi Araya Ekle
+Insert Source	Kaynağı Araya Ekle
+Editor	Düzenleyici
+Fuzzy Matches	Bulanık Eşleşmeler
+shortcut	kısayol
+spell checker	yazım denetleyicisi
+configuration	yapılandırma
+Options	Seçenekler
+Language Checker	Dil Denetleyici
+User Manual	Kullanım Kılavuzu
+documentation	belgelendirme
+script	betik
+panel	panel
+button	düğme
+index	dizin
+installation	kurulum
+desktop	masaüstü
+escaped squence	kaçış dizisi
+escaped sequence	kaçış dizisi
+custom tag	özel etiket
+mnemonics	anımsatıcılar
+repository	depo
+team	ekip
+directory	klasör
+ommand line stdout	komut satırı standart çıktısı
+stdout	standart çıktı
+mode	kip
+pattern	desen
+regex	düzenli ifade
+whitelist	beyaz liste
+pseudotranslate	sözde çevirmek
