@@ -96,8 +96,8 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T134032Z">
-        <seg>Çıkmadan Önce S&amp;or</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T132030Z">
+        <seg>&amp;Çıkmadan Önce Sor</seg>
       </tuv>
     </tu>
     <tu>
@@ -1463,8 +1463,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122955Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
-        <seg>Yapılandırma Klasörüne Eriş</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T132033Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
+        <seg>&amp;Yapılandırma Klasörüne Eriş</seg>
       </tuv>
     </tu>
     <tu>
