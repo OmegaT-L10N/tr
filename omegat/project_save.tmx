@@ -5500,8 +5500,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085121Z" creationid="Erhan Yükselci" creationdate="20190130T085121Z">
-        <seg>Son Projeyi Aç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T103747Z" creationid="Erhan Yükselci" creationdate="20190130T085121Z">
+        <seg>&amp;Son Projeyi Aç</seg>
       </tuv>
     </tu>
     <tu>
