@@ -122,3 +122,4 @@ history	geçmiş
 history completion	geçmişe dayalı tamamlama
 history prediction	geçmişe dayalı tahmin
 unique	tekrarsız
+font	yazı tipi
