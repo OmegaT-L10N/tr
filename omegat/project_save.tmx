@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092719Z" creationid="Erhan Yükselci" creationdate="20190130T092719Z">
+        <seg>Düzenleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123824Z">
@@ -2496,6 +2504,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091604Z">
         <seg>&amp;Tüm kaynak dilimleri kalın olarak göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092819Z" creationid="Erhan Yükselci" creationdate="20190130T092819Z">
+        <seg>TBX sözlükçeleri için içerik tanımını göster</seg>
       </tuv>
     </tu>
     <tu>
