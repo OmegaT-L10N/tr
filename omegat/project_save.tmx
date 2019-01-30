@@ -5137,32 +5137,32 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T144128Z" creationid="Erhan Yükselci" creationdate="20190130T144128Z">
-        <seg>Aşağı Taşı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153627Z" creationid="Erhan Yükselci" creationdate="20190130T144128Z">
+        <seg>&amp;Aşağı Taşı</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T144122Z" creationid="Erhan Yükselci" creationdate="20190130T144122Z">
-        <seg>Öne Taşı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153616Z" creationid="Erhan Yükselci" creationdate="20190130T144122Z">
+        <seg>&amp;Öne Taşı</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T144136Z" creationid="Erhan Yükselci" creationdate="20190130T144136Z">
-        <seg>Sona Taşı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153646Z" creationid="Erhan Yükselci" creationdate="20190130T144136Z">
+        <seg>&amp;Sona Taşı</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T144125Z">
-        <seg>Yukarı Taşı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153619Z">
+        <seg>&amp;Yukarı Taşı</seg>
       </tuv>
     </tu>
     <tu>
