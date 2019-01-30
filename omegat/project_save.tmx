@@ -2116,6 +2116,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153659Z" creationid="Erhan Yükselci" creationdate="20190130T153659Z">
+        <seg>Ka&amp;pat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="TR">
@@ -5756,8 +5764,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153354Z" creationid="Erhan Yükselci" creationdate="20190130T153354Z">
-        <seg>Kaynak Dosyalarını Aç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153717Z" creationid="Erhan Yükselci" creationdate="20190130T153354Z">
+        <seg>Kaynak Dosyayı Aç</seg>
       </tuv>
     </tu>
     <tu>
@@ -5780,8 +5788,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153359Z" creationid="Erhan Yükselci" creationdate="20190130T153359Z">
-        <seg>Kaynak Dosyalarını Aç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153754Z" creationid="Erhan Yükselci" creationdate="20190130T153359Z">
+        <seg>{0} Kaynak Dosyaları Aç</seg>
       </tuv>
     </tu>
     <tu>
