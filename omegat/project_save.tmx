@@ -2214,8 +2214,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090529Z" creationid="Erhan Yükselci" creationdate="20190130T090529Z">
-        <seg>Sözlükçe Girdisi Oluştur...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T112028Z" creationid="Erhan Yükselci" creationdate="20190130T090529Z">
+        <seg>Sözlükçe &amp;Girdisi Oluştur...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,8 +2694,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T131208Z">
-        <seg>Seçimi &amp;Dışa Aktar</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T112005Z">
+        <seg>Seç&amp;imi Dışa Aktar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6962,8 +6962,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T110942Z">
-        <seg>&amp;Sonraki Eşleşmeyi Seç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T112041Z">
+        <seg>Son&amp;raki Eşleşmeyi Seç</seg>
       </tuv>
     </tu>
     <tu>
