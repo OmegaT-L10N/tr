@@ -4615,6 +4615,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142949Z" creationid="Erhan Yükselci" creationdate="20190130T142949Z">
+        <seg>Son düzenlenen dilime gidiliyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094241Z">
@@ -9525,8 +9533,8 @@ dizini oluşturmasına izin vermedi.</seg>
       <tuv lang="EN">
         <seg>segment 0000</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T110032Z">
-        <seg>Dilim 0000</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143147Z">
+        <seg>dilim 0000</seg>
       </tuv>
     </tu>
     <tu>
