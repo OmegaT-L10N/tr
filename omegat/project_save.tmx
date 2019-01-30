@@ -2086,16 +2086,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085637Z" creationid="Erhan Yükselci" creationdate="20190130T085539Z">
-        <seg>Kaynak Dosyaları Depoya Gönder</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T103856Z" creationid="Erhan Yükselci" creationdate="20190130T085539Z">
+        <seg>Kaynak D&amp;osyaları Depoya Gönder</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085635Z" creationid="Erhan Yükselci" creationdate="20190130T085546Z">
-        <seg>Hedef Dosyaları Depoya Gönder</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T103940Z" creationid="Erhan Yükselci" creationdate="20190130T085546Z">
+        <seg>&amp;Hedef Dosyaları Depoya Gönder</seg>
       </tuv>
     </tu>
     <tu>
