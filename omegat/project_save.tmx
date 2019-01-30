@@ -2254,8 +2254,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Create MED Project...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085716Z" creationid="Erhan Yükselci" creationdate="20190130T085716Z">
-        <seg>MD Projesi Oluştur...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104023Z" creationid="Erhan Yükselci" creationdate="20190130T085716Z">
+        <seg>MED Projes&amp;i Oluştur...</seg>
       </tuv>
     </tu>
     <tu>
