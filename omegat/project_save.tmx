@@ -5770,6 +5770,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153812Z" creationid="Erhan Yükselci" creationdate="20190130T153812Z">
+        <seg>Kaynak Dosya Konumunu Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="TR">
@@ -5790,6 +5798,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153754Z" creationid="Erhan Yükselci" creationdate="20190130T153359Z">
         <seg>{0} Kaynak Dosyaları Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153843Z" creationid="Erhan Yükselci" creationdate="20190130T153843Z">
+        <seg>{0} Kaynak Dosya Konumlarını Aç</seg>
       </tuv>
     </tu>
     <tu>
