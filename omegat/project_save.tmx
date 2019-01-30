@@ -8679,8 +8679,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>S&amp;ekmeyi Kullanarak İlerle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T132012Z">
+        <seg>&amp;Sekmeyi Kullanarak İlerle</seg>
       </tuv>
     </tu>
     <tu>
