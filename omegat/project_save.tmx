@@ -4120,8 +4120,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103024Z">
-        <seg>Etiketi Ekle {0}</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090442Z">
+        <seg>{0} Etiketini Ekle</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,6 +6064,14 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090401Z" creationid="Erhan Yükselci" creationdate="20190130T090401Z">
+        <seg>Eşleş&amp;meyi ya da Seçimi Üzerine Yaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T100432Z">
@@ -6306,8 +6314,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110942Z">
-        <seg>Çeviriyi Kaldır</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090418Z">
+        <seg>Çeviriyi kaldır</seg>
       </tuv>
     </tu>
     <tu>
@@ -6930,8 +6938,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110937Z">
-        <seg>Boş Çeviri Olarak Ayarla</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090412Z">
+        <seg>Boş çeviri olarak ayarla</seg>
       </tuv>
     </tu>
     <tu>
