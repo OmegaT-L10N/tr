@@ -6730,8 +6730,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112300Z">
-        <seg>Geriye Kalan karakter (boşluklu)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T174824Z">
+        <seg>Geriye Kalan Karakter (boşluklu)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8837,8 +8837,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112219Z">
-        <seg>Geriye Kalan Tekrarsız Karakter (boşluksuz)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T174812Z">
+        <seg>Tekrarsız Geriye Kalan Karakter (boşluksuz)</seg>
       </tuv>
     </tu>
     <tu>
