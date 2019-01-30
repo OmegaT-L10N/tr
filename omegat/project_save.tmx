@@ -8845,8 +8845,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112007Z">
-        <seg>Geriye Kalan Tekrarsız Dilim</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T174723Z">
+        <seg>Tekrarsız Geriye Kalan Dilim</seg>
       </tuv>
     </tu>
     <tu>
