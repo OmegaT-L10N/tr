@@ -2308,6 +2308,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155438Z" creationid="Erhan Yükselci" creationdate="20190130T155438Z">
+        <seg>{0} konumunda proje oluşturulamıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="TR">
@@ -4498,6 +4506,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Hızlı Başlangıç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155652Z" creationid="Erhan Yükselci" creationdate="20190130T155652Z">
+        <seg>{0} proje dizini için yetersiz izinler</seg>
       </tuv>
     </tu>
     <tu>
