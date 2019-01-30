@@ -4134,6 +4134,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T091905Z" creationid="Erhan Yükselci" creationdate="20190130T091905Z">
+        <seg>Unikod Kontrol Karakteri Ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert match</seg>
       </tuv>
       <tuv lang="TR">
