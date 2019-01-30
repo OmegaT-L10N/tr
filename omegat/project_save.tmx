@@ -2172,6 +2172,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141738Z" creationid="Erhan Yükselci" creationdate="20190130T141738Z">
+        <seg>Kaynak dosyalar depoya gönderiliyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="TR">
@@ -3368,6 +3376,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141656Z" creationid="Erhan Yükselci" creationdate="20190130T141656Z">
         <seg>Kaynak dosyalar depoya gönderilemedi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141706Z" creationid="Erhan Yükselci" creationdate="20190130T141706Z">
+        <seg>Hedef dosyalar depoya gönderilemedi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7316,6 +7332,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaynak dosya türü, dosya adı örüntüsü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141746Z" creationid="Erhan Yükselci" creationdate="20190130T141746Z">
+        <seg>Kaynak dosyalar depoya gönderildi</seg>
       </tuv>
     </tu>
     <tu>
