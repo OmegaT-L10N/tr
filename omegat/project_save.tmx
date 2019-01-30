@@ -985,9 +985,9 @@
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T102653Z">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154948Z">
         <seg>(Desteklenen dosyaların listesi için Kullanıcı kılavuzunda 'Çevrilecek dosyalar ' &gt; 'Dosya formatları' bölümüne bakınız).
-Projenize dosya eklemek için "Proje Dosyaları" penceresindeki "Kaynak Dizinine Dosya Kopyala..." düğmesine tıklayıp ya da "Proje" menüsünden aynı komutu çağırıp kopyalamak istediğiniz kaynak dosyalarını seçebilirsiniz.</seg>
+Projenize dosya eklemek için "Proje Dosyaları" penceresindeki "Kaynak Klasörüne Dosya Kopyala..." düğmesine tıklayıp ya da "Proje" menüsünden aynı komutu çağırıp kopyalamak istediğiniz kaynak dosyalarını seçebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
