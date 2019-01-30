@@ -192,8 +192,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090247Z" creationid="Erhan Yükselci" creationdate="20190130T090247Z">
-        <seg>Güncel Kaynak Belge</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105042Z" creationid="Erhan Yükselci" creationdate="20190130T090247Z">
+        <seg>&amp;Geçerli Kaynak Belge</seg>
       </tuv>
     </tu>
     <tu>
@@ -216,8 +216,8 @@
       <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085750Z" creationid="Erhan Yükselci" creationdate="20190130T085750Z">
-        <seg>Sözlükler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104950Z" creationid="Erhan Yükselci" creationdate="20190130T085750Z">
+        <seg>Sö&amp;zlükler</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +336,8 @@
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085752Z" creationid="Erhan Yükselci" creationdate="20190130T085752Z">
-        <seg>Sözlükçeler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104955Z" creationid="Erhan Yükselci" creationdate="20190130T085752Z">
+        <seg>Söz&amp;lükçeler</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +800,8 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085819Z" creationid="Erhan Yükselci" creationdate="20190130T085819Z">
-        <seg>Kaynak Dosyaları</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105021Z" creationid="Erhan Yükselci" creationdate="20190130T085819Z">
+        <seg>Ka&amp;ynak Dosyalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085827Z" creationid="Erhan Yükselci" creationdate="20190130T085827Z">
-        <seg>Hedef Dosyaları</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105025Z" creationid="Erhan Yükselci" creationdate="20190130T085827Z">
+        <seg>&amp;Hedef Dosyalar</seg>
       </tuv>
     </tu>
     <tu>
@@ -7386,8 +7386,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085812Z" creationid="Erhan Yükselci" creationdate="20190130T085812Z">
-        <seg>ÇB'ler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105004Z" creationid="Erhan Yükselci" creationdate="20190130T085812Z">
+        <seg>Çeviri &amp;Bellekleri</seg>
       </tuv>
     </tu>
     <tu>
