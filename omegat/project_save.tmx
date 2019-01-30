@@ -3428,6 +3428,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180838Z" creationid="Erhan Yükselci" creationdate="20190130T180838Z">
+        <seg>Harici Arama...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External TMX Options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T084816Z">
@@ -6960,6 +6968,14 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180827Z" creationid="Erhan Yükselci" creationdate="20190130T180827Z">
+        <seg>Depo Eşlemi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
       <tuv lang="TR">
@@ -7586,8 +7602,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Bazı proje dizinleri taşınmış görünüyor.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180844Z">
+        <seg>Bazı proje klasörleri taşınmış görünüyor.</seg>
       </tuv>
     </tu>
     <tu>
