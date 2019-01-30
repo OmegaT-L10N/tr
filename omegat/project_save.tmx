@@ -1487,8 +1487,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154647Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
-        <seg>&amp;Yapılandırma Dizinine Eriş</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155116Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
+        <seg>&amp;Yapılandırma Klasörüne Eriş</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3712,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120925Z">
         <seg>Dizin mevcut ve dizin boş değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155218Z" creationid="Erhan Yükselci" creationdate="20190130T155218Z">
+        <seg>Ekip modu projesi için {0} klasörü otomatik olarak oluşturuldu</seg>
       </tuv>
     </tu>
     <tu>
