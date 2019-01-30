@@ -3950,8 +3950,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Sözlükçe Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180233Z">
+        <seg>Sözlükçe Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7618,8 +7618,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T114359Z">
-        <seg>Kaynak Dosya Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180211Z">
+        <seg>Kaynak Dosya Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8589,8 +8589,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T114407Z">
-        <seg>Çeviri Dosya Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180226Z">
+        <seg>Çevrilmiş Dosya Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
