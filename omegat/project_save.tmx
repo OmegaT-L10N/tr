@@ -2124,6 +2124,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181050Z" creationid="Erhan Yükselci" creationdate="20190130T181050Z">
+        <seg>MED projesi seçin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130425T135518Z">
@@ -4142,8 +4150,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Burada kendi belirlediğiniz dizinleri belirtebilirsiniz.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181026Z">
+        <seg>Burada kendi belirlediğiniz klasörleri belirtebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6226,6 +6234,15 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114809Z">
         <seg>Lütfen projenin otomatik olarak kaydedileceği aralığı dakika ve saniye cinsiden belirtin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181021Z" creationid="Erhan Yükselci" creationdate="20190130T181021Z">
+        <seg>Lütfen kaynak dosyalarınızın dilini ve çeviri yapmak istediğiniz
+hedef dili seçin.</seg>
       </tuv>
     </tu>
     <tu>
