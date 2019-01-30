@@ -1033,6 +1033,14 @@ java.exe adlı dosyadır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142129Z" creationid="Erhan Yükselci" creationdate="20190130T142129Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2428,6 +2436,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142117Z" creationid="Erhan Yükselci" creationdate="20190130T142117Z">
+        <seg>İmleç kilidi kapalı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142112Z" creationid="Erhan Yükselci" creationdate="20190130T142112Z">
+        <seg>İmleç kilidi açık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="TR">
@@ -2702,8 +2726,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Gerçekten programdan çıkmak istiyor musunuz?</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142154Z">
+        <seg>Gerçekten çıkmak istiyor musunuz?</seg>
       </tuv>
     </tu>
     <tu>
