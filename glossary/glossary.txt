@@ -117,3 +117,4 @@ embed	gömmek
 embedding	gömme
 embedded	gömülü
 embed	gömmek
+Unicode	Unikod
