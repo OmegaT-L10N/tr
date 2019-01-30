@@ -6962,8 +6962,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T131316Z">
-        <seg>Son&amp;raki Eşleşmeyi Seç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T110942Z">
+        <seg>&amp;Sonraki Eşleşmeyi Seç</seg>
       </tuv>
     </tu>
     <tu>
