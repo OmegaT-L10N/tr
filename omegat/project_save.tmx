@@ -2614,8 +2614,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T134218Z">
-        <seg>Ekran Yazıtipi</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143551Z">
+        <seg>Ekran Yazı Tipi</seg>
       </tuv>
     </tu>
     <tu>
