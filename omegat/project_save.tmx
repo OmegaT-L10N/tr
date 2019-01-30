@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090337Z" creationid="Erhan Yükselci" creationdate="20190130T090337Z">
+        <seg>&amp;Eşleşmeyi ya da Seçimi Araya Ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092824Z">
@@ -866,6 +874,14 @@
       </tuv>
       <tuv lang="TR">
         <seg>Gö&amp;rünüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090303Z" creationid="Erhan Yükselci" creationdate="20190130T090303Z">
+        <seg>Yazılabilir Sözlükçe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1848,6 +1864,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124728Z">
         <seg>G&amp;rafikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090252Z" creationid="Erhan Yükselci" creationdate="20190130T090252Z">
+        <seg>Güncel Hedef Belge</seg>
       </tuv>
     </tu>
     <tu>
@@ -6596,6 +6620,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Projede Arama Yap...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090312Z" creationid="Erhan Yükselci" creationdate="20190130T090312Z">
+        <seg>Ara ve Değiştir...</seg>
       </tuv>
     </tu>
     <tu>
