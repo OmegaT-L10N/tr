@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075626Z" creationid="Erhan Yükselci" creationdate="20190130T075626Z">
+        <seg>Değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="TR">
