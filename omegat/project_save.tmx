@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120340Z" creationid="Erhan Yükselci" creationdate="20190130T120340Z">
+        <seg>Güncellemeleri Denetle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085250Z" creationid="Erhan Yükselci" creationdate="20190130T085250Z">
@@ -4491,6 +4499,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kürtçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120523Z" creationid="Erhan Yükselci" creationdate="20190130T120523Z">
+        <seg>Günlük...</seg>
       </tuv>
     </tu>
     <tu>
