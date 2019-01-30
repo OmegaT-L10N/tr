@@ -119,3 +119,5 @@ embedded	gömülü
 embed	gömmek
 Unicode	Unikod
 history	geçmiş
+history completion	geçmişe dayalı tamamlama
+history prediction	geçmişe dayalı tahmin
