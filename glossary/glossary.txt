@@ -118,3 +118,4 @@ embedding	gömme
 embedded	gömülü
 embed	gömmek
 Unicode	Unikod
+history	geçmiş
