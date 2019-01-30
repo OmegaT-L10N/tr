@@ -1934,8 +1934,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Brows&amp;e</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Dizine &amp;Gözat</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180652Z">
+        <seg>Göz&amp;at</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,8 +2590,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120323Z">
-        <seg>Sözlük Dosyaları Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180738Z">
+        <seg>Sözlük Dosyaları Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,8 +3958,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120303Z">
-        <seg>Sözlükçe Dosyaları Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180728Z">
+        <seg>Sözlükçe Dosyaları Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,8 +7626,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120316Z">
-        <seg>Kaynak Dosyaları Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180704Z">
+        <seg>Kaynak Dosya Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -8597,8 +8597,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120306Z">
-        <seg>Çeviri Dosyaları Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180717Z">
+        <seg>Çevrilmiş Dosya Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -8661,8 +8661,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120300Z">
-        <seg>Çeviri Belleği Dosyaları Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180735Z">
+        <seg>Çeviri Belleği Dosyaları Klasörü</seg>
       </tuv>
     </tu>
     <tu>
