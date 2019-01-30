@@ -3686,8 +3686,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Yazıtipi</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143631Z">
+        <seg>Yazı Tipi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,6 +7320,14 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143640Z" creationid="Erhan Yükselci" creationdate="20190130T143640Z">
+        <seg>Boyut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="TR">
@@ -8197,8 +8205,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T110942Z">
-        <seg>pijamalı hasta yağız şoföre çabucak güvendi</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143707Z">
+        <seg>Pijamalı hasta yağız şoföre çabucak güvendi.</seg>
       </tuv>
     </tu>
     <tu>
