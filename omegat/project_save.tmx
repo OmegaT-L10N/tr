@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085750Z" creationid="Erhan Yükselci" creationdate="20190130T085750Z">
+        <seg>Sözlükler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T102947Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103715Z">
         <seg>&amp;Tarihçede İleri Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085752Z" creationid="Erhan Yükselci" creationdate="20190130T085752Z">
+        <seg>Sözlükçeler</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085745Z" creationid="Erhan Yükselci" creationdate="20190130T085745Z">
+        <seg>Kök</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111043Z">
@@ -734,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085819Z" creationid="Erhan Yükselci" creationdate="20190130T085819Z">
+        <seg>Kaynak Dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T114536Z">
@@ -754,6 +786,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103735Z">
         <seg>&amp;İstatistikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085827Z" creationid="Erhan Yükselci" creationdate="20190130T085827Z">
+        <seg>Hedef Dosyaları</seg>
       </tuv>
     </tu>
     <tu>
@@ -7140,6 +7180,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114521Z">
         <seg>Eşitleme hatası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085812Z" creationid="Erhan Yükselci" creationdate="20190130T085812Z">
+        <seg>ÇB'ler</seg>
       </tuv>
     </tu>
     <tu>
