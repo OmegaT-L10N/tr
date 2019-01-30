@@ -6848,6 +6848,22 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T175100Z" creationid="Erhan Yükselci" creationdate="20190130T175100Z">
+        <seg>Diğer dosyalardan tekrarlar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T175046Z" creationid="Erhan Yükselci" creationdate="20190130T175046Z">
+        <seg>Bu dosyadaki tekrarlar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repetitions:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112320Z">
