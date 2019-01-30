@@ -256,8 +256,8 @@
       <tuv lang="EN">
         <seg>&amp;Editor...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092719Z" creationid="Erhan Yükselci" creationdate="20190130T092719Z">
-        <seg>Düzenleyici</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133011Z" creationid="Erhan Yükselci" creationdate="20190130T092719Z">
+        <seg>&amp;Düzenleyici...</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +784,8 @@
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T133534Z">
-        <seg>Dilimlendir&amp;me...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133046Z">
+        <seg>D&amp;ilimlendirme...</seg>
       </tuv>
     </tu>
     <tu>
