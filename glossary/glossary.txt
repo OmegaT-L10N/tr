@@ -124,3 +124,4 @@ unique	tekrarsız
 font	yazı tipi
 filter	filtre
 string	dizgi
+translated documents	çevrilmiş belgeler
