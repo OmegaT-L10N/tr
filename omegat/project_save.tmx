@@ -3310,8 +3310,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T111516Z">
-        <seg>Harici komutu çalıştırılıyor...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T160435Z">
+        <seg>Harici komut çalıştırılıyor...</seg>
       </tuv>
     </tu>
     <tu>
