@@ -3366,8 +3366,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çeviri dosyaları oluşturulamadı!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T140653Z">
+        <seg>Proje dosyaları oluşturulamadı!</seg>
       </tuv>
     </tu>
     <tu>
