@@ -8597,6 +8597,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121323Z" creationid="Erhan Yükselci" creationdate="20190130T121323Z">
+        <seg>Sözlük girdileri için bulanık eşleşme kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T093033Z" creationid="Erhan Yükselci" creationdate="20190130T093033Z">
