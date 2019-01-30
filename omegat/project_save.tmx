@@ -2172,6 +2172,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090529Z" creationid="Erhan Yükselci" creationdate="20190130T090529Z">
+        <seg>Sözlükçe Girdisi Oluştur...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="TR">
@@ -6188,6 +6196,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112055Z">
         <seg>Referanslar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090519Z" creationid="Erhan Yükselci" creationdate="20190130T090519Z">
+        <seg>Özdeş Çeviri Olarak Belirle</seg>
       </tuv>
     </tu>
     <tu>
