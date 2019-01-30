@@ -2172,6 +2172,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T084925Z" creationid="Erhan Yükselci" creationdate="20190130T084925Z">
+        <seg>Sanal Belleğin mevcut bellek kullanımı: {0}MB; bunun {1}MB'ı serbest bellek {2}MB'ı maksimum kullanılabilir bellektir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="TR">
@@ -6290,8 +6298,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T084839Z" creationid="Erhan Yükselci" creationdate="20190130T084839Z">
-        <seg>Java {0} ({1}-bit )</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T084850Z" creationid="Erhan Yükselci" creationdate="20190130T084839Z">
+        <seg>Java {0} ({1}-bit üzerinde çalışıyor)</seg>
       </tuv>
     </tu>
     <tu>
