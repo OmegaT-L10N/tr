@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075516Z" creationid="Erhan Yükselci" creationdate="20190131T075516Z">
+        <seg>Çev&amp;iride</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Index entries</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124209Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="TR">
         <seg>&amp;Araçlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075442Z" creationid="Erhan Yükselci" creationdate="20190131T075442Z">
+        <seg>&amp;Çevrilmiş</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,8 +5230,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120258Z">
-        <seg>&amp;Kaynak metinde</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075506Z">
+        <seg>&amp;Kaynakta</seg>
       </tuv>
     </tu>
     <tu>
@@ -10695,6 +10711,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075532Z" creationid="Erhan Yükselci" creationdate="20190131T075532Z">
+        <seg>Çevrilmi&amp;ş ya da çevrilmemiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="TR">
@@ -10923,6 +10947,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181203Z" creationid="Erhan Yükselci" creationdate="20190130T181203Z">
         <seg>Tür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075452Z" creationid="Erhan Yükselci" creationdate="20190131T075452Z">
+        <seg>Çe&amp;vrilmemiş</seg>
       </tuv>
     </tu>
     <tu>
