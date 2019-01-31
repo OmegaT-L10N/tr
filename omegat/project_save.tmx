@@ -2264,6 +2264,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074736Z" creationid="Erhan Yükselci" creationdate="20190131T074736Z">
+        <seg>Değiştirme zamanı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TR">
@@ -4876,6 +4884,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105220Z">
         <seg>'{0}'yi gizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074645Z" creationid="Erhan Yükselci" creationdate="20190131T074645Z">
+        <seg>İleri &amp;Düzey Seçenekleri Gizle</seg>
       </tuv>
     </tu>
     <tu>
