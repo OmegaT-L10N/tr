@@ -11001,6 +11001,16 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T080454Z" creationid="Erhan Yükselci" creationdate="20190131T080454Z">
+        <seg>Türler:
+Tama aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075452Z" creationid="Erhan Yükselci" creationdate="20190131T075452Z">
