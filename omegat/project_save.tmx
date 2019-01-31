@@ -3090,8 +3090,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120851Z">
-        <seg>Girilen sözlük dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074258Z">
+        <seg>Girilen sözlük dosyaları klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4642,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120514Z">
-        <seg>Girilen sözlükçe dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074236Z">
+        <seg>Girilen sözlükçe dosyaları klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9421,8 +9421,8 @@ hedef dili seçin.</seg>
       <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120506Z">
-        <seg>Girilen kaynak dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074225Z">
+        <seg>Girilen kaynak dosya klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10335,8 +10335,8 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T134604Z">
-        <seg>Yazılabilir sözlükçe dosyası "sözlükçe" (/glossary/) dizininde bulunmalıdır</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074244Z">
+        <seg>Yazılabilir sözlükçe dosyası "sözlükçe" (/glossary/) klasöründe bulunmalıdır</seg>
       </tuv>
     </tu>
     <tu>
@@ -10689,8 +10689,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120503Z">
-        <seg>Girilen çeviri dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074229Z">
+        <seg>Girilen çeviri dosyaları klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10761,8 +10761,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120841Z">
-        <seg>Girilen çeviri belleği dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074251Z">
+        <seg>Girilen çeviri belleği dosyaları klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11685,8 +11685,8 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120521Z">
-        <seg>Girilen sözlükçe dosyaları dizini mevcut değil!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074238Z">
+        <seg>Girilen sözlükçe dosyaları klasörü mevcut değil!</seg>
       </tuv>
     </tu>
     <tu>
