@@ -8027,6 +8027,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T080413Z" creationid="Erhan Yükselci" creationdate="20190131T080413Z">
+        <seg>Projede yapılan aramalar varsayılan olarak projenin kaynak, hedef, çeviri bellek, sözlükçe, not ve yorumlarını içerir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project will not be updated.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114507Z">
