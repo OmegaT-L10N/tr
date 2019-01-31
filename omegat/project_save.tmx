@@ -6389,6 +6389,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075426Z" creationid="Erhan Yükselci" creationdate="20190131T075426Z">
+        <seg>Be&amp;llek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Methods differ depending on the distribution.</seg>
       </tuv>
       <tuv lang="TR">
