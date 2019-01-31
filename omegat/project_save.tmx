@@ -3512,6 +3512,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074131Z" creationid="Erhan Yükselci" creationdate="20190131T074131Z">
+        <seg>Eşlemedeki boş depo URL'si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T135957Z" creationid="Erhan Yükselci" creationdate="20190130T121537Z">
@@ -5422,8 +5430,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Invalid repository type: {0}</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073952Z" creationid="Erhan Yükselci" creationdate="20190131T073952Z">
-        <seg>Geçersiz kayıt türü</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074017Z" creationid="Erhan Yükselci" creationdate="20190131T073952Z">
+        <seg>Geçersiz depo türü: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8463,6 +8471,22 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180827Z" creationid="Erhan Yükselci" creationdate="20190130T180827Z">
         <seg>Depo Eşlemi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074036Z" creationid="Erhan Yükselci" creationdate="20190131T074036Z">
+        <seg>{0} deposu zaten var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074045Z" creationid="Erhan Yükselci" creationdate="20190131T074045Z">
+        <seg>{0} deposu bilinmiyor</seg>
       </tuv>
     </tu>
     <tu>
