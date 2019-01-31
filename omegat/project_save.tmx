@@ -4552,6 +4552,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074134Z" creationid="Erhan Yükselci" creationdate="20190131T074134Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113846Z">
@@ -4756,6 +4764,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Somik Raha, Derrick Oswald ve diğerleri tarafından geliştirilen HTMLParser 1.6 (LGPL Lisansı).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTTP(S)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074142Z" creationid="Erhan Yükselci" creationdate="20190131T074142Z">
+        <seg>HTTP(S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9635,6 +9651,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074135Z" creationid="Erhan Yükselci" creationdate="20190131T074135Z">
+        <seg>Subversion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="TR">
@@ -10279,8 +10303,8 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120441Z">
-        <seg>Girilen çeviri dosya dili geçersiz!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074208Z">
+        <seg>Girilen çevrilmiş dosya dili geçersiz!</seg>
       </tuv>
     </tu>
     <tu>
