@@ -4370,8 +4370,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120925Z">
-        <seg>Dizin mevcut ve dizin boş değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074330Z">
+        <seg>Klasör mevcut ve klasör boş değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6923,8 +6923,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT Project Folder</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>OmegaT Proje Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074321Z">
+        <seg>OmegaT Proje Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -6949,6 +6949,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T102844Z">
         <seg>OmegaT aynı zamanda '%s' gibi programlama değişkenlerini (printf-fonksiyonu değişkenleri) de kontrol edebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074452Z" creationid="Erhan Yükselci" creationdate="20190131T074452Z">
+        <seg>OmegaT'nin bu klasörde okuma ve yazma izni yok.</seg>
       </tuv>
     </tu>
     <tu>
