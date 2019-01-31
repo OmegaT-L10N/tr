@@ -1771,8 +1771,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Yeni dizin oluşturulması sırasında hata oluştu</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074528Z">
+        <seg>Yeni klasörün oluşturulması sırasında hata oluştu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5164,6 +5164,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074554Z" creationid="Erhan Yükselci" creationdate="20190131T074554Z">
+        <seg>Yorumlarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074548Z" creationid="Erhan Yükselci" creationdate="20190131T074548Z">
+        <seg>Notlarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
       </tuv>
       <tuv lang="TR">
@@ -8475,6 +8491,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074537Z" creationid="Erhan Yükselci" creationdate="20190131T074537Z">
+        <seg>Bununla değiştir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073737Z" creationid="Erhan Yükselci" creationdate="20190131T073737Z">
@@ -9239,6 +9263,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T134444Z">
         <seg>Dilimleme kuralları grupları:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074626Z" creationid="Erhan Yükselci" creationdate="20190131T074626Z">
+        <seg>İleri Düzey &amp;Seçenekleri Göster</seg>
       </tuv>
     </tu>
     <tu>
