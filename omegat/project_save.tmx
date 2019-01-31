@@ -8691,6 +8691,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075408Z" creationid="Erhan Yükselci" creationdate="20190131T075408Z">
+        <seg>B&amp;oşluk, bölünemez boşluk karakteriyle eşleşir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T093055Z">
