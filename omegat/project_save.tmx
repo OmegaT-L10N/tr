@@ -11999,6 +11999,14 @@ dizini oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075824Z" creationid="Erhan Yükselci" creationdate="20190131T075824Z">
+        <seg>tüm eşleşen dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="TR">
