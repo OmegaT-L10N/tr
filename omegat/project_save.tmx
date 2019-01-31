@@ -7554,8 +7554,8 @@ günlük dosyasına başvurun.</seg>
       <tuv lang="EN">
         <seg>Please select a different folder.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120930Z">
-        <seg>Lütfen farklı bir ad seçin.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074518Z">
+        <seg>Lütfen farklı bir klasör seçin.</seg>
       </tuv>
     </tu>
     <tu>
