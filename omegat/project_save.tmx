@@ -5773,6 +5773,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T080551Z" creationid="Erhan Yükselci" creationdate="20190131T080551Z">
+        <seg>Anahtar sözcük aramaları, sırasına bakılmaksızın boşlukla birbirinden ayrılmış tüm anahtar sözcüklere bakar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Khmer</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094234Z" creationid="Erhan Yükselci" creationdate="20160922T094234Z">
