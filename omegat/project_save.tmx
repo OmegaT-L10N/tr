@@ -2258,8 +2258,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120459Z">
-        <seg>Şu &amp;tarihten sonra değiştirilen:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074839Z">
+        <seg>Ş&amp;u tarihten sonra değiştirilen:</seg>
       </tuv>
     </tu>
     <tu>
