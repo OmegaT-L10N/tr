@@ -1065,6 +1065,80 @@ java.exe adlı dosyadır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T115928Z" creationid="Erhan Yükselci" creationdate="20161130T115928Z">
+        <seg>--ITokenizer=&lt;sınıf adı&gt;
+	--ITokenizerTarget=&lt;sınıf adı&gt;
+		Kullanılacak kaynak ya da hedef dil belirteç ayırıcı (proje ayarlarını
+		geçersiz kılar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T112821Z" creationid="Erhan Yükselci" creationdate="20161130T112739Z">
+        <seg>--config-file=&lt;yol&gt;
+		Varsayılan ayarları yüklemeye yarayan bir java.properties dosyası.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T115604Z" creationid="Erhan Yükselci" creationdate="20161130T115604Z">
+        <seg>--disable-location-save
+		Dosya seçicide açılan son klasörü hatırlama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T115610Z" creationid="Erhan Yükselci" creationdate="20161130T115537Z">
+        <seg>--disable-project-locking
+		Omegat.project dosyasının kilitleme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T112553Z" creationid="Erhan Yükselci" creationdate="20161130T112553Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Varsayılan (grafiksel kullanıcı arayüzü) dışında bir kip belirt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T115655Z" creationid="Erhan Yükselci" creationdate="20161130T115655Z">
+        <seg>--no-team
+		Ekip projesi özelliğini devre dışı bırak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123346Z" creationid="Erhan Yükselci" creationdate="20161130T123346Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		Sözde çevrilmiş TMX dosyasıyla neyle doldurulacak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -1073,6 +1147,40 @@ java.exe adlı dosyadır.</seg>
         <seg>--remote-project
 		&lt;proje yolu&gt; olarak verilen URL'den omegat.project dosyasını indir
 		ve projeyi yükle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T115429Z" creationid="Erhan Yükselci" creationdate="20161130T115429Z">
+        <seg>--resource-bundle=&lt;yol&gt;
+		Arayüz metni için kullanılacak java.properties dosyası
+	--config-dir=&lt;yol&gt;
+		OmegaT yapılandırma dosyalarını yazıp okumakta kullanılan klasör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T122008Z" creationid="Erhan Yükselci" creationdate="20161130T122008Z">
+        <seg>--script=&lt;yol&gt;
+		Proje olaylarına göre çalıştırılacak bir betik dosyası.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T122026Z" creationid="Erhan Yükselci" creationdate="20161130T122026Z">
+        <seg>--tag-validation=[abort|warn]
+		Etiketleri doğrula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,6 +1537,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115648Z" creationid="Erhan Yükselci" creationdate="20161129T115648Z">
+        <seg>Mevcut OmegaT projesi için basit SY kontrolleri kümesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120141Z">
@@ -1453,10 +1569,26 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113801Z" creationid="Erhan Yükselci" creationdate="20161129T113801Z">
+        <seg>Aaron Madlon-Kay (bütünleştirme yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102033Z">
         <seg>Abhazca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T122055Z" creationid="Erhan Yükselci" creationdate="20161130T122055Z">
+        <seg>Abort: Etiketler geçersizse hata vererek çık.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,6 +1976,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backspace*</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114848Z" creationid="Erhan Yükselci" creationdate="20160921T114848Z">
+        <seg>Geri Tuşu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T121931Z">
@@ -1876,10 +2016,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bambara</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T091519Z" creationid="Erhan Yükselci" creationdate="20160922T091519Z">
+        <seg>Bambara Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Ben nerede yanlış yaptım:&lt;p&gt;Aradığın sayfa artık burada oturmuyor&lt;p&gt;Hadi başka kapıya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bashkir</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T091557Z" creationid="Erhan Yükselci" creationdate="20160922T091557Z">
+        <seg>Başkurtça</seg>
       </tuv>
     </tu>
     <tu>
@@ -1932,6 +2088,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Breton</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092233Z" creationid="Erhan Yükselci" creationdate="20160922T092233Z">
+        <seg>Bretonca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180643Z">
@@ -1980,6 +2144,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Burmese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092251Z" creationid="Erhan Yükselci" creationdate="20160922T092251Z">
+        <seg>Birmanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="TR">
@@ -2008,6 +2180,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105129Z" creationid="Erhan Yükselci" creationdate="20190130T090252Z">
         <seg>G&amp;eçerli Hedef Belge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111435Z" creationid="Erhan Yükselci" creationdate="20161130T111435Z">
+        <seg>İptal edildi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2068,6 +2248,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chamorro</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092330Z" creationid="Erhan Yükselci" creationdate="20160922T092330Z">
+        <seg>Çamorro Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120459Z">
@@ -2088,6 +2276,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Karakter (boşluksuz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chechen</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092336Z" creationid="Erhan Yükselci" creationdate="20160922T092336Z">
+        <seg>Çeçence</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,10 +2312,154 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124233Z" creationid="Erhan Yükselci" creationdate="20161129T124233Z">
+        <seg>LanguageTools kurallarını kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115651Z" creationid="Erhan Yükselci" creationdate="20161129T115651Z">
+        <seg>Kontrol Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124243Z" creationid="Erhan Yükselci" creationdate="20161129T124243Z">
+        <seg>Çift boşlukları kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124257Z" creationid="Erhan Yükselci" creationdate="20161129T124257Z">
+        <seg>Yinelenen sözcükleri kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124351Z" creationid="Erhan Yükselci" creationdate="20161129T124351Z">
+        <seg>Kaynak ve hedef eşiti kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124544Z" creationid="Erhan Yükselci" creationdate="20161129T124544Z">
+        <seg>Tutarsız numaraları kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124221Z" creationid="Erhan Yükselci" creationdate="20161129T124221Z">
+        <seg>Önde boşluk karakterini kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124315Z" creationid="Erhan Yükselci" creationdate="20161129T124315Z">
+        <seg>Daha uzun hedefi kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124619Z" creationid="Erhan Yükselci" creationdate="20161129T124619Z">
+        <seg>Yazım hatası bulunan dilimleri kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124310Z" creationid="Erhan Yükselci" creationdate="20161129T124310Z">
+        <seg>Daha kısa hedefi kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124238Z" creationid="Erhan Yükselci" creationdate="20161129T124238Z">
+        <seg>Sonda boşluk karakterini kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124407Z" creationid="Erhan Yükselci" creationdate="20161129T124407Z">
+        <seg>Çevrilmemiş dilimleri kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124424Z" creationid="Erhan Yükselci" creationdate="20161129T124424Z">
+        <seg>Etiket sayısını kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124329Z" creationid="Erhan Yükselci" creationdate="20161129T124329Z">
+        <seg>Dilim sonundaki noktalamayı kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124537Z" creationid="Erhan Yükselci" creationdate="20161129T124537Z">
+        <seg>Etiket sırasını kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103104Z">
         <seg>Basit &amp;java MessageFormat örüntülerini kontrol et (örneğin {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124507Z" creationid="Erhan Yükselci" creationdate="20161129T124507Z">
+        <seg>Etiketlerin etrafındaki boşlukları kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124340Z" creationid="Erhan Yükselci" creationdate="20161129T124340Z">
+        <seg>Büyük/küçük harfle başlamayı kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123126Z" creationid="Erhan Yükselci" creationdate="20161129T123126Z">
+        <seg>Tüm projeyi kontrol et</seg>
       </tuv>
     </tu>
     <tu>
@@ -2132,10 +2472,42 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chichewa, Chewa, Nyanja</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092448Z" creationid="Erhan Yükselci" creationdate="20160922T092448Z">
+        <seg>Çevaca, Nyanja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092450Z" creationid="Erhan Yükselci" creationdate="20160922T092450Z">
+        <seg>Çince</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose MED project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181050Z" creationid="Erhan Yükselci" creationdate="20190130T181050Z">
         <seg>MED projesi seçin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose SVN repository to perform cleanup</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111432Z" creationid="Erhan Yükselci" creationdate="20161130T111432Z">
+        <seg>Temizleme işlemi için SVN deposu seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chuvash</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092452Z" creationid="Erhan Yükselci" creationdate="20160922T092452Z">
+        <seg>Çuvaş</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,6 +2556,18 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Sütun Endeksi 1'e eşit olmalıdır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123728Z" creationid="Erhan Yükselci" creationdate="20161130T123728Z">
+        <seg>Komutlar:
+	-h, --help
+		Kullanım bilgilerini göster.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2316,6 +2700,42 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123429Z" creationid="Erhan Yükselci" creationdate="20161130T123429Z">
+        <seg>Console-align mode:
+	--alignDir=&lt;yol&gt;
+		Çevrilen dosyaları içeren klasör.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123308Z" creationid="Erhan Yükselci" creationdate="20161130T123124Z">
+        <seg>Console-pseudotranslatetmx kipi:
+	--pseudotranslatetmx=&lt;yol&gt;
+		Çıktılanan sözde çevrilmiş TMX dosyası.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123005Z" creationid="Erhan Yükselci" creationdate="20161130T123005Z">
+        <seg>Console-translate (konsol çeviri) kipi:
+	--source-pattern=&lt;desen&gt;
+		İşlenecek kaynak dosyalarının düzenli ifadeli beyaz listesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155040Z">
@@ -2336,6 +2756,30 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155101Z">
         <seg>Kaynak Klasörüne Dosya Kopyala...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112219Z" creationid="Erhan Yükselci" creationdate="20160922T112219Z">
+        <seg>Telif Hakkı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cornish</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092522Z" creationid="Erhan Yükselci" creationdate="20160922T092522Z">
+        <seg>Kernevekçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corsican</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092556Z" creationid="Erhan Yükselci" creationdate="20160922T092556Z">
+        <seg>Korsikaca</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2908,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155312Z">
         <seg>Çevrilmiş belgeler oluşturuluyor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cree</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092629Z" creationid="Erhan Yükselci" creationdate="20160922T092629Z">
+        <seg>Krice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2644,10 +3096,34 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113719Z" creationid="Erhan Yükselci" creationdate="20161129T113719Z">
+        <seg>Didier Briel, OmegaT proje yöneticisidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T081908Z">
         <seg>Sabır ve sebatla DocBook konusundaki sıkıntıları aşmama yardımcı olan Didier Briel. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122815Z" creationid="Erhan Yükselci" creationdate="20161129T122815Z">
+        <seg>Farklı noktalama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122853Z" creationid="Erhan Yükselci" creationdate="20161129T122853Z">
+        <seg>Farklı büyük/küçük harfle başlama</seg>
       </tuv>
     </tu>
     <tu>
@@ -2772,6 +3248,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distribution and modifications</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112555Z" creationid="Erhan Yükselci" creationdate="20160922T112555Z">
+        <seg>Dağıtım ve değişiklikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Divehi, Dhivehi, Maldivian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092754Z" creationid="Erhan Yükselci" creationdate="20160922T092754Z">
+        <seg>Divehi, Maldivce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
       <tuv lang="TR">
@@ -2800,6 +3292,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Yapıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122748Z" creationid="Erhan Yükselci" creationdate="20161129T115803Z">
+        <seg>Çift boşluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122758Z" creationid="Erhan Yükselci" creationdate="20161129T122758Z">
+        <seg>Yinelenen sözcükler</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,6 +3372,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Flamanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dzongkha</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092817Z" creationid="Erhan Yükselci" creationdate="20160922T092817Z">
+        <seg>Dzongka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3044,6 +3560,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End*</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114722Z" creationid="Erhan Yükselci" creationdate="20160921T114722Z">
+        <seg>Son</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English</seg>
       </tuv>
       <tuv lang="TR">
@@ -3072,6 +3596,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>İşte öldüm&lt;p&gt;işte son kadife çiçekleri son defneler&lt;p&gt;baldıranlarla kefenlediler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123019Z" creationid="Erhan Yükselci" creationdate="20161129T123019Z">
+        <seg>Kaynak ve hedef eşit</seg>
       </tuv>
     </tu>
     <tu>
@@ -3228,6 +3760,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115720Z" creationid="Erhan Yükselci" creationdate="20161129T115720Z">
+        <seg>Bulunan hatalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="TR">
@@ -3308,10 +3848,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ewe</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092835Z" creationid="Erhan Yükselci" creationdate="20160922T092835Z">
+        <seg>Eve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact match:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112328Z">
         <seg>Tam eşleşme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T080933Z" creationid="Erhan Yükselci" creationdate="20161129T125756Z">
+        <seg>Örnek - Ara ve Değiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -3352,6 +3908,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Heyecan verici yardım sayfası&lt;p&gt;Örümcek ağlarına yakalandınız&lt;p&gt;404 bulunamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073936Z" creationid="Erhan Yükselci" creationdate="20190131T073936Z">
+        <seg>Dışlama Deseni</seg>
       </tuv>
     </tu>
     <tu>
@@ -3564,6 +4128,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Faroese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092839Z" creationid="Erhan Yükselci" creationdate="20160922T092839Z">
+        <seg>Faroece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154504Z">
@@ -3576,6 +4148,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122356Z">
         <seg>Ayrıştırma sırasında satır {0}, sütun {1}'de önemli hata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fijian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092919Z" creationid="Erhan Yükselci" creationdate="20160922T092919Z">
+        <seg>Fiji Dili</seg>
       </tuv>
     </tu>
     <tu>
@@ -3868,6 +4448,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the application</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112837Z" creationid="Erhan Yükselci" creationdate="20160922T112837Z">
+        <seg>Uygulama için</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the documentation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112215Z" creationid="Erhan Yükselci" creationdate="20160922T112157Z">
+        <seg>Belgelendirme için</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="TR">
@@ -3900,6 +4496,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fula, Fulah, Pulaar, Pular</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093009Z" creationid="Erhan Yükselci" creationdate="20160922T093009Z">
+        <seg>Pölce, Fulaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T102924Z">
@@ -3920,6 +4524,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Galiçya dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Georgian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093015Z" creationid="Erhan Yükselci" creationdate="20160922T093015Z">
+        <seg>Gürcüce</seg>
       </tuv>
     </tu>
     <tu>
@@ -3960,6 +4572,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124717Z">
         <seg>Genel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125958Z" creationid="Erhan Yükselci" creationdate="20161129T125958Z">
+        <seg>Genel yazım denetimi</seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,6 +4688,30 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Greek, Modern</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093028Z" creationid="Erhan Yükselci" creationdate="20160922T093028Z">
+        <seg>Yunanca, Modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Guaraní</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093114Z" creationid="Erhan Yükselci" creationdate="20160922T093114Z">
+        <seg>Guaraní Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093125Z" creationid="Erhan Yükselci" creationdate="20160922T093125Z">
+        <seg>Batı Hint Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="TR">
@@ -4108,10 +4752,34 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Haitian, Haitian Creole</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093219Z" creationid="Erhan Yükselci" creationdate="20160922T093219Z">
+        <seg>Haiti Kreyolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hausa</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093258Z" creationid="Erhan Yükselci" creationdate="20160922T093258Z">
+        <seg>Hausaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124603Z">
         <seg>&amp;Üstbilgiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hebrew (modern)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093311Z" creationid="Erhan Yükselci" creationdate="20160922T093311Z">
+        <seg>İbranice (Modern)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4172,10 +4840,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Herero</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093409Z" creationid="Erhan Yükselci" creationdate="20160922T093409Z">
+        <seg>Hereroca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105220Z">
         <seg>'{0}'yi gizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hindi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093411Z" creationid="Erhan Yükselci" creationdate="20160922T093411Z">
+        <seg>Hintçe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,6 +4928,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130052Z" creationid="Erhan Yükselci" creationdate="20161129T130052Z">
+        <seg>YOKSAYILAN:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122553Z">
@@ -4264,6 +4956,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T101819Z">
         <seg>ISO dil kodları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Icelandic</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093835Z" creationid="Erhan Yükselci" creationdate="20160922T093835Z">
+        <seg>İzlandaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ido</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093828Z" creationid="Erhan Yükselci" creationdate="20160922T093828Z">
+        <seg>İdo Dili</seg>
       </tuv>
     </tu>
     <tu>
@@ -4312,6 +5020,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>İşaretli olması halinde çevirilmemiş dilimler mor renkle işaretlenecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T124700Z" creationid="Erhan Yükselci" creationdate="20161130T124700Z">
+        <seg>Bir git çalışma ağacında ya da SVN kontrolünde çağrılırsa sonuçlar
+		gösterilecektir/eklenecektir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4382,10 +5100,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130402Z" creationid="Erhan Yükselci" creationdate="20161129T130402Z">
+        <seg>Yoksay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092642Z">
         <seg>Tümünü Yoksay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130903Z" creationid="Erhan Yükselci" creationdate="20161129T130903Z">
+        <seg>Sözlükçede büyük/küçük harf durumunu yoksay</seg>
       </tuv>
     </tu>
     <tu>
@@ -4422,6 +5156,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T132650Z" creationid="Erhan Yükselci" creationdate="20161124T132650Z">
+        <seg>Yukarıdaki örnekte iki betik (1. ve 2. pozisyon) eklenmiş durumdadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case the regular expression ^s^s+ would be used to find and list the offending segments.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T094706Z">
@@ -4430,10 +5172,42 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073946Z" creationid="Erhan Yükselci" creationdate="20190131T073946Z">
+        <seg>İçerme Deseni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incompatibilities</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112010Z" creationid="Erhan Yükselci" creationdate="20160922T112010Z">
+        <seg>Uyumsuzluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123100Z" creationid="Erhan Yükselci" creationdate="20161129T123100Z">
+        <seg>Tutarsız numaralar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Dosya İstatistikleri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093451Z" creationid="Erhan Yükselci" creationdate="20160922T093451Z">
+        <seg>Endonezyaca</seg>
       </tuv>
     </tu>
     <tu>
@@ -4566,6 +5340,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installation and Use</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110129Z" creationid="Erhan Yükselci" creationdate="20160922T110129Z">
+        <seg>Kurulum ve Kullanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="TR">
@@ -4598,6 +5380,30 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112238Z" creationid="Erhan Yükselci" creationdate="20160921T112238Z">
+        <seg>Belirteç ayırıcılara (tokenizer) ve betik dosyalarına giriş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inuktitut</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093933Z" creationid="Erhan Yükselci" creationdate="20160922T093933Z">
+        <seg>İnuitçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inupiaq</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093638Z" creationid="Erhan Yükselci" creationdate="20160922T093638Z">
+        <seg>İnyupikçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130258Z">
@@ -4610,6 +5416,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123722Z">
         <seg>Geçersiz dosya formatı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073952Z" creationid="Erhan Yükselci" creationdate="20190131T073952Z">
+        <seg>Geçersiz kayıt türü</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,10 +5452,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also detect some grammar mistakes.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T104330Z" creationid="Erhan Yükselci" creationdate="20160922T104330Z">
+        <seg>Bazı dilbilgisi yanlışlarını tespit edebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130411T073700Z">
         <seg>OmegaT'nin Windows, Mac OS X ve Linux sistemlerine nasıl kurulup ve bu sistemlerde nasıl çalıştırılacağına yönelik talimatları içerir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It does not include spell checking.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T104351Z" creationid="Erhan Yükselci" creationdate="20160922T104351Z">
+        <seg>Yazım denetimi yapmaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4735,6 +5565,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Javanese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093941Z" creationid="Erhan Yükselci" creationdate="20160922T093941Z">
+        <seg>Cava Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082845Z">
@@ -4747,6 +5585,46 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142949Z" creationid="Erhan Yükselci" creationdate="20190130T142949Z">
         <seg>Son düzenlenen dilime gidiliyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kalaallisut, Greenlandic</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094101Z" creationid="Erhan Yükselci" creationdate="20160922T094101Z">
+        <seg>Kalaallisut, Grönlandca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094111Z" creationid="Erhan Yükselci" creationdate="20160922T094111Z">
+        <seg>Güney Hint Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kanuri</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094135Z" creationid="Erhan Yükselci" creationdate="20160922T094135Z">
+        <seg>Kanuri Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kashmiri</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094206Z" creationid="Erhan Yükselci" creationdate="20160922T094206Z">
+        <seg>Keşmirce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kazakh</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094208Z" creationid="Erhan Yükselci" creationdate="20160922T094208Z">
+        <seg>Kazakça</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,6 +5677,54 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094234Z" creationid="Erhan Yükselci" creationdate="20160922T094234Z">
+        <seg>Khmerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kinyarwanda</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094315Z" creationid="Erhan Yükselci" creationdate="20160922T094315Z">
+        <seg>Rvandaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirghiz, Kyrgyz</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094324Z" creationid="Erhan Yükselci" creationdate="20160922T094324Z">
+        <seg>Kırgızca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kirundi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100624Z" creationid="Erhan Yükselci" creationdate="20160922T100624Z">
+        <seg>Rundice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Komi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094508Z" creationid="Erhan Yükselci" creationdate="20160922T094508Z">
+        <seg>Komice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kongo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094528Z" creationid="Erhan Yükselci" creationdate="20160922T094528Z">
+        <seg>Kongoca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Korean</seg>
       </tuv>
       <tuv lang="TR">
@@ -4819,6 +5745,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120626Z" creationid="Erhan Yükselci" creationdate="20190130T120523Z">
         <seg>&amp;Günlük...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130100Z" creationid="Erhan Yükselci" creationdate="20161129T130100Z">
+        <seg>ÖĞRENİLEN:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4855,6 +5789,38 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool plugin</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103513Z" creationid="Erhan Yükselci" creationdate="20160922T103513Z">
+        <seg>LanguageTool eklentisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110002Z" creationid="Erhan Yükselci" creationdate="20160922T110002Z">
+        <seg>LanguageTool hataları bulurken dile özgü yapılandırma dosyalarında tanımlanmış olan kuralları dikkate alır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161128T125555Z" creationid="Erhan Yükselci" creationdate="20160922T112045Z">
+        <seg>LanguageTool, /plugin klasöründe eski bir sürümün bulunması halinde düzgün çalışmaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115738Z" creationid="Erhan Yükselci" creationdate="20161129T115738Z">
+        <seg>LanguageTools Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T101812Z">
@@ -4867,6 +5833,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T101902Z">
         <seg>Diller - ISO 639 kod listesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094839Z" creationid="Erhan Yükselci" creationdate="20160922T094839Z">
+        <seg>Laoca</seg>
       </tuv>
     </tu>
     <tu>
@@ -4903,10 +5877,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latin</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094613Z" creationid="Erhan Yükselci" creationdate="20160922T094613Z">
+        <seg>Latince</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latvian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094935Z" creationid="Erhan Yükselci" creationdate="20160922T094935Z">
+        <seg>Letonca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch command arguments</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Çalıştırma komutu seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130406Z" creationid="Erhan Yükselci" creationdate="20161129T130406Z">
+        <seg>Öğren</seg>
       </tuv>
     </tu>
     <tu>
@@ -4967,10 +5965,42 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Limburgish, Limburgan, Limburger</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094742Z" creationid="Erhan Yükselci" creationdate="20160922T094742Z">
+        <seg>Limburgişçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lingala</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094814Z" creationid="Erhan Yükselci" creationdate="20160922T094814Z">
+        <seg>Lingala Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124254Z">
         <seg>&amp;Bağlantılar (URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094843Z" creationid="Erhan Yükselci" creationdate="20160922T094843Z">
+        <seg>Litvanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T112821Z" creationid="Erhan Yükselci" creationdate="20161124T112821Z">
+        <seg>İstediğiniz betiği, sol paneldeki listeden adına tıklayıp düzenleyiciye yükleyin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5023,6 +6053,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073850Z" creationid="Erhan Yükselci" creationdate="20190131T073850Z">
+        <seg>Yerel Dosya/Klasör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114454Z">
@@ -5047,10 +6085,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094732Z" creationid="Erhan Yükselci" creationdate="20160922T094732Z">
+        <seg>Luganda Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Luxembourgish, Letzeburgesch</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094710Z" creationid="Erhan Yükselci" creationdate="20160922T094710Z">
+        <seg>Lüksemburgca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133102Z">
         <seg>&amp;Makine Çevirisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095013Z" creationid="Erhan Yükselci" creationdate="20160922T095013Z">
+        <seg>Makedonca</seg>
       </tuv>
     </tu>
     <tu>
@@ -5079,10 +6141,66 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Malagasy</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095106Z" creationid="Erhan Yükselci" creationdate="20160922T095106Z">
+        <seg>Malgaşça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malay</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095108Z" creationid="Erhan Yükselci" creationdate="20160922T095108Z">
+        <seg>Malayca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095114Z" creationid="Erhan Yükselci" creationdate="20160922T095114Z">
+        <seg>Malayalam Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095116Z" creationid="Erhan Yükselci" creationdate="20160922T095116Z">
+        <seg>Maltaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manx</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095003Z" creationid="Erhan Yükselci" creationdate="20160922T095003Z">
+        <seg>Man Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073829Z" creationid="Erhan Yükselci" creationdate="20190131T073829Z">
+        <seg>Yerel Klasörlerin Depolardaki Uzak Klasörlerle Eşlenmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110550Z">
         <seg>&amp;Aralıklama Karakterini İşaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112629Z" creationid="Erhan Yükselci" creationdate="20160921T112629Z">
+        <seg>Yazdığım ilk taslağı OmegaT ve İngilizce'ye olan sevgisiyle gözden geçiren Marc Prior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5139,6 +6257,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Çevrilmemiş dilimleri işaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marshallese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095552Z" creationid="Erhan Yükselci" creationdate="20160922T095552Z">
+        <seg>Marşalca</seg>
       </tuv>
     </tu>
     <tu>
@@ -5235,6 +6361,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T104624Z">
         <seg>Böylelikle asıl metinde yapılmış tüm değişiklikler çok daha kolay şekilde gözden geçirilebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125908Z" creationid="Erhan Yükselci" creationdate="20161129T125908Z">
+        <seg>Değiştirilen Dilimler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095555Z" creationid="Erhan Yükselci" creationdate="20160922T095555Z">
+        <seg>Moğolca</seg>
       </tuv>
     </tu>
     <tu>
@@ -5359,10 +6501,42 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Māori</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095142Z" creationid="Erhan Yükselci" creationdate="20160922T095142Z">
+        <seg>Maorice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Adı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nauru</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095627Z" creationid="Erhan Yükselci" creationdate="20160922T095627Z">
+        <seg>Nauruca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navajo, Navaho</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095659Z" creationid="Erhan Yükselci" creationdate="20160922T095659Z">
+        <seg>Navahoca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nepali</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100016Z" creationid="Erhan Yükselci" creationdate="20160922T100016Z">
+        <seg>Nepalce</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +6677,18 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T122225Z" creationid="Erhan Yükselci" creationdate="20161130T120540Z">
+        <seg>Grafiksel kullanıcı arayüzü dışı kip seçenekleri:
+	--quiet
+		Çıktıyı komut satırı standart çıktısıyla sınırla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115016Z">
@@ -5511,10 +6697,58 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124639Z" creationid="Erhan Yükselci" creationdate="20161129T124639Z">
+        <seg>Bölünemez boşluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124530Z">
         <seg>&amp;Görünmez Talimat Metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>North Ndebele</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100014Z" creationid="Erhan Yükselci" creationdate="20160922T100014Z">
+        <seg>Kuzey Ndebele Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Northern Sami</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101008Z" creationid="Erhan Yükselci" creationdate="20160922T101008Z">
+        <seg>Kuzey Lapça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100117Z" creationid="Erhan Yükselci" creationdate="20160922T100117Z">
+        <seg>Norveçce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Bokmål</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095941Z" creationid="Erhan Yükselci" creationdate="20160922T095941Z">
+        <seg>Norveççe (Bokmål)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Norwegian Nynorsk</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100116Z" creationid="Erhan Yükselci" creationdate="20160922T100116Z">
+        <seg>Norveççe (Nynorsk)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5639,6 +6873,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Occitan</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100145Z" creationid="Erhan Yükselci" creationdate="20160922T100145Z">
+        <seg>Oksitanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T074625Z" creationid="Erhan Yükselci" creationdate="20190130T074625Z">
@@ -5667,6 +6909,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T134950Z">
         <seg>OmegaT Kullanıcı Arayüzü Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T101205Z" creationid="Erhan Yükselci" creationdate="20161124T101205Z">
+        <seg>OmegaT farklı betik dillerinde yazılmış betik dosyalarını çalıştırmaya imkan verir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5994,6 +7244,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100236Z" creationid="Erhan Yükselci" creationdate="20160922T100236Z">
+        <seg>Orissa Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="TR">
@@ -6006,6 +7264,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115303Z">
         <seg>Karşılıksız</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ossetian, Ossetic</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100247Z" creationid="Erhan Yükselci" creationdate="20160922T100247Z">
+        <seg>Osetçe</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,6 +7324,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114101Z" creationid="Erhan Yükselci" creationdate="20161129T114101Z">
+        <seg>PDFBox (Apache Lisansı 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123447Z">
@@ -6074,6 +7348,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Panjabi, Punjabi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100324Z" creationid="Erhan Yükselci" creationdate="20160922T100324Z">
+        <seg>Pencapça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T094000Z">
@@ -6086,6 +7368,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR">
         <seg>Tercihler dosyasının okunmasında ayrıştırması hatasıyla karşılaşıldı!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pashto, Pushto</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100442Z" creationid="Erhan Yükselci" creationdate="20160922T100442Z">
+        <seg>Peştuca</seg>
       </tuv>
     </tu>
     <tu>
@@ -6126,6 +7416,22 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR">
         <seg>Örüntü Öncesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111405Z" creationid="Erhan Yükselci" creationdate="20161130T111405Z">
+        <seg>Geçerli projede ve herhangi yerel SVN deposunda SVN temizleme işlemi yürüt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Persian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100356Z" creationid="Erhan Yükselci" creationdate="20160922T100356Z">
+        <seg>Farsça</seg>
       </tuv>
     </tu>
     <tu>
@@ -6275,6 +7581,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112131Z">
         <seg>Lütfen bu çoğulu  #{0} çoğul biçimi şeklinde çevirin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115709Z" creationid="Erhan Yükselci" creationdate="20161129T115709Z">
+        <seg>Lütfen bir proje açtıktan sonra tekrar deneyin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6617,6 +7931,30 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pāli</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100353Z" creationid="Erhan Yükselci" creationdate="20160922T100353Z">
+        <seg>Pali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115628Z" creationid="Erhan Yükselci" creationdate="20161129T115628Z">
+        <seg>SY - Kontrol Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quechua</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100521Z" creationid="Erhan Yükselci" creationdate="20160922T100521Z">
+        <seg>Keçuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="TR">
@@ -6761,6 +8099,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124630Z" creationid="Erhan Yükselci" creationdate="20161129T124630Z">
+        <seg>Yenile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090519Z" creationid="Erhan Yükselci" creationdate="20190130T090519Z">
@@ -6857,6 +8203,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073853Z" creationid="Erhan Yükselci" creationdate="20190131T073853Z">
+        <seg>Uzak Dosya/Klasör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote Repositories</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181202Z" creationid="Erhan Yükselci" creationdate="20190130T181202Z">
@@ -6881,6 +8235,22 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161128T125616Z" creationid="Erhan Yükselci" creationdate="20160922T112117Z">
+        <seg>OmegaT'yi başlatmadan önce /plugin klasöründen LanguageTool'u kaldırın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T110759Z" creationid="Erhan Yükselci" creationdate="20161130T110759Z">
+        <seg>Öncesi ve sonrasında &lt;br&gt;küçük harf bulunan OmegaT etiketlerini kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111630Z">
@@ -6897,10 +8267,42 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111238Z" creationid="Erhan Yükselci" creationdate="20161130T111238Z">
+        <seg>Geçerli hedefteki ikiyönlülük kontrol karakterlerini kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T110910Z" creationid="Erhan Yükselci" creationdate="20161130T110910Z">
+        <seg>Tanımlanmış parçaları kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T110850Z" creationid="Erhan Yükselci" creationdate="20161130T110850Z">
+        <seg>Anımsatıcıları kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Örüntüyü kaldırmak istiyor musunuz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125735Z" creationid="Erhan Yükselci" creationdate="20161129T125655Z">
+        <seg>Geçerli hedefteki etiketleri kaldır</seg>
       </tuv>
     </tu>
     <tu>
@@ -6953,6 +8355,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125822Z" creationid="Erhan Yükselci" creationdate="20161129T125822Z">
+        <seg>Değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133442Z" creationid="Erhan Yükselci" creationdate="20190130T094655Z">
@@ -6973,6 +8383,30 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaynağı Üzerine Yaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T080452Z" creationid="Erhan Yükselci" creationdate="20161130T080452Z">
+        <seg>Özel etiketleri boşlukla değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T080415Z" creationid="Erhan Yükselci" creationdate="20161130T080415Z">
+        <seg>Kaçış dizilerini boşlukla değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124906Z" creationid="Erhan Yükselci" creationdate="20161129T124906Z">
+        <seg>Fransızcada uygun durumlarda boşlukları bölünemez boşluklarla değiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -7005,6 +8439,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaynağı Üzerine Yaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073737Z" creationid="Erhan Yükselci" creationdate="20190131T073737Z">
+        <seg>Depo</seg>
       </tuv>
     </tu>
     <tu>
@@ -7065,6 +8507,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T132612Z" creationid="Erhan Yükselci" creationdate="20161124T132612Z">
+        <seg>Alt panelde "&lt;1&gt;" ile "&lt;12&gt;" arasındaki bir düğme üzerinde sağ tuşa tıklayın ve "Ekle" seçeneğini seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092225Z" creationid="Erhan Yükselci" creationdate="20190130T092225Z">
@@ -7085,6 +8535,30 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094909Z">
         <seg>Sağ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romanian, Moldavian, Moldovan</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100733Z" creationid="Erhan Yükselci" creationdate="20160922T100733Z">
+        <seg>Romence, Moldovca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Romansh</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100554Z" creationid="Erhan Yükselci" creationdate="20160922T100554Z">
+        <seg>Romanşça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115729Z" creationid="Erhan Yükselci" creationdate="20161129T115729Z">
+        <seg>Kural</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,6 +8627,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Samoan</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101116Z" creationid="Erhan Yükselci" creationdate="20160922T101116Z">
+        <seg>Samoaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="TR">
@@ -7165,6 +8647,22 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082253Z">
         <seg>"5 dakikada OmegaT'yi kullanmayı öğrenin" başlıklı bölümü yazan Samuel Murray.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sanskrit (Saṁskṛta)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100755Z" creationid="Erhan Yükselci" creationdate="20160922T100755Z">
+        <seg>Sanskritçe (Saṁskṛta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sardinian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100855Z" creationid="Erhan Yükselci" creationdate="20160922T100855Z">
+        <seg>Sarduca</seg>
       </tuv>
     </tu>
     <tu>
@@ -7205,6 +8703,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje kaydediliyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scottish Gaelic, Gaelic</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101553Z" creationid="Erhan Yükselci" creationdate="20160922T101553Z">
+        <seg>İskoç Galcesi, Kelt Dili</seg>
       </tuv>
     </tu>
     <tu>
@@ -7257,10 +8763,26 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T113053Z" creationid="Erhan Yükselci" creationdate="20160922T113053Z">
+        <seg>Betikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111347Z">
         <seg>Betik Dizini:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104442Z" creationid="Erhan Yükselci" creationdate="20161129T125821Z">
+        <seg>Ara</seg>
       </tuv>
     </tu>
     <tu>
@@ -7277,6 +8799,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Projede Arama Yap...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104449Z" creationid="Erhan Yükselci" creationdate="20161129T125839Z">
+        <seg>Ara ve Değiştir</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,10 +8899,58 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123454Z" creationid="Erhan Yükselci" creationdate="20161130T123454Z">
+        <seg>Ayrıntılı bilgi için bkz: Yardım &gt; Kullanım Kılavuzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110008Z">
         <seg>Talimatlar için OmegaT kılavuzuna bakınız.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T120034Z" creationid="Erhan Yükselci" creationdate="20161130T120034Z">
+        <seg>Geçerli değerler için bkz. OmegaT.jar/META-INF/MANIFEST.MF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T112606Z" creationid="Erhan Yükselci" creationdate="20161130T112606Z">
+        <seg>Ayrıntılar için aşağıya bakınız.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the GNU General Public License for more detail.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T113051Z" creationid="Erhan Yükselci" creationdate="20160922T113051Z">
+        <seg>Daha fazla ayrıntı için GNU Genel Kamu Lisansına bakınız.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112807Z" creationid="Erhan Yükselci" creationdate="20160922T112807Z">
+        <seg>Daha fazla ayrıntı için GNU Genel Kamu Lisansına bakınız.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115725Z" creationid="Erhan Yükselci" creationdate="20161129T115725Z">
+        <seg>Dilim</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,10 +9195,42 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104431Z" creationid="Erhan Yükselci" creationdate="20161129T125815Z">
+        <seg>Basit arama ve değiştirme betiği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sindhi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100859Z" creationid="Erhan Yükselci" creationdate="20160922T100859Z">
+        <seg>Sintçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sinhala, Sinhalese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101658Z" creationid="Erhan Yükselci" creationdate="20160922T101658Z">
+        <seg>Seylanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Size</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143640Z" creationid="Erhan Yükselci" creationdate="20190130T143640Z">
         <seg>Boyut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111016Z" creationid="Erhan Yükselci" creationdate="20161130T111016Z">
+        <seg>Kaynak hedefle aynıysa dilimleri atla</seg>
       </tuv>
     </tu>
     <tu>
@@ -7649,10 +9259,42 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101703Z" creationid="Erhan Yükselci" creationdate="20160922T101703Z">
+        <seg>Slovakça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slovene</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101731Z" creationid="Erhan Yükselci" creationdate="20160922T101731Z">
+        <seg>Slovence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Somali</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101733Z" creationid="Erhan Yükselci" creationdate="20160922T101733Z">
+        <seg>Somalice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180844Z">
         <seg>Bazı proje klasörleri taşınmış görünüyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115731Z" creationid="Erhan Yükselci" creationdate="20161129T115731Z">
+        <seg>Kaynak</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,9 +9443,33 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>South Ndebele</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100143Z" creationid="Erhan Yükselci" creationdate="20160922T100143Z">
+        <seg>Güney Ndebele Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Southern Sotho</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101809Z" creationid="Erhan Yükselci" creationdate="20160922T101809Z">
+        <seg>Güney Sotho Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="TR">
+        <seg>İspanyolca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish, Castilian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101933Z" creationid="Erhan Yükselci" creationdate="20160922T101933Z">
         <seg>İspanyolca</seg>
       </tuv>
     </tu>
@@ -7833,10 +9499,42 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125953Z" creationid="Erhan Yükselci" creationdate="20161129T125953Z">
+        <seg>Yazım Denetimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130118Z" creationid="Erhan Yükselci" creationdate="20161129T130118Z">
+        <seg>Yazım denetimi - bulunan hatalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130016Z" creationid="Erhan Yükselci" creationdate="20161129T130016Z">
+        <seg>Yazım Denetleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Yazım Kontrolü Ayarları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123116Z" creationid="Erhan Yükselci" creationdate="20161129T123116Z">
+        <seg>Yazım hata(lar)ı</seg>
       </tuv>
     </tu>
     <tu>
@@ -7881,6 +9579,38 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111102Z" creationid="Erhan Yükselci" creationdate="20161130T111102Z">
+        <seg>BiDi İşaretlerini Gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111259Z" creationid="Erhan Yükselci" creationdate="20161130T111259Z">
+        <seg>Geçerli dilimdeki BiDi işaretlerini gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125654Z" creationid="Erhan Yükselci" creationdate="20161129T125654Z">
+        <seg>Etkileri Kaldırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125741Z" creationid="Erhan Yükselci" creationdate="20161129T125724Z">
+        <seg>Geçerli dilimdeki etiketleri kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Such files may also be written out in any encoding.</seg>
       </tuv>
       <tuv lang="TR">
@@ -7893,6 +9623,30 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130405T135354Z">
         <seg>Bölümlerin özeti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sundanese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102018Z" creationid="Erhan Yükselci" creationdate="20160922T102018Z">
+        <seg>Sundaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102259Z" creationid="Erhan Yükselci" creationdate="20160922T102259Z">
+        <seg>Svahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swati</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102337Z" creationid="Erhan Yükselci" creationdate="20160922T102337Z">
+        <seg>Swati Dili</seg>
       </tuv>
     </tu>
     <tu>
@@ -8001,6 +9755,63 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tagalog</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102752Z" creationid="Erhan Yükselci" creationdate="20160922T102752Z">
+        <seg>
+Tagalogca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123041Z" creationid="Erhan Yükselci" creationdate="20161129T123041Z">
+        <seg>Etiketler - numara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123053Z" creationid="Erhan Yükselci" creationdate="20161129T123053Z">
+        <seg>Etiketler - sıra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123049Z" creationid="Erhan Yükselci" creationdate="20161129T123049Z">
+        <seg>Etiketler - boşluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tajik</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102352Z" creationid="Erhan Yükselci" creationdate="20160922T102352Z">
+        <seg>Tacikçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102345Z" creationid="Erhan Yükselci" creationdate="20160922T102345Z">
+        <seg>Tamilce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115730Z" creationid="Erhan Yükselci" creationdate="20161129T115730Z">
+        <seg>Hedef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target filename</seg>
       </tuv>
       <tuv lang="TR">
@@ -8025,10 +9836,34 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122809Z" creationid="Erhan Yükselci" creationdate="20161129T122809Z">
+        <seg>Hedef daha uzun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122806Z" creationid="Erhan Yükselci" creationdate="20161129T122806Z">
+        <seg>Hedef daha kısa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target term:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091755Z">
         <seg>Hedef terim:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tatar</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102933Z" creationid="Erhan Yükselci" creationdate="20160922T102933Z">
+        <seg>Tatarca</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,6 +9896,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114516Z">
         <seg>Ekip eşitlemesi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102350Z" creationid="Erhan Yükselci" creationdate="20160922T102350Z">
+        <seg>Telugu Dili</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,6 +9956,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102354Z" creationid="Erhan Yükselci" creationdate="20160922T102354Z">
+        <seg>Tayca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Thank you all!</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T104238Z">
@@ -8139,10 +9990,34 @@ yerine mevcut dizin kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LanguageTool in OmegaT</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110018Z" creationid="Erhan Yükselci" creationdate="20160922T110018Z">
+        <seg>OmegaT'de LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110147Z" creationid="Erhan Yükselci" creationdate="20160922T110147Z">
+        <seg>LanguageTool eklentisi OmegaT'ye dahil edilmiştir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123714Z">
         <seg>PO filtresi özel durum oluşturdu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T101511Z" creationid="Erhan Yükselci" creationdate="20161124T101511Z">
+        <seg>Betik Çalıştırma penceresi, mevcut bir betiği metin alanına yükleyip o anda açık olan projeyle bağlantılı olarak çalıştırmanıza olanak sağlar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8216,6 +10091,30 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112458Z" creationid="Erhan Yükselci" creationdate="20160922T112458Z">
+        <seg>Belgelendirmenin telif hakkı ©2013 Vito Smolej ve ©2014-2016 Vincent Bidaux'a aittir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112720Z" creationid="Erhan Yükselci" creationdate="20160922T112720Z">
+        <seg>Bu belgelendirme özgür yazılımdır; bu programı Özgür Yazılım Derneği tarafından çıkarılan GNU Genel Kamu Lisansının (isteğinize göre) 3'üncü ya da daha sonraki bir sürümü uyarınca dağıtabilir ve/veya değiştirebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112747Z" creationid="Erhan Yükselci" creationdate="20160922T112747Z">
+        <seg>Bu belgelendirme, yararlı olacağı umuduyla, ancak herhangi bir GÜVENCE, TİCARETE YA DA BELLİ BİR AMACA UYGUNLUK güvencesi OLMAKSIZIN dağıtılmaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="TR">
@@ -8242,6 +10141,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T111755Z" creationid="Erhan Yükselci" creationdate="20160921T111626Z">
+        <seg>Açık kaynak bir program olan LanguageTool, sık rastlanan dilbilgisi ve biçem yanlışlarını tespit edip düzeltmekte kullanılabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project cannot be verified</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112856Z">
@@ -8262,6 +10169,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T094047Z">
         <seg>Kurallara göre yapılan dilimleme, cümle temelli dilimleme ile aynı anlama gelecek şekilde kullanılmaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110416Z" creationid="Erhan Yükselci" creationdate="20160922T110416Z">
+        <seg>Uygulanan kurallar (varsa) projenin kaynak ve hedef diline bağlıdır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8540,6 +10455,30 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tibetan Standard, Tibetan, Central</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102717Z" creationid="Erhan Yükselci" creationdate="20160922T102717Z">
+        <seg>Tibetçe (Standart, Merkez)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tigrinya</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102659Z" creationid="Erhan Yükselci" creationdate="20160922T102659Z">
+        <seg>Tigrinya Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T101709Z" creationid="Erhan Yükselci" creationdate="20161124T101709Z">
+        <seg>Betik özelliğini özelleştirmek için şu adımları takip edin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T125700Z">
@@ -8552,6 +10491,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130416T094358Z">
         <seg>OmegaT kullanmaya başlamak için öncelikle bir proje oluşturmalısınız. Bu proje, kaynak dosyaları, çeviri bellekleri, sözlükçeler ve işiniz bittiğinde oluşturacağınız çevrilmiş dosyaları içine alacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tonga (Tonga Islands)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102859Z" creationid="Erhan Yükselci" creationdate="20160922T102859Z">
+        <seg>Tonga (Tonga Adaları)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,10 +10759,34 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tsonga</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102931Z" creationid="Erhan Yükselci" creationdate="20160922T102931Z">
+        <seg>Tsongaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tswana</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102822Z" creationid="Erhan Yükselci" creationdate="20160922T102822Z">
+        <seg>Tsvana Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Türkçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turkmen</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102718Z" creationid="Erhan Yükselci" creationdate="20160922T102718Z">
+        <seg>Türkmence</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,6 +10811,14 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092839Z">
         <seg>Çevrimiçi sözlüklerin URL'si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uighur, Uyghur</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103120Z" creationid="Erhan Yükselci" creationdate="20160922T103120Z">
+        <seg>Uygurca</seg>
       </tuv>
     </tu>
     <tu>
@@ -9102,6 +11081,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123029Z" creationid="Erhan Yükselci" creationdate="20161129T123029Z">
+        <seg>Çevrilmemiş dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="TR">
@@ -9118,6 +11105,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Urdu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103126Z" creationid="Erhan Yükselci" creationdate="20160922T103126Z">
+        <seg>Urduca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage</seg>
       </tuv>
       <tuv lang="TR">
@@ -9130,6 +11125,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T075124Z" creationid="Erhan Yükselci" creationdate="20190130T075124Z">
         <seg>Kullanım: java -jar OmegaT.jar [&lt;seçenekler&gt;] [&lt;proje yolu&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123645Z" creationid="Erhan Yükselci" creationdate="20161130T123645Z">
+        <seg>Kullanım: java -jar OmegaT.jar team &lt;komut&gt; [&lt;seçenekler&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T101208Z" creationid="Erhan Yükselci" creationdate="20161124T101208Z">
+        <seg>Kullanım</seg>
       </tuv>
     </tu>
     <tu>
@@ -9186,6 +11197,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110811Z">
         <seg>Varsayılan Çeviri Olarak Kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130417Z" creationid="Erhan Yükselci" creationdate="20161129T130417Z">
+        <seg>Sözlükçeyi kullan</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,6 +11291,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uzbek</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103128Z" creationid="Erhan Yükselci" creationdate="20160922T103128Z">
+        <seg>Özbekçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validate Tags</seg>
       </tuv>
       <tuv lang="TR">
@@ -9312,10 +11339,26 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Venda</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103147Z" creationid="Erhan Yükselci" creationdate="20160922T103147Z">
+        <seg>Venda Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Sürüm: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103151Z" creationid="Erhan Yükselci" creationdate="20160922T103151Z">
+        <seg>Vietnamca</seg>
       </tuv>
     </tu>
     <tu>
@@ -9344,10 +11387,34 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113825Z" creationid="Erhan Yükselci" creationdate="20161129T113825Z">
+        <seg>Vincent Bidaux (belgelendirme yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej (documentation manager)</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Vito Smolej (dokümantasyon yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Walloon</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103242Z" creationid="Erhan Yükselci" creationdate="20160922T103242Z">
+        <seg>Belçika Fransızcası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T122254Z" creationid="Erhan Yükselci" creationdate="20161130T122212Z">
+        <seg>Warn: Geçersiz etiketleri standart çıktıya bildir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9376,10 +11443,26 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Warranty</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112733Z" creationid="Erhan Yükselci" creationdate="20160922T112733Z">
+        <seg>Garanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Welsh</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Galce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Western Frisian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103335Z" creationid="Erhan Yükselci" creationdate="20160922T103335Z">
+        <seg>Batı Frizce</seg>
       </tuv>
     </tu>
     <tu>
@@ -9416,10 +11499,26 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112006Z" creationid="Erhan Yükselci" creationdate="20160922T112006Z">
+        <seg>Fareyi altı çizili ifadenin üzerine getirdiğinizde bir açıklama görünecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20140715T084345Z">
         <seg>Dosyaların tercüme edildikten sonraki haline görmek isterseniz tercümesi yapılmış dosyaları dışarı aktarabilir ve ilgili uygulamada açarak çevirinizi görebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T132735Z" creationid="Erhan Yükselci" creationdate="20161124T132735Z">
+        <seg>Sayı üzerinde sol tuşa tıkladığınızda seçilen betik çalıştırılacaktır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9456,6 +11555,22 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115756Z" creationid="Erhan Yükselci" creationdate="20161129T115756Z">
+        <seg>Boşluk Karakteri - önde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115801Z" creationid="Erhan Yükselci" creationdate="20161129T115801Z">
+        <seg>Boşluk Karakteri - sonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082333Z">
@@ -9476,6 +11591,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Zambaklar en ıssız yerlerde açar&lt;p&gt;Ve vardır her vahşi çiçekte gurur:&lt;p&gt;Sayfanız bulunamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wolof</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103244Z" creationid="Erhan Yükselci" creationdate="20160922T103244Z">
+        <seg>Volofça</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,6 +11691,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yiddish</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103409Z" creationid="Erhan Yükselci" creationdate="20160922T103409Z">
+        <seg>Yidiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="TR">
@@ -9582,6 +11713,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="TR">
         <seg>Ayrıntılı istatistiksel bilgileri şu dosyada bulabilirsiniz:
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T104305Z" creationid="Erhan Yükselci" creationdate="20160922T104305Z">
+        <seg>LanguageTool'u basit bir yazım denetleyicisinin tespit edemediği hataları bulabilen (İngilizce'de "there" ile "their" ya da "no" ile "now" sözcüklerinin birbirlerin karıştırılması gibi) bir yazılım olarak düşünebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9668,6 +11807,14 @@ dizini oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Zulu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103417Z" creationid="Erhan Yükselci" creationdate="20160922T103417Z">
+        <seg>Zuluca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105213Z">
@@ -9708,6 +11855,14 @@ dizini oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cr</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092629Z" creationid="Erhan Yükselci" creationdate="20160922T092629Z">
+        <seg>Th</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>exact search</seg>
       </tuv>
       <tuv lang="TR">
@@ -9732,6 +11887,32 @@ dizini oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ido</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093829Z" creationid="Erhan Yükselci" creationdate="20160922T093829Z">
+        <seg>İdo Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T123948Z" creationid="Erhan Yükselci" creationdate="20161130T123948Z">
+        <seg>init &lt;kaynak dil&gt; &lt;hedef dil&gt;
+		Belirtilen dilleri kullanarak minimal bir ekip projesi başlat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114014Z" creationid="Erhan Yükselci" creationdate="20161129T114014Z">
+        <seg>jsch-agent-proxy (jsch-agent-proxy lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>keyword search</seg>
       </tuv>
       <tuv lang="TR">
@@ -9744,6 +11925,14 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>lan&amp;g (dil özelliği)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lao</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094840Z" creationid="Erhan Yükselci" creationdate="20160922T094840Z">
+        <seg>Laoca</seg>
       </tuv>
     </tu>
     <tu>
@@ -9784,6 +11973,22 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T095910Z">
         <seg>Dilimin başına gitme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ms</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095109Z" creationid="Erhan Yükselci" creationdate="20160922T095109Z">
+        <seg>Bayan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>nor</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100118Z" creationid="Erhan Yükselci" creationdate="20160922T100118Z">
+        <seg>veya değil</seg>
       </tuv>
     </tu>
     <tu>
@@ -9900,10 +12105,58 @@ dizini oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114149Z" creationid="Erhan Yükselci" creationdate="20161129T114149Z">
+        <seg>slf4j (MIT Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sm</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101116Z" creationid="Erhan Yükselci" creationdate="20160922T101116Z">
+        <seg>SMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
       <tuv lang="TR">
         <seg>src (&amp;resimlerin URL'si)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>te</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102350Z" creationid="Erhan Yükselci" creationdate="20160922T102350Z">
+        <seg>&amp;Notlarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tha</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102354Z" creationid="Erhan Yükselci" creationdate="20160922T102354Z">
+        <seg>Pe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ti</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102700Z" creationid="Erhan Yükselci" creationdate="20160922T102700Z">
+        <seg>Düğümler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114212Z" creationid="Erhan Yükselci" creationdate="20161129T114212Z">
+        <seg>trie4j (Apache Lisansı 2.0)</seg>
       </tuv>
     </tu>
     <tu>
