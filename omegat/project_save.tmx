@@ -8859,6 +8859,16 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T080130Z" creationid="Erhan Yükselci" creationdate="20190131T080130Z">
+        <seg>Kapsam:
+Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi içinde bulunan dosyalar olarak ayarlanabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101553Z" creationid="Erhan Yükselci" creationdate="20160922T101553Z">
