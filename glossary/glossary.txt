@@ -138,3 +138,5 @@ thread	silsile
 search thread	arama silsilesi
 marker	işaret metni
 plugin	eklenti
+parse	ayrıştırmak
+configuration file	yapılandırma dosyası
