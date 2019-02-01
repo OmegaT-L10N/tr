@@ -137,3 +137,4 @@ replacement string	değiştirme dizgisi
 thread	silsile
 search thread	arama silsilesi
 marker	işaret metni
+plugin	eklenti
