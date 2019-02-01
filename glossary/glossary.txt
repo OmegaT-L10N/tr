@@ -142,3 +142,4 @@ parse	ayrıştırmak
 configuration file	yapılandırma dosyası
 path	yol
 file path	dosya yolu
+header	üst bilgi
