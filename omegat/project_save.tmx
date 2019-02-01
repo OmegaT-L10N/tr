@@ -4356,8 +4356,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>File Format</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Dosya Formatı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T101515Z">
+        <seg>Dosya Format</seg>
       </tuv>
     </tu>
     <tu>
