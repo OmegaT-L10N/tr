@@ -1964,8 +1964,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123658Z">
-        <seg>&amp;Üstbilgideki 'nplurals=INTEGER; &amp;plural=EXPRESSION;' değişikliklerini otomatik olarak yap</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102804Z">
+        <seg>&amp;Üst bilgideki 'nplurals=INTEGER; &amp;plural=EXPRESSION;' değişikliklerini otomatik olarak yap</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4650,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102822Z" creationid="Erhan Yükselci" creationdate="20190201T102822Z">
+        <seg>Format:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
       <tuv lang="TR">
@@ -6643,6 +6651,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095555Z" creationid="Erhan Yükselci" creationdate="20160922T095555Z">
         <seg>Moğolca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102947Z" creationid="Erhan Yükselci" creationdate="20190201T102947Z">
+        <seg>Tek dilli</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,6 +9923,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123116Z" creationid="Erhan Yükselci" creationdate="20161129T123116Z">
         <seg>Yazım hata(lar)ı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102825Z" creationid="Erhan Yükselci" creationdate="20190201T102825Z">
+        <seg>Standart</seg>
       </tuv>
     </tu>
     <tu>
