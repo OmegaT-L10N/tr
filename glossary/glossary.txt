@@ -128,3 +128,12 @@ translated documents	çevrilmiş belgeler
 directory	dizin
 orphan	karşılıksız
 clipboard	pano
+wildcard	joker
+exact search	tam arama
+keyword search	anahtar sözcük arama
+wildcard character	joker karakter
+search string	arama dizgisi
+replacement string	değiştirme dizgisi
+thread	silsile
+search thread	arama silsilesi
+marker	işaret metni
