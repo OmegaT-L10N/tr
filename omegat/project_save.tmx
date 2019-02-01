@@ -864,8 +864,8 @@
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123528Z">
-        <seg>&amp;PO üstbilgisini es geç</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102751Z">
+        <seg>&amp;PO üst bilgisini es geç</seg>
       </tuv>
     </tu>
     <tu>
@@ -1799,6 +1799,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T084739Z">
         <seg>Etiketlerin düzenlenmesini izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102720Z" creationid="Erhan Yükselci" creationdate="20190201T102720Z">
+        <seg>&amp;Boş kaynak dilimlerinin çevrilmesine izin ver</seg>
       </tuv>
     </tu>
     <tu>
