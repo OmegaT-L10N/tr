@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091928Z" creationid="Erhan Yükselci" creationdate="20190201T091928Z">
+        <seg>Seçenekleri Sı&amp;fırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T132907Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="TR">
         <seg>&amp;Projede Arama Yap...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091851Z" creationid="Erhan Yükselci" creationdate="20190201T091851Z">
+        <seg>&amp;Seçim için Ara</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1006,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090009Z" creationid="Erhan Yükselci" creationdate="20190201T085548Z">
+        <seg>'*', sıfır ya da daha çok karakterle eşleşir ('run*'; 'run,' 'runs' ve 'running' ile eşleşir)
+'?', tam olarak bir karakterle eşleşir ('run?'; 'runs' 've 'rung' ile eşleşir, 'run' ve 'running' ile eşleşmez).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092537Z">
@@ -1061,6 +1087,14 @@ java.exe adlı dosyadır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T100515Z">
         <seg>* İmlecin düzenlenebilir dilimin dışında bulunması halinde bu tuşlar farklı davranış gösterir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091546Z" creationid="Erhan Yükselci" creationdate="20190201T091546Z">
+        <seg>+{0} daha</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,6 +1739,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092635Z" creationid="Erhan Yükselci" creationdate="20190201T092635Z">
+        <seg>{1}'den {0} sözlükçe girdisi eklendi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102100Z">
@@ -1928,6 +1970,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090944Z" creationid="Erhan Yükselci" creationdate="20190201T090944Z">
+        <seg>Düzenleyiciyle Otomatik Eşitleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="TR">
@@ -1992,6 +2042,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091009Z" creationid="Erhan Yükselci" creationdate="20190201T091009Z">
+        <seg>Kapatıldığında ilk dilime dön</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092313Z" creationid="Erhan Yükselci" creationdate="20190201T092313Z">
+        <seg>Tercihler yedeklendi: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114848Z" creationid="Erhan Yükselci" creationdate="20160921T114848Z">
@@ -2002,8 +2068,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T121931Z">
-        <seg>Yanlış dizin adı: {0}</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091245Z">
+        <seg>Yanlış klasör adı: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,6 +3762,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091210Z" creationid="Erhan Yükselci" creationdate="20190201T091210Z">
+        <seg>Düzenli ifade değiştirmesinde hata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115436Z">
@@ -3722,8 +3796,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123405Z">
-        <seg>İşaret metninin '{0}' başlatılmasında hata</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092758Z">
+        <seg>'{0}' işaret metninin başlatılmasında hata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092800Z" creationid="Erhan Yükselci" creationdate="20190201T092800Z">
+        <seg>%s'den eklenti yüklenemedi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,8 +3852,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Error searching directory tree!</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Dizin ağacında arama yapılamıyor!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091139Z">
+        <seg>Klasör ağacında arama yapılamıyor!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3968,6 +4050,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091023Z" creationid="Erhan Yükselci" creationdate="20190201T091023Z">
+        <seg>Karşılıksız dilimleri hariç tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T160435Z">
@@ -4120,6 +4210,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092340Z" creationid="Erhan Yükselci" creationdate="20190201T092340Z">
+        <seg>Tercihler dosyası yedeklenemedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141656Z" creationid="Erhan Yükselci" creationdate="20190130T141656Z">
@@ -4204,6 +4302,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092919Z" creationid="Erhan Yükselci" creationdate="20160922T092919Z">
         <seg>Fiji Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091553Z" creationid="Erhan Yükselci" creationdate="20190201T091553Z">
+        <seg>Dosya</seg>
       </tuv>
     </tu>
     <tu>
@@ -4756,6 +4862,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093028Z" creationid="Erhan Yükselci" creationdate="20160922T093028Z">
         <seg>Yunanca, Modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091238Z" creationid="Erhan Yükselci" creationdate="20190201T091238Z">
+        <seg>{0} grubu arama ifadesinde mevcut değil</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,6 +5875,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130425T133932Z">
         <seg>Düzenleyici kullanılabilecek klavye kısayolları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090713Z" creationid="Erhan Yükselci" creationdate="20190201T090713Z">
+        <seg>Anahtar sözcük aramaları, arama dizgisinde kullanılamaz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6965,6 +7087,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120353Z">
         <seg>Şimdi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091508Z" creationid="Erhan Yükselci" creationdate="20190201T091508Z">
+        <seg>Eşleşen dilim sayısı:: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8263,6 +8393,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103252Z">
         <seg>Çeviriden kaldırılması gereken parçalar için kurallı ifade:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T085156Z" creationid="Erhan Yükselci" creationdate="20190201T085156Z">
+        <seg>Düzenli ifade aramaları, kullanım kılavuzunda belirtildiği üzere Java düzenli ifadeleriyle eşleşir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10264,16 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090559Z" creationid="Erhan Yükselci" creationdate="20190201T090559Z">
+        <seg>Metin Değiştirme:
+Metin değiştirmenin kapsamı, içeriği olsun olmasın projenin hedef dilimleridir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="TR">
@@ -11012,9 +11160,9 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T080454Z" creationid="Erhan Yükselci" creationdate="20190131T080454Z">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T085304Z" creationid="Erhan Yükselci" creationdate="20190131T080454Z">
         <seg>Türler:
-Tama aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
+Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11267,6 +11415,14 @@ Tama aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T092725Z" creationid="Erhan Yükselci" creationdate="20190201T092725Z">
+        <seg>'{1}''de bilinmeye eklenti türü '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -11369,6 +11525,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T101208Z" creationid="Erhan Yükselci" creationdate="20161124T101208Z">
         <seg>Kullanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090851Z" creationid="Erhan Yükselci" creationdate="20190201T090851Z">
+        <seg>N'inci gruba gönderme yapmak için $n kullanın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11735,6 +11899,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090819Z" creationid="Erhan Yükselci" creationdate="20190201T090819Z">
+        <seg>Düzenli ifadeler kullanılırken değiştirme dizgisi, arama dizgisinde tanımlanan gruplara göndermeleri destekler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20140715T084345Z">
@@ -11795,6 +11967,16 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115801Z" creationid="Erhan Yükselci" creationdate="20161129T115801Z">
         <seg>Boşluk Karakteri - sonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T085501Z" creationid="Erhan Yükselci" creationdate="20190201T085501Z">
+        <seg>Jokerler:
+Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kullanılabilir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12441,6 +12623,14 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142520Z" creationid="Erhan Yükselci" creationdate="20190130T142520Z">
         <seg>{0} ({1} kaldı) / {2} ({3} kaldı), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091551Z" creationid="Erhan Yükselci" creationdate="20190201T091551Z">
+        <seg>{0} +{1} daha</seg>
       </tuv>
     </tu>
     <tu>
