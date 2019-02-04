@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071205Z" creationid="Erhan Yükselci" creationdate="20190204T071205Z">
+        <seg>Unikod hazır bilgilerini (\uXXXX) kaldırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="TR">
@@ -5803,6 +5811,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T095140Z" creationid="Erhan Yükselci" creationdate="20190201T095140Z">
         <seg>Eklentiler için kullanılan jar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T070722Z" creationid="Erhan Yükselci" creationdate="20190204T070722Z">
+        <seg>Java Kaynak Desteleri Filtre Seçenekleri</seg>
       </tuv>
     </tu>
     <tu>
