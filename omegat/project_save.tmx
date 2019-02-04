@@ -3474,6 +3474,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074108Z" creationid="Erhan Yükselci" creationdate="20190204T074108Z">
+        <seg>&amp;Belge özellikleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071421Z" creationid="Erhan Yükselci" creationdate="20190204T071421Z">
@@ -4114,6 +4122,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074109Z" creationid="Erhan Yükselci" creationdate="20190204T074109Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T125458Z">
@@ -4230,6 +4246,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Mevcut seçimi, müteakip işlemler için bir metin dosyasına aktarır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074213Z" creationid="Erhan Yükselci" creationdate="20190204T074213Z">
+        <seg>Dış &amp;Bağlantı</seg>
       </tuv>
     </tu>
     <tu>
@@ -8215,6 +8239,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Portekizce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074114Z" creationid="Erhan Yükselci" creationdate="20190204T074114Z">
+        <seg>Power Point</seg>
       </tuv>
     </tu>
     <tu>
