@@ -3562,6 +3562,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074055Z" creationid="Erhan Yükselci" creationdate="20190204T074055Z">
+        <seg>Yinelenen &amp;Geri Dönüş Metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T141912Z" creationid="Erhan Yükselci" creationdate="20190130T141912Z">
@@ -4668,8 +4676,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124610Z">
-        <seg>&amp;Altbilgiler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074007Z">
+        <seg>&amp;Alt Bilgiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -5076,8 +5084,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124603Z">
-        <seg>&amp;Üstbilgiler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074004Z">
+        <seg>&amp;Üst Bilgiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -12515,6 +12523,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103244Z" creationid="Erhan Yükselci" creationdate="20160922T103244Z">
         <seg>Volofça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073937Z" creationid="Erhan Yükselci" creationdate="20190204T073937Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
