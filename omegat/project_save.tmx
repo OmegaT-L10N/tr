@@ -1963,6 +1963,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092556Z" creationid="Erhan Yükselci" creationdate="20190204T092556Z">
+        <seg>Sözlük indirilirken bir hata oluştu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
@@ -6605,10 +6613,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092645Z" creationid="Erhan Yükselci" creationdate="20190204T092645Z">
+        <seg>LanguageTool API sürümü uyuşmazlığı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103513Z" creationid="Erhan Yükselci" creationdate="20160922T103513Z">
         <seg>LanguageTool eklentisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092621Z" creationid="Erhan Yükselci" creationdate="20190204T092621Z">
+        <seg>LanguageTool sunucusu başladı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092628Z" creationid="Erhan Yükselci" creationdate="20190204T092628Z">
+        <seg>LanguageTool sunucusu sonlandırıldı</seg>
       </tuv>
     </tu>
     <tu>
@@ -8671,6 +8703,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115709Z" creationid="Erhan Yükselci" creationdate="20161129T115709Z">
         <seg>Lütfen bir proje açtıktan sonra tekrar deneyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092605Z" creationid="Erhan Yükselci" creationdate="20190204T092605Z">
+        <seg>Lütfen tekrar deneyin.</seg>
       </tuv>
     </tu>
     <tu>
