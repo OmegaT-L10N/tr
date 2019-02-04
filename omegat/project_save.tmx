@@ -6621,6 +6621,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092706Z" creationid="Erhan Yükselci" creationdate="20190204T092706Z">
+        <seg>LanguageTool yanlış yapılandırılmış.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103513Z" creationid="Erhan Yükselci" creationdate="20160922T103513Z">
@@ -6657,6 +6665,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161128T125555Z" creationid="Erhan Yükselci" creationdate="20160922T112045Z">
         <seg>LanguageTool, /plugin klasöründe eski bir sürümün bulunması halinde düzgün çalışmaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T093034Z" creationid="Erhan Yükselci" creationdate="20190204T093034Z">
+        <seg>LanguageTool: hatalı yerel yol</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11067,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T121446Z" creationid="Erhan Yükselci" creationdate="20190130T121446Z">
         <seg>{0} ile {1} görünümleri arasında geçiş yap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092721Z" creationid="Erhan Yükselci" creationdate="20190204T092721Z">
+        <seg>Yerleşik sürüme geçiliyor.</seg>
       </tuv>
     </tu>
     <tu>
