@@ -1763,6 +1763,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API Key:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101904Z" creationid="Erhan Yükselci" creationdate="20190204T101904Z">
+        <seg>API Anahtarı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113801Z" creationid="Erhan Yükselci" creationdate="20161129T113801Z">
@@ -4084,6 +4092,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Düzenleyici penceresi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101900Z" creationid="Erhan Yükselci" creationdate="20190204T101900Z">
+        <seg>E-posta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9095,6 +9111,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Seçenekler sistemi kaydetme işlemi başarısız oldu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102126Z" creationid="Erhan Yükselci" creationdate="20190204T102126Z">
+        <seg>Premium Sürümü</seg>
       </tuv>
     </tu>
     <tu>
