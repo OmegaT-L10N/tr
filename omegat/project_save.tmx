@@ -6849,6 +6849,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090303Z" creationid="Erhan Yükselci" creationdate="20190204T090303Z">
+        <seg>Makine Çevirisi Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071653Z" creationid="Erhan Yükselci" creationdate="20190204T071653Z">
@@ -7697,6 +7705,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090000Z" creationid="Erhan Yükselci" creationdate="20190204T085905Z">
         <seg>Dilimde Sözlükçe Eşleşmeleri Olduğunda Bana Bildir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090319Z" creationid="Erhan Yükselci" creationdate="20190204T090319Z">
+        <seg>Dilimde Notlar Olduğunda Bana Bildir</seg>
       </tuv>
     </tu>
     <tu>
