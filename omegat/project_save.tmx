@@ -12697,6 +12697,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083035Z" creationid="Erhan Yükselci" creationdate="20190204T083035Z">
+        <seg>Bir dosyada bundan daha çok dilim varsa ek dilimler aşağı indikçe yüklenecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112006Z" creationid="Erhan Yükselci" creationdate="20160922T112006Z">
