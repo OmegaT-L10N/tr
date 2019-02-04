@@ -3280,6 +3280,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T114844Z" creationid="Erhan Yükselci" creationdate="20190204T114844Z">
+        <seg>&lt;proje&gt;/omegat/project_save.tmx dosyasını güvenli bir konuma kopyalayın
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155101Z">
