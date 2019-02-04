@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091208Z" creationid="Erhan Yükselci" creationdate="20190204T091208Z">
+        <seg>&amp;Gözat...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="TR">
@@ -3394,8 +3402,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionary File Folder</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092809Z">
-        <seg>Sözlük Dosyası Dizini</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091201Z">
+        <seg>Sözlük Dosyası Klasörü</seg>
       </tuv>
     </tu>
     <tu>
@@ -3426,8 +3434,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Dictionary file folder:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092757Z">
-        <seg>Sözlük dosyası dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091156Z">
+        <seg>Sözlük dosyası klasörü:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12267,8 +12275,8 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       <tuv lang="EN">
         <seg>URL of online dictionaries:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092839Z">
-        <seg>Çevrimiçi sözlüklerin URL'si:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092401Z">
+        <seg>Çevrim içi sözlüklerin URL'si:</seg>
       </tuv>
     </tu>
     <tu>
