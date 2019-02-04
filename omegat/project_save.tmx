@@ -8281,6 +8281,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Multiple Translations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103613Z" creationid="Erhan Yükselci" creationdate="20190204T103613Z">
+        <seg>Dilimde Birden Fazla Çeviri Olduğunda Bana Bildir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090319Z" creationid="Erhan Yükselci" creationdate="20190204T090319Z">
