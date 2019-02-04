@@ -2043,6 +2043,22 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150002Z" creationid="Erhan Yükselci" creationdate="20190204T150002Z">
+        <seg>Şifrenin düz metin olarak kaydedilmesine izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T145741Z" creationid="Erhan Yükselci" creationdate="20190204T145741Z">
+        <seg>Şifrenin düz metin olarak yerelde kaydedilmesine izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085444Z" creationid="Erhan Yükselci" creationdate="20190204T085444Z">
@@ -3270,6 +3286,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
         <seg>Console-translate (konsol çeviri) kipi:
 	--source-pattern=&lt;desen&gt;
 		İşlenecek kaynak dosyalarının düzenli ifadeli beyaz listesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150247Z" creationid="Erhan Yükselci" creationdate="20190204T150247Z">
+        <seg>Eski Ekip Projesini Dönüştür</seg>
       </tuv>
     </tu>
     <tu>
@@ -5438,6 +5462,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T145809Z" creationid="Erhan Yükselci" creationdate="20190204T145809Z">
+        <seg>Değişiklik olmadığı için Git '{0}' hiçbir şey yapmadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113846Z">
@@ -6566,6 +6598,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T134548Z">
         <seg>Sizin yaptığınız çevirileri işaretlemekte kullanılır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150128Z" creationid="Erhan Yükselci" creationdate="20190204T150128Z">
+        <seg>Yeni bir ekip projesine dönüştürülmesi gerekiyor, ama konsol modunda buna yapmak mümkün değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,6 +8575,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150306Z" creationid="Erhan Yükselci" creationdate="20190204T150306Z">
+        <seg>OmegaT, 3.6 tarzı bir ekip projesi algıladı.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T103737Z">
@@ -9365,6 +9413,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080133Z" creationid="Erhan Yükselci" creationdate="20190204T080133Z">
         <seg>T&amp;üm etiketler için boşlukları koru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T154403Z" creationid="Erhan Yükselci" creationdate="20190204T154310Z">
+        <seg>Projeyi 4.x tarzı ekip projesine dönüştürmek için 'Tamam' düğmesine tıklatın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12445,6 +12501,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150154Z" creationid="Erhan Yükselci" creationdate="20190204T150154Z">
+        <seg>Proje, ekip işlevi olmaksızın yerel bir proje olarak yüklenecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T094047Z">
@@ -12529,6 +12593,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092511Z" creationid="Erhan Yükselci" creationdate="20190204T092511Z">
         <seg>Belirtilen sözlük klasörü mevcut değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150047Z" creationid="Erhan Yükselci" creationdate="20190204T150047Z">
+        <seg>Belirtilen proje, OmegaT 3.6 tarzı bir ekip projesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12667,6 +12739,17 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122712Z">
         <seg>Bu birimler es geçildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T154431Z" creationid="Erhan Yükselci" creationdate="20190204T154431Z">
+        <seg>Bu
+yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12837,6 +12920,14 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T114803Z" creationid="Erhan Yükselci" creationdate="20190204T114803Z">
         <seg>Çeviri kaybını önlemek için şunları yapmalısınız:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150230Z" creationid="Erhan Yükselci" creationdate="20190204T150230Z">
+        <seg>Yeni ekip projesine dönüştürmek için OmegaT GUI'sinde açın.</seg>
       </tuv>
     </tu>
     <tu>
