@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Language Checker</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103516Z" creationid="Erhan Yükselci" creationdate="20190204T103516Z">
+        <seg>&amp;Dil Denetleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T105636Z">
