@@ -3434,6 +3434,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071421Z" creationid="Erhan Yükselci" creationdate="20190204T071421Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="TR">
@@ -9287,6 +9295,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scribus</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071357Z" creationid="Erhan Yükselci" creationdate="20190204T071357Z">
+        <seg>Scribus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111658Z">
@@ -10195,6 +10211,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T125741Z" creationid="Erhan Yükselci" creationdate="20161129T125724Z">
         <seg>Geçerli dilimdeki etiketleri kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071514Z" creationid="Erhan Yükselci" creationdate="20190204T071514Z">
+        <seg>SubRip Alt Yazıları</seg>
       </tuv>
     </tu>
     <tu>
@@ -12467,6 +12491,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124412Z">
         <seg>XLIFF Filtresi Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071415Z" creationid="Erhan Yükselci" creationdate="20190204T071415Z">
+        <seg>XML Elektronik Tablosu 2003</seg>
       </tuv>
     </tu>
     <tu>
