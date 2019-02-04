@@ -5132,6 +5132,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080537Z" creationid="Erhan Yükselci" creationdate="20190204T080537Z">
+        <seg>HTML ve XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML and XHTML files</seg>
       </tuv>
       <tuv lang="TR">
@@ -7772,8 +7780,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T134717Z">
-        <seg>&amp;Eğer (X)HTML dosyasının bir üstbilgi varsa</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080603Z">
+        <seg>&amp;Eğer (X)HTML dosyasının bir üst bilgi varsa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11627,16 +11635,16 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated File Encoding:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çeviri Dosya Kodlaması:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080512Z">
+        <seg>Çevrilmiş Dosya Kodlaması:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102610Z">
-        <seg>Çevrilmiş Dosya Adı Desen</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080524Z">
+        <seg>Çevrilmiş Dosya Adı Deseni</seg>
       </tuv>
     </tu>
     <tu>
