@@ -2518,6 +2518,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092429Z" creationid="Erhan Yükselci" creationdate="20190204T092429Z">
+        <seg>Kaldırılamıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cannot load specified XML file!</seg>
       </tuv>
       <tuv lang="TR">
@@ -11643,6 +11651,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092455Z" creationid="Erhan Yükselci" creationdate="20190204T092455Z">
+        <seg>Belirtilen sözlük klasörü kullanılamaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094804Z">
@@ -13329,8 +13345,8 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Şu an projenizin kullandığı yazım kontrolü sözlüğünü kaldırmak üzeresiniz.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092409Z">
+        <seg>Şu an projenizin kullandığı yazım denetimi sözlüğünü kaldırmak üzeresiniz.</seg>
       </tuv>
     </tu>
     <tu>
