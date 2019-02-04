@@ -7049,6 +7049,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083719Z" creationid="Erhan Yükselci" creationdate="20190204T083719Z">
+        <seg>&amp;Değişiklik bilgisi şablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T104624Z">
