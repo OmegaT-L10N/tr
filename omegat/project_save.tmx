@@ -5552,6 +5552,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104223Z" creationid="Erhan Yükselci" creationdate="20190204T104223Z">
+        <seg>&amp;Satıra Git...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093028Z" creationid="Erhan Yükselci" creationdate="20160922T093028Z">
