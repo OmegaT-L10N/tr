@@ -11633,6 +11633,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T115131Z" creationid="Erhan Yükselci" creationdate="20190204T115131Z">
+        <seg>OmegaT'yi başlatın ve çevirmeye devam edin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074516Z" creationid="Erhan Yükselci" creationdate="20190204T074516Z">
