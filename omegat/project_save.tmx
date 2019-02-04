@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080450Z" creationid="Erhan Yükselci" creationdate="20190204T080450Z">
+        <seg>Alternatif çeviri içeren dilimleri belirlerken dosya içeriğini yok say</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133514Z" creationid="Erhan Yükselci" creationdate="20190130T095801Z">
