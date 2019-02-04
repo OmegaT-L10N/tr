@@ -1787,6 +1787,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090356Z" creationid="Erhan Yükselci" creationdate="20190204T090356Z">
+        <seg>Eylemler ve Ayarlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181153Z" creationid="Erhan Yükselci" creationdate="20190130T181153Z">
@@ -7685,6 +7693,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090332Z" creationid="Erhan Yükselci" creationdate="20190204T090332Z">
+        <seg>Dilimde Yorumlar Olduğunda Bana Bildir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085941Z" creationid="Erhan Yükselci" creationdate="20190204T085941Z">
@@ -7849,9 +7865,9 @@ inside the configuration folder.</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T104846Z">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090417Z">
         <seg>OmegatT'nin işletim sisteminizin adını içeren sistem özelliğine
-ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine izin verilmedi.</seg>
+ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine izin verilmedi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11634,9 +11650,9 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T104903Z">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090427Z">
         <seg>Bu yüzden, OmegaT'nin yapılandırma
-dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
+klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
     </tu>
     <tu>
