@@ -6340,6 +6340,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102527Z" creationid="Erhan Yükselci" creationdate="20190204T102527Z">
+        <seg>Geçersiz API anahtarı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130258Z">
@@ -13923,6 +13931,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101732Z" creationid="Erhan Yükselci" creationdate="20190204T101732Z">
         <seg>Yandex Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102518Z" creationid="Erhan Yükselci" creationdate="20190204T102518Z">
+        <seg>Yandex Translate - API Anahtarı Belirtilmedi</seg>
       </tuv>
     </tu>
     <tu>
