@@ -1154,6 +1154,14 @@ Projenize dosya eklemek için "Proje Dosyaları" penceresindeki "Kaynak Klasör�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Leave the Password empty if you are using an API Key.)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102249Z" creationid="Erhan Yükselci" creationdate="20190204T102249Z">
+        <seg>(API Anahtarı kullanıyorsanız Şifreyi boş bırakın).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="TR">
@@ -7565,6 +7573,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102327Z" creationid="Erhan Yükselci" creationdate="20190204T102327Z">
+        <seg>Microsoft Translator Abonelik Anahtarı kullanılamıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="TR">
@@ -11403,6 +11419,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071543Z" creationid="Erhan Yükselci" creationdate="20190204T071514Z">
         <seg>SubRip Alt Yazı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription Key:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102257Z" creationid="Erhan Yükselci" creationdate="20190204T102257Z">
+        <seg>Abonelik Anahtarı:</seg>
       </tuv>
     </tu>
     <tu>
