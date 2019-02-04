@@ -7239,8 +7239,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110702Z">
-        <seg>&amp;İkiyönlü Algoritma Kontrol Karakterlerini İşaretle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101316Z">
+        <seg>&amp;İki Yönlü Algoritma Kontrol Karakterlerini İşaretle</seg>
       </tuv>
     </tu>
     <tu>
