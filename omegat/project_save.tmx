@@ -1935,6 +1935,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apache Commons (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075110Z" creationid="Erhan Yükselci" creationdate="20190204T075110Z">
+        <seg>Apache Commons (Apache Lisansı 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="TR">
@@ -6289,6 +6297,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075126Z" creationid="Erhan Yükselci" creationdate="20190204T075126Z">
+        <seg>LanguageTool (LGPL Lisansı ve diğerleri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103513Z" creationid="Erhan Yükselci" creationdate="20160922T103513Z">
@@ -10503,6 +10519,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102018Z" creationid="Erhan Yükselci" creationdate="20160922T102018Z">
         <seg>Sundaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075150Z" creationid="Erhan Yükselci" creationdate="20190204T075150Z">
+        <seg>SuperTMXMerge (Apache Lisansı 2.0)</seg>
       </tuv>
     </tu>
     <tu>
