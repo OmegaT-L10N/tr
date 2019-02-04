@@ -3220,6 +3220,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075254Z" creationid="Erhan Yükselci" creationdate="20190204T075254Z">
+        <seg>JDict projesinden DictZip (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionar&amp;y</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T133149Z" creationid="Erhan Yükselci" creationdate="20190130T095806Z">
@@ -5056,6 +5064,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093028Z" creationid="Erhan Yükselci" creationdate="20160922T093028Z">
         <seg>Yunanca, Modern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075200Z" creationid="Erhan Yükselci" creationdate="20190204T075200Z">
+        <seg>Groovy (Apache Lisansı 2.0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13077,6 +13093,14 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114014Z" creationid="Erhan Yükselci" creationdate="20161129T114014Z">
         <seg>jsch-agent-proxy (jsch-agent-proxy lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075208Z" creationid="Erhan Yükselci" creationdate="20190204T075208Z">
+        <seg>juniversalchardet (GPL)</seg>
       </tuv>
     </tu>
     <tu>
