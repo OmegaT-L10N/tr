@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T081419Z" creationid="Erhan Yükselci" creationdate="20190204T081419Z">
+        <seg>Dilimi &amp;geçerken etiketleri doğrula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
       <tuv lang="TR">
@@ -1871,6 +1879,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112838Z">
         <seg>Projeyi {0}'e göre hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T081412Z" creationid="Erhan Yükselci" creationdate="20190204T081412Z">
+        <seg>Etiketlerin &amp;düzenlenmesini izin ver</seg>
       </tuv>
     </tu>
     <tu>
@@ -9597,6 +9613,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111458Z">
         <seg>Betiği Kaydet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T081457Z" creationid="Erhan Yükselci" creationdate="20190204T081457Z">
+        <seg>&amp;Otomatik yerleştirme durumunu kaydet</seg>
       </tuv>
     </tu>
     <tu>
