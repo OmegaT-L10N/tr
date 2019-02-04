@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>&amp;Otomatik olarak yazım kontrolü yap</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091143Z">
+        <seg>&amp;Otomatik olarak yazım denetimi yap</seg>
       </tuv>
     </tu>
     <tu>
@@ -5750,8 +5750,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092642Z">
-        <seg>Tümünü Yoksay</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091100Z">
+        <seg>Tümünü Yok Say</seg>
       </tuv>
     </tu>
     <tu>
@@ -10785,8 +10785,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Spellchecker Setup</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Yazım Kontrolü Ayarları</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091129Z">
+        <seg>Yazım Denetleyici Ayarları</seg>
       </tuv>
     </tu>
     <tu>
