@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063433Z" creationid="Erhan Yükselci" creationdate="20190204T063433Z">
+        <seg>&amp;Hedef dosyalardaki çevrilmemiş dizgileri kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081419Z" creationid="Erhan Yükselci" creationdate="20190130T075626Z">
@@ -1095,6 +1103,14 @@ java.exe adlı dosyadır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091546Z" creationid="Erhan Yükselci" creationdate="20190201T091546Z">
         <seg>+{0} daha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063612Z" creationid="Erhan Yükselci" creationdate="20190204T063612Z">
+        <seg>---- Yerelleştirme Notları ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,6 +6807,30 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063458Z" creationid="Erhan Yükselci" creationdate="20190204T063458Z">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063525Z" creationid="Erhan Yükselci" creationdate="20190204T063525Z">
+        <seg>Mozilla DTD Filtre Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063559Z" creationid="Erhan Yükselci" creationdate="20190204T063559Z">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110311Z">
@@ -8305,6 +8345,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115628Z" creationid="Erhan Yükselci" creationdate="20161129T115628Z">
         <seg>SY - Kontrol Kuralları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063617Z" creationid="Erhan Yükselci" creationdate="20190204T063617Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
@@ -10352,6 +10400,14 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063626Z" creationid="Erhan Yükselci" creationdate="20190204T063626Z">
+        <seg>Metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Filter Options</seg>
       </tuv>
       <tuv lang="TR">
@@ -10456,6 +10512,22 @@ yerine mevcut dizin kullanılacaktır. </seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T110147Z" creationid="Erhan Yükselci" creationdate="20160922T110147Z">
         <seg>LanguageTool eklentisi OmegaT'ye dahil edilmiştir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063451Z" creationid="Erhan Yükselci" creationdate="20190204T063451Z">
+        <seg>PHP filtresi özel durum oluşturdu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063556Z" creationid="Erhan Yükselci" creationdate="20190204T063556Z">
+        <seg>Mozilla DTD filtresi özel durum oluşturdu:</seg>
       </tuv>
     </tu>
     <tu>
