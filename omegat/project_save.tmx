@@ -6661,6 +6661,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100517Z" creationid="Erhan Yükselci" creationdate="20190204T100517Z">
+        <seg>LanguageTool, hedef diliniz için kullanılamıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103513Z" creationid="Erhan Yükselci" creationdate="20160922T103513Z">
@@ -6953,6 +6961,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094843Z" creationid="Erhan Yükselci" creationdate="20160922T094843Z">
         <seg>Litvanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100638Z" creationid="Erhan Yükselci" creationdate="20190204T100638Z">
+        <seg>Projenin dilleri için kural yapılandırmak için bir proje yükleyin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11975,6 +11991,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Bu şekilde değişmeden kalan dilimlere yönelik olarak iki strateji uygulanabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100537Z" creationid="Erhan Yükselci" creationdate="20190204T100537Z">
+        <seg>LanguageTool başlatılırken hata oluştu.</seg>
       </tuv>
     </tu>
     <tu>
