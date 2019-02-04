@@ -9070,6 +9070,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112909Z" creationid="Erhan Yükselci" creationdate="20190204T112909Z">
+        <seg>Başka bir OmegaT kopyasında açılmış olabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100356Z" creationid="Erhan Yükselci" creationdate="20160922T100356Z">
@@ -9561,6 +9569,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje yüklenmesi başladı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112543Z" creationid="Erhan Yükselci" creationdate="20190204T112543Z">
+        <seg>Proje kilitli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12517,8 +12533,8 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113040Z">
-        <seg>Yazılabilir sözlükçe dosyası "sözlükçe" (/glossary/) dizininde değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112538Z">
+        <seg>Yazılabilir sözlükçe dosyası "sözlükçe" (/glossary/) klasöründe değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13017,8 +13033,8 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translation memory folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112954Z">
-        <seg>Çeviri belleği dizini {0} mevcut değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112526Z">
+        <seg>Çeviri belleği klasörü {0} mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
