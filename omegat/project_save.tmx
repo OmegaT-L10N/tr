@@ -3396,6 +3396,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083056Z" creationid="Erhan Yükselci" creationdate="20190204T083056Z">
+        <seg>&amp;Etiketleri görüntüle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143551Z">
@@ -10279,6 +10287,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180844Z">
         <seg>Bazı proje klasörleri taşınmış görünüyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083211Z" creationid="Erhan Yükselci" creationdate="20190204T083211Z">
+        <seg>Bulanık eşleşmeleri buna göre sırala:</seg>
       </tuv>
     </tu>
     <tu>
