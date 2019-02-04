@@ -3448,6 +3448,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101734Z" creationid="Erhan Yükselci" creationdate="20190204T101734Z">
+        <seg>DeepL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="TR">
@@ -4256,6 +4264,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error extracting MT result from MyMemory, response:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101858Z" creationid="Erhan Yükselci" creationdate="20190204T101858Z">
+        <seg>MyMemory'den makine çevirisi sonucu ayıklanırken hata, yanıt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error fixing tags</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115436Z">
@@ -4356,6 +4372,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T095119Z" creationid="Erhan Yükselci" creationdate="20190201T095119Z">
         <seg>'{0}' sınıfından eklenti yüklenmesinde hata: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while reading MT results</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101756Z" creationid="Erhan Yükselci" creationdate="20190204T101756Z">
+        <seg>Makine çevirisi sonuçları okunurken hata</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,6 +5724,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>&amp;Kaynağı Araya Ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101735Z" creationid="Erhan Yükselci" creationdate="20190204T101735Z">
+        <seg>IBM Watson</seg>
       </tuv>
     </tu>
     <tu>
@@ -7597,6 +7629,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101733Z" creationid="Erhan Yükselci" creationdate="20190204T101733Z">
+        <seg>Moses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154019Z">
@@ -7735,8 +7775,16 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>MyMemory (human)</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101718Z" creationid="Erhan Yükselci" creationdate="20190204T101718Z">
-        <seg>MyMemory (human)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101724Z" creationid="Erhan Yükselci" creationdate="20190204T101718Z">
+        <seg>MyMemory (insan)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (machine)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101731Z" creationid="Erhan Yükselci" creationdate="20190204T101725Z">
+        <seg>MyMemory (makine)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13779,6 +13827,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071415Z" creationid="Erhan Yükselci" creationdate="20190204T071415Z">
         <seg>XML Elektronik Tablosu 2003</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101732Z" creationid="Erhan Yükselci" creationdate="20190204T101732Z">
+        <seg>Yandex Translate</seg>
       </tuv>
     </tu>
     <tu>
