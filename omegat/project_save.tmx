@@ -7614,6 +7614,22 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074528Z" creationid="Erhan Yükselci" creationdate="20190204T074528Z">
+        <seg>OmegaT sürüm  {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074552Z" creationid="Erhan Yükselci" creationdate="20190204T074552Z">
+        <seg>OmegaT sürüm {0}, güncelleme {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="TR">
