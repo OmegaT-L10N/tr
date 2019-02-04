@@ -1887,6 +1887,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071625Z" creationid="Erhan Yükselci" creationdate="20190204T071625Z">
+        <seg>Android Kaynak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="TR">
@@ -3446,6 +3454,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Yapıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071644Z" creationid="Erhan Yükselci" creationdate="20190204T071644Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5210,6 +5226,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071708Z" creationid="Erhan Yükselci" creationdate="20190204T071708Z">
+        <seg>ILIAS Dil Dosyası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122553Z">
@@ -5983,6 +6007,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071642Z" creationid="Erhan Yükselci" creationdate="20190204T071642Z">
+        <seg>Anahtar=Değer Metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts in the editor</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130425T133932Z">
@@ -6475,6 +6507,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Makine Çevirisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071653Z" creationid="Erhan Yükselci" creationdate="20190204T071653Z">
+        <seg>Magento CE Locale CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -12193,6 +12233,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112733Z" creationid="Erhan Yükselci" creationdate="20160922T112733Z">
         <seg>Garanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071609Z" creationid="Erhan Yükselci" creationdate="20190204T071609Z">
+        <seg>WebVTT Alt Yazı</seg>
       </tuv>
     </tu>
     <tu>
