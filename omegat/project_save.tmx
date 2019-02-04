@@ -11281,9 +11281,9 @@ Metin değiştirmenin kapsamı, içeriği olsun olmasın projenin hedef dilimler
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105003Z">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090431Z">
         <seg>Bunun
-yerine mevcut dizin kullanılacaktır. </seg>
+yerine mevcut klasör kullanılacaktır. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13360,9 +13360,9 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
-      <tuv lang="TR">
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090528Z">
         <seg>İşletim sisteminiz OmegaT'nin kendine bir yapılandırma
-dizini oluşturmasına izin vermedi.</seg>
+klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
     </tu>
     <tu>
