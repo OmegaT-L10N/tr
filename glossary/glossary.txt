@@ -146,3 +146,4 @@ header	üst bilgi
 exception	özel durum
 whitespace	boşluk
 whitespace	boşluk karakteri
+template	şablon
