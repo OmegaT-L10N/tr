@@ -12341,6 +12341,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073000Z" creationid="Erhan Yükselci" creationdate="20190204T073000Z">
+        <seg>Varsa kimlik, yedek olarak kullanılacaktır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T090819Z" creationid="Erhan Yükselci" creationdate="20190201T090819Z">
