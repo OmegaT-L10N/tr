@@ -12219,6 +12219,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102638Z" creationid="Erhan Yükselci" creationdate="20190204T102638Z">
+        <seg>Metin boyutu üst sınırı aşıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The third column can be used for additional information.</seg>
       </tuv>
       <tuv lang="TR">
@@ -12321,6 +12329,14 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122712Z">
         <seg>Bu birimler es geçildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102538Z" creationid="Erhan Yükselci" creationdate="20190204T102538Z">
+        <seg>Bu API anahtarı engellendi</seg>
       </tuv>
     </tu>
     <tu>
@@ -13989,6 +14005,22 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T104305Z" creationid="Erhan Yükselci" creationdate="20160922T104305Z">
         <seg>LanguageTool'u basit bir yazım denetleyicisinin tespit edemediği hataları bulabilen (İngilizce'de "there" ile "their" ya da "no" ile "now" sözcüklerinin birbirlerin karıştırılması gibi) bir yazılım olarak düşünebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102601Z" creationid="Erhan Yükselci" creationdate="20190204T102601Z">
+        <seg>Günlük istek sınırına ulaştınız</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102620Z" creationid="Erhan Yükselci" creationdate="20190204T102620Z">
+        <seg>Günlük çevrilmiş metin hacmi sınırına ulaştınız</seg>
       </tuv>
     </tu>
     <tu>
