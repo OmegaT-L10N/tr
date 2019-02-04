@@ -10567,6 +10567,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104035Z" creationid="Erhan Yükselci" creationdate="20190204T104035Z">
+        <seg>Betik Sonucu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T105033Z">
@@ -10593,8 +10601,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Scripts Folder:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111347Z">
-        <seg>Betik Dizini:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103946Z">
+        <seg>Betik Klasörü:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10947,6 +10955,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>&amp;5'inci Eşleşmeyi Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104007Z" creationid="Erhan Yükselci" creationdate="20190204T104007Z">
+        <seg>Betik Klasörünü Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104017Z" creationid="Erhan Yükselci" creationdate="20190204T104017Z">
+        <seg>Betik Dosyası Seç</seg>
       </tuv>
     </tu>
     <tu>
