@@ -4932,6 +4932,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083333Z" creationid="Erhan Yükselci" creationdate="20190204T083333Z">
+        <seg>Tam metin, etiket ve sayılar dahil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075205Z" creationid="Erhan Yükselci" creationdate="20190131T075205Z">
@@ -7389,6 +7397,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111601Z">
         <seg>Betik ayarlanmadı.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083320Z" creationid="Erhan Yükselci" creationdate="20190204T083320Z">
+        <seg>Etiketsiz ve sayısız</seg>
       </tuv>
     </tu>
     <tu>
@@ -10597,8 +10613,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083308Z" creationid="Erhan Yükselci" creationdate="20190204T083308Z">
-        <seg>Köklerine ayırma, etiketsiz ve sayısız</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083402Z" creationid="Erhan Yükselci" creationdate="20190204T083308Z">
+        <seg>Sözcük kökleri, etiketsiz ve sayısız</seg>
       </tuv>
     </tu>
     <tu>
