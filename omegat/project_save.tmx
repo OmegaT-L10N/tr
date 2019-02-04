@@ -2183,6 +2183,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112451Z" creationid="Erhan Yükselci" creationdate="20190204T112451Z">
+        <seg>Konsol süreci çalıştırılırken bir hata oluştu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
