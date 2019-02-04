@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&amp;Bookmarks</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>&amp;Yerimleri</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071734Z">
+        <seg>&amp;Yer İmleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -2188,8 +2188,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112404Z">
-        <seg>Yerimi &amp;referansları</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071746Z">
+        <seg>Yer İmi &amp;referansları</seg>
       </tuv>
     </tu>
     <tu>
@@ -7686,6 +7686,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071710Z" creationid="Erhan Yükselci" creationdate="20190204T071710Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="TR">
@@ -11295,8 +11303,8 @@ dizininin konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translate the following elements:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Aşağıdaki öğeleri çevir:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071720Z">
+        <seg>Aşağıdaki ögeleri çevir:</seg>
       </tuv>
     </tu>
     <tu>
