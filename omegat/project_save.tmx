@@ -3556,6 +3556,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090257Z" creationid="Erhan Yükselci" creationdate="20190204T090257Z">
+        <seg>Tercihler &gt; Makine Çevirisi penceresinde seçtiğiniz makine çevirisi hizmetlerine göre kaynak dilimin çevirisini gösterir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112555Z" creationid="Erhan Yükselci" creationdate="20160922T112555Z">
@@ -7669,6 +7677,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085941Z" creationid="Erhan Yükselci" creationdate="20190204T085941Z">
+        <seg>Dilimde Sözlük Eşleşmeleri Olduğunda Bana Bildir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085621Z" creationid="Erhan Yükselci" creationdate="20190204T085621Z">
@@ -7679,8 +7695,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085905Z" creationid="Erhan Yükselci" creationdate="20190204T085905Z">
-        <seg>Sözlükçe Eşleşmeleri Olduğunda Bana Bildir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090000Z" creationid="Erhan Yükselci" creationdate="20190204T085905Z">
+        <seg>Dilimde Sözlükçe Eşleşmeleri Olduğunda Bana Bildir</seg>
       </tuv>
     </tu>
     <tu>
