@@ -3972,6 +3972,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085807Z" creationid="Erhan Yükselci" creationdate="20190204T085807Z">
+        <seg>Yazılabilir sözlükçeden gelen girdiler kalın harflerle görüntülenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
       <tuv lang="TR">
@@ -13175,6 +13183,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR">
         <seg>Şu an projenizin kullandığı yazım kontrolü sözlüğünü kaldırmak üzeresiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085648Z" creationid="Erhan Yükselci" creationdate="20190204T085648Z">
+        <seg>"Düzenle" menüsündeki "Sözlükçe Girdisi Oluştur" komutunu kullanarak sözlükçeye girdi ekleyebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
