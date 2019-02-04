@@ -5462,6 +5462,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073926Z" creationid="Erhan Yükselci" creationdate="20190204T073926Z">
+        <seg>&lt;&amp;bpt&gt; ve &lt;ept&gt; etiket kısayollarını &amp;oluştururken tür tip ve ctip öz niteliklerini yok say</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T085415Z" creationid="Erhan Yükselci" creationdate="20190130T085415Z">
@@ -6779,6 +6787,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Bu yöntemler kullandığınız dağıtıma bağlı olarak değişebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073930Z" creationid="Erhan Yükselci" creationdate="20190204T073930Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
