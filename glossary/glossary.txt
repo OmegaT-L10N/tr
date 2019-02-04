@@ -144,3 +144,5 @@ path	yol
 file path	dosya yolu
 header	üst bilgi
 exception	özel durum
+whitespace	boşluk
+whitespace	boşluk karakteri
