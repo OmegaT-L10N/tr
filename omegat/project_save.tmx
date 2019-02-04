@@ -5720,6 +5720,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083549Z" creationid="Erhan Yükselci" creationdate="20190204T083549Z">
+        <seg>Tekrarsız dilimleri işaretlerken ilk tekrarsız &amp;olmayan dilimi dahil et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112010Z" creationid="Erhan Yükselci" creationdate="20160922T112010Z">
@@ -10223,6 +10231,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104431Z" creationid="Erhan Yükselci" creationdate="20161129T125815Z">
         <seg>Basit arama ve değiştirme betiği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083624Z" creationid="Erhan Yükselci" creationdate="20190204T083624Z">
+        <seg>Korumalı parçalarda ara ipuçlarını basitleştir</seg>
       </tuv>
     </tu>
     <tu>
