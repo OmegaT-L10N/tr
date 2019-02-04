@@ -9941,6 +9941,22 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100455Z" creationid="Erhan Yükselci" creationdate="20190204T100455Z">
+        <seg>Kural tanıtıcısı yalnızca Latin harfleri, alt çizgi ve nokta içerebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100412Z" creationid="Erhan Yükselci" creationdate="20190204T100412Z">
+        <seg>Kurallar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111549Z">
@@ -11997,6 +12013,14 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100507Z" creationid="Erhan Yükselci" creationdate="20190204T100507Z">
+        <seg>Bu tanıtıcı zaten kullanılıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
       <tuv lang="TR">
@@ -12533,6 +12557,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092401Z">
         <seg>Çevrim içi sözlüklerin URL'si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100410Z" creationid="Erhan Yükselci" creationdate="20190204T100410Z">
+        <seg>URL:</seg>
       </tuv>
     </tu>
     <tu>
