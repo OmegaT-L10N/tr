@@ -10217,8 +10217,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>SubRip Subtitles</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071514Z" creationid="Erhan Yükselci" creationdate="20190204T071514Z">
-        <seg>SubRip Alt Yazıları</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071543Z" creationid="Erhan Yükselci" creationdate="20190204T071514Z">
+        <seg>SubRip Alt Yazı</seg>
       </tuv>
     </tu>
     <tu>
@@ -12589,6 +12589,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180946Z" creationid="Erhan Yükselci" creationdate="20190130T180946Z">
         <seg>Eksik klasörlerin yeni konumunu belirtmeniz ya da klasörleri yeniden oluşturmanız gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071600Z" creationid="Erhan Yükselci" creationdate="20190204T071600Z">
+        <seg>YouTube Alt Yazı</seg>
       </tuv>
     </tu>
     <tu>
