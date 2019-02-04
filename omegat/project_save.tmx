@@ -8433,6 +8433,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104516Z" creationid="Erhan Yükselci" creationdate="20190204T104516Z">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="TR">
@@ -9118,6 +9126,14 @@ günlük dosyasına başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T105922Z">
         <seg>"Çeviri Belgelerini Oluştur" işlevini kullanmadan önce etiket sorunlarını giderin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104513Z" creationid="Erhan Yükselci" creationdate="20190204T104513Z">
+        <seg>Lütfen bu kümenin adını girin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10505,6 +10521,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaydet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104456Z" creationid="Erhan Yükselci" creationdate="20190204T104456Z">
+        <seg>Geçerli Kümeyi Kaydet...</seg>
       </tuv>
     </tu>
     <tu>
