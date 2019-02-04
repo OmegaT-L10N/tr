@@ -3424,6 +3424,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create pseudo-translate TMX</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112307Z" creationid="Erhan Yükselci" creationdate="20190204T112307Z">
+        <seg>Sözde çeviri TMX'i oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="TR">
@@ -12929,8 +12937,8 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       <tuv lang="EN">
         <seg>Translated files location not defined</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112816Z">
-        <seg>Çeviri dosyaları konumu belirtilmemiş</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112321Z">
+        <seg>Çevrilmiş dosya konumu belirtilmemiş</seg>
       </tuv>
     </tu>
     <tu>
