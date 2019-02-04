@@ -1587,6 +1587,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T072104Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
+        <seg>varsa &lt;çev-birimi&gt; &amp;resname öz niteliği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T072001Z" creationid="Erhan Yükselci" creationdate="20190204T072001Z">
