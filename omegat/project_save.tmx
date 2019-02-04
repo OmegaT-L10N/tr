@@ -2522,6 +2522,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085412Z" creationid="Erhan Yükselci" creationdate="20190204T085412Z">
+        <seg>&amp;Basit printf-değişkenlerini kontrol et (örneğin %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T115207Z" creationid="Erhan Yükselci" creationdate="20190130T092528Z">
@@ -10831,6 +10839,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115021Z">
         <seg>Etiket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085354Z" creationid="Erhan Yükselci" creationdate="20190204T085354Z">
+        <seg>Etiket İşleme</seg>
       </tuv>
     </tu>
     <tu>
