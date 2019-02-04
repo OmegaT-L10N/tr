@@ -2298,6 +2298,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071300Z" creationid="Erhan Yükselci" creationdate="20190204T071300Z">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Canceled</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111435Z" creationid="Erhan Yükselci" creationdate="20161130T111435Z">
@@ -4546,6 +4554,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071351Z" creationid="Erhan Yükselci" creationdate="20190204T071351Z">
+        <seg>Flash XML Dışa Aktarma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="TR">
@@ -5474,6 +5490,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093451Z" creationid="Erhan Yükselci" creationdate="20160922T093451Z">
         <seg>Endonezyaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071339Z" creationid="Erhan Yükselci" creationdate="20190204T071339Z">
+        <seg>Infix</seg>
       </tuv>
     </tu>
     <tu>
@@ -9125,6 +9149,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071338Z" creationid="Erhan Yükselci" creationdate="20190204T071338Z">
+        <seg>SVG Resim ve Adobe Illustrator Dışa Aktarma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113244Z">
@@ -11441,6 +11473,22 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071302Z" creationid="Erhan Yükselci" creationdate="20190204T071302Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071303Z" creationid="Erhan Yükselci" creationdate="20190204T071303Z">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075452Z" creationid="Erhan Yükselci" creationdate="20190131T075452Z">
@@ -12061,6 +12109,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071355Z" creationid="Erhan Yükselci" creationdate="20190204T071355Z">
+        <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vito Smolej (documentation manager)</seg>
       </tuv>
       <tuv lang="TR">
@@ -12245,6 +12301,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071311Z" creationid="Erhan Yükselci" creationdate="20190204T071311Z">
+        <seg>WiX Yerelleştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Wildcards:
 Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
@@ -12291,6 +12355,22 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103244Z" creationid="Erhan Yükselci" creationdate="20160922T103244Z">
         <seg>Volofça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071353Z" creationid="Erhan Yükselci" creationdate="20190204T071353Z">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordpress</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071356Z" creationid="Erhan Yükselci" creationdate="20190204T071356Z">
+        <seg>Wordpress</seg>
       </tuv>
     </tu>
     <tu>
