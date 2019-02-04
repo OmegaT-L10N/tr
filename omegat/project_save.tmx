@@ -2874,8 +2874,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>{0} örüntüsünün kaldırılmasını onaylayın</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075500Z">
+        <seg>{0} deseninin kaldırılmasını onaylayın</seg>
       </tuv>
     </tu>
     <tu>
