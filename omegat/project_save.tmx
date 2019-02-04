@@ -7701,6 +7701,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102725Z" creationid="Erhan Yükselci" creationdate="20190204T102725Z">
+        <seg>Moses Sunucusu URL'si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154019Z">
@@ -11948,6 +11956,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102734Z" creationid="Erhan Yükselci" creationdate="20190204T102734Z">
+        <seg>Moses sunucu URL'si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063556Z" creationid="Erhan Yükselci" creationdate="20190204T063556Z">
@@ -12211,10 +12227,26 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102710Z" creationid="Erhan Yükselci" creationdate="20190204T102710Z">
+        <seg>Belirtilen çeviri yönü desteklenmiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094804Z">
         <seg>"Dilimin içine girin" ifadesi imlecin, daha önce dilimin öncesinde bulunması durumunda dilimin başına, daha önce dilimin arkasında ise dilimin sonuna hareket edeceği anlamına gelir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102652Z" creationid="Erhan Yükselci" creationdate="20190204T102652Z">
+        <seg>Metin çevrilemedi</seg>
       </tuv>
     </tu>
     <tu>
