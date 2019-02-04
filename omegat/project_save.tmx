@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101651Z" creationid="Erhan Yükselci" creationdate="20190204T101651Z">
+        <seg>&amp;Çevirileri Otomatik Olarak Getir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091143Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="TR">
         <seg>&amp;Son İşlemi Geri Al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101706Z" creationid="Erhan Yükselci" creationdate="20190204T101706Z">
+        <seg>&amp;Yalnızca Çevrilmemiş Dilimler</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,6 +2003,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101708Z" creationid="Erhan Yükselci" creationdate="20190204T101708Z">
+        <seg>Alternatif Dil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="TR">
@@ -2111,6 +2135,14 @@ TMX dosyası yüklenmeyecek.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075110Z" creationid="Erhan Yükselci" creationdate="20190204T075110Z">
         <seg>Apache Commons (Apache Lisansı 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101714Z" creationid="Erhan Yükselci" creationdate="20190204T101714Z">
+        <seg>Apertium</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,6 +2426,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Belarusça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101713Z" creationid="Erhan Yükselci" creationdate="20190204T101713Z">
+        <seg>Belazar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5368,6 +5408,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101712Z" creationid="Erhan Yükselci" creationdate="20190204T101712Z">
+        <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093028Z" creationid="Erhan Yükselci" creationdate="20160922T093028Z">
@@ -7445,6 +7493,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101715Z" creationid="Erhan Yükselci" creationdate="20190204T101715Z">
+        <seg>Microsoft Translator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="TR">
@@ -7673,6 +7729,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110311Z">
         <seg>Çoklu Çeviriler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MyMemory (human)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101718Z" creationid="Erhan Yükselci" creationdate="20190204T101718Z">
+        <seg>MyMemory (human)</seg>
       </tuv>
     </tu>
     <tu>
