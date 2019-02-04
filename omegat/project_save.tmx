@@ -3136,6 +3136,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092543Z" creationid="Erhan Yükselci" creationdate="20190204T092543Z">
+        <seg>Belirtilen klasör oluşturulamıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="TR">
@@ -3700,6 +3708,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075920Z" creationid="Erhan Yükselci" creationdate="20190131T075920Z">
         <seg>Devam etmek istiyor musunuz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092526Z" creationid="Erhan Yükselci" creationdate="20190204T092526Z">
+        <seg>Oluşturmak ister misiniz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4924,6 +4940,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074330Z">
         <seg>Klasör mevcut ve klasör boş değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092501Z" creationid="Erhan Yükselci" creationdate="20190204T092501Z">
+        <seg>Klasör mevcut değil</seg>
       </tuv>
     </tu>
     <tu>
@@ -11655,6 +11679,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092455Z" creationid="Erhan Yükselci" creationdate="20190204T092455Z">
         <seg>Belirtilen sözlük klasörü kullanılamaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092511Z" creationid="Erhan Yükselci" creationdate="20190204T092511Z">
+        <seg>Belirtilen sözlük klasörü mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
