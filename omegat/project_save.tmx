@@ -7621,6 +7621,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100258Z" creationid="Erhan Yükselci" creationdate="20190204T100258Z">
+        <seg>Yeni LanguageTool kuralı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103243Z">
