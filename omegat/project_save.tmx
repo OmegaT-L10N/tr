@@ -7269,6 +7269,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101107Z" creationid="Erhan Yükselci" creationdate="20190204T101107Z">
+        <seg>&amp;Tekrarsız Olmayan Dilimleri İşaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T093217Z">
