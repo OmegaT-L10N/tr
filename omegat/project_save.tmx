@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104203Z" creationid="Erhan Yükselci" creationdate="20190204T104203Z">
+        <seg>&amp;Bul...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081833Z" creationid="Erhan Yükselci" creationdate="20190130T081833Z">
@@ -646,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104131Z" creationid="Erhan Yükselci" creationdate="20190204T104131Z">
+        <seg>&amp;Yeni Betik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv lang="TR">
@@ -826,6 +842,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081822Z" creationid="Erhan Yükselci" creationdate="20190130T081822Z">
         <seg>Sonrakini Değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104212Z" creationid="Erhan Yükselci" creationdate="20190204T104212Z">
+        <seg>D&amp;eğiştir...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1855,6 +1879,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155116Z" creationid="Erhan Yükselci" creationdate="20190130T122955Z">
         <seg>&amp;Yapılandırma Klasörüne Eriş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104157Z" creationid="Erhan Yükselci" creationdate="20190204T104157Z">
+        <seg>Betik Klasörünü Eriş</seg>
       </tuv>
     </tu>
     <tu>
@@ -11055,6 +11087,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104150Z" creationid="Erhan Yükselci" creationdate="20190204T104150Z">
+        <seg>Betik Klasörünü Ayarla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set empty translation</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T090412Z">
@@ -14351,6 +14391,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>tam arama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104116Z" creationid="Erhan Yükselci" creationdate="20190204T104116Z">
+        <seg>eklentiler:</seg>
       </tuv>
     </tu>
     <tu>
