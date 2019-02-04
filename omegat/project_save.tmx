@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Store for this session only</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103450Z" creationid="Erhan Yükselci" creationdate="20190204T103450Z">
+        <seg>&amp;Yalnızca bu oturum için sakla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105025Z" creationid="Erhan Yükselci" creationdate="20190130T085827Z">
