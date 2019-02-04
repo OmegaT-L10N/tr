@@ -1587,6 +1587,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T072001Z" creationid="Erhan Yükselci" creationdate="20190204T072001Z">
+        <seg>&lt;çev-birimi&gt; Ki&amp;mlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="TR" changeid="erhan" changedate="20110405T110646Z">
@@ -5266,6 +5274,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071829Z" creationid="Erhan Yükselci" creationdate="20190204T071829Z">
+        <seg>Alternatif çeviriler için kullanılan tanıtıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093828Z" creationid="Erhan Yükselci" creationdate="20160922T093828Z">
@@ -8191,6 +8207,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Önceki Dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071844Z" creationid="Erhan Yükselci" creationdate="20190204T071844Z">
+        <seg>Önceki ve &amp;sonraki paragraflar</seg>
       </tuv>
     </tu>
     <tu>
