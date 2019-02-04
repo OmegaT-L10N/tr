@@ -1955,6 +1955,16 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090704Z" creationid="Erhan Yükselci" creationdate="20190204T090704Z">
+        <seg>Proje değişikliği olayı işlenirken bir hata oluştu:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074528Z">
@@ -6147,8 +6157,8 @@ their defaults as a result of the location change.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Yapılandırma dizini içinde bir betik dizini oluşturalamadı.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090606Z">
+        <seg>Yapılandırma klasörü içinde bir betik klasörü oluşturalamadı.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11397,8 +11407,8 @@ Lütfen hatayı düzeltin ve projeyi yeniden yükleyin.</seg>
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Bunun yerine mevcut dizin kullanılacaktır.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090611Z">
+        <seg>Bunun yerine mevcut klasör kullanılacaktır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11406,8 +11416,8 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105052Z">
-        <seg>Bunun yerine mevcut dizin
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090536Z">
+        <seg>Bunun yerine mevcut klasör
 kullanılacaktır.</seg>
       </tuv>
     </tu>
