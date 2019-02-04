@@ -1899,6 +1899,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101431Z" creationid="Erhan Yükselci" creationdate="20190204T101431Z">
+        <seg>Ag&amp;resif Yazı Tipi Geri Dönüşü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Akan</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102134Z">
@@ -7233,6 +7241,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112629Z" creationid="Erhan Yükselci" creationdate="20160921T112629Z">
         <seg>Yazdığım ilk taslağı OmegaT ve İngilizce'ye olan sevgisiyle gözden geçiren Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101403Z" creationid="Erhan Yükselci" creationdate="20190204T101403Z">
+        <seg>Oto&amp;matik Yerleştirilen Dilimleri İşaretle</seg>
       </tuv>
     </tu>
     <tu>
