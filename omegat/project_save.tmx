@@ -6637,6 +6637,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100639Z" creationid="Erhan Yükselci" creationdate="20190204T100639Z">
+        <seg>LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075126Z" creationid="Erhan Yükselci" creationdate="20190204T075126Z">
@@ -7759,8 +7767,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No new dictionaries available at the remote server.</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Sunucuda elverişli yeni sözlük yok.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100721Z">
+        <seg>Sunucuda kullanılabilir yeni sözlük yok.</seg>
       </tuv>
     </tu>
     <tu>
