@@ -5498,8 +5498,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112932Z">
-        <seg>Sözlükçe dizini {0} mevcut değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112523Z">
+        <seg>Sözlükçe klasörü {0} mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11401,8 +11401,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112917Z">
-        <seg>Kaynak dizin {0} mevcut değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112514Z">
+        <seg>Kaynak klasörü {0} mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11938,8 +11938,8 @@ Tagalogca</seg>
       <tuv lang="EN">
         <seg>Target folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112923Z">
-        <seg>Hedef dizin {0} mevcut değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112510Z">
+        <seg>Hedef klasörü {0} mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
