@@ -3610,8 +3610,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110406Z">
-        <seg>&amp;Mevcut Dilim İçin Göster</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101154Z">
+        <seg>&amp;Geçerli Dilim İçin Göster</seg>
       </tuv>
     </tu>
     <tu>
@@ -7223,8 +7223,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110550Z">
-        <seg>&amp;Aralıklama Karakterini İşaretle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101228Z">
+        <seg>B&amp;oşluk Karakterini İşaretle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7279,8 +7279,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T093217Z">
-        <seg>Not Bulunan Dilimleri İşaretle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101121Z">
+        <seg>Not &amp;Bulunan Dilimleri İşaretle</seg>
       </tuv>
     </tu>
     <tu>
