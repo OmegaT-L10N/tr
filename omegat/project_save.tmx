@@ -1899,6 +1899,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085444Z" creationid="Erhan Yükselci" creationdate="20190204T085444Z">
+        <seg>Çeviri metinde etiketler %farklı sırada olmasına izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102720Z" creationid="Erhan Yükselci" creationdate="20190201T102720Z">
@@ -3544,6 +3552,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092754Z" creationid="Erhan Yükselci" creationdate="20160922T092754Z">
         <seg>Divehi, Maldivce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085517Z" creationid="Erhan Yükselci" creationdate="20190204T085517Z">
+        <seg>Etiket sorunları olan çevrilmiş belgelerinin oluşturulmasına &amp;izin verme</seg>
       </tuv>
     </tu>
     <tu>
@@ -12755,8 +12771,8 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="EN">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103407Z">
-        <seg>Uyarı: Etiket sırasının değiştirilmesi çeviri belgenin bozulmasına yol açabilir!</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085456Z">
+        <seg>Uyarı: Etiket sırasının değiştirilmesi çevrilmiş belgenin bozulmasına yol açabilir!</seg>
       </tuv>
     </tu>
     <tu>
