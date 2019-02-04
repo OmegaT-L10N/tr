@@ -1955,6 +1955,16 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090930Z" creationid="Erhan Yükselci" creationdate="20190204T090930Z">
+        <seg>Yazı tipi değişikliği olayı işlenirken bir hata oluştu:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
@@ -1998,8 +2008,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090853Z" creationid="Erhan Yükselci" creationdate="20190204T090853Z">
-        <seg>Uygulamanın kapatılması olayı işlenirken bir hata oluştu:
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090914Z" creationid="Erhan Yükselci" creationdate="20190204T090853Z">
+        <seg>Girdi etkinleştirme olayı işlenirken bir hata oluştu:
 {0}</seg>
       </tuv>
     </tu>
@@ -4304,8 +4314,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Olay: yazıtipi değişikliği</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090922Z">
+        <seg>Olay: yazı tipi değişikliği</seg>
       </tuv>
     </tu>
     <tu>
