@@ -8383,6 +8383,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080133Z" creationid="Erhan Yükselci" creationdate="20190204T080133Z">
+        <seg>T&amp;üm etiketler için boşlukları koru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="TR">
