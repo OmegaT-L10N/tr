@@ -1675,6 +1675,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074953Z" creationid="Erhan Yükselci" creationdate="20190204T074953Z">
+        <seg>ANTLR (ANTLR 3 Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113801Z" creationid="Erhan Yükselci" creationdate="20161129T113801Z">
@@ -6025,6 +6033,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074918Z" creationid="Erhan Yükselci" creationdate="20190204T074918Z">
+        <seg>Jmyspell (LGPL Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jumping to last edited segment...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142949Z" creationid="Erhan Yükselci" creationdate="20190130T142949Z">
@@ -9381,6 +9397,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113202Z">
         <seg>SVN '{0}' çalıştırma başladı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074927Z" creationid="Erhan Yükselci" creationdate="20190204T074927Z">
+        <seg>SVNKit (TMate Lisansı)</seg>
       </tuv>
     </tu>
     <tu>
