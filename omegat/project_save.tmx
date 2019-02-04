@@ -9073,6 +9073,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080125Z" creationid="Erhan Yükselci" creationdate="20190204T080125Z">
+        <seg>Dilimlenmemiş &amp;projelerdeki önden gelen ve takip eden boşluk karakterini kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove mnemonics</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T110850Z" creationid="Erhan Yükselci" creationdate="20161130T110850Z">
