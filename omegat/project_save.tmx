@@ -1589,16 +1589,16 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T072104Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
-        <seg>varsa &lt;çev-birimi&gt; &amp;resname öz niteliği</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073126Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
+        <seg>varsa &lt;trans-unit&gt; &amp;resname öz niteliği</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T072001Z" creationid="Erhan Yükselci" creationdate="20190204T072001Z">
-        <seg>&lt;çev-birimi&gt; Ki&amp;mlik</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073110Z" creationid="Erhan Yükselci" creationdate="20190204T072001Z">
+        <seg>&lt;trans-unit&gt; Ki&amp;mliği</seg>
       </tuv>
     </tu>
     <tu>
@@ -10861,6 +10861,14 @@ kullanılacaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112747Z" creationid="Erhan Yükselci" creationdate="20160922T112747Z">
         <seg>Bu belgelendirme, yararlı olacağı umuduyla, ancak herhangi bir GÜVENCE, TİCARETE YA DA BELLİ BİR AMACA UYGUNLUK güvencesi OLMAKSIZIN dağıtılmaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073044Z" creationid="Erhan Yükselci" creationdate="20190204T073044Z">
+        <seg>"&amp;OmegaT 2.6 ile uyumluluk" seçildiyse aşağıdaki seçenekler geçerli olmaz</seg>
       </tuv>
     </tu>
     <tu>
