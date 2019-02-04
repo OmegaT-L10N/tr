@@ -6285,6 +6285,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100123Z" creationid="Erhan Yükselci" creationdate="20190204T100123Z">
+        <seg>JAR dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T125229Z">
@@ -7129,6 +7137,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095116Z" creationid="Erhan Yükselci" creationdate="20160922T095116Z">
         <seg>Maltaca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100139Z" creationid="Erhan Yükselci" creationdate="20190204T100139Z">
+        <seg>Elle tanımlanmış kurallar</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,6 +12427,14 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181203Z" creationid="Erhan Yükselci" creationdate="20190130T181203Z">
         <seg>Tür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100248Z" creationid="Erhan Yükselci" creationdate="20190204T100248Z">
+        <seg>Yeni kural tanıtıcısını yazın</seg>
       </tuv>
     </tu>
     <tu>
