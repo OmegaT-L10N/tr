@@ -6255,6 +6255,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T070350Z" creationid="Erhan Yükselci" creationdate="20190204T070350Z">
+        <seg>Satır uzunluğu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094814Z" creationid="Erhan Yükselci" creationdate="20160922T094814Z">
@@ -6595,6 +6603,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Büyült</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T070354Z" creationid="Erhan Yükselci" creationdate="20190204T070354Z">
+        <seg>Maksimum satır uzunluğu:</seg>
       </tuv>
     </tu>
     <tu>
