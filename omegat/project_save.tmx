@@ -8809,6 +8809,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083901Z" creationid="Erhan Yükselci" creationdate="20190204T083901Z">
+        <seg>Vekil Sunucu Oturumu Açma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091914Z">
