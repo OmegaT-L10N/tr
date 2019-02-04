@@ -3510,16 +3510,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Aşağıdaki özellik anahtar-değer çiftlerine sahip meta etiketlerin içerik özelliğini çevirmeyin:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080702Z">
+        <seg>Aşağıdaki özellik anahtar-değer çiftlerine sahip meta etiketlerin içerik özelliğini çevirme:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130411Z">
-        <seg>Aşağıdaki özellik anahtar-değer çiftlerine sahip meta etiketlerin içerik özelliğini çevirmeyin:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080657Z">
+        <seg>Aşağıdaki özellik anahtar-değer çiftlerine sahip meta etiketlerin içerik özelliğini çevirme:</seg>
       </tuv>
     </tu>
     <tu>
