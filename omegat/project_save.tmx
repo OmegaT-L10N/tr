@@ -1120,6 +1120,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101613Z" creationid="Erhan Yükselci" creationdate="20190204T101613Z">
+        <seg>(+{0} daha)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -5124,6 +5132,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Tarihçede ileri git...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101558Z" creationid="Erhan Yükselci" creationdate="20190204T101558Z">
+        <seg>Bulunduğu yer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11335,6 +11351,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101621Z" creationid="Erhan Yükselci" creationdate="20190204T101621Z">
+        <seg>Çeviri Belleği Eşleşme Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="TR">
@@ -12209,6 +12233,14 @@ klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075415Z" creationid="Erhan Yükselci" creationdate="20190204T075415Z">
         <seg>Bu program özgür yazılımdır; bu programı Özgür Yazılım Derneği tarafından çıkarılan GNU Genel Kamu Lisansının (isteğinize göre) 3'üncü ya da daha sonraki bir sürümü uyarınca dağıtabilir ve/veya değiştirebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101604Z" creationid="Erhan Yükselci" creationdate="20190204T101604Z">
+        <seg>Bu proje</seg>
       </tuv>
     </tu>
     <tu>
