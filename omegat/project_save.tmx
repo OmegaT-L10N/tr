@@ -10295,6 +10295,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074516Z" creationid="Erhan Yükselci" creationdate="20190204T074516Z">
+        <seg>Word &amp;Yumuşak Dönüş Karakterinde Yeni Paragraf Başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="TR">
@@ -12563,6 +12571,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073937Z" creationid="Erhan Yükselci" creationdate="20190204T073937Z">
         <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074222Z" creationid="Erhan Yükselci" creationdate="20190204T074222Z">
+        <seg>WordAr&amp;t</seg>
       </tuv>
     </tu>
     <tu>
