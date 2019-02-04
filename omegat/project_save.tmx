@@ -7057,6 +7057,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083738Z" creationid="Erhan Yükselci" creationdate="20190204T083738Z">
+        <seg>Tarihsiz dilimler için değişiklik bilgisi şablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T104624Z">
@@ -12451,6 +12459,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110811Z">
         <seg>Varsayılan Çeviri Olarak Kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083803Z" creationid="Erhan Yükselci" creationdate="20190204T083803Z">
+        <seg>Değişiklik bilgisi için &amp;özel şablonlar kullan</seg>
       </tuv>
     </tu>
     <tu>
