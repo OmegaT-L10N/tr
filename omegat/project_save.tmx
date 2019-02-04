@@ -7677,6 +7677,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085905Z" creationid="Erhan Yükselci" creationdate="20190204T085905Z">
+        <seg>Sözlükçe Eşleşmeleri Olduğunda Bana Bildir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120353Z">
@@ -8030,6 +8038,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153921Z" creationid="Erhan Yükselci" creationdate="20190130T153921Z">
         <seg>Hedef Dosya Konumunu Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085919Z" creationid="Erhan Yükselci" creationdate="20190204T085919Z">
+        <seg>Yazılabilir Sözlükçe Dosyasını Aç</seg>
       </tuv>
     </tu>
     <tu>
