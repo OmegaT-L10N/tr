@@ -2858,8 +2858,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130828Z">
-        <seg>Çeviri belgede aralıklama karakterini sıkıştır</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080820Z">
+        <seg>Çeviri belgede boşluk karakterini sıkıştır</seg>
       </tuv>
     </tu>
     <tu>
@@ -4022,8 +4022,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Error saving segmentation rules configuration:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130952Z">
-        <seg>Dilimlendirme kuralları yapılandırmasının kaydedilmesinde hata:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080903Z">
+        <seg>Dilimleme kuralları yapılandırmasının kaydedilmesinde hata:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6315,8 +6315,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Language Pattern</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Dilin Örüntüsü</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080914Z">
+        <seg>Dil Deseni</seg>
       </tuv>
     </tu>
     <tu>
@@ -12863,6 +12863,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114130Z">
         <seg>Kullanıcı adı/şifre yanlış</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080843Z" creationid="Erhan Yükselci" creationdate="20190204T080843Z">
+        <seg>XHTML</seg>
       </tuv>
     </tu>
     <tu>
