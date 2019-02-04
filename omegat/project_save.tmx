@@ -3142,8 +3142,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Commit not possible because somebody else changed remote translation.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113932Z">
-        <seg>Başka biri uzak çeviriyi değiştirdiği için çevirinin sunucuya kaydedilmesi (commit) mümkün değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T113018Z">
+        <seg>Başka biri uzak çeviriyi değiştirdiği için çevirinin depoya gönderilmesi mümkün değil.</seg>
       </tuv>
     </tu>
     <tu>
