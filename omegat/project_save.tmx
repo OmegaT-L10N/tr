@@ -11135,6 +11135,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104352Z" creationid="Erhan Yükselci" creationdate="20190204T104352Z">
+        <seg>Bul Arama Çubuğunu Göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104431Z" creationid="Erhan Yükselci" creationdate="20161129T125815Z">
