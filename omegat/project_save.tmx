@@ -5026,6 +5026,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071228Z" creationid="Erhan Yükselci" creationdate="20190204T071228Z">
+        <seg>Yardım ve Kılavuz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help browser</seg>
       </tuv>
       <tuv lang="TR">
@@ -5811,6 +5819,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T095140Z" creationid="Erhan Yükselci" creationdate="20190201T095140Z">
         <seg>Eklentiler için kullanılan jar: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071249Z" creationid="Erhan Yükselci" creationdate="20190204T071249Z">
+        <seg>Java Properties XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -8429,6 +8445,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071252Z" creationid="Erhan Yükselci" creationdate="20190204T071252Z">
+        <seg>RELAX NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T100432Z">
@@ -8957,6 +8981,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071221Z" creationid="Erhan Yükselci" creationdate="20190204T071221Z">
+        <seg>ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="TR">
@@ -9193,6 +9225,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje kaydediliyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071251Z" creationid="Erhan Yükselci" creationdate="20190204T071251Z">
+        <seg>Schematron</seg>
       </tuv>
     </tu>
     <tu>
@@ -10536,6 +10576,14 @@ yerine mevcut dizin kullanılacaktır. </seg>
       </tuv>
       <tuv lang="TR">
         <seg>Düzenle menüsü şu menü başlıklarını içerir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071218Z" creationid="Erhan Yükselci" creationdate="20190204T071218Z">
+        <seg>Java Kaynak Desteleri Filtre Seçenekleri özel durum oluşturdu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12323,6 +12371,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR">
         <seg>XHTML Filtre Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071220Z" creationid="Erhan Yükselci" creationdate="20190204T071220Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
