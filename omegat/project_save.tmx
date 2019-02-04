@@ -4040,6 +4040,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T113147Z" creationid="Erhan Yükselci" creationdate="20190204T113147Z">
+        <seg>SVN hatası ({0}) sırasında,
+project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="TR">
@@ -13423,6 +13433,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115308Z">
         <seg>Belirtilmemiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T113054Z" creationid="Erhan Yükselci" creationdate="20190204T113054Z">
+        <seg>Desteklenmeyen SVN hatası</seg>
       </tuv>
     </tu>
     <tu>
