@@ -6685,6 +6685,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T093249Z" creationid="Erhan Yükselci" creationdate="20190204T093249Z">
+        <seg>LanguageTool: sunucu JSON yerine XML döndürdü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115738Z" creationid="Erhan Yükselci" creationdate="20161129T115738Z">
