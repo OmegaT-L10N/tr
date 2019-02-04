@@ -7703,8 +7703,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Moses Server URL:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102725Z" creationid="Erhan Yükselci" creationdate="20190204T102725Z">
-        <seg>Moses Sunucusu URL'si:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102736Z" creationid="Erhan Yükselci" creationdate="20190204T102725Z">
+        <seg>Moses Sunucu URL'si:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,6 +8309,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>S&amp;eçenekler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102756Z" creationid="Erhan Yükselci" creationdate="20190204T102756Z">
+        <seg>Tamam</seg>
       </tuv>
     </tu>
     <tu>
@@ -10943,6 +10951,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102817Z" creationid="Erhan Yükselci" creationdate="20190204T102817Z">
+        <seg>Sunucu "çevirme" yöntemini anlamıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Service type</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100346Z" creationid="Erhan Yükselci" creationdate="20190204T100346Z">
@@ -11824,6 +11840,22 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102749Z" creationid="Erhan Yükselci" creationdate="20190204T102749Z">
+        <seg>Dene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102755Z" creationid="Erhan Yükselci" creationdate="20190204T102755Z">
+        <seg>Deneniyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063626Z" creationid="Erhan Yükselci" creationdate="20190204T063626Z">
@@ -11958,8 +11990,8 @@ yerine mevcut klasör kullanılacaktır. </seg>
       <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102734Z" creationid="Erhan Yükselci" creationdate="20190204T102734Z">
-        <seg>Moses sunucu URL'si:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102744Z" creationid="Erhan Yükselci" creationdate="20190204T102734Z">
+        <seg>Moses sunucu URL'si ayarlanmamış</seg>
       </tuv>
     </tu>
     <tu>
