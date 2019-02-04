@@ -9675,6 +9675,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074804Z" creationid="Erhan Yükselci" creationdate="20190204T074804Z">
+        <seg>Bkz. /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T101716Z">
@@ -12245,6 +12253,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103128Z" creationid="Erhan Yükselci" creationdate="20160922T103128Z">
         <seg>Özbekçe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074905Z" creationid="Erhan Yükselci" creationdate="20190204T074905Z">
+        <seg>VLDocking Çerçevesi (LGPL Lisansı)</seg>
       </tuv>
     </tu>
     <tu>
