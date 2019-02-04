@@ -1789,8 +1789,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Örüntü Ekle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080454Z">
+        <seg>Desen Ekle</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,8 +3734,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Edit Pattern</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Örüntüyü Düzenle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080459Z">
+        <seg>Deseni Düzenle</seg>
       </tuv>
     </tu>
     <tu>
@@ -10245,8 +10245,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Kaynak Dosya Adı Örüntüsü:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080503Z">
+        <seg>Kaynak Dosya Adı Deseni:</seg>
       </tuv>
     </tu>
     <tu>
