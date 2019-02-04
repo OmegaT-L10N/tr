@@ -7590,6 +7590,14 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T070345Z" creationid="Erhan Yükselci" creationdate="20190204T070345Z">
+        <seg>Hedef belgelerde satır uzunluğunu ayarlama seçenekleri (0 = sınır yok)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
