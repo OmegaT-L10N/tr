@@ -1795,6 +1795,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085813Z" creationid="Erhan Yükselci" creationdate="20190204T085813Z">
+        <seg>Sözlükçe Girdisi Oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080454Z">
@@ -5852,6 +5860,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103006Z">
         <seg>Olmayan Sonraki Etiketi Ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085845Z" creationid="Erhan Yükselci" creationdate="20190204T085845Z">
+        <seg>Seçimi Araya Ekle</seg>
       </tuv>
     </tu>
     <tu>
