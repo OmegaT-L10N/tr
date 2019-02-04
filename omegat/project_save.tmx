@@ -7616,6 +7616,16 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074740Z" creationid="Erhan Yükselci" creationdate="20190204T074740Z">
+        <seg>OmegaT aşağıdaki kitaplıkları kullanmaktadır:
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20140715T083200Z">
@@ -7914,8 +7924,8 @@ ve/veya başlangıç (home) dizininizi içeren sistem özelliğine erişimine iz
       <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Diğer katkılar readme.txt dosyasında ayrıntılı olarak belirtilmiştir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074730Z">
+        <seg>Diğer katkılar readme_tr.txt dosyasında ayrıntılı olarak belirtilmiştir</seg>
       </tuv>
     </tu>
     <tu>
