@@ -3718,8 +3718,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Filtre Örüntülerini Düzenle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075542Z">
+        <seg>Filtre Desenlerini Düzenle</seg>
       </tuv>
     </tu>
     <tu>
@@ -9009,6 +9009,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075602Z" creationid="Erhan Yükselci" creationdate="20190204T075602Z">
+        <seg>Önden &amp;gelen ve takip eden etiketleri kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130837Z">
@@ -9075,8 +9083,8 @@ hedef dili seçin.</seg>
       <tuv lang="EN">
         <seg>Remove pattern?</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Örüntüyü kaldırmak istiyor musunuz?</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075504Z">
+        <seg>Deseni kaldırmak istiyor musunuz?</seg>
       </tuv>
     </tu>
     <tu>
