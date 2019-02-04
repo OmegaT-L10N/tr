@@ -6677,6 +6677,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T095952Z" creationid="Erhan Yükselci" creationdate="20190204T095952Z">
+        <seg>LanguageTool: Hatalı URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100010Z" creationid="Erhan Yükselci" creationdate="20190204T100010Z">
+        <seg>LanguageTool: Sunucu başlatma zaman aşımı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: bad local path</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T093034Z" creationid="Erhan Yükselci" creationdate="20190204T093034Z">
