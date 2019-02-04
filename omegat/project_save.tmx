@@ -3308,6 +3308,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075026Z" creationid="Erhan Yükselci" creationdate="20190204T075026Z">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122815Z" creationid="Erhan Yükselci" creationdate="20161129T122815Z">
@@ -9369,6 +9377,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075007Z" creationid="Erhan Yükselci" creationdate="20190204T075007Z">
+        <seg>SQLJet (GPL Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071338Z" creationid="Erhan Yükselci" creationdate="20190204T071338Z">
@@ -13285,6 +13301,14 @@ dizini oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114212Z" creationid="Erhan Yükselci" creationdate="20161129T114212Z">
         <seg>trie4j (Apache Lisansı 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075048Z" creationid="Erhan Yükselci" creationdate="20190204T075048Z">
+        <seg>trilead-ssh2 (Trilead SSH lisansı)</seg>
       </tuv>
     </tu>
     <tu>
