@@ -3464,6 +3464,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102149Z" creationid="Erhan Yükselci" creationdate="20190204T102149Z">
+        <seg>DeepL API anahtarı mevcut değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="TR">
@@ -5434,8 +5442,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T105942Z">
-        <seg>Google Api anahtarı mevcut değil.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102136Z">
+        <seg>Google API anahtarı mevcut değil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,6 +5756,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101735Z" creationid="Erhan Yükselci" creationdate="20190204T101735Z">
         <seg>IBM Watson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102223Z" creationid="Erhan Yükselci" creationdate="20190204T102223Z">
+        <seg>IBM Watson kullanılamıyor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7569,6 +7585,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115151Z">
         <seg>Eksik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102212Z" creationid="Erhan Yükselci" creationdate="20190204T102212Z">
+        <seg>Model Tanıtıcısı:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13297,6 +13321,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092219Z">
         <seg>Kullanıcı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102200Z" creationid="Erhan Yükselci" creationdate="20190204T102200Z">
+        <seg>Kullanıcı Adı ya da API Anahtarı:</seg>
       </tuv>
     </tu>
     <tu>
