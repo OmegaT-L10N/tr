@@ -9420,8 +9420,8 @@ hedef dili seçin.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T155716Z" creationid="Erhan Yükselci" creationdate="20190204T155716Z">
-        <seg>Proje, ekip işlevi olmaksızın yerel bir proje olarak yüklenecektir.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190222T085033Z" creationid="Erhan Yükselci" creationdate="20190204T155716Z">
+        <seg>Projeyi değiştirmeden bırakmak ve ekip işlevi olmaksızın yerel bir proje olarak yüklemek için 'İptal' tuşuna basınız.</seg>
       </tuv>
     </tu>
     <tu>
