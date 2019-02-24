@@ -4368,6 +4368,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142452Z" creationid="Erhan Yükselci" creationdate="20190224T142452Z">
+        <seg>Yeniden temellendirmeyi bitir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114722Z" creationid="Erhan Yükselci" creationdate="20160921T114722Z">
@@ -4548,6 +4556,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122841Z">
         <seg>Satır {0} sütun {1}'de TMX level2 dosyasının okunmasında hata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142549Z" creationid="Erhan Yükselci" creationdate="20190224T142549Z">
+        <seg>{0} uzak proje dosyası olarak alınırken hata</seg>
       </tuv>
     </tu>
     <tu>
@@ -9449,6 +9465,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074114Z" creationid="Erhan Yükselci" creationdate="20190204T074114Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142512Z" creationid="Erhan Yükselci" creationdate="20190224T142512Z">
+        <seg>Önceden tanımlı kimlik bilgileri iletilmedi.</seg>
       </tuv>
     </tu>
     <tu>
