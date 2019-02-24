@@ -9284,6 +9284,14 @@ lütfen proje yöneticinize başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142334Z" creationid="Erhan Yükselci" creationdate="20190224T142334Z">
+        <seg>Lütfen tekrar kontrol ediniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104513Z" creationid="Erhan Yükselci" creationdate="20190204T104513Z">
