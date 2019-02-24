@@ -10818,6 +10818,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T143009Z" creationid="Erhan Yükselci" creationdate="20190224T143009Z">
+        <seg>Kaydetme ve Çıktı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114735Z">
@@ -12993,8 +13001,8 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="EN">
         <seg>This command will be executed after Creating Translated Documents.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114920Z">
-        <seg>Bu komut "Çeviri Belgeleri Oluştur" komutundan sonra çalıştırılacaktır.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T143048Z">
+        <seg>Bu komut Çevrilmiş Belgelerin Oluşturulmasından sonra çalıştırılacaktır.</seg>
       </tuv>
     </tu>
     <tu>
