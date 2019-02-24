@@ -4562,8 +4562,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="EN">
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142549Z" creationid="Erhan Yükselci" creationdate="20190224T142549Z">
-        <seg>{0} uzak proje dosyası olarak alınırken hata</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142556Z" creationid="Erhan Yükselci" creationdate="20190224T142549Z">
+        <seg>{0} uzak proje dosyası olarak alınırken hata oluştu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +8966,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142641Z" creationid="Erhan Yükselci" creationdate="20190224T142641Z">
+        <seg>Ekip projesi açılıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a previously created project.</seg>
       </tuv>
       <tuv lang="TR">
@@ -10184,6 +10192,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142657Z" creationid="Erhan Yükselci" creationdate="20190224T142657Z">
+        <seg>Uzak depo ağ iletişim hatası: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181154Z" creationid="Erhan Yükselci" creationdate="20190130T181154Z">
@@ -10462,6 +10478,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T073737Z" creationid="Erhan Yükselci" creationdate="20190131T073737Z">
         <seg>Depo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142605Z" creationid="Erhan Yükselci" creationdate="20190224T142605Z">
+        <seg>Depo Kimlik Bilgileri</seg>
       </tuv>
     </tu>
     <tu>
@@ -11994,6 +12018,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092721Z" creationid="Erhan Yükselci" creationdate="20190204T092721Z">
         <seg>Yerleşik sürüme geçiliyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142630Z" creationid="Erhan Yükselci" creationdate="20190224T142630Z">
+        <seg>Depoların eşitlenmesi</seg>
       </tuv>
     </tu>
     <tu>
