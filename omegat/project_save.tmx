@@ -1219,6 +1219,16 @@ java.exe adlı dosyadır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135511Z" creationid="Erhan Yükselci" creationdate="20190224T135511Z">
+        <seg>(Bu projeyi ekip projesi olarak düzenlemek üzere
+OmegaT 3.6'yı halen kullanabileceksiniz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(close tag)</seg>
       </tuv>
       <tuv lang="TR">
@@ -1691,6 +1701,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135700Z" creationid="Erhan Yükselci" creationdate="20190224T135700Z">
+        <seg>&lt;html&gt;Depo URL'si:&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="TR">
@@ -2119,6 +2137,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103926Z" creationid="Erhan Yükselci" creationdate="20190204T103926Z">
         <seg>Betik yüklenirken bir hata oluştu: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140143Z" creationid="Erhan Yükselci" creationdate="20190224T140143Z">
+        <seg>Proje dosyası algılanırken bir hata oluştu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3628,6 +3654,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140051Z" creationid="Erhan Yükselci" creationdate="20190224T140051Z">
+        <seg>Algılanıyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075254Z" creationid="Erhan Yükselci" creationdate="20190204T075254Z">
@@ -4040,6 +4074,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T102738Z">
         <seg>MediaWiki Sayfası İndir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135709Z" creationid="Erhan Yükselci" creationdate="20190224T135709Z">
+        <seg>Ekip Projesini İndir</seg>
       </tuv>
     </tu>
     <tu>
@@ -8099,6 +8141,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135722Z" creationid="Erhan Yükselci" creationdate="20190224T135722Z">
+        <seg>Yeni Yerel Proje Klasörü:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103243Z">
@@ -9216,6 +9266,16 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135619Z" creationid="Erhan Yükselci" creationdate="20190224T135619Z">
+        <seg>Ek adımların atılıp atılmaması gerektiğini öğrenmek için
+lütfen proje yöneticinize başvurun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T105922Z">
@@ -9616,6 +9676,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje oluşturma başladı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140116Z" creationid="Erhan Yükselci" creationdate="20190224T140116Z">
+        <seg>Proje dosyası http protokolüne uygun olmalı.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12163,6 +12231,22 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135851Z" creationid="Erhan Yükselci" creationdate="20190224T135851Z">
+        <seg>Ekip eşitlemesi: : Çeviri {0} saniye içinde kaydediliyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135755Z" creationid="Erhan Yükselci" creationdate="20190224T135755Z">
+        <seg>Ekip eşitlemesi: Bu dilim bitirmeniz bekleniyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Telugu</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102350Z" creationid="Erhan Yükselci" creationdate="20160922T102350Z">
@@ -12504,8 +12588,16 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The project folder {0} is missing and could not be created.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114704Z">
-        <seg>Proje dizini {0} yok ve oluşturulamıyor.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135913Z">
+        <seg>Proje klasörü {0} yok ve oluşturulamıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135531Z" creationid="Erhan Yükselci" creationdate="20190224T135531Z">
+        <seg>Proje başarılı bir şekilde dönüştürüldü.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12787,6 +12879,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140223Z" creationid="Erhan Yükselci" creationdate="20190224T140223Z">
+        <seg>Bu URL, geçersiz görünüyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
       <tuv lang="TR">
@@ -12831,6 +12931,30 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130405T135431Z">
         <seg>Bu dokümantasyon hem bir öğretici hem de bir başvuru kılavuzu olarak hazırlanmıştır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140153Z" creationid="Erhan Yükselci" creationdate="20190224T140153Z">
+        <seg>Bu, bir Git deposu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140204Z" creationid="Erhan Yükselci" creationdate="20190224T140204Z">
+        <seg>Bu, bir Subversion deposu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140213Z" creationid="Erhan Yükselci" creationdate="20190224T140213Z">
+        <seg>Bu, geçerli bir proje dosyası değil.</seg>
       </tuv>
     </tu>
     <tu>
