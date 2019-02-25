@@ -2416,6 +2416,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073801Z" creationid="Erhan Yükselci" creationdate="20190225T073801Z">
+        <seg>Otomatik metin girdileri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="TR">
@@ -2828,6 +2836,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074736Z" creationid="Erhan Yükselci" creationdate="20190131T074736Z">
         <seg>Değiştirme zamanı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073803Z" creationid="Erhan Yükselci" creationdate="20190225T073803Z">
+        <seg>Karakter tablosu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,6 +3818,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122853Z" creationid="Erhan Yükselci" creationdate="20161129T122853Z">
         <seg>Farklı büyük/küçük harfle başlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073851Z" creationid="Erhan Yükselci" creationdate="20190225T073851Z">
+        <seg>Kaynak &amp;terimleri görüntüle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5616,6 +5640,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073745Z" creationid="Erhan Yükselci" creationdate="20190225T073745Z">
+        <seg>Sözlükçe girdileri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091814Z">
@@ -5952,10 +5984,26 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073818Z" creationid="Erhan Yükselci" creationdate="20190225T073818Z">
+        <seg>Geçmişe Dayalı Tamamlamalar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T140502Z" creationid="Erhan Yükselci" creationdate="20190130T121508Z">
         <seg>Geçmişe &amp;Dayalı Tahmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073825Z" creationid="Erhan Yükselci" creationdate="20190225T073825Z">
+        <seg>Geçmişe "Dayalı Tahminler</seg>
       </tuv>
     </tu>
     <tu>
@@ -7849,6 +7897,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115151Z">
         <seg>Eksik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073755Z" creationid="Erhan Yükselci" creationdate="20190225T073755Z">
+        <seg>Eksik etiketler</seg>
       </tuv>
     </tu>
     <tu>
