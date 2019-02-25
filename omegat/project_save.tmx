@@ -14410,6 +14410,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T080818Z" creationid="Erhan Yükselci" creationdate="20190225T080818Z">
+        <seg>İşaretlendiğinde sözlükçe otomatik tamamlayıcısındaki ögeler kaynak metni de içerir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112006Z" creationid="Erhan Yükselci" creationdate="20160922T112006Z">
