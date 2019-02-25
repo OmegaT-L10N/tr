@@ -8315,8 +8315,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115016Z">
-        <seg>Bitişik boşluk</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073400Z">
+        <seg>Bölünemez boşluk</seg>
       </tuv>
     </tu>
     <tu>
