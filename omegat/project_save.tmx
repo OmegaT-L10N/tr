@@ -14396,8 +14396,8 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115240Z">
-        <seg>Aralıklama Karakteri</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073529Z">
+        <seg>Boşluk karakteri</seg>
       </tuv>
     </tu>
     <tu>
