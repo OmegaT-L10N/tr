@@ -11660,10 +11660,26 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T164046Z" creationid="Erhan Yükselci" creationdate="20190225T164046Z">
+        <seg>Kaynak &amp;terime göre alfabetik olarak sırala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083211Z" creationid="Erhan Yükselci" creationdate="20190204T083211Z">
         <seg>Bulanık eşleşmeleri buna göre sırala:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T164103Z" creationid="Erhan Yükselci" creationdate="20190225T164103Z">
+        <seg>Kaynak terimleri &amp;alfabetik olarak sırala</seg>
       </tuv>
     </tu>
     <tu>
