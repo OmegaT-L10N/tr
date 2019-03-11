@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072301Z" creationid="Erhan Yükselci" creationdate="20190311T072301Z">
+        <seg>&amp;Otomatik metni etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072145Z" creationid="Erhan Yükselci" creationdate="20190311T072145Z">
@@ -11712,6 +11720,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180844Z">
         <seg>Bazı proje klasörleri taşınmış görünüyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072325Z" creationid="Erhan Yükselci" creationdate="20190311T072325Z">
+        <seg>&amp;Alfabetik olarak sırala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072312Z" creationid="Erhan Yükselci" creationdate="20190311T072312Z">
+        <seg>&amp;Uzunluğa göre sırala</seg>
       </tuv>
     </tu>
     <tu>
