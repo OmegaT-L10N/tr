@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072145Z" creationid="Erhan Yükselci" creationdate="20190311T072145Z">
+        <seg>&amp;Sözlükçe önerilerini etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T135854Z" creationid="Erhan Yükselci" creationdate="20190130T121525Z">
@@ -3958,6 +3966,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072057Z" creationid="Erhan Yükselci" creationdate="20190311T072057Z">
+        <seg>Girdileri "&lt;hedef&gt; → &lt;kaynak&gt;" şeklinde gösterir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103833Z">
@@ -5352,6 +5368,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072236Z" creationid="Erhan Yükselci" creationdate="20190311T072236Z">
+        <seg>Yazılan metnin büyük/küçük harf düzenini devam ettir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143631Z">
@@ -5636,6 +5660,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180233Z">
         <seg>Sözlükçe Klasörü:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072002Z" creationid="Erhan Yükselci" creationdate="20190311T072002Z">
+        <seg>Sözlükçe otomatik tamamlayıcı seçenekleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -6148,6 +6180,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>İşaretli olması halinde kaynak dilimler gösterilecek ve yeşil ile işaretlenecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T071943Z" creationid="Erhan Yükselci" creationdate="20190311T071943Z">
+        <seg>Bu seçenek işaretlenir girdiler alfabetik olarak sıralanır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11532,6 +11572,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072130Z" creationid="Erhan Yükselci" creationdate="20190311T072110Z">
+        <seg>Kaynak t&amp;erimleri önce göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072119Z" creationid="Erhan Yükselci" creationdate="20190311T072022Z">
+        <seg>Hedef &amp;terimleri önce göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074626Z" creationid="Erhan Yükselci" creationdate="20190131T074626Z">
@@ -12459,6 +12515,14 @@ Tagalogca</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091458Z">
         <seg>Şablon değişkenleri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072203Z" creationid="Erhan Yükselci" creationdate="20190311T072203Z">
+        <seg>Birden çok hedefleri olan terimler</seg>
       </tuv>
     </tu>
     <tu>
