@@ -14269,8 +14269,8 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Çevrilen tekrarsız dilimler</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161153Z">
+        <seg>Çevrilmiş tekrarsız dilimler</seg>
       </tuv>
     </tu>
     <tu>
