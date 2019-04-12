@@ -149,3 +149,5 @@ whitespace	boşluk karakteri
 template	şablon
 non-breakable space	bölünemez boşluk
 nbsp	bölünemez boşluk
+full text	tam metin
+autotext	otomatik metin
