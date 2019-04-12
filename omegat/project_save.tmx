@@ -11812,6 +11812,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151541Z" creationid="Erhan Yükselci" creationdate="20190412T151541Z">
+        <seg>TaaS Terminoloji Arama A&amp;lanını Seçin...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Script File</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104017Z" creationid="Erhan Yükselci" creationdate="20190204T104017Z">
