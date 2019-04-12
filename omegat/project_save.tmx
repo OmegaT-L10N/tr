@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092019Z" creationid="Erhan Yükselci" creationdate="20190412T092019Z">
+        <seg>&amp;Sadece benzersiz karakterlere izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="TR">
@@ -2776,6 +2784,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092026Z" creationid="Erhan Yükselci" creationdate="20190412T092026Z">
+        <seg>&amp;Temizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T175012Z" creationid="Erhan Yükselci" creationdate="20190130T175012Z">
@@ -2908,6 +2924,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074736Z" creationid="Erhan Yükselci" creationdate="20190131T074736Z">
         <seg>Değiştirme zamanı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092028Z" creationid="Erhan Yükselci" creationdate="20190412T092028Z">
+        <seg>Karakter Tablosu</seg>
       </tuv>
     </tu>
     <tu>
@@ -14590,6 +14614,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Ayrıştırma sırasında satır {0}, sütun {1}'de hata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092032Z" creationid="Erhan Yükselci" creationdate="20190412T092032Z">
+        <seg>Uyarı!</seg>
       </tuv>
     </tu>
     <tu>
