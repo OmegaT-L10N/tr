@@ -2029,6 +2029,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T084733Z" creationid="Erhan Yükselci" creationdate="20190412T084733Z">
+        <seg>Karaktere çift tıklayarak ya da karakteri seçip Insert (Araya Ekle) tuşuna basarak ekleyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="TR">
