@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T073250Z" creationid="Erhan Yükselci" creationdate="20190412T073250Z">
+        <seg>K&amp;arakter tablosunu etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072145Z" creationid="Erhan Yükselci" creationdate="20190311T072145Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T123821Z">
         <seg>&amp;Satır sonlarında</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072326Z" creationid="Erhan Yükselci" creationdate="20190412T072326Z">
+        <seg>&amp;Yükle...</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +938,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T081918Z" creationid="Erhan Yükselci" creationdate="20190130T081918Z">
         <seg>Farklı Kaydet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072330Z" creationid="Erhan Yükselci" creationdate="20190412T072330Z">
+        <seg>&amp;Kaydet...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,6 +2456,30 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072143Z" creationid="Erhan Yükselci" creationdate="20190412T072143Z">
+        <seg>Otomatik metin yapılandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072347Z" creationid="Erhan Yükselci" creationdate="20190412T072347Z">
+        <seg>Otomatik metin dosyası (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072544Z" creationid="Erhan Yükselci" creationdate="20190412T072544Z">
+        <seg>Otomatik metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext entries</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073801Z" creationid="Erhan Yükselci" creationdate="20190225T073801Z">
@@ -2864,6 +2912,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T073322Z" creationid="Erhan Yükselci" creationdate="20190412T073322Z">
+        <seg>Karakter tablosu otomatik tamamlayıcı seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="TR">
@@ -3204,6 +3260,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Y&amp;orumlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072457Z" creationid="Erhan Yükselci" creationdate="20190412T072457Z">
+        <seg>Açıklama</seg>
       </tuv>
     </tu>
     <tu>
@@ -3638,6 +3702,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T073349Z" creationid="Erhan Yükselci" creationdate="20190412T073349Z">
+        <seg>Karakter tablosunu &amp;özelleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="TR">
@@ -3842,6 +3914,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073851Z" creationid="Erhan Yükselci" creationdate="20190225T073851Z">
         <seg>Kaynak &amp;terimleri görüntüle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072316Z" creationid="Erhan Yükselci" creationdate="20190412T072316Z">
+        <seg>Görünüm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4476,6 +4556,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Dilim numarasını girin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072320Z" creationid="Erhan Yükselci" creationdate="20190412T072320Z">
+        <seg>Girdiler</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5620,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T102924Z">
         <seg>Tam kontrol, normal metinlerde hatalı sonuçlara yol açabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072450Z" creationid="Erhan Yükselci" creationdate="20190412T072450Z">
+        <seg>Tam metin</seg>
       </tuv>
     </tu>
     <tu>
@@ -11572,6 +11668,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072410Z" creationid="Erhan Yükselci" creationdate="20190412T072410Z">
+        <seg>Kısayol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T142323Z" creationid="Erhan Yükselci" creationdate="20190225T142323Z">
@@ -11728,6 +11832,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072325Z" creationid="Erhan Yükselci" creationdate="20190311T072325Z">
         <seg>&amp;Alfabetik olarak sırala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072130Z" creationid="Erhan Yükselci" creationdate="20190412T072130Z">
+        <seg>Kısayola göre değil, &amp;tam metne göre sırala</seg>
       </tuv>
     </tu>
     <tu>
@@ -13833,6 +13945,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje dosyası okunamıyor!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072409Z" creationid="Erhan Yükselci" creationdate="20190412T072409Z">
+        <seg>Veriler kaydedilemiyor.</seg>
       </tuv>
     </tu>
     <tu>
