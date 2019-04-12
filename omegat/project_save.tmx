@@ -11836,6 +11836,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T160944Z" creationid="Erhan Yükselci" creationdate="20190412T160944Z">
+        <seg>Dilim işaret metni arka planı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment marker text</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T160932Z" creationid="Erhan Yükselci" creationdate="20190412T160932Z">
@@ -12520,6 +12528,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>Kaynak metnin dilimlendirilmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161013Z" creationid="Erhan Yükselci" creationdate="20190412T160959Z">
+        <seg>Kaynak dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161024Z" creationid="Erhan Yükselci" creationdate="20190412T161001Z">
+        <seg>Kaynak dilim metni</seg>
       </tuv>
     </tu>
     <tu>
