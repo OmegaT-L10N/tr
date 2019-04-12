@@ -2664,6 +2664,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154123Z" creationid="Erhan Yükselci" creationdate="20190412T154123Z">
+        <seg>Arka plan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114848Z" creationid="Erhan Yükselci" creationdate="20160921T114848Z">
@@ -3866,6 +3874,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142112Z" creationid="Erhan Yükselci" creationdate="20190130T142112Z">
         <seg>İmleç kilidi açık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154038Z" creationid="Erhan Yükselci" creationdate="20190412T154038Z">
+        <seg>Özelleştirilmiş Renkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154034Z" creationid="Erhan Yükselci" creationdate="20190412T154034Z">
+        <seg>Özelleştirilmiş Renk Seçimi</seg>
       </tuv>
     </tu>
     <tu>
