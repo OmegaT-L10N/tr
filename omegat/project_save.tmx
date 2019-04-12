@@ -15036,6 +15036,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092438Z" creationid="Erhan Yükselci" creationdate="20190412T092438Z">
+        <seg>HunspellTokenizer belirteç ayırıcısını {0} diliyle kullanmaya çalışıyorsunuz, ama bu dil için yüklenmiş yazım sözlükleri yüklü değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092409Z">
