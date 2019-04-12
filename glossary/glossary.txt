@@ -151,3 +151,4 @@ non-breakable space	bölünemez boşluk
 nbsp	bölünemez boşluk
 full text	tam metin
 autotext	otomatik metin
+custom table	özelleştirme tablosu
