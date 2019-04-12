@@ -11932,6 +11932,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161036Z" creationid="Erhan Yükselci" creationdate="20190412T161036Z">
+        <seg>Not içeren dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161048Z" creationid="Erhan Yükselci" creationdate="20190412T161048Z">
+        <seg>Not içeren dilim metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select</seg>
       </tuv>
       <tuv lang="TR">
@@ -14243,6 +14259,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161133Z" creationid="Erhan Yükselci" creationdate="20190412T161133Z">
+        <seg>Çevrilmiş dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
       <tuv lang="TR">
@@ -14763,6 +14787,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123029Z" creationid="Erhan Yükselci" creationdate="20161129T123029Z">
         <seg>Çevrilmemiş dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161052Z" creationid="Erhan Yükselci" creationdate="20190412T161052Z">
+        <seg>Çevrilmemiş dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161100Z" creationid="Erhan Yükselci" creationdate="20190412T161100Z">
+        <seg>Çevrilmemiş dilim metni</seg>
       </tuv>
     </tu>
     <tu>
