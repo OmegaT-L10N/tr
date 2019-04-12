@@ -4246,6 +4246,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143822Z" creationid="Erhan Yükselci" creationdate="20190412T143822Z">
+        <seg>Bitti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122748Z" creationid="Erhan Yükselci" creationdate="20161129T115803Z">
@@ -14403,6 +14411,30 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Sekmeyi Kullanarak İlerle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143737Z" creationid="Erhan Yükselci" creationdate="20190412T143737Z">
+        <seg>Tüm benimkileri kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143801Z" creationid="Erhan Yükselci" creationdate="20190412T143801Z">
+        <seg>Tüm özgünleri kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143811Z" creationid="Erhan Yükselci" creationdate="20190412T143811Z">
+        <seg>Tüm güncellenmişleri kullan</seg>
       </tuv>
     </tu>
     <tu>
