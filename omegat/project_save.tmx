@@ -2928,6 +2928,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144002Z" creationid="Erhan Yükselci" creationdate="20190412T144002Z">
+        <seg>Tarih değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074839Z">
@@ -2940,6 +2948,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074736Z" creationid="Erhan Yükselci" creationdate="20190131T074736Z">
         <seg>Değiştirme zamanı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144007Z" creationid="Erhan Yükselci" creationdate="20190412T144007Z">
+        <seg>Değiştirici</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3722,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155312Z">
         <seg>Çevrilmiş belgeler oluşturuluyor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144012Z" creationid="Erhan Yükselci" creationdate="20190412T144012Z">
+        <seg>Oluşturma tarihi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144014Z" creationid="Erhan Yükselci" creationdate="20190412T144014Z">
+        <seg>Oluşturan</seg>
       </tuv>
     </tu>
     <tu>
@@ -6940,6 +6972,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144029Z" creationid="Erhan Yükselci" creationdate="20190412T144029Z">
+        <seg>Varsayılan çeviridir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
       <tuv lang="TR">
@@ -8577,6 +8617,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Sonraki Çevrilmemiş Dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143956Z" creationid="Erhan Yükselci" creationdate="20190412T143956Z">
+        <seg>Sonraki →</seg>
       </tuv>
     </tu>
     <tu>
@@ -15826,10 +15874,26 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}/{1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143925Z" creationid="Erhan Yükselci" creationdate="20190412T143925Z">
+        <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
       <tuv lang="TR">
         <seg>{1}, çalıştırıldığı yer '{2}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143938Z" creationid="Erhan Yükselci" creationdate="20190412T143938Z">
+        <seg>← Geri</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
