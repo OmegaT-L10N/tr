@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151605Z" creationid="Erhan Yükselci" creationdate="20190412T151605Z">
+        <seg>&amp;TaaS Terminoloji Arama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105025Z" creationid="Erhan Yükselci" creationdate="20190130T085827Z">
