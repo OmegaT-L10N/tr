@@ -2061,6 +2061,22 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154142Z" creationid="Erhan Yükselci" creationdate="20190412T154142Z">
+        <seg>Geçerli dilim kaynağı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154148Z" creationid="Erhan Yükselci" creationdate="20190412T154148Z">
+        <seg>Geçerli dilim kaynak metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181153Z" creationid="Erhan Yükselci" creationdate="20190130T181153Z">
