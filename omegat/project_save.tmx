@@ -3424,6 +3424,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143841Z" creationid="Erhan Yükselci" creationdate="20190412T143841Z">
+        <seg>Çakışmaların giderilmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143901Z" creationid="Erhan Yükselci" creationdate="20190412T143901Z">
+        <seg>Çakışma {0} / {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
       <tuv lang="TR">
@@ -3822,10 +3838,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143902Z" creationid="Erhan Yükselci" creationdate="20190412T143902Z">
+        <seg>Silindi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Pencerenin durumuna bağlı olarak sağ üst köşede farklı işaretler görünecektir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143919Z" creationid="Erhan Yükselci" creationdate="20190412T143919Z">
+        <seg>Ayrıntı Görünümü</seg>
       </tuv>
     </tu>
     <tu>
@@ -7661,6 +7693,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143910Z" creationid="Erhan Yükselci" creationdate="20190412T143910Z">
+        <seg>Liste Görünümü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lithuanian</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094843Z" creationid="Erhan Yükselci" creationdate="20160922T094843Z">
@@ -8701,6 +8741,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Geçerli bir XML dosyası değil!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143905Z" creationid="Erhan Yükselci" creationdate="20190412T143905Z">
+        <seg>Mevcut değil</seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +10004,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Devam etmek ister misiniz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143844Z" creationid="Erhan Yükselci" creationdate="20190412T143844Z">
+        <seg>İşleniyor...</seg>
       </tuv>
     </tu>
     <tu>
