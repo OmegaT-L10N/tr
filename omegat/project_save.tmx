@@ -2031,8 +2031,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T084733Z" creationid="Erhan Yükselci" creationdate="20190412T084733Z">
-        <seg>Karaktere çift tıklayarak ya da karakteri seçip Insert (Araya Ekle) tuşuna basarak ekleyin.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T084819Z" creationid="Erhan Yükselci" creationdate="20190412T084733Z">
+        <seg>Karaktere çift tıklayarak ya da karakteri seçip Insert (Araya Ekle) tuşuna basarak özelleştirme tablosuna ekleyin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3706,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142112Z" creationid="Erhan Yükselci" creationdate="20190130T142112Z">
         <seg>İmleç kilidi açık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T091950Z" creationid="Erhan Yükselci" creationdate="20190412T091950Z">
+        <seg>Özelleştirme tablosu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5628,6 +5636,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T102924Z">
         <seg>Tam kontrol, normal metinlerde hatalı sonuçlara yol açabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T084823Z" creationid="Erhan Yükselci" creationdate="20190412T084823Z">
+        <seg>Tam tablo</seg>
       </tuv>
     </tu>
     <tu>
