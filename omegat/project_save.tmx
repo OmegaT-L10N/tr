@@ -1479,6 +1479,14 @@ OmegaT 3.6'yı halen kullanabileceksiniz).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115020Z" creationid="Erhan Yükselci" creationdate="20190412T115020Z">
+        <seg>1 dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="TR">
@@ -8053,6 +8061,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114932Z" creationid="Erhan Yükselci" creationdate="20190412T114932Z">
+        <seg>Birleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Methods differ depending on the distribution.</seg>
       </tuv>
       <tuv lang="TR">
@@ -9632,6 +9648,14 @@ lütfen proje yöneticinize başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115551Z">
         <seg>Lütfen etiket doğrulamayı yineleyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115003Z" creationid="Erhan Yükselci" creationdate="20190412T115003Z">
+        <seg>Lütfen aşağıdaki her dilim için bir çeviri seçerek çakışmaları giderin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11680,6 +11704,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114807Z" creationid="Erhan Yükselci" creationdate="20190412T114807Z">
         <seg>Sunucu (özgün)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114930Z" creationid="Erhan Yükselci" creationdate="20190412T114930Z">
+        <seg>Sunucu (güncellenmiş)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15670,6 +15702,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111340Z">
         <seg>{0} yüklendi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115009Z" creationid="Erhan Yükselci" creationdate="20190412T115009Z">
+        <seg>{0} dilim</seg>
       </tuv>
     </tu>
     <tu>
