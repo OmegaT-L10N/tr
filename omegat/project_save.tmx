@@ -2077,6 +2077,22 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154153Z" creationid="Erhan Yükselci" creationdate="20190412T154153Z">
+        <seg>Geçerli dilim hedefi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T154158Z" creationid="Erhan Yükselci" creationdate="20190412T154158Z">
+        <seg>Geçerli dilim hedef metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181153Z" creationid="Erhan Yükselci" creationdate="20190130T181153Z">
