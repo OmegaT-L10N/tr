@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T153814Z" creationid="Erhan Yükselci" creationdate="20190412T153814Z">
+        <seg>TaaS t&amp;erminoloji aramayı etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072301Z" creationid="Erhan Yükselci" creationdate="20190311T072301Z">
@@ -12806,6 +12814,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152246Z" creationid="Erhan Yükselci" creationdate="20190412T152246Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152210Z" creationid="Erhan Yükselci" creationdate="20190412T152210Z">
@@ -12818,6 +12834,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151610Z" creationid="Erhan Yükselci" creationdate="20190412T151610Z">
         <seg>TaaS Koleksiyonları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152259Z" creationid="Erhan Yükselci" creationdate="20190412T152259Z">
+        <seg>TaaS Terminoloji</seg>
       </tuv>
     </tu>
     <tu>
