@@ -1479,6 +1479,14 @@ OmegaT 3.6'yı halen kullanabileceksiniz).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115033Z" creationid="Erhan Yükselci" creationdate="20190412T115033Z">
+        <seg>1 çakışma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 segment</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115020Z" creationid="Erhan Yükselci" creationdate="20190412T115020Z">
@@ -15694,6 +15702,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091551Z" creationid="Erhan Yükselci" creationdate="20190201T091551Z">
         <seg>{0} +{1} daha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115029Z" creationid="Erhan Yükselci" creationdate="20190412T115029Z">
+        <seg>{0} çakışma</seg>
       </tuv>
     </tu>
     <tu>
