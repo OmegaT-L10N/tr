@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151700Z" creationid="Erhan Yükselci" creationdate="20190412T151700Z">
+        <seg>&amp;Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sentence Case</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100819Z" creationid="Erhan Yükselci" creationdate="20190204T100819Z">
@@ -4418,6 +4426,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135709Z" creationid="Erhan Yükselci" creationdate="20190224T135709Z">
         <seg>Ekip Projesini İndir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151756Z" creationid="Erhan Yükselci" creationdate="20190412T151756Z">
+        <seg>{0} koleksiyonunu indirin</seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,6 +11130,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151717Z" creationid="Erhan Yükselci" creationdate="20190412T151717Z">
+        <seg>Koleksiyon listesi alınıyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151740Z" creationid="Erhan Yükselci" creationdate="20190412T151740Z">
+        <seg>Alan listesini alın...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add".</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161124T132612Z" creationid="Erhan Yükselci" creationdate="20161124T132612Z">
@@ -11856,6 +11888,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151541Z" creationid="Erhan Yükselci" creationdate="20190412T151541Z">
         <seg>TaaS Terminoloji Arama A&amp;lanını Seçin...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151728Z" creationid="Erhan Yükselci" creationdate="20190412T151728Z">
+        <seg>TaaS alanını seçin</seg>
       </tuv>
     </tu>
     <tu>
