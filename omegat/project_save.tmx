@@ -8929,6 +8929,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T162029Z" creationid="Erhan Yükselci" creationdate="20190412T162029Z">
+        <seg>Tekrarsız dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124530Z">
@@ -14263,6 +14271,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161133Z" creationid="Erhan Yükselci" creationdate="20190412T161133Z">
         <seg>Çevrilmiş dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T162007Z" creationid="Erhan Yükselci" creationdate="20190412T162001Z">
+        <seg>Çevrilmiş dilim metni</seg>
       </tuv>
     </tu>
     <tu>
