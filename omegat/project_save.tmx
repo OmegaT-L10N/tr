@@ -2077,6 +2077,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144102Z" creationid="Erhan Yükselci" creationdate="20190412T144102Z">
+        <seg>Eklenen: {1}, Silinen: {2}, Değiştirilen: {3} (Çakışmalar: {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102100Z">
@@ -8573,6 +8581,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144035Z" creationid="Erhan Yükselci" creationdate="20190412T144035Z">
+        <seg>Sonraki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103243Z">
@@ -8805,6 +8821,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082108Z">
         <seg>Bu arada kendisinin depoları yerli yerince ve sorunsuz işletme konusundaki özen ve gayretlerinden de bahsetmeden geçemeyeceğim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144030Z" creationid="Erhan Yükselci" creationdate="20190412T144030Z">
+        <seg>Not</seg>
       </tuv>
     </tu>
     <tu>
@@ -9990,6 +10014,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144038Z" creationid="Erhan Yükselci" creationdate="20190412T144038Z">
+        <seg>Önceki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous No&amp;te</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T132841Z">
@@ -10974,6 +11006,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074045Z" creationid="Erhan Yükselci" creationdate="20190131T074045Z">
         <seg>{0} deposu bilinmiyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request to TaaS: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144132Z" creationid="Erhan Yükselci" creationdate="20190412T144132Z">
+        <seg>TaaS'a İstek: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13911,6 +13951,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112233Z">
         <seg>Proje Çevriliyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144031Z" creationid="Erhan Yükselci" creationdate="20190412T144031Z">
+        <seg>Çeviri</seg>
       </tuv>
     </tu>
     <tu>
