@@ -5560,6 +5560,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092512Z" creationid="Erhan Yükselci" creationdate="20190412T092512Z">
+        <seg>En iyi sonuçlar için lütfen Tercihler &gt; Yazım Denetimi </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="TR">
