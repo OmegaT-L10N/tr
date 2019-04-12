@@ -8437,6 +8437,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T162335Z" creationid="Erhan Yükselci" creationdate="20190412T162335Z">
+        <seg>Değişiklik bilgisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083719Z" creationid="Erhan Yükselci" creationdate="20190204T083719Z">
@@ -8449,6 +8457,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083738Z" creationid="Erhan Yükselci" creationdate="20190204T083738Z">
         <seg>Tarihsiz dilimler için değişiklik bilgisi şablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T162341Z" creationid="Erhan Yükselci" creationdate="20190412T162341Z">
+        <seg>Değişiklik bilgisi metni</seg>
       </tuv>
     </tu>
     <tu>
@@ -13075,6 +13091,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102752Z" creationid="Erhan Yükselci" creationdate="20160922T102752Z">
         <seg>
 Tagalogca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T162343Z" creationid="Erhan Yükselci" creationdate="20190412T162343Z">
+        <seg>Etiketler</seg>
       </tuv>
     </tu>
     <tu>
