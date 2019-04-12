@@ -8085,6 +8085,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114916Z" creationid="Erhan Yükselci" creationdate="20190412T114916Z">
+        <seg>Benimki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="TR">
@@ -11664,6 +11672,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>Sırpça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114807Z" creationid="Erhan Yükselci" creationdate="20190412T114807Z">
+        <seg>Sunucu (özgün)</seg>
       </tuv>
     </tu>
     <tu>
