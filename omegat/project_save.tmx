@@ -3750,6 +3750,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152229Z" creationid="Erhan Yükselci" creationdate="20190412T152229Z">
+        <seg>Kendi anahtarınızı oluşturan ve aşağıya girin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="TR">
@@ -5908,6 +5916,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Almanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152244Z" creationid="Erhan Yükselci" creationdate="20190412T152244Z">
+        <seg>API Anahtarı Al</seg>
       </tuv>
     </tu>
     <tu>
@@ -12786,6 +12802,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>TMX dosyası OmegaT 1.4.x ya da daha öncesi bir sürümde oluşturulmuş.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152210Z" creationid="Erhan Yükselci" creationdate="20190412T152210Z">
+        <seg>TaaS API anahtarı ayarlanmamış.</seg>
       </tuv>
     </tu>
     <tu>
