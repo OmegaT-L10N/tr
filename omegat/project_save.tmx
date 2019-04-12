@@ -12204,6 +12204,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152115Z" creationid="Erhan Yükselci" creationdate="20190412T152115Z">
+        <seg>Bir sorun çıktı; lütfen ayrıntılar için Tilde Terminology'yi ziyaret edin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072325Z" creationid="Erhan Yükselci" creationdate="20190311T072325Z">
