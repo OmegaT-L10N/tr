@@ -4968,6 +4968,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152151Z" creationid="Erhan Yükselci" creationdate="20190412T152151Z">
+        <seg>Sözlükçe dosyasının güncellenmesinde hata oluştu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101756Z" creationid="Erhan Yükselci" creationdate="20190204T101756Z">
@@ -15344,6 +15352,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114138Z">
         <seg>Yanlış kimlik doğrulama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T152133Z" creationid="Erhan Yükselci" creationdate="20190412T152133Z">
+        <seg>TaaS hizmetin yanlış yanıt formatı</seg>
       </tuv>
     </tu>
     <tu>
