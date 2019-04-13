@@ -8036,6 +8036,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143124Z" creationid="Erhan Yükselci" creationdate="20190413T143124Z">
+        <seg>OmegaT'nin kurulumu ve çalıştırılması" (Kullanıcı Kılavuzu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="TR">
@@ -9345,6 +9353,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T110538Z">
         <seg>&amp;Bitişik Boşlukları İşaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143159Z" creationid="Erhan Yükselci" creationdate="20190413T143159Z">
+        <seg>&amp;Paragraf Sınırlandırmaları İşaretle</seg>
       </tuv>
     </tu>
     <tu>
