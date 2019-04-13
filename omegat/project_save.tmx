@@ -3920,6 +3920,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163305Z" creationid="Erhan Yükselci" creationdate="20190413T163305Z">
+        <seg>&lt;g0&gt;Araçlar&gt; &lt;/g0&gt;menüsünden &lt;g1&gt;Betik Çalıştırma&lt;/g1&gt; girdisine tıkladığınızda Betik Çalıştırma penceresi açılır:&lt;s2&gt; &lt;s3&gt;Betik Çalıştırma penceresi&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153659Z" creationid="Erhan Yükselci" creationdate="20190130T153659Z">
