@@ -3828,6 +3828,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141642Z" creationid="Erhan Yükselci" creationdate="20190413T141642Z">
+        <seg>Komut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command delimiter is empty</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141520Z" creationid="Erhan Yükselci" creationdate="20190413T141520Z">
@@ -4104,6 +4112,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
         <seg>Console-translate (konsol çeviri) kipi:
 	--source-pattern=&lt;desen&gt;
 		İşlenecek kaynak dosyalarının düzenli ifadeli beyaz listesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Context Menu Priority:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141622Z" creationid="Erhan Yükselci" creationdate="20190413T141622Z">
+        <seg>Bağlam Menüsü Önceliği:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4546,6 +4562,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143902Z" creationid="Erhan Yükselci" creationdate="20190412T143902Z">
         <seg>Silindi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141700Z" creationid="Erhan Yükselci" creationdate="20190413T141700Z">
+        <seg>Ayırıcı</seg>
       </tuv>
     </tu>
     <tu>
@@ -5260,6 +5284,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141638Z" creationid="Erhan Yükselci" creationdate="20190413T141638Z">
+        <seg>Harici Arama Ögesini Düzenle</seg>
       </tuv>
     </tu>
     <tu>
