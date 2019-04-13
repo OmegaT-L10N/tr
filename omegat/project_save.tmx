@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142047Z" creationid="Erhan Yükselci" creationdate="20190413T142047Z">
+        <seg>&amp;Editörde Göster bağlam menüsü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T135646Z" creationid="Erhan Yükselci" creationdate="20190130T121416Z">
@@ -12232,6 +12240,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142111Z" creationid="Erhan Yükselci" creationdate="20190413T142111Z">
+        <seg>Ka&amp;ldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100337Z" creationid="Erhan Yükselci" creationdate="20190204T100337Z">
@@ -13144,6 +13160,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103946Z">
         <seg>Betik Klasörü:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142057Z" creationid="Erhan Yükselci" creationdate="20190413T142057Z">
+        <seg>&amp;Ayarla</seg>
       </tuv>
     </tu>
     <tu>
