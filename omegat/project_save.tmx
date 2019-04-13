@@ -8937,6 +8937,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075825Z" creationid="Erhan Yükselci" creationdate="20190413T075825Z">
+        <seg>Bölünemez boşluklar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breaking space</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124639Z" creationid="Erhan Yükselci" creationdate="20161129T124639Z">
@@ -15462,6 +15470,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115801Z" creationid="Erhan Yükselci" creationdate="20161129T115801Z">
         <seg>Boşluk Karakteri - sonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075905Z" creationid="Erhan Yükselci" creationdate="20190413T075905Z">
+        <seg>Boşluk karakterleri</seg>
       </tuv>
     </tu>
     <tu>
