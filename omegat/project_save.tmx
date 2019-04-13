@@ -4678,6 +4678,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163631Z" creationid="Erhan Yükselci" creationdate="20190413T163631Z">
+        <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+L</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163540Z" creationid="Erhan Yükselci" creationdate="20190413T163540Z">
@@ -4690,6 +4698,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094957Z">
         <seg>Ctrl+Sol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163634Z" creationid="Erhan Yükselci" creationdate="20190413T163634Z">
+        <seg>Ctrl+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163557Z" creationid="Erhan Yükselci" creationdate="20190413T163557Z">
+        <seg>Ctrl+O</seg>
       </tuv>
     </tu>
     <tu>
@@ -4718,6 +4742,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163627Z" creationid="Erhan Yükselci" creationdate="20190413T163624Z">
+        <seg>Ctrl+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T095017Z">
@@ -4734,6 +4766,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163651Z" creationid="Erhan Yükselci" creationdate="20190413T163651Z">
+        <seg>Ctrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+D</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163528Z" creationid="Erhan Yükselci" creationdate="20190413T163528Z">
@@ -4742,10 +4782,42 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163641Z" creationid="Erhan Yükselci" creationdate="20190413T163641Z">
+        <seg>Ctrl+Shift+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163602Z" creationid="Erhan Yükselci" creationdate="20190413T163602Z">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+O</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150618Z" creationid="Erhan Yükselci" creationdate="20190413T150618Z">
         <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163637Z" creationid="Erhan Yükselci" creationdate="20190413T163637Z">
+        <seg>Ctrl+Shift+R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163644Z" creationid="Erhan Yükselci" creationdate="20190413T163644Z">
+        <seg>Ctrl+Shift+T</seg>
       </tuv>
     </tu>
     <tu>
@@ -4762,6 +4834,30 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150619Z" creationid="Erhan Yükselci" creationdate="20190413T150619Z">
         <seg>Ctrl+Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+T</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163648Z" creationid="Erhan Yükselci" creationdate="20190413T163648Z">
+        <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163622Z" creationid="Erhan Yükselci" creationdate="20190413T163622Z">
+        <seg>Ctrl+Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Z</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163617Z" creationid="Erhan Yükselci" creationdate="20190413T163617Z">
+        <seg>Ctrl+Z</seg>
       </tuv>
     </tu>
     <tu>
@@ -6524,6 +6620,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115223Z">
         <seg>Yabancı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163553Z" creationid="Erhan Yükselci" creationdate="20190413T163553Z">
+        <seg>F5</seg>
       </tuv>
     </tu>
     <tu>
