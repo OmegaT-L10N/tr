@@ -7692,6 +7692,30 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102834Z" creationid="Erhan Yükselci" creationdate="20190413T102834Z">
+        <seg>Sorunlar ({0} / {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102456Z" creationid="Erhan Yükselci" creationdate="20190413T102456Z">
+        <seg>Sorunlar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102514Z" creationid="Erhan Yükselci" creationdate="20190413T102514Z">
+        <seg>{0} için sorunlar ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also displays the number of fuzzy and glossary matches for the current segment.</seg>
       </tuv>
       <tuv lang="TR">
