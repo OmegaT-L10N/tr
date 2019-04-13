@@ -1845,6 +1845,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143728Z" creationid="Erhan Yükselci" creationdate="20190413T143728Z">
+        <seg>&lt;e0&gt;5 dakikada OmegaT'yi kullanmayı öğrenin!:&lt;/e0&gt; Bu bölüm hem yeni başlayanlara hem de BDÇ araçlarını kullanmayı bilen daha deneyimli kişilere yönelik yeni bir çeviri projesi oluşturmadan çevirinin tamamlanmasına kadar tüm prosedürü kısa şekilde açıklayan bir öğretici niteliğindedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T103141Z">
@@ -18654,6 +18662,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143546Z" creationid="Erhan Yükselci" creationdate="20190413T143546Z">
         <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143623Z" creationid="Erhan Yükselci" creationdate="20190413T143623Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
