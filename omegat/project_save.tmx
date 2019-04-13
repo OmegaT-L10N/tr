@@ -4278,6 +4278,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143351Z" creationid="Erhan Yükselci" creationdate="20190413T143351Z">
+        <seg>Telif hakkı© 2000-2019 Keith Godfrey, Maxym Mykhalchuk ve diğerleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092522Z" creationid="Erhan Yükselci" creationdate="20160922T092522Z">
