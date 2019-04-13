@@ -2015,8 +2015,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130910Z" creationid="Erhan Yükselci" creationdate="20190413T130910Z">
-        <seg>Bu değişikliklerin geçerli olması için programın yeniden başlatılması gereklidir.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130925Z" creationid="Erhan Yükselci" creationdate="20190413T130910Z">
+        <seg>Bu değişikliklerin geçerli olması için programın yeniden başlatılması gereklidir</seg>
       </tuv>
     </tu>
     <tu>
@@ -14836,6 +14836,14 @@ instead.</seg>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090536Z">
         <seg>Bunun yerine mevcut klasör
 kullanılacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131029Z" creationid="Erhan Yükselci" creationdate="20190413T131029Z">
+        <seg>Bu değişikliklerin uygulanması için geçerli projenin yeniden yüklenmelidir</seg>
       </tuv>
     </tu>
     <tu>
