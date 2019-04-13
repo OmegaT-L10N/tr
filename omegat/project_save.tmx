@@ -2389,6 +2389,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092553Z" creationid="Erhan Yükselci" creationdate="20190413T092553Z">
+        <seg>Kaynak dosyaları yüklerken bir hata oluştu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140143Z" creationid="Erhan Yükselci" creationdate="20190224T140143Z">
@@ -3460,6 +3468,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111432Z" creationid="Erhan Yükselci" creationdate="20161130T111432Z">
         <seg>Temizleme işlemi için SVN deposu seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092616Z" creationid="Erhan Yükselci" creationdate="20190413T092616Z">
+        <seg>Kaynak Dosyayı Seç</seg>
       </tuv>
     </tu>
     <tu>
@@ -14040,6 +14056,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092528Z" creationid="Erhan Yükselci" creationdate="20190413T092528Z">
+        <seg>"{0}" dosyası desteklenmiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073044Z" creationid="Erhan Yükselci" creationdate="20190204T073044Z">
@@ -14206,6 +14230,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092511Z" creationid="Erhan Yükselci" creationdate="20190204T092511Z">
         <seg>Belirtilen sözlük klasörü mevcut değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092537Z" creationid="Erhan Yükselci" creationdate="20190413T092537Z">
+        <seg>Belirtilen dosyalar desteklenmiyor.</seg>
       </tuv>
     </tu>
     <tu>
