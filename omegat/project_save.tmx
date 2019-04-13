@@ -12568,6 +12568,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143533Z" creationid="Erhan Yükselci" creationdate="20190413T143533Z">
+        <seg>Metin hedefini kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove the project folder manually.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T114927Z" creationid="Erhan Yükselci" creationdate="20190204T114927Z">
@@ -18638,6 +18646,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143938Z" creationid="Erhan Yükselci" creationdate="20190412T143938Z">
         <seg>← Geri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143546Z" creationid="Erhan Yükselci" creationdate="20190413T143546Z">
+        <seg>▲</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
