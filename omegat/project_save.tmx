@@ -2413,6 +2413,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095333Z" creationid="Erhan Yükselci" creationdate="20190413T095333Z">
+        <seg>TMX kaydedilirken bir hata oluştu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140143Z" creationid="Erhan Yükselci" creationdate="20190224T140143Z">
@@ -2536,6 +2544,14 @@ TMX dosyası yüklenmeyecek.</seg>
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090502Z" creationid="Erhan Yükselci" creationdate="20190413T090502Z">
+        <seg>"{0}" adında bir öge bu konunda zaten var.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095316Z" creationid="Erhan Yükselci" creationdate="20190413T095316Z">
         <seg>"{0}" adında bir öge bu konunda zaten var.</seg>
       </tuv>
     </tu>
@@ -4598,6 +4614,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095231Z" creationid="Erhan Yükselci" creationdate="20190413T095231Z">
+        <seg>Uzaklık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112555Z" creationid="Erhan Yükselci" creationdate="20160922T112555Z">
@@ -4658,6 +4682,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092526Z" creationid="Erhan Yükselci" creationdate="20190204T092526Z">
         <seg>Oluşturmak ister misiniz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095321Z" creationid="Erhan Yükselci" creationdate="20190413T095321Z">
+        <seg>Üzerine yazmak istiyor musunuz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,6 +7833,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094208Z" creationid="Erhan Yükselci" creationdate="20160922T094208Z">
         <seg>Kazakça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095236Z" creationid="Erhan Yükselci" creationdate="20190413T095236Z">
+        <seg>Tut</seg>
       </tuv>
     </tu>
     <tu>
@@ -12190,6 +12230,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kaydet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095303Z" creationid="Erhan Yükselci" creationdate="20190413T095303Z">
+        <seg>Hizalama Sonuçlarını Kaydet</seg>
       </tuv>
     </tu>
     <tu>
