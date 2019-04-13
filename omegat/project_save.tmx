@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131055Z" creationid="Erhan Yükselci" creationdate="20190413T131055Z">
+        <seg>&amp;Çevrim İçi Gözat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092435Z" creationid="Erhan Yükselci" creationdate="20190412T151112Z">
@@ -11101,6 +11109,14 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131032Z" creationid="Erhan Yükselci" creationdate="20190413T131032Z">
+        <seg>Eklentiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102238Z" creationid="Erhan Yükselci" creationdate="20190413T102238Z">
@@ -15182,6 +15198,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Dolayısıyla kaynak diliniz Kanada Fransızcası olduğunda projeniz doğru sırayla tüm dil zinciri için tanımlanmış tüm kuralları kullanacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131150Z" creationid="Erhan Yükselci" creationdate="20190413T131150Z">
+        <seg>Çevrim içi olarak birçok OmegaT eklentisi bulunabilir.</seg>
       </tuv>
     </tu>
     <tu>
