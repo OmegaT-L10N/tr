@@ -4542,6 +4542,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150603Z" creationid="Erhan Yükselci" creationdate="20190413T150603Z">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143932Z" creationid="Erhan Yükselci" creationdate="20190413T143932Z">
@@ -4562,6 +4570,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094957Z">
         <seg>Ctrl+Sol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgDn</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150544Z" creationid="Erhan Yükselci" creationdate="20190413T150544Z">
+        <seg>Ctrl+PgDn</seg>
       </tuv>
     </tu>
     <tu>
@@ -4690,6 +4706,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>Varsayılan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete*</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150559Z" creationid="Erhan Yükselci" creationdate="20190413T150559Z">
+        <seg>Delete*</seg>
       </tuv>
     </tu>
     <tu>
@@ -18342,6 +18366,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150543Z" creationid="Erhan Yükselci" creationdate="20190413T150543Z">
         <seg>Belgenin ilk dilimine gider (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150553Z" creationid="Erhan Yükselci" creationdate="20190413T150553Z">
+        <seg>Belgenin son dilimine gider (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
