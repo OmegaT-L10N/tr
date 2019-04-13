@@ -7104,6 +7104,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130445Z" creationid="Erhan Yükselci" creationdate="20190413T130445Z">
+        <seg>Anladım; Yine de Yap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="TR">
@@ -11125,6 +11133,22 @@ hedef dili seçin.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preferences</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130456Z" creationid="Erhan Yükselci" creationdate="20190413T130456Z">
+        <seg>Tercihler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130508Z" creationid="Erhan Yükselci" creationdate="20190413T130504Z">
+        <seg>Tercihler - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
       <tuv lang="TR">
@@ -12752,6 +12776,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T104442Z" creationid="Erhan Yükselci" creationdate="20161129T125821Z">
         <seg>Ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search ({0})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130552Z" creationid="Erhan Yükselci" creationdate="20190413T130552Z">
+        <seg>Ara ({0})</seg>
       </tuv>
     </tu>
     <tu>
