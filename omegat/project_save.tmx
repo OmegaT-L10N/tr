@@ -4606,6 +4606,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090332Z" creationid="Erhan Yükselci" creationdate="20190413T090332Z">
+        <seg>Dosyaları projeye eklemek için buraya bırakın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115050Z">
@@ -16596,8 +16604,8 @@ klasörü oluşturmasına izin vermedi.</seg>
       <tuv lang="EN">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090252Z" creationid="Erhan Yükselci" creationdate="20190413T090252Z">
-        <seg>{0} metin yazma yönünü soldan sağ (LTR) ile sağdan sola (RTL) arasında değiştirir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090257Z" creationid="Erhan Yükselci" creationdate="20190413T090252Z">
+        <seg>{0}, metin yazma yönünü soldan sağ (LTR) ile sağdan sola (RTL) arasında değiştirir</seg>
       </tuv>
     </tu>
     <tu>
