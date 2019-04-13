@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131232Z" creationid="Erhan Yükselci" creationdate="20190413T131232Z">
+        <seg>&amp;Çevirileri otomatik olarak getir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="TR">
@@ -3868,6 +3876,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080820Z">
         <seg>Çeviri belgede boşluk karakterini sıkıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131219Z" creationid="Erhan Yükselci" creationdate="20190413T131219Z">
+        <seg>Ya&amp;pılandır</seg>
       </tuv>
     </tu>
     <tu>
