@@ -4542,10 +4542,34 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+End</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143932Z" creationid="Erhan Yükselci" creationdate="20190413T143932Z">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143930Z" creationid="Erhan Yükselci" creationdate="20190413T143930Z">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094957Z">
         <seg>Ctrl+Sol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+PgUp</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143934Z" creationid="Erhan Yükselci" creationdate="20190413T143934Z">
+        <seg>Ctrl+PgUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,8 +5674,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T114722Z" creationid="Erhan Yükselci" creationdate="20160921T114722Z">
-        <seg>Son</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143927Z" creationid="Erhan Yükselci" creationdate="20160921T114722Z">
+        <seg>End*</seg>
       </tuv>
     </tu>
     <tu>
@@ -7460,6 +7484,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073825Z" creationid="Erhan Yükselci" creationdate="20190225T073825Z">
         <seg>Geçmişe "Dayalı Tahminler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Home*</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143922Z" creationid="Erhan Yükselci" creationdate="20190413T143922Z">
+        <seg>Home*</seg>
       </tuv>
     </tu>
     <tu>
@@ -11362,6 +11394,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100356Z" creationid="Erhan Yükselci" creationdate="20160922T100356Z">
         <seg>Farsça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PgDn:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143907Z" creationid="Erhan Yükselci" creationdate="20190413T143907Z">
+        <seg>PgDn:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18294,6 +18334,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T095915Z">
         <seg>Dilimin sonuna gitme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150543Z" creationid="Erhan Yükselci" creationdate="20190413T150543Z">
+        <seg>Belgenin ilk dilimine gider (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
