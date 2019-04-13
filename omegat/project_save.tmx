@@ -11176,6 +11176,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093328Z" creationid="Erhan Yükselci" creationdate="20190413T093328Z">
+        <seg>Bekleyenleri Yeniden Hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="TR">
