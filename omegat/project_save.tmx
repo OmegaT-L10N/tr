@@ -4542,6 +4542,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+A</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150614Z" creationid="Erhan Yükselci" creationdate="20190413T150614Z">
+        <seg>Ctrl+A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Backspace</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150603Z" creationid="Erhan Yükselci" creationdate="20190413T150603Z">
@@ -4550,10 +4558,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150607Z" creationid="Erhan Yükselci" creationdate="20190413T150607Z">
+        <seg>Ctrl+Delete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+End</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143932Z" creationid="Erhan Yükselci" creationdate="20190413T143932Z">
         <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Enter</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150609Z" creationid="Erhan Yükselci" creationdate="20190413T150609Z">
+        <seg>Ctrl+Enter</seg>
       </tuv>
     </tu>
     <tu>
@@ -4594,6 +4618,22 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T095017Z">
         <seg>Ctrl+Sağ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150618Z" creationid="Erhan Yükselci" creationdate="20190413T150618Z">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150619Z" creationid="Erhan Yükselci" creationdate="20190413T150619Z">
+        <seg>Ctrl+Space</seg>
       </tuv>
     </tu>
     <tu>
@@ -10938,6 +10978,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142624Z" creationid="Erhan Yükselci" creationdate="20190413T142624Z">
         <seg>OmegaT {0} kullanıma hazır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150731Z" creationid="Erhan Yükselci" creationdate="20190413T150731Z">
+        <seg>Otomatik Tamamlayıcı açılınca &lt;e1&gt;Ctrl+Space&lt;/e1&gt; tuşlarını kullanarak sırasıyla &lt;e2&gt;Sözlükçe girdileri&lt;/e2&gt;, &lt;e3&gt;Otomatik metin girdileri,&lt;/e3&gt; &lt;e4&gt;Eksik etiketler&lt;/e4&gt; ve &lt;e5&gt;Karakter tablosu&lt;/e5&gt; seçenekleri arasında geçiş yapabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18430,6 +18478,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T095648Z">
         <seg>bir karakter sağa, ama dilim sonundan daha öteye değil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150632Z" creationid="Erhan Yükselci" creationdate="20190413T150632Z">
+        <seg>Bağlamsal önerileri içeren Otomatik Tamamlayıcı iletişim kutusunu açar (Mac: &lt;e0&gt;Esc&lt;/e0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
