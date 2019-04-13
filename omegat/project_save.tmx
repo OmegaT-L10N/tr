@@ -2021,6 +2021,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151410Z" creationid="Erhan Yükselci" creationdate="20190413T151410Z">
+        <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; tuşlarını kullanarak önceki bölgeye geri dönebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="TR">
@@ -15878,6 +15886,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Pencerelerin arasındaki ayırıcıları sürüklemek suretiyle pencereleri yeniden boyutlandırmak mümkündür.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151423Z" creationid="Erhan Yükselci" creationdate="20190413T151423Z">
+        <seg>&lt;k2&gt;Ctrl+A&lt;/k2&gt; ve &lt;k3&gt;Ctrl+C&lt;/k3&gt; kısayolları bölmelerde de çalışır ve kopyalama yapmanıza izin verir.</seg>
       </tuv>
     </tu>
     <tu>
