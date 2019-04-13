@@ -2197,6 +2197,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104456Z" creationid="Erhan Yükselci" creationdate="20190413T104456Z">
+        <seg>Sözlüğe Ekle: “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T084819Z" creationid="Erhan Yükselci" creationdate="20190412T084733Z">
@@ -7296,6 +7304,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073926Z" creationid="Erhan Yükselci" creationdate="20190204T073926Z">
         <seg>&lt;&amp;bpt&gt; ve &lt;ept&gt; etiket kısayollarını &amp;oluştururken tür tip ve ctip öz niteliklerini yok say</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104516Z" creationid="Erhan Yükselci" creationdate="20190413T104516Z">
+        <seg>Yoksay: “{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14070,6 +14086,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104521Z" creationid="Erhan Yükselci" creationdate="20190413T104521Z">
+        <seg>Etiket Sorunları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085354Z" creationid="Erhan Yükselci" creationdate="20190204T085354Z">
@@ -17486,6 +17510,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090257Z" creationid="Erhan Yükselci" creationdate="20190413T090252Z">
         <seg>{0}, metin yazma yönünü soldan sağ (LTR) ile sağdan sola (RTL) arasında değiştirir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104524Z" creationid="Erhan Yükselci" creationdate="20190413T104524Z">
+        <seg>{0} x{1}</seg>
       </tuv>
     </tu>
     <tu>
