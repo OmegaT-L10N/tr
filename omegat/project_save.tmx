@@ -2093,6 +2093,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134920Z" creationid="Erhan Yükselci" creationdate="20190413T134920Z">
+        <seg>Sadece ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113801Z" creationid="Erhan Yükselci" creationdate="20161129T113801Z">
@@ -3120,6 +3128,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134935Z" creationid="Erhan Yükselci" creationdate="20190413T134935Z">
+        <seg>Her İkisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="TR">
@@ -3716,6 +3732,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092452Z" creationid="Erhan Yükselci" creationdate="20160922T092452Z">
         <seg>Çuvaş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134855Z" creationid="Erhan Yükselci" creationdate="20190413T134855Z">
+        <seg>Temizle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5668,6 +5692,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115720Z" creationid="Erhan Yükselci" creationdate="20161129T115720Z">
         <seg>Bulunan hatalar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134901Z" creationid="Erhan Yükselci" creationdate="20190413T134901Z">
+        <seg>Çık</seg>
       </tuv>
     </tu>
     <tu>
@@ -9869,6 +9901,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134926Z" creationid="Erhan Yükselci" creationdate="20190413T134926Z">
+        <seg>Sadece ASCII olmayan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-GUI mode options:
 	--quiet
 		Reduce output to command line stdout.</seg>
@@ -9925,6 +9965,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124530Z">
         <seg>&amp;Görünmez Talimat Metni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134902Z" creationid="Erhan Yükselci" creationdate="20190413T134902Z">
+        <seg>Hiçbiri</seg>
       </tuv>
     </tu>
     <tu>
