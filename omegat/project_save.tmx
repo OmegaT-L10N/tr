@@ -10365,6 +10365,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174012Z" creationid="Erhan Yükselci" creationdate="20190413T174012Z">
+        <seg>Ayrıntılı bilgi için Joel Spolsky'nin &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; (Sorunsuz Hata Takibi) adlı makalesine başvurabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101733Z" creationid="Erhan Yükselci" creationdate="20190204T101733Z">
@@ -12996,6 +13004,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112246Z">
         <seg>Geriye Kalan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remember that every good bug report needs just three things:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T173941Z" creationid="Erhan Yükselci" creationdate="20190413T173941Z">
+        <seg>İyi bir hata raporu yazmak için sadece üç şeye ihtiyacınız olduğunu unutmayın:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19843,6 +19859,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172204Z" creationid="Erhan Yükselci" creationdate="20190413T172204Z">
         <seg>http://tech.groups.yahoo.com/group/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T173945Z" creationid="Erhan Yükselci" creationdate="20190413T173945Z">
+        <seg>http://www.joelonsoftware.com/articles/fog0000000029.html</seg>
       </tuv>
     </tu>
     <tu>
