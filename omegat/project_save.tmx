@@ -4348,6 +4348,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174705Z" creationid="Erhan Yükselci" creationdate="20190413T174705Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; projesine katkıda bulunma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150247Z" creationid="Erhan Yükselci" creationdate="20190204T150247Z">
@@ -16804,6 +16812,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T114803Z" creationid="Erhan Yükselci" creationdate="20190204T114803Z">
         <seg>Çeviri kaybını önlemek için şunları yapmalısınız:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To contribute to &lt;a0&gt;OmegaT&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174729Z" creationid="Erhan Yükselci" creationdate="20190413T174729Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'ye katkıda bulunmak için:</seg>
       </tuv>
     </tu>
     <tu>
