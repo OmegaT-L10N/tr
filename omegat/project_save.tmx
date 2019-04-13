@@ -10932,6 +10932,14 @@ lütfen proje yöneticinize başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130037Z" creationid="Erhan Yükselci" creationdate="20190413T130037Z">
+        <seg>Onaylama için lütfen parolanızı tekrar girin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please redo tag validation.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115551Z">
@@ -14828,8 +14836,8 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125915Z" creationid="Erhan Yükselci" creationdate="20190413T125915Z">
-        <seg>Sorular boş olamaz.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130003Z" creationid="Erhan Yükselci" creationdate="20190413T125915Z">
+        <seg>Parola boş olamaz.</seg>
       </tuv>
     </tu>
     <tu>
