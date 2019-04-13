@@ -3892,6 +3892,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142140Z" creationid="Erhan Yükselci" creationdate="20190413T142140Z">
+        <seg>Komut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141528Z" creationid="Erhan Yükselci" creationdate="20190413T141528Z">
@@ -4578,6 +4586,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141700Z" creationid="Erhan Yükselci" creationdate="20190413T141700Z">
         <seg>Ayırıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142150Z" creationid="Erhan Yükselci" creationdate="20190413T142150Z">
+        <seg>Ayırıcı:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5288,6 +5304,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142121Z" creationid="Erhan Yükselci" creationdate="20190413T142117Z">
+        <seg>D&amp;üzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="TR">
@@ -5296,10 +5320,26 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142138Z" creationid="Erhan Yükselci" creationdate="20190413T142138Z">
+        <seg>Harici Arama Komutunu Düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141638Z" creationid="Erhan Yükselci" creationdate="20190413T141638Z">
         <seg>Harici Arama Ögesini Düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142130Z" creationid="Erhan Yükselci" creationdate="20190413T142118Z">
+        <seg>Harici Arama URL'sini Düzenle</seg>
       </tuv>
     </tu>
     <tu>
@@ -5468,6 +5508,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T111008Z">
         <seg>Kodlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142142Z" creationid="Erhan Yükselci" creationdate="20190413T142142Z">
+        <seg>Kodlama:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14919,6 +14967,14 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142141Z" creationid="Erhan Yükselci" creationdate="20190413T142141Z">
+        <seg>Hedef:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102933Z" creationid="Erhan Yükselci" creationdate="20160922T102933Z">
@@ -15225,6 +15281,14 @@ Lütfen hatayı düzeltin ve projeyi yeniden yükleyin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>TMX kaynak dili ({0}) proje kaynak dilinden ({1}) farklı.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142248Z" creationid="Erhan Yükselci" creationdate="20190413T142248Z">
+        <seg>URL'de "{hedef}" olmalıdır; bu arama metniyle değiştirilir.</seg>
       </tuv>
     </tu>
     <tu>
