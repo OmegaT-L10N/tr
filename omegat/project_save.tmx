@@ -17080,6 +17080,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112104Z" creationid="Erhan Yükselci" creationdate="20190413T112104Z">
+        <seg>[{0}] kaynakta “{1}”; beklenen hedefte {2}'nin biri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112020Z" creationid="Erhan Yükselci" creationdate="20190413T112020Z">
