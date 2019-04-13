@@ -13284,6 +13284,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130428Z" creationid="Erhan Yükselci" creationdate="20190413T130428Z">
+        <seg>Parolamı Ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104150Z" creationid="Erhan Yükselci" creationdate="20190204T104150Z">
