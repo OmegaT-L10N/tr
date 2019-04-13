@@ -6288,6 +6288,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102233Z" creationid="Erhan Yükselci" creationdate="20190413T102233Z">
+        <seg>İleri-Geri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101558Z" creationid="Erhan Yükselci" creationdate="20190204T101558Z">
@@ -6754,8 +6762,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="EN">
         <seg>Heapwise</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102146Z" creationid="Erhan Yükselci" creationdate="20190413T102146Z">
-        <seg>Yığın-lı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102209Z" creationid="Erhan Yükselci" creationdate="20190413T102146Z">
+        <seg>Yığın yönünden</seg>
       </tuv>
     </tu>
     <tu>
@@ -9609,6 +9617,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102235Z" creationid="Erhan Yükselci" creationdate="20190413T102235Z">
+        <seg>Normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100014Z" creationid="Erhan Yükselci" creationdate="20160922T100014Z">
@@ -10486,6 +10502,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102215Z" creationid="Erhan Yükselci" creationdate="20190413T102201Z">
+        <seg>Ayrıştırma yönünden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100442Z" creationid="Erhan Yükselci" creationdate="20160922T100442Z">
@@ -10809,6 +10833,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T095207Z" creationid="Erhan Yükselci" creationdate="20190201T095207Z">
         <seg>'{0}' sınıfından eklenti başarılı şekilde yüklendi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102238Z" creationid="Erhan Yükselci" creationdate="20190413T102238Z">
+        <seg>Poisson</seg>
       </tuv>
     </tu>
     <tu>
@@ -16181,6 +16213,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071355Z" creationid="Erhan Yükselci" creationdate="20190204T071355Z">
         <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102216Z" creationid="Erhan Yükselci" creationdate="20190413T102216Z">
+        <seg>Viterbi</seg>
       </tuv>
     </tu>
     <tu>
