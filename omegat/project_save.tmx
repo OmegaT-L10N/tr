@@ -3264,6 +3264,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102323Z" creationid="Erhan Yükselci" creationdate="20190413T102323Z">
+        <seg>Karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T092028Z" creationid="Erhan Yükselci" creationdate="20190412T092028Z">
@@ -17377,5 +17385,15 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">ALIGNER_ENUM_COUNTER_TYPE_WORD</prop>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102320Z" creationid="Erhan Yükselci" creationdate="20190413T102320Z">
+        <seg>Sözcük</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
