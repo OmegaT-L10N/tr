@@ -14399,6 +14399,14 @@ Tagalogca</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T111916Z" creationid="Erhan Yükselci" creationdate="20190413T111916Z">
+        <seg>Terminoloji Sorunları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072203Z" creationid="Erhan Yükselci" creationdate="20190311T072203Z">
@@ -17068,6 +17076,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>[bulanık]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112020Z" creationid="Erhan Yükselci" creationdate="20190413T112020Z">
+        <seg>[{0}] kaynakta “{1}”; beklenen hedefte “{2}”</seg>
       </tuv>
     </tu>
     <tu>
