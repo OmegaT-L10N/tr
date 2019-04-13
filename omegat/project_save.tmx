@@ -6544,6 +6544,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T083311Z" creationid="Erhan Yükselci" creationdate="20190413T083311Z">
+        <seg>Köprüler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="TR">
@@ -8373,10 +8381,34 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080500Z" creationid="Erhan Yükselci" creationdate="20190413T080500Z">
+        <seg>Eşleşmeler Silinmiş Aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080506Z" creationid="Erhan Yükselci" creationdate="20190413T080506Z">
+        <seg>Eşleşmeler Silinmiş Aktif Değil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080451Z" creationid="Erhan Yükselci" creationdate="20190413T080451Z">
         <seg>Eşleşmeler Araya Eklenmiş Aktif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080454Z" creationid="Erhan Yükselci" creationdate="20190413T080454Z">
+        <seg>Eşleşmeler Araya Eklenmiş Aktif Değil</seg>
       </tuv>
     </tu>
     <tu>
