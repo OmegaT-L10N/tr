@@ -16481,6 +16481,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172326Z" creationid="Erhan Yükselci" creationdate="20190413T172326Z">
+        <seg>&lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; websitesi &lt;/u0&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; hakkındaki birçok bağlantı içerdiği için başlangıç noktanız orası olmalıdır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="TR">
@@ -19871,10 +19879,26 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172207Z" creationid="Erhan Yükselci" creationdate="20190413T172207Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143843Z" creationid="Erhan Yükselci" creationdate="20190413T143843Z">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172209Z" creationid="Erhan Yükselci" creationdate="20190413T172209Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
