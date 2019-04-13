@@ -7589,6 +7589,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092054Z" creationid="Erhan Yükselci" creationdate="20190413T092054Z">
+        <seg>Benimkini Tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092059Z" creationid="Erhan Yükselci" creationdate="20190413T092059Z">
+        <seg>Diğerini Tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094241Z">
@@ -9397,6 +9413,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T083321Z" creationid="Erhan Yükselci" creationdate="20190413T083321Z">
         <seg>Bildirim (sabit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092202Z" creationid="Erhan Yükselci" creationdate="20190413T092202Z">
+        <seg>Dilimde "{0}" Olduğunda Bana Bildir</seg>
       </tuv>
     </tu>
     <tu>
@@ -12172,6 +12196,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092105Z" creationid="Erhan Yükselci" creationdate="20190413T092105Z">
+        <seg>Dilim Özellikleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="TR">
@@ -12576,6 +12608,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104352Z" creationid="Erhan Yükselci" creationdate="20190204T104352Z">
         <seg>Bul Arama Çubuğunu Göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092131Z" creationid="Erhan Yükselci" creationdate="20190413T092131Z">
+        <seg>Ham Anahtar Adlarını Göster</seg>
       </tuv>
     </tu>
     <tu>
@@ -13322,6 +13362,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115019Z">
         <seg>Sekme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092116Z" creationid="Erhan Yükselci" creationdate="20190413T092109Z">
+        <seg>Tablo Görünümü</seg>
       </tuv>
     </tu>
     <tu>
