@@ -3934,10 +3934,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092300Z" creationid="Erhan Yükselci" creationdate="20190413T092300Z">
+        <seg>Oluşturan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Oluşturan: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092305Z" creationid="Erhan Yükselci" creationdate="20190413T092305Z">
+        <seg>Oluşturma tarihi</seg>
       </tuv>
     </tu>
     <tu>
@@ -6504,6 +6520,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092329Z" creationid="Erhan Yükselci" creationdate="20190413T092329Z">
+        <seg>Notu var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093258Z" creationid="Erhan Yükselci" creationdate="20160922T093258Z">
@@ -7364,10 +7388,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092351Z" creationid="Erhan Yükselci" creationdate="20190413T092351Z">
+        <seg>Alternatif çeviri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144029Z" creationid="Erhan Yükselci" creationdate="20190412T144029Z">
         <seg>Varsayılan çeviridir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092322Z" creationid="Erhan Yükselci" creationdate="20190413T092322Z">
+        <seg>Yineleniyor</seg>
       </tuv>
     </tu>
     <tu>
@@ -11614,6 +11654,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T091035Z" creationid="Erhan Yükselci" creationdate="20190413T091035Z">
         <seg>Çakışmaları Gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092308Z" creationid="Erhan Yükselci" creationdate="20190413T092308Z">
+        <seg>Kaynak adı</seg>
       </tuv>
     </tu>
     <tu>
