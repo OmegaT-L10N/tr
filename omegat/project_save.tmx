@@ -10494,6 +10494,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095222Z" creationid="Erhan Yükselci" creationdate="20190413T095222Z">
+        <seg>Nokta Atışı Hizala: Karşılık gelen hücreleri seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place source files in ./source and supplemental
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
@@ -12002,6 +12010,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095223Z" creationid="Erhan Yükselci" creationdate="20190413T095223Z">
+        <seg>Satır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115729Z" creationid="Erhan Yükselci" creationdate="20161129T115729Z">
@@ -13506,6 +13522,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095141Z" creationid="Erhan Yükselci" creationdate="20190413T095141Z">
         <seg>1. Adım: Hizalama parametrelerini ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095201Z" creationid="Erhan Yükselci" creationdate="20190413T095201Z">
+        <seg>2. Adım: Elle düzeltmeler yap</seg>
       </tuv>
     </tu>
     <tu>
