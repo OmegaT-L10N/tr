@@ -15216,9 +15216,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Tagalog</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102752Z" creationid="Erhan Yükselci" creationdate="20160922T102752Z">
-        <seg>
-Tagalogca</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161940Z" creationid="Erhan Yükselci" creationdate="20160922T102752Z">
+        <seg>Tagalogca</seg>
       </tuv>
     </tu>
     <tu>
@@ -18808,6 +18807,22 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cy</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162028Z" creationid="Erhan Yükselci" creationdate="20190413T162028Z">
+        <seg>cy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cym</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162029Z" creationid="Erhan Yükselci" creationdate="20190413T162029Z">
+        <seg>cym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>da</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151855Z" creationid="Erhan Yükselci" creationdate="20190413T151855Z">
@@ -19096,10 +19111,26 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fry</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162034Z" creationid="Erhan Yükselci" creationdate="20190413T162034Z">
+        <seg>fry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ful</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151942Z" creationid="Erhan Yükselci" creationdate="20190413T151942Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fy</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162033Z" creationid="Erhan Yükselci" creationdate="20190413T162033Z">
+        <seg>fy</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,10 +21113,26 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tah</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162006Z" creationid="Erhan Yükselci" creationdate="20190413T162006Z">
+        <seg>tah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tam</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161845Z" creationid="Erhan Yükselci" creationdate="20190413T161845Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tat</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161956Z" creationid="Erhan Yükselci" creationdate="20190413T161956Z">
+        <seg>tat</seg>
       </tuv>
     </tu>
     <tu>
@@ -21118,6 +21165,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161856Z" creationid="Erhan Yükselci" creationdate="20190413T161856Z">
         <seg>tgk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tgl</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161943Z" creationid="Erhan Yükselci" creationdate="20190413T161943Z">
+        <seg>tgl</seg>
       </tuv>
     </tu>
     <tu>
@@ -21162,6 +21217,46 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tl</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161942Z" creationid="Erhan Yükselci" creationdate="20190413T161942Z">
+        <seg>tl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tn</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161945Z" creationid="Erhan Yükselci" creationdate="20190413T161945Z">
+        <seg>tn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161947Z" creationid="Erhan Yükselci" creationdate="20190413T161947Z">
+        <seg>to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ton</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161948Z" creationid="Erhan Yükselci" creationdate="20190413T161948Z">
+        <seg>ton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tr</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161950Z" creationid="Erhan Yükselci" creationdate="20190413T161950Z">
+        <seg>tr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>trie4j (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T114212Z" creationid="Erhan Yükselci" creationdate="20161129T114212Z">
@@ -21178,10 +21273,106 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161952Z" creationid="Erhan Yükselci" creationdate="20190413T161952Z">
+        <seg>ts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tsn</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161946Z" creationid="Erhan Yükselci" creationdate="20190413T161946Z">
+        <seg>tsn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tso</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161953Z" creationid="Erhan Yükselci" creationdate="20190413T161953Z">
+        <seg>tso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tt</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161955Z" creationid="Erhan Yükselci" creationdate="20190413T161955Z">
+        <seg>tt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tuk</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161914Z" creationid="Erhan Yükselci" creationdate="20190413T161914Z">
         <seg>tuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tur</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161950Z" creationid="Erhan Yükselci" creationdate="20190413T161950Z">
+        <seg>tur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tw</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162000Z" creationid="Erhan Yükselci" creationdate="20190413T162000Z">
+        <seg>tw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>twi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162001Z" creationid="Erhan Yükselci" creationdate="20190413T162001Z">
+        <seg>twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ty</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162005Z" creationid="Erhan Yükselci" creationdate="20190413T162005Z">
+        <seg>ty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ug</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162010Z" creationid="Erhan Yükselci" creationdate="20190413T162010Z">
+        <seg>ug</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uig</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162011Z" creationid="Erhan Yükselci" creationdate="20190413T162011Z">
+        <seg>uig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uk</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162012Z" creationid="Erhan Yükselci" creationdate="20190413T162012Z">
+        <seg>uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ukr</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162013Z" creationid="Erhan Yükselci" creationdate="20190413T162013Z">
+        <seg>ukr</seg>
       </tuv>
     </tu>
     <tu>
@@ -21194,6 +21385,38 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ur</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162015Z" creationid="Erhan Yükselci" creationdate="20190413T162015Z">
+        <seg>ur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>urd</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162015Z" creationid="Erhan Yükselci" creationdate="20190413T162015Z">
+        <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uz</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162017Z" creationid="Erhan Yükselci" creationdate="20190413T162017Z">
+        <seg>uz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>uzb</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162018Z" creationid="Erhan Yükselci" creationdate="20190413T162018Z">
+        <seg>uzb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
       <tuv lang="TR">
@@ -21202,10 +21425,90 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ve</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162019Z" creationid="Erhan Yükselci" creationdate="20190413T162019Z">
+        <seg>ve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ven</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162020Z" creationid="Erhan Yükselci" creationdate="20190413T162020Z">
+        <seg>ven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162021Z" creationid="Erhan Yükselci" creationdate="20190413T162021Z">
+        <seg>vi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vie</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162022Z" creationid="Erhan Yükselci" creationdate="20190413T162022Z">
+        <seg>vie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162023Z" creationid="Erhan Yükselci" creationdate="20190413T162023Z">
+        <seg>vo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>vol</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162024Z" creationid="Erhan Yükselci" creationdate="20190413T162024Z">
+        <seg>vol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wa</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162026Z" creationid="Erhan Yükselci" creationdate="20190413T162026Z">
+        <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
       <tuv lang="TR">
         <seg>çevirilerinizi girdiğiniz ve düzenlediğiniz yer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wln</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162027Z" creationid="Erhan Yükselci" creationdate="20190413T162027Z">
+        <seg>wln</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162030Z" creationid="Erhan Yükselci" creationdate="20190413T162030Z">
+        <seg>wo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wol</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162031Z" creationid="Erhan Yükselci" creationdate="20190413T162031Z">
+        <seg>wol</seg>
       </tuv>
     </tu>
     <tu>
