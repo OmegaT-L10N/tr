@@ -3852,6 +3852,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095417Z" creationid="Erhan Yükselci" creationdate="20190413T095417Z">
+        <seg>Devam edilsin mi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150247Z" creationid="Erhan Yükselci" creationdate="20190204T150247Z">
@@ -4976,6 +4984,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095422Z" creationid="Erhan Yükselci" creationdate="20190413T095422Z">
+        <seg>Deseni Düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080459Z">
@@ -4988,6 +5004,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Projeyi Düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095426Z" creationid="Erhan Yükselci" creationdate="20190413T095420Z">
+        <seg>Metni Düzenle</seg>
       </tuv>
     </tu>
     <tu>
@@ -14891,6 +14915,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094613Z">
         <seg>Bu kısa metin, editör bölmesindeki tuş davranışlarını açıklamaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095404Z" creationid="Erhan Yükselci" creationdate="20190413T095404Z">
+        <seg>Şimdiye kadar yaptığınız tüm değişiklikler kaybolacak.</seg>
       </tuv>
     </tu>
     <tu>
