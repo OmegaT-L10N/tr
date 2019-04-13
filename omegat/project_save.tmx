@@ -17742,6 +17742,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142645Z" creationid="Erhan Yükselci" creationdate="20190413T142645Z">
+        <seg>Şu anda sizde {1} bulunuyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102601Z" creationid="Erhan Yükselci" creationdate="20190204T102601Z">
