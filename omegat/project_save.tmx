@@ -6848,6 +6848,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141101Z" creationid="Erhan Yükselci" creationdate="20190413T141101Z">
+        <seg>Etkinleştirmek için Tercihler &gt; Harici Arama menüsüne gidin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102136Z">
@@ -11554,8 +11562,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project commands are disabled for security reasons.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141011Z" creationid="Erhan Yükselci" creationdate="20190413T141011Z">
-        <seg>Güvenlik nedeniyle proje komutları devre dışı bırakılmış.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141021Z" creationid="Erhan Yükselci" creationdate="20190413T141011Z">
+        <seg>Güvenlik nedeniyle proje komutları devre dışı bırakılmış durumda.</seg>
       </tuv>
     </tu>
     <tu>
