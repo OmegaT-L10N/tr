@@ -12978,6 +12978,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142320Z" creationid="Erhan Yükselci" creationdate="20190413T142320Z">
+        <seg>Örnek Çıktı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="TR">
@@ -15287,8 +15295,8 @@ Lütfen hatayı düzeltin ve projeyi yeniden yükleyin.</seg>
       <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142248Z" creationid="Erhan Yükselci" creationdate="20190413T142248Z">
-        <seg>URL'de "{hedef}" olmalıdır; bu arama metniyle değiştirilir.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142312Z" creationid="Erhan Yükselci" creationdate="20190413T142248Z">
+        <seg>URL'de "{hedef}" olmalıdır; bu hedef, arama metniyle değiştirilir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15297,6 +15305,14 @@ Lütfen hatayı düzeltin ve projeyi yeniden yükleyin.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Mevcut seçenekler şunlardır:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142309Z" creationid="Erhan Yükselci" creationdate="20190413T142257Z">
+        <seg>Komutta "{hedef}" olmalıdır; bu hedef, arama metniyle değiştirilir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17656,6 +17672,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103409Z" creationid="Erhan Yükselci" creationdate="20160922T103409Z">
         <seg>Yidiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142346Z" creationid="Erhan Yükselci" creationdate="20190413T142346Z">
+        <seg>Zaten en son sürüme sahipsiniz.</seg>
       </tuv>
     </tu>
     <tu>
