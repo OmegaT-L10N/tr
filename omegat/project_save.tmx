@@ -11584,6 +11584,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132012Z" creationid="Erhan Yükselci" creationdate="20190413T132012Z">
+        <seg>Sağlayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T083901Z" creationid="Erhan Yükselci" creationdate="20190204T083901Z">
@@ -16267,6 +16275,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T161052Z" creationid="Erhan Yükselci" creationdate="20190412T161052Z">
         <seg>Çevrilmemiş dilimler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131251Z" creationid="Erhan Yükselci" creationdate="20190413T131251Z">
+        <seg>&amp;Yalnızca çevrilmemiş dilimler</seg>
       </tuv>
     </tu>
     <tu>
