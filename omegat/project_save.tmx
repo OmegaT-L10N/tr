@@ -8404,6 +8404,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151402Z" creationid="Erhan Yükselci" creationdate="20190413T151402Z">
+        <seg>&lt;k0&gt;Ctrl+Tab&lt;/k0&gt; tuşlarını kullanarak bir bölmeden diğerine (örneğin Düzenleyici bölmesinden Bulanık Eşleşmeler bölmesine) geçmek mümkündür.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T134548Z">
