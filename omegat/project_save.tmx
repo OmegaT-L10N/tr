@@ -3880,6 +3880,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125913Z" creationid="Erhan Yükselci" creationdate="20190413T125913Z">
+        <seg>Onayla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143841Z" creationid="Erhan Yükselci" creationdate="20190412T143841Z">
@@ -10736,8 +10744,8 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092222Z">
-        <seg>Şifre:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125856Z">
+        <seg>Parola:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14814,6 +14822,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T111755Z" creationid="Erhan Yükselci" creationdate="20160921T111626Z">
         <seg>Açık kaynak bir program olan LanguageTool, sık rastlanan dilbilgisi ve biçem yanlışlarını tespit edip düzeltmekte kullanılabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125915Z" creationid="Erhan Yükselci" creationdate="20190413T125915Z">
+        <seg>Sorular boş olamaz.</seg>
       </tuv>
     </tu>
     <tu>
