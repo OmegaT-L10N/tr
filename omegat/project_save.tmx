@@ -2800,6 +2800,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075922Z" creationid="Erhan Yükselci" creationdate="20190413T075922Z">
+        <seg>İki yönlü algoritma kontrol karakterleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071746Z">
@@ -5916,6 +5924,22 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Fransızca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080134Z" creationid="Erhan Yükselci" creationdate="20190413T080134Z">
+        <seg>ICE bellekten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075930Z" creationid="Erhan Yükselci" creationdate="20190413T075930Z">
+        <seg>Bellekten</seg>
       </tuv>
     </tu>
     <tu>
