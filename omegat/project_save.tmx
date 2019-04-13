@@ -8485,6 +8485,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162530Z" creationid="Erhan Yükselci" creationdate="20190413T162530Z">
+        <seg>&lt;g0&gt;Seçenekler &gt; Dil Denetleyici&lt;/g0&gt; seçili haldeyse OmegaT bu eklentiyi otomatik olarak kullanacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="TR">
