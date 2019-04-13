@@ -2237,6 +2237,22 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093610Z" creationid="Erhan Yükselci" creationdate="20190413T093610Z">
+        <seg>Algoritma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093608Z" creationid="Erhan Yükselci" creationdate="20190413T093608Z">
+        <seg>Hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092359Z" creationid="Erhan Yükselci" creationdate="20190413T092359Z">
@@ -3048,6 +3064,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093622Z" creationid="Erhan Yükselci" creationdate="20190413T093622Z">
+        <seg>Hesaplayıcı:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071300Z" creationid="Erhan Yükselci" creationdate="20190204T071300Z">
@@ -3680,6 +3704,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093633Z" creationid="Erhan Yükselci" creationdate="20190413T093633Z">
+        <seg>Karşılaştırma Kipi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T080820Z">
@@ -3898,6 +3930,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085555Z" creationid="Erhan Yükselci" creationdate="20190204T085555Z">
         <seg>İstatistiklerde &amp;korumalı metin ve özel etiketleri sayılsın</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093625Z" creationid="Erhan Yükselci" creationdate="20190413T093625Z">
+        <seg>Sayaç:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5804,6 +5844,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Dosya Filtreleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093607Z" creationid="Erhan Yükselci" creationdate="20190413T093607Z">
+        <seg>Dosya Filtreleri...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11488,6 +11536,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093543Z" creationid="Erhan Yükselci" creationdate="20190413T093543Z">
+        <seg>Etiketleri Sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111238Z" creationid="Erhan Yükselci" creationdate="20161130T111238Z">
@@ -12504,6 +12560,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>Dilimlendirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093602Z" creationid="Erhan Yükselci" creationdate="20190413T093552Z">
+        <seg>Dilimleme Kuralları...</seg>
       </tuv>
     </tu>
     <tu>
