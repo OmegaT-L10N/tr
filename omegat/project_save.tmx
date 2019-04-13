@@ -13502,6 +13502,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095141Z" creationid="Erhan Yükselci" creationdate="20190413T095141Z">
+        <seg>1. Adım: Hizalama parametrelerini ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
       <tuv lang="TR">
