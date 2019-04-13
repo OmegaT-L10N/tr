@@ -10177,6 +10177,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130345Z" creationid="Erhan Yükselci" creationdate="20190413T130345Z">
+        <seg>OmegaT bir ana parola üretebilir ve her zaman yeniden girmememiz için bu parolayı saklayabilir, ama bu daha az güvenlidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074452Z" creationid="Erhan Yükselci" creationdate="20190131T074452Z">
@@ -10903,6 +10911,14 @@ lütfen proje yöneticinize başvurun.</seg>
         <seg>Please double-check it.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142334Z" creationid="Erhan Yükselci" creationdate="20190224T142334Z">
+        <seg>Lütfen tekrar kontrol ediniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130052Z" creationid="Erhan Yükselci" creationdate="20190413T130052Z">
         <seg>Lütfen tekrar kontrol ediniz.</seg>
       </tuv>
     </tu>
@@ -13420,6 +13436,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130054Z" creationid="Erhan Yükselci" creationdate="20190413T130054Z">
+        <seg>Atla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip segments where source=target</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111016Z" creationid="Erhan Yükselci" creationdate="20161130T111016Z">
@@ -14846,6 +14870,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125816Z" creationid="Erhan Yükselci" creationdate="20190413T125816Z">
         <seg>Girdiğiniz parola eşleşmiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130046Z" creationid="Erhan Yükselci" creationdate="20190413T130046Z">
+        <seg>Parolalar eşleşmiyor.</seg>
       </tuv>
     </tu>
     <tu>
