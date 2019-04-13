@@ -8260,6 +8260,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174544Z" creationid="Erhan Yükselci" creationdate="20190413T174544Z">
+        <seg>Bildirdiğiniz hata raporunun akibetini merak ediyorsanız SourceForge kullanıcısı olarak kayıt olun, bu kullanıcıyla giriş yapın, hata raporu gönderin ve raporun üzerindeki Monitor (Takip Et) düğmesine tıklayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130402Z" creationid="Erhan Yükselci" creationdate="20161129T130402Z">
