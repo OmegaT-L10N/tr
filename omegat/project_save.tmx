@@ -5336,6 +5336,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125751Z" creationid="Erhan Yükselci" creationdate="20190413T125751Z">
+        <seg>Ana parolanızı girin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072320Z" creationid="Erhan Yükselci" creationdate="20190412T072320Z">
@@ -14806,6 +14814,14 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T111755Z" creationid="Erhan Yükselci" creationdate="20160921T111626Z">
         <seg>Açık kaynak bir program olan LanguageTool, sık rastlanan dilbilgisi ve biçem yanlışlarını tespit edip düzeltmekte kullanılabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T125816Z" creationid="Erhan Yükselci" creationdate="20190413T125816Z">
+        <seg>Girdiğiniz parola eşleşmiyor.</seg>
       </tuv>
     </tu>
     <tu>
