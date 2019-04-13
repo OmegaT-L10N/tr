@@ -4606,10 +4606,34 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090359Z" creationid="Erhan Yükselci" creationdate="20190413T090359Z">
+        <seg>TMX dosyalarını projeye eklemek için buraya bırakın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090427Z" creationid="Erhan Yükselci" creationdate="20190413T090427Z">
+        <seg>Proje açmak için buraya bırakın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090332Z" creationid="Erhan Yükselci" creationdate="20190413T090332Z">
         <seg>Dosyaları projeye eklemek için buraya bırakın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090350Z" creationid="Erhan Yükselci" creationdate="20190413T090350Z">
+        <seg>Sözlükçe dosyalarını projeye eklemek için buraya bırakın.</seg>
       </tuv>
     </tu>
     <tu>
