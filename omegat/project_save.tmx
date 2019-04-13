@@ -4986,8 +4986,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="EN">
         <seg>Edit Highlight Pattern</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095422Z" creationid="Erhan Yükselci" creationdate="20190413T095422Z">
-        <seg>Deseni Düzenle</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095436Z" creationid="Erhan Yükselci" creationdate="20190413T095422Z">
+        <seg>Vurgu Desenini Düzenle</seg>
       </tuv>
     </tu>
     <tu>
@@ -13496,6 +13496,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092653Z" creationid="Erhan Yükselci" creationdate="20190413T092653Z">
         <seg>Böl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100557Z" creationid="Erhan Yükselci" creationdate="20190413T100557Z">
+        <seg>Metni Böl</seg>
       </tuv>
     </tu>
     <tu>
