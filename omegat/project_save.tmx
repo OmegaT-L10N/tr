@@ -17822,14 +17822,6 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
-      </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172905Z" creationid="Erhan Yükselci" creationdate="20190413T172332Z">
-        <seg>Kullanıcılara destek ve yardım gönüllü olarak &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo Kullanıcı Grubunda sağlanmaktadır.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
