@@ -2045,6 +2045,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162637Z" creationid="Erhan Yükselci" creationdate="20190413T162637Z">
+        <seg>&lt;p0&gt;Yasal uyarılar&lt;/p0&gt; &lt;s1&gt;Belgelendirme için&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130416T094223Z">
@@ -15751,6 +15759,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162700Z" creationid="Erhan Yükselci" creationdate="20190413T162700Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; ile birlikte dağıtılan belgelendirme Kullanma Kılavuzu ve readme.txt (benioku.txt) belgesini içerir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112458Z" creationid="Erhan Yükselci" creationdate="20160922T112458Z">
@@ -17725,6 +17741,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T081458Z">
         <seg>Bu sürümde bulabileceğiniz her türlü tutarsızlık, eksiklik ve hatanın bana ait olduğunu burada belirtmek isterim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162611Z" creationid="Erhan Yükselci" creationdate="20190413T162611Z">
+        <seg>Herhangi bir kuralın tetiklenmesi durumunda Düzenleyicide buna karşılık gelen ibarenin altı mavi olarak çizilecektir (bkz. yukarıdaki resimdeki &lt;e1&gt;also&lt;/e1&gt; ve &lt;e2&gt;I didn't do nothing&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
