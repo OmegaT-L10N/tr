@@ -10257,6 +10257,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132234Z" creationid="Erhan Yükselci" creationdate="20190413T132234Z">
+        <seg>OmegaT, kritik parolaları ve API anahtarlarını ana parolayla şifreler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T102449Z">
