@@ -1405,6 +1405,14 @@ OmegaT 3.6'yı halen kullanabileceksiniz).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104623Z" creationid="Erhan Yükselci" creationdate="20190413T104623Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>---- Localization Notes ----</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T063612Z" creationid="Erhan Yükselci" creationdate="20190204T063612Z">
@@ -2641,6 +2649,14 @@ TMX dosyası yüklenmeyecek.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101714Z" creationid="Erhan Yükselci" creationdate="20190204T101714Z">
         <seg>Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104643Z" creationid="Erhan Yükselci" creationdate="20190413T104643Z">
+        <seg>Düzeltmeyi &amp;Uygula</seg>
       </tuv>
     </tu>
     <tu>
@@ -8273,6 +8289,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092645Z" creationid="Erhan Yükselci" creationdate="20190204T092645Z">
         <seg>LanguageTool API sürümü uyuşmazlığı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104653Z" creationid="Erhan Yükselci" creationdate="20190413T104653Z">
+        <seg>LanguageTool Sorunları</seg>
       </tuv>
     </tu>
     <tu>
