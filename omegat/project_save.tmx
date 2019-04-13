@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102408Z" creationid="Erhan Yükselci" creationdate="20190413T102408Z">
+        <seg>&amp;Dilime Atla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T120228Z">
@@ -870,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102415Z" creationid="Erhan Yükselci" creationdate="20190413T102415Z">
+        <seg>&amp;Yenile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T121839Z">
@@ -1058,6 +1074,14 @@
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T124404Z">
         <seg>S&amp;ayfa Adları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102412Z" creationid="Erhan Yükselci" creationdate="20190413T102412Z">
+        <seg>&amp;Tümünü Göster</seg>
       </tuv>
     </tu>
     <tu>
@@ -7656,6 +7680,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092322Z" creationid="Erhan Yükselci" creationdate="20190413T092322Z">
         <seg>Yineleniyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102448Z" creationid="Erhan Yükselci" creationdate="20190413T102448Z">
+        <seg>Sorunlar</seg>
       </tuv>
     </tu>
     <tu>
