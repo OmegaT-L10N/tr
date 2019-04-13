@@ -2229,6 +2229,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084059Z" creationid="Erhan Yükselci" creationdate="20190413T084059Z">
+        <seg>Hizalayıcı "Gözden Geçirilmeli" Grubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151654Z" creationid="Erhan Yükselci" creationdate="20190412T151654Z">
