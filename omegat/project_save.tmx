@@ -16864,6 +16864,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175207Z" creationid="Erhan Yükselci" creationdate="20190413T175207Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'nin kullanıcı ara yüzü, kullanım kılavuzu ya da diğer belgelerini tercüme etmek için:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093357Z" creationid="Erhan Yükselci" creationdate="20190413T093357Z">
@@ -19959,6 +19967,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175209Z" creationid="Erhan Yükselci" creationdate="20190413T175209Z">
+        <seg>http://www.omegat.org/en/howtos/localizing_omegat.php</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151431Z" creationid="Erhan Yükselci" creationdate="20190413T151431Z">
@@ -20701,6 +20717,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174748Z" creationid="Erhan Yükselci" creationdate="20190413T174748Z">
         <seg>mailto:omegat-development-request@list.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175210Z" creationid="Erhan Yükselci" creationdate="20190413T175210Z">
+        <seg>mailto:omegat-development-request@lists.sourceforge.net?subject=subscribe</seg>
       </tuv>
     </tu>
     <tu>
