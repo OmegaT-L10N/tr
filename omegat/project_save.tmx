@@ -3860,6 +3860,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100934Z" creationid="Erhan Yükselci" creationdate="20190413T100858Z">
+        <seg>Yine de devam edilsin mi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T095417Z" creationid="Erhan Yükselci" creationdate="20190413T095417Z">
@@ -6740,6 +6748,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074004Z">
         <seg>&amp;Üst Bilgiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102146Z" creationid="Erhan Yükselci" creationdate="20190413T102146Z">
+        <seg>Yığın-lı</seg>
       </tuv>
     </tu>
     <tu>
@@ -13182,8 +13198,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100853Z" creationid="Erhan Yükselci" creationdate="20190413T100853Z">
-        <seg>Bazı hizalamaların halen gözden geçirilmesi gerekiyor.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100918Z" creationid="Erhan Yükselci" creationdate="20190413T100853Z">
+        <seg>Hâlâ gözden geçirilmesi gereken hizalamalar var.</seg>
       </tuv>
     </tu>
     <tu>
