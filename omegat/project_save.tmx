@@ -9509,6 +9509,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marathi (Marāṭhī)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161501Z" creationid="Erhan Yükselci" creationdate="20190413T161501Z">
+        <seg>Marati Dili (Marāṭhī)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112629Z" creationid="Erhan Yükselci" creationdate="20160921T112629Z">
@@ -19914,6 +19922,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mal</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152318Z" creationid="Erhan Yükselci" creationdate="20190413T152318Z">
+        <seg>mal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mg</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152314Z" creationid="Erhan Yükselci" creationdate="20190413T152314Z">
@@ -19922,6 +19938,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152322Z" creationid="Erhan Yükselci" creationdate="20190413T152322Z">
+        <seg>mi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mk</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152312Z" creationid="Erhan Yükselci" creationdate="20190413T152312Z">
@@ -19934,6 +19958,30 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152312Z" creationid="Erhan Yükselci" creationdate="20190413T152312Z">
         <seg>mkd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ml</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152318Z" creationid="Erhan Yükselci" creationdate="20190413T152318Z">
+        <seg>ml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlg</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152315Z" creationid="Erhan Yükselci" creationdate="20190413T152315Z">
+        <seg>mlg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mlt</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152321Z" creationid="Erhan Yükselci" creationdate="20190413T152321Z">
+        <seg>mlt</seg>
       </tuv>
     </tu>
     <tu>
@@ -19986,10 +20034,34 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mri</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152323Z" creationid="Erhan Yükselci" creationdate="20190413T152323Z">
+        <seg>mri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ms</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T095109Z" creationid="Erhan Yükselci" creationdate="20160922T095109Z">
         <seg>Bayan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>msa</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152317Z" creationid="Erhan Yükselci" creationdate="20190413T152317Z">
+        <seg>msa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mt</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152320Z" creationid="Erhan Yükselci" creationdate="20190413T152320Z">
+        <seg>mt</seg>
       </tuv>
     </tu>
     <tu>
