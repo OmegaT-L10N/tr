@@ -153,3 +153,4 @@ full text	tam metin
 autotext	otomatik metin
 custom table	özelleştirme tablosu
 spelling dictionary	yazım sözlüğü
+hyperlink	köprü
