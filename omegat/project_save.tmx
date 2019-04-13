@@ -3828,6 +3828,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command delimiter is empty</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141520Z" creationid="Erhan Yükselci" creationdate="20190413T141520Z">
+        <seg>Komut sınırlayıcısı boş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Command does not contain "{0}"</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141341Z" creationid="Erhan Yükselci" creationdate="20190413T141341Z">
@@ -3864,6 +3872,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141350Z" creationid="Erhan Yükselci" creationdate="20190413T141350Z">
         <seg>Komutta hedef yok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141528Z" creationid="Erhan Yükselci" creationdate="20190413T141528Z">
+        <seg>Komutlar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,6 +5400,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable project-specific commands</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141606Z" creationid="Erhan Yükselci" creationdate="20190413T141606Z">
+        <seg>Projeye özgü komutları etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180537Z" creationid="Erhan Yükselci" creationdate="20190130T180537Z">
@@ -6012,6 +6036,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T115947Z">
         <seg>İşlem Sonrası Harici Komut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141531Z" creationid="Erhan Yükselci" creationdate="20190413T141531Z">
+        <seg>Harici Arama</seg>
       </tuv>
     </tu>
     <tu>
@@ -7564,6 +7596,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Editor</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141553Z" creationid="Erhan Yükselci" creationdate="20190413T141553Z">
+        <seg>Düzenleyicide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T093852Z">
@@ -8129,6 +8169,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084136Z" creationid="Erhan Yükselci" creationdate="20190413T084136Z">
         <seg>Öge:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141545Z" creationid="Erhan Yükselci" creationdate="20190413T141545Z">
+        <seg>Ögeler</seg>
       </tuv>
     </tu>
     <tu>
@@ -11592,6 +11640,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141541Z" creationid="Erhan Yükselci" creationdate="20190413T141541Z">
+        <seg>Projeye Özgü Harici Arama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific File Filters</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T125530Z">
@@ -14414,6 +14470,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141546Z" creationid="Erhan Yükselci" creationdate="20190413T141546Z">
+        <seg>Özet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Summary of chapters</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130405T135354Z">
@@ -16241,6 +16305,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100410Z" creationid="Erhan Yükselci" creationdate="20190204T100410Z">
         <seg>URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T141525Z" creationid="Erhan Yükselci" creationdate="20190413T141525Z">
+        <seg>URL'ler</seg>
       </tuv>
     </tu>
     <tu>
