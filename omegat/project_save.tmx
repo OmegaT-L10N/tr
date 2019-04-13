@@ -2149,6 +2149,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143424Z" creationid="Erhan Yükselci" creationdate="20190413T143424Z">
+        <seg>Aaron Madlon-Kay, OmegaT proje yöneticisidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102033Z">
@@ -6100,6 +6108,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T160435Z">
         <seg>Harici komut çalıştırılıyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143521Z" creationid="Erhan Yükselci" creationdate="20190413T143521Z">
+        <seg>{0} betiği ({1} olayı) yürütülüyor</seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +11210,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080236Z" creationid="Erhan Yükselci" creationdate="20190413T080236Z">
         <seg>Paragraf sınırlandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143437Z" creationid="Erhan Yükselci" creationdate="20190413T143437Z">
+        <seg>Paragraf sınırlandırma formatı:</seg>
       </tuv>
     </tu>
     <tu>
