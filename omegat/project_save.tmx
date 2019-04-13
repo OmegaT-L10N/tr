@@ -2477,6 +2477,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090502Z" creationid="Erhan Yükselci" creationdate="20190413T090502Z">
+        <seg>"{0}" adında bir öge bu konunda zaten var.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154409Z">
@@ -4482,6 +4490,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092526Z" creationid="Erhan Yükselci" creationdate="20190204T092526Z">
         <seg>Oluşturmak ister misiniz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090545Z" creationid="Erhan Yükselci" creationdate="20190413T090545Z">
+        <seg>Bu ögeyi, taşıdığınız ögeyle değiştirmek istiyor musunuz?</seg>
       </tuv>
     </tu>
     <tu>
