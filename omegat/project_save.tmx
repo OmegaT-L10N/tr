@@ -200,8 +200,8 @@
       <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151112Z" creationid="Erhan Yükselci" creationdate="20190412T151112Z">
-        <seg>T&amp;aaS Koleksiyonlarına Göz Atın...</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092435Z" creationid="Erhan Yükselci" creationdate="20190412T151112Z">
+        <seg>T&amp;aaS Koleksiyonlarına Gözatın...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2237,6 +2237,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092359Z" creationid="Erhan Yükselci" creationdate="20190413T092359Z">
+        <seg>Dosyaları Hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T112838Z">
@@ -2948,6 +2956,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T120136Z">
         <seg>Gözat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092426Z" creationid="Erhan Yükselci" creationdate="20190413T092426Z">
+        <seg>Gözat...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8593,6 +8609,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091512Z">
         <seg>Eşleşme görüntüleme şablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092353Z" creationid="Erhan Yükselci" creationdate="20190413T092353Z">
+        <seg>Eşleştirme türü</seg>
       </tuv>
     </tu>
     <tu>
