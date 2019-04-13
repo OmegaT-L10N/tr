@@ -2399,8 +2399,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090602Z" creationid="Erhan Yükselci" creationdate="20190413T090602Z">
-        <seg>Sözlük indirilirken bir hata oluştu.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T091014Z" creationid="Erhan Yükselci" creationdate="20190413T090602Z">
+        <seg>Öge açılırken bir hata oluştu.</seg>
       </tuv>
     </tu>
     <tu>
