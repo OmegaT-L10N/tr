@@ -2757,6 +2757,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132437Z" creationid="Erhan Yükselci" creationdate="20190413T132437Z">
+        <seg>Ana d parolayı sıfırlamak istediğinizden emin misiniz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102221Z">
@@ -9961,6 +9969,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132419Z" creationid="Erhan Yükselci" creationdate="20190413T132419Z">
+        <seg>Ayarlanmadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a valid XML file!</seg>
       </tuv>
       <tuv lang="TR">
@@ -12378,6 +12394,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132425Z" creationid="Erhan Yükselci" creationdate="20190413T132425Z">
+        <seg>Ana Parolayı Sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resolve Conflicts</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T091035Z" creationid="Erhan Yükselci" creationdate="20190413T091035Z">
@@ -13432,6 +13456,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100346Z" creationid="Erhan Yükselci" creationdate="20190204T100346Z">
         <seg>Hizmet türü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132415Z" creationid="Erhan Yükselci" creationdate="20190413T132415Z">
+        <seg>Ayarlandı</seg>
       </tuv>
     </tu>
     <tu>
