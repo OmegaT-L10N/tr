@@ -1981,6 +1981,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Update channel: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142756Z" creationid="Erhan Yükselci" creationdate="20190413T142756Z">
+        <seg>&lt;html&gt;Güncelleme kanalı: &lt;b&gt;{0}&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="TR">
@@ -2920,6 +2928,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142835Z" creationid="Erhan Yükselci" creationdate="20190413T142805Z">
+        <seg>Güncellemeleri otomatik kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autotext</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T072544Z" creationid="Erhan Yükselci" creationdate="20190412T072544Z">
@@ -3548,6 +3564,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T124233Z" creationid="Erhan Yükselci" creationdate="20161129T124233Z">
         <seg>LanguageTools kurallarını kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142843Z" creationid="Erhan Yükselci" creationdate="20190413T142843Z">
+        <seg>Şimdi Kontrol Et</seg>
       </tuv>
     </tu>
     <tu>
@@ -8897,6 +8921,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T121422Z">
         <seg>Daha sonraki kullanımlarda çevrimiçi olmak şart değildir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142804Z" creationid="Erhan Yükselci" creationdate="20190413T142804Z">
+        <seg>En son</seg>
       </tuv>
     </tu>
     <tu>
