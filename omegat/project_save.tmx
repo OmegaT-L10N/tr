@@ -9241,6 +9241,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T083542Z" creationid="Erhan Yükselci" creationdate="20190413T083542Z">
+        <seg>Bildirim (geçici)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T083321Z" creationid="Erhan Yükselci" creationdate="20190413T083321Z">
+        <seg>Bildirim (sabit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090332Z" creationid="Erhan Yükselci" creationdate="20190204T090332Z">
