@@ -2493,6 +2493,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092014Z" creationid="Erhan Yükselci" creationdate="20190413T092014Z">
+        <seg>Var olan çeviri, seçtiğinizden farklı bir şeye değiştirildi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090502Z" creationid="Erhan Yükselci" creationdate="20190413T090502Z">
