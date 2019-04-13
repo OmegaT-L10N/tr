@@ -2525,6 +2525,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085800Z" creationid="Erhan Yükselci" creationdate="20190413T085800Z">
+        <seg>Tüm renkleri sıfırlamak istediğinizden emin misiniz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102221Z">
@@ -11442,6 +11450,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085731Z" creationid="Erhan Yükselci" creationdate="20190413T085731Z">
+        <seg>Tüm &amp;Renkleri Sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="TR">
@@ -13798,6 +13814,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="TR">
         <seg>Dil kodu, xx-YY ya da xx_YY şeklinde olmalıdır; burada xx dil kodunu ve
 YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085820Z" creationid="Erhan Yükselci" creationdate="20190413T085820Z">
+        <seg>Yeni renkler kaydedildi.</seg>
       </tuv>
     </tu>
     <tu>
