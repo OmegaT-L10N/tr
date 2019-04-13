@@ -1725,6 +1725,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T164048Z" creationid="Erhan Yükselci" creationdate="20190413T164048Z">
+        <seg>İnternette &lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130405T134557Z">
@@ -4870,6 +4878,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163856Z" creationid="Erhan Yükselci" creationdate="20190413T163856Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163602Z" creationid="Erhan Yükselci" creationdate="20190413T163602Z">
@@ -4882,6 +4898,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150618Z" creationid="Erhan Yükselci" creationdate="20190413T150618Z">
         <seg>Ctrl+Shift+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163901Z" creationid="Erhan Yükselci" creationdate="20190413T163901Z">
+        <seg>Ctrl+Shift+P</seg>
       </tuv>
     </tu>
     <tu>
@@ -6748,6 +6772,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115223Z">
         <seg>Yabancı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163910Z" creationid="Erhan Yükselci" creationdate="20190413T163910Z">
+        <seg>F1</seg>
       </tuv>
     </tu>
     <tu>
