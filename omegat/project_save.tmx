@@ -6136,6 +6136,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080248Z" creationid="Erhan Yükselci" creationdate="20190413T080248Z">
+        <seg>Sözlükçe Eşleşmeleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072002Z" creationid="Erhan Yükselci" creationdate="20190311T072002Z">
@@ -8353,6 +8361,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091512Z">
         <seg>Eşleşme görüntüleme şablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080355Z" creationid="Erhan Yükselci" creationdate="20190413T080355Z">
+        <seg>Eşleşmeler Değişmiş</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,6 +13363,14 @@ Tagalogca</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091458Z">
         <seg>Şablon değişkenleri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080308Z" creationid="Erhan Yükselci" creationdate="20190413T080308Z">
+        <seg>Terminoloji</seg>
       </tuv>
     </tu>
     <tu>
