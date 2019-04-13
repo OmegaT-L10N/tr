@@ -155,3 +155,4 @@ custom table	özelleştirme tablosu
 spelling dictionary	yazım sözlüğü
 hyperlink	köprü
 aligner	hizalayıcı
+alignment	hizalama
