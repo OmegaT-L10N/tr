@@ -10742,6 +10742,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T142624Z" creationid="Erhan Yükselci" creationdate="20190413T142624Z">
+        <seg>OmegaT {0} kullanıma hazır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082703Z">
