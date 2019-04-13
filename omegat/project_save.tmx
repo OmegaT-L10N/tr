@@ -18847,6 +18847,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163448Z" creationid="Erhan Yükselci" creationdate="20190413T163448Z">
+        <seg>console.println(source + " &gt;&gt;&gt;&gt; " + target);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cor</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151835Z" creationid="Erhan Yükselci" creationdate="20190413T151835Z">
@@ -18891,6 +18899,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161604Z" creationid="Erhan Yükselci" creationdate="20190413T161604Z">
         <seg>cu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>currSegment = files[i].entries[j];</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163444Z" creationid="Erhan Yükselci" creationdate="20190413T163444Z">
+        <seg>currSegment = files[i].entries[j];</seg>
       </tuv>
     </tu>
     <tu>
@@ -19167,6 +19183,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163439Z" creationid="Erhan Yükselci" creationdate="20190413T163439Z">
+        <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>fin</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151938Z" creationid="Erhan Yükselci" creationdate="20190413T151938Z">
@@ -19187,6 +19211,22 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151929Z" creationid="Erhan Yükselci" creationdate="20190413T151929Z">
         <seg>fo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163440Z" creationid="Erhan Yükselci" creationdate="20190413T163440Z">
+        <seg>for (i in 0 ..&lt; files.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163442Z" creationid="Erhan Yükselci" creationdate="20190413T163442Z">
+        <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
       </tuv>
     </tu>
     <tu>
@@ -19479,6 +19519,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163408Z" creationid="Erhan Yükselci" creationdate="20190413T163408Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>hu</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152031Z" creationid="Erhan Yükselci" creationdate="20190413T152031Z">
@@ -19555,6 +19603,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152040Z" creationid="Erhan Yükselci" creationdate="20190413T152040Z">
         <seg>ie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163445Z" creationid="Erhan Yükselci" creationdate="20190413T163445Z">
+        <seg>if (project.getTranslationInfo(currSegment))</seg>
       </tuv>
     </tu>
     <tu>
@@ -21089,6 +21145,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163446Z" creationid="Erhan Yükselci" creationdate="20190413T163446Z">
+        <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>spa</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161807Z" creationid="Erhan Yükselci" creationdate="20190413T161807Z">
@@ -21237,6 +21301,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161845Z" creationid="Erhan Yükselci" creationdate="20190413T161845Z">
         <seg>tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163447Z" creationid="Erhan Yükselci" creationdate="20190413T163447Z">
+        <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21717,6 +21789,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162044Z" creationid="Erhan Yükselci" creationdate="20190413T162044Z">
         <seg>zul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163441Z" creationid="Erhan Yükselci" creationdate="20190413T163441Z">
+        <seg>{</seg>
       </tuv>
     </tu>
     <tu>
