@@ -14998,6 +14998,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151248Z" creationid="Erhan Yükselci" creationdate="20190413T151248Z">
+        <seg>Sistem komutları olan Tümünü Seç (Select All) (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Yapıştır (Paste) (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Kes (Cut) (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), Kopyala (Copy) (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Eşleşmeyi ya da Seçimi Araya Ekle (Insert Match or Selection) &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) ve Kaynağı Araya Ekle (Insert source) (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) prensip olarak sadece o an açık olan dilimdeki metin üzerine işlem yapar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T105004Z" creationid="Erhan Yükselci" creationdate="20190130T085812Z">
