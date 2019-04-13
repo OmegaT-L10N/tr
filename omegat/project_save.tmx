@@ -3480,6 +3480,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092623Z" creationid="Erhan Yükselci" creationdate="20190413T092623Z">
+        <seg>Hedef Dosyayı Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092452Z" creationid="Erhan Yükselci" creationdate="20160922T092452Z">
@@ -8541,6 +8549,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092716Z" creationid="Erhan Yükselci" creationdate="20190413T092716Z">
+        <seg>Kabul Edilmiş Olarak İşaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101441Z" creationid="Erhan Yükselci" creationdate="20190204T101441Z">
@@ -8965,10 +8981,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092652Z" creationid="Erhan Yükselci" creationdate="20190413T092652Z">
+        <seg>Aşağı Taşı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="TR">
         <seg>&amp;Yukarı Taşı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092651Z" creationid="Erhan Yükselci" creationdate="20190413T092651Z">
+        <seg>Yukarı Taşı</seg>
       </tuv>
     </tu>
     <tu>
@@ -11682,6 +11714,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092648Z" creationid="Erhan Yükselci" creationdate="20190413T092648Z">
+        <seg>Sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset &amp;All Colours</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085731Z" creationid="Erhan Yükselci" creationdate="20190413T085731Z">
@@ -11982,6 +12022,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111458Z">
         <seg>Betiği Kaydet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092646Z" creationid="Erhan Yükselci" creationdate="20190413T092646Z">
+        <seg>TMX'i Kaydet...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13180,6 +13228,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092653Z" creationid="Erhan Yükselci" creationdate="20190413T092653Z">
+        <seg>Böl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102825Z" creationid="Erhan Yükselci" creationdate="20190201T102825Z">
@@ -13354,6 +13410,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075150Z" creationid="Erhan Yükselci" creationdate="20190204T075150Z">
         <seg>SuperTMXMerge (Apache Lisansı 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092630Z" creationid="Erhan Yükselci" creationdate="20190413T092630Z">
+        <seg>Desteklenen Dosyalar</seg>
       </tuv>
     </tu>
     <tu>
