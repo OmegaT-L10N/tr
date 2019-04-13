@@ -2053,6 +2053,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162111Z" creationid="Erhan Yükselci" creationdate="20190413T162111Z">
+        <seg>&lt;p0&gt;Eklentiler&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130416T094030Z">
@@ -2081,6 +2089,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073110Z" creationid="Erhan Yükselci" creationdate="20190204T072001Z">
         <seg>&lt;trans-unit&gt; Ki&amp;mliği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162508Z" creationid="Erhan Yükselci" creationdate="20190413T162508Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; İngilizce, Fransızca, Almanca, Polonyaca, Hollandaca, Romence gibi çeşitli dillerde biçem ve dilbilgisi denetimi yapabilen Açık Kaynak bir yazılımdır - bkz. &lt;u1&gt;desteklenen dillerin listesi&lt;/u1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19351,6 +19367,22 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162116Z" creationid="Erhan Yükselci" creationdate="20190413T162116Z">
+        <seg>http://www.languagetool.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162117Z" creationid="Erhan Yükselci" creationdate="20190413T162117Z">
+        <seg>http://www.languagetool.org/languages/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151431Z" creationid="Erhan Yükselci" creationdate="20190413T151431Z">
@@ -21513,6 +21545,62 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>xh</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162035Z" creationid="Erhan Yükselci" creationdate="20190413T162035Z">
+        <seg>xh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>xho</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162036Z" creationid="Erhan Yükselci" creationdate="20190413T162036Z">
+        <seg>xho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yi</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162037Z" creationid="Erhan Yükselci" creationdate="20190413T162037Z">
+        <seg>yi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yid</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162038Z" creationid="Erhan Yükselci" creationdate="20190413T162038Z">
+        <seg>yid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162039Z" creationid="Erhan Yükselci" creationdate="20190413T162039Z">
+        <seg>yo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>yor</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162040Z" creationid="Erhan Yükselci" creationdate="20190413T162040Z">
+        <seg>yor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>za</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162041Z" creationid="Erhan Yükselci" creationdate="20190413T162041Z">
+        <seg>za</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>zh</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151829Z" creationid="Erhan Yükselci" creationdate="20190413T151829Z">
@@ -21521,10 +21609,34 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>zha</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162042Z" creationid="Erhan Yükselci" creationdate="20190413T162042Z">
+        <seg>zha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>zho</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151830Z" creationid="Erhan Yükselci" creationdate="20190413T151830Z">
         <seg>zho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162043Z" creationid="Erhan Yükselci" creationdate="20190413T162043Z">
+        <seg>zu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>zul</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T162044Z" creationid="Erhan Yükselci" creationdate="20190413T162044Z">
+        <seg>zul</seg>
       </tuv>
     </tu>
     <tu>
