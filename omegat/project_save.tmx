@@ -4630,6 +4630,30 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+3</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163755Z" creationid="Erhan Yükselci" creationdate="20190413T163755Z">
+        <seg>Ctrl+3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+4</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163758Z" creationid="Erhan Yükselci" creationdate="20190413T163758Z">
+        <seg>Ctrl+4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+5</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163801Z" creationid="Erhan Yükselci" creationdate="20190413T163801Z">
+        <seg>Ctrl+5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+A</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150614Z" creationid="Erhan Yükselci" creationdate="20190413T150614Z">
@@ -4706,6 +4730,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163631Z" creationid="Erhan Yükselci" creationdate="20190413T163631Z">
         <seg>Ctrl+I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163849Z" creationid="Erhan Yükselci" creationdate="20190413T163849Z">
+        <seg>Ctrl+J</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4886,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163853Z" creationid="Erhan Yükselci" creationdate="20190413T163853Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163637Z" creationid="Erhan Yükselci" creationdate="20190413T163637Z">
@@ -4862,10 +4902,26 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163833Z" creationid="Erhan Yükselci" creationdate="20190413T163833Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163644Z" creationid="Erhan Yükselci" creationdate="20190413T163644Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163844Z" creationid="Erhan Yükselci" creationdate="20190413T163844Z">
+        <seg>Ctrl+Shift+U</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +4946,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163648Z" creationid="Erhan Yükselci" creationdate="20190413T163648Z">
         <seg>Ctrl+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163838Z" creationid="Erhan Yükselci" creationdate="20190413T163838Z">
+        <seg>Ctrl+U</seg>
       </tuv>
     </tu>
     <tu>
