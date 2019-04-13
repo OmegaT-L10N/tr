@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085719Z" creationid="Erhan Yükselci" creationdate="20190413T085719Z">
+        <seg>&amp;Bu Rengi Sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T132907Z">
@@ -2233,6 +2241,22 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084059Z" creationid="Erhan Yükselci" creationdate="20190413T084059Z">
         <seg>Hizalayıcı "Gözden Geçirilmeli" Grubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084114Z" creationid="Erhan Yükselci" creationdate="20190413T084114Z">
+        <seg>Hizalayıcı Vurgu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084126Z" creationid="Erhan Yükselci" creationdate="20190413T084126Z">
+        <seg>Hizalayıcı Tablo Satırı Vurgusu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +7337,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>İtalyanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T084136Z" creationid="Erhan Yükselci" creationdate="20190413T084136Z">
+        <seg>Öge:</seg>
       </tuv>
     </tu>
     <tu>
