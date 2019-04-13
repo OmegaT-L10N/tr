@@ -16483,8 +16483,8 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
       <tuv lang="EN">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172326Z" creationid="Erhan Yükselci" creationdate="20190413T172326Z">
-        <seg>&lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; websitesi &lt;/u0&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; hakkındaki birçok bağlantı içerdiği için başlangıç noktanız orası olmalıdır.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172351Z" creationid="Erhan Yükselci" creationdate="20190413T172326Z">
+        <seg>&lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; websitesi &lt;/u0&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; hakkındaki birçok bağlantı içerir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17818,6 +17818,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115630Z">
         <seg>OmegaT için kullanıcı arayüzü dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T172332Z" creationid="Erhan Yükselci" creationdate="20190413T172332Z">
+        <seg>Kullanıcılara destek ve yardım gönüllü olarak &lt;a1&gt;OmegaT Yahoo Kullanıcı Grubunda&lt;/a1&gt; sağlanmaktadır.</seg>
       </tuv>
     </tu>
     <tu>
