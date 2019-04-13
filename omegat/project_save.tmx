@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143240Z" creationid="Erhan Yükselci" creationdate="20190413T143240Z">
+        <seg>S&amp;özlükte dilim metnini otomatik ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="TR">
@@ -13332,6 +13340,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143248Z" creationid="Erhan Yükselci" creationdate="20190413T143248Z">
+        <seg>Sözlüklerde Ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="TR">
@@ -14088,6 +14104,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>Metin eşleştirme düzenli ifadesini atlayın:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T143330Z" creationid="Erhan Yükselci" creationdate="20190413T143330Z">
+        <seg>'{0}' sınıfından daha önce yüklenen eklenti atlanıyor</seg>
       </tuv>
     </tu>
     <tu>
