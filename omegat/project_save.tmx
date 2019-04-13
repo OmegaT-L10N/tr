@@ -7250,6 +7250,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112520Z" creationid="Erhan Yükselci" creationdate="20190413T112520Z">
+        <seg>Sorunların kontrolü uzun sürüyorsa bazı seçeneğe bağlı kontrolleri devre dışı bırakabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -13038,8 +13046,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112243Z" creationid="Erhan Yükselci" creationdate="20190413T112243Z">
-        <seg>Terfi Türü Seçin</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112324Z" creationid="Erhan Yükselci" creationdate="20190413T112243Z">
+        <seg>Sorun Türlerini Seç</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,6 +13128,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104017Z" creationid="Erhan Yükselci" creationdate="20190204T104017Z">
         <seg>Betik Dosyası Seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T112336Z" creationid="Erhan Yükselci" creationdate="20190413T112336Z">
+        <seg>Kontrol edilecek sorun türlerini seçin</seg>
       </tuv>
     </tu>
     <tu>
