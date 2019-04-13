@@ -5944,6 +5944,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080150Z" creationid="Erhan Yükselci" creationdate="20190413T080150Z">
+        <seg>Otomatik bellekten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075930Z" creationid="Erhan Yükselci" creationdate="20190413T075930Z">
@@ -7577,6 +7585,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T102611Z" creationid="Erhan Yükselci" creationdate="20190201T102611Z">
         <seg>LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080243Z" creationid="Erhan Yükselci" creationdate="20190413T080243Z">
+        <seg>Dil Denetleyici</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,6 +9850,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100324Z" creationid="Erhan Yükselci" creationdate="20160922T100324Z">
         <seg>Pencapça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paragraph delimitation</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T080236Z" creationid="Erhan Yükselci" creationdate="20190413T080236Z">
+        <seg>Paragraf sınırlandırma</seg>
       </tuv>
     </tu>
     <tu>
