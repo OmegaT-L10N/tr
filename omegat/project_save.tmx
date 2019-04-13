@@ -2760,6 +2760,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093641Z" creationid="Erhan Yükselci" creationdate="20190413T093641Z">
+        <seg>Ortalama Puan: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102444Z">
@@ -3816,6 +3824,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
         <seg>Console-translate (konsol çeviri) kipi:
 	--source-pattern=&lt;desen&gt;
 		İşlenecek kaynak dosyalarının düzenli ifadeli beyaz listesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093710Z" creationid="Erhan Yükselci" creationdate="20190413T093710Z">
+        <seg>Devam Et</seg>
       </tuv>
     </tu>
     <tu>
@@ -5996,6 +6012,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T153405Z" creationid="Erhan Yükselci" creationdate="20190130T153333Z">
         <seg>Filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093704Z" creationid="Erhan Yükselci" creationdate="20190413T093704Z">
+        <seg>Filtreler...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10438,6 +10462,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093708Z" creationid="Erhan Yükselci" creationdate="20190413T093708Z">
+        <seg>Desen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161130T111405Z" creationid="Erhan Yükselci" creationdate="20161130T111405Z">
@@ -11990,6 +12022,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100412Z" creationid="Erhan Yükselci" creationdate="20190204T100412Z">
         <seg>Kurallar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093655Z" creationid="Erhan Yükselci" creationdate="20190413T093655Z">
+        <seg>Kurallar...</seg>
       </tuv>
     </tu>
     <tu>
