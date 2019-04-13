@@ -2701,6 +2701,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132024Z" creationid="Erhan Yükselci" creationdate="20190413T132024Z">
+        <seg>Görünüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply &amp;Fix</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104643Z" creationid="Erhan Yükselci" creationdate="20190413T104643Z">
@@ -6580,6 +6588,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Galiçya dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132023Z" creationid="Erhan Yükselci" creationdate="20190413T132023Z">
+        <seg>Genel</seg>
       </tuv>
     </tu>
     <tu>
@@ -12952,6 +12968,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T114814Z">
         <seg>Saniye:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132031Z" creationid="Erhan Yükselci" creationdate="20190413T132031Z">
+        <seg>Güvenli Depo</seg>
       </tuv>
     </tu>
     <tu>
