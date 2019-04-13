@@ -1853,6 +1853,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T103201Z" creationid="Erhan Yükselci" creationdate="20190413T103201Z">
+        <seg>&lt;html&gt;&lt;center&gt;Yükleniyor...&lt;br&gt;&lt;br&gt;İpucu: Seçenekler menüsünden her zaman kontrolleri etkinleştirip devre dışı bırakabilirsiniz.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090028Z" creationid="Erhan Yükselci" creationdate="20190413T090028Z">
@@ -7704,6 +7712,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102456Z" creationid="Erhan Yükselci" creationdate="20190413T102456Z">
         <seg>Sorunlar ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T102845Z" creationid="Erhan Yükselci" creationdate="20190413T102845Z">
+        <seg>{0} için sorunlar ({1} / {2})</seg>
       </tuv>
     </tu>
     <tu>
