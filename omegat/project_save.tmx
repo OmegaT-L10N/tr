@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132252Z" creationid="Erhan Yükselci" creationdate="20190413T132252Z">
+        <seg>&amp;Ana Parolayı sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091928Z" creationid="Erhan Yükselci" creationdate="20190201T091928Z">
@@ -9117,6 +9125,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132238Z" creationid="Erhan Yükselci" creationdate="20190413T132238Z">
+        <seg>Ana Parola:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T112315Z">
@@ -13416,6 +13432,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100346Z" creationid="Erhan Yükselci" creationdate="20190204T100346Z">
         <seg>Hizmet türü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132411Z" creationid="Erhan Yükselci" creationdate="20190413T132411Z">
+        <seg>Ayarlandı &amp; Saklandı</seg>
       </tuv>
     </tu>
     <tu>
