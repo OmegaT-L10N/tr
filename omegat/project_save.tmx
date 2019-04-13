@@ -3460,6 +3460,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085907Z" creationid="Erhan Yükselci" creationdate="20190413T085907Z">
+        <seg>Renkler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="TR">
@@ -10208,6 +10216,14 @@ lütfen proje yöneticinize başvurun.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T115003Z" creationid="Erhan Yükselci" creationdate="20190412T115003Z">
         <seg>Lütfen aşağıdaki her dilim için bir çeviri seçerek çakışmaları giderin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085904Z" creationid="Erhan Yükselci" creationdate="20190413T085904Z">
+        <seg>Yeni renklerin doğru şekilde görüntülenmesi için lütfen uygulamayı yeniden başlatın.</seg>
       </tuv>
     </tu>
     <tu>
