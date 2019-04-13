@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090559Z" creationid="Erhan Yükselci" creationdate="20190413T090559Z">
+        <seg>&amp;Tümüne uygula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T115850Z">
@@ -2384,6 +2392,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092556Z" creationid="Erhan Yükselci" creationdate="20190204T092556Z">
+        <seg>Sözlük indirilirken bir hata oluştu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T090602Z" creationid="Erhan Yükselci" creationdate="20190413T090602Z">
         <seg>Sözlük indirilirken bir hata oluştu.</seg>
       </tuv>
     </tu>
