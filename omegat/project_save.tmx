@@ -18637,6 +18637,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T174330Z" creationid="Erhan Yükselci" creationdate="20190413T174330Z">
+        <seg>Dosyalar, kütük dosyalarının ilgili bölümleri, ekran görüntüleri ve hatanın bulunması ve giderilmesi konusunda geliştiricilere yardımcı olabileceğini düşündüğünüz diğer şeyleri de eklemelisiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180946Z" creationid="Erhan Yükselci" creationdate="20190130T180946Z">
