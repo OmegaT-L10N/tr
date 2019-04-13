@@ -11546,6 +11546,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T091035Z" creationid="Erhan Yükselci" creationdate="20190413T091035Z">
+        <seg>Çakışmaları Gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="TR">
