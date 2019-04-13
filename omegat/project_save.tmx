@@ -16848,6 +16848,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175111Z" creationid="Erhan Yükselci" creationdate="20190413T175111Z">
+        <seg>&lt;a3&gt;OmegaT&lt;/a3&gt;'nin geliştirilmesine katkıda bulunmak için geliştirici grubuna katılabilirsiniz (websitesinden ya da &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; adresine konusu kısmında "subscribe" (abone ol) yazısıyla bir elektronik posta göndererek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130416T094358Z">
