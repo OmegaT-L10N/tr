@@ -2341,6 +2341,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104106Z" creationid="Erhan Yükselci" creationdate="20190413T104106Z">
+        <seg>Tümü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151654Z" creationid="Erhan Yükselci" creationdate="20190412T151654Z">
@@ -3532,6 +3540,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123126Z" creationid="Erhan Yükselci" creationdate="20161129T123126Z">
         <seg>Tüm projeyi kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104153Z" creationid="Erhan Yükselci" creationdate="20190413T104153Z">
+        <seg>{0}'ni kontrol et</seg>
       </tuv>
     </tu>
     <tu>
@@ -17398,6 +17414,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142520Z" creationid="Erhan Yükselci" creationdate="20190130T142520Z">
         <seg>{0} ({1} kaldı) / {2} ({3} kaldı), {4}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104110Z" creationid="Erhan Yükselci" creationdate="20190413T104110Z">
+        <seg>{0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
