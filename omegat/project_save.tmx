@@ -3064,6 +3064,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093509Z" creationid="Erhan Yükselci" creationdate="20190413T093509Z">
+        <seg>Nokta Atışı Hizalamayı İptal Et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T103825Z" creationid="Erhan Yükselci" creationdate="20190204T103825Z">
@@ -5016,6 +5024,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093504Z" creationid="Erhan Yükselci" creationdate="20190413T093504Z">
+        <seg>Nokta Atışı Hizalamayı Bitir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
       <tuv lang="TR">
@@ -6684,6 +6700,22 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074645Z" creationid="Erhan Yükselci" creationdate="20190131T074645Z">
         <seg>İleri &amp;Düzey Seçenekleri Gizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093511Z" creationid="Erhan Yükselci" creationdate="20190413T093511Z">
+        <seg>Vurgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight Pattern...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093526Z" creationid="Erhan Yükselci" creationdate="20190413T093526Z">
+        <seg>Deseni Vurgula...</seg>
       </tuv>
     </tu>
     <tu>
