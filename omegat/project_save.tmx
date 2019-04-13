@@ -2013,6 +2013,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T130910Z" creationid="Erhan Yükselci" creationdate="20190413T130910Z">
+        <seg>Bu değişikliklerin geçerli olması için programın yeniden başlatılması gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T115648Z" creationid="Erhan Yükselci" creationdate="20161129T115648Z">
