@@ -4542,6 +4542,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T111913Z" creationid="Erhan Yükselci" creationdate="20190413T111913Z">
+        <seg>“{0}” kuralını devre dışı bırak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190225T073851Z" creationid="Erhan Yükselci" creationdate="20190225T073851Z">
