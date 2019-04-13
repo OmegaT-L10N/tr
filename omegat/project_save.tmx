@@ -12306,10 +12306,18 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100830Z" creationid="Erhan Yükselci" creationdate="20190413T100801Z">
+        <seg>Filtre ayarlarında yapılan değişiklikler kaydedilsin mi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save changes to segmentation rules?</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100745Z" creationid="Erhan Yükselci" creationdate="20190413T100745Z">
-        <seg>Değişiklikler dilimleme kurallarına kaydedilsin mi?</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100820Z" creationid="Erhan Yükselci" creationdate="20190413T100745Z">
+        <seg>Dilimleme kurallarında yapılan değişiklikler kaydedilsin mi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13168,6 +13176,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101733Z" creationid="Erhan Yükselci" creationdate="20160922T101733Z">
         <seg>Somalice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T100853Z" creationid="Erhan Yükselci" creationdate="20190413T100853Z">
+        <seg>Bazı hizalamaların halen gözden geçirilmesi gerekiyor.</seg>
       </tuv>
     </tu>
     <tu>
