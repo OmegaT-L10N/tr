@@ -7701,10 +7701,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093338Z" creationid="Erhan Yükselci" creationdate="20190413T093338Z">
+        <seg>Tümünü Tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep Mine</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092054Z" creationid="Erhan Yükselci" creationdate="20190413T092054Z">
         <seg>Benimkini Tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093344Z" creationid="Erhan Yükselci" creationdate="20190413T093344Z">
+        <seg>Hiçbirini Tutma</seg>
       </tuv>
     </tu>
     <tu>
@@ -13286,6 +13302,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093458Z" creationid="Erhan Yükselci" creationdate="20190413T093458Z">
+        <seg>Nokta Atışı Hizalamayı Başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074516Z" creationid="Erhan Yükselci" creationdate="20190204T074516Z">
@@ -14717,6 +14741,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130416T094358Z">
         <seg>OmegaT kullanmaya başlamak için öncelikle bir proje oluşturmalısınız. Bu proje, kaynak dosyaları, çeviri bellekleri, sözlükçeler ve işiniz bittiğinde oluşturacağınız çevrilmiş dosyaları içine alacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093357Z" creationid="Erhan Yükselci" creationdate="20190413T093357Z">
+        <seg>Seçimi Değiştir</seg>
       </tuv>
     </tu>
     <tu>
