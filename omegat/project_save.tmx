@@ -15499,6 +15499,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150818Z" creationid="Erhan Yükselci" creationdate="20190413T150818Z">
+        <seg>"Shift" tuşu tek başına kullanıldığında herhangi bir özel davranış sergilemez: "Shift" tuşu herhangi bir tuşla birlikte kullanıldığında o tuşun normal davranışını değiştirmez. Bunun tek istisnası &lt;l0&gt;Shift+Enter&lt;/l0&gt; tuş bileşimidir ki, bu durumda metne satır sonu eklenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit menu itself contains the following items:</seg>
       </tuv>
       <tuv lang="TR">
