@@ -4822,6 +4822,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104207Z" creationid="Erhan Yükselci" creationdate="20190413T104207Z">
+        <seg>Önce Neyin Kontrol Edileceğini Sorma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143822Z" creationid="Erhan Yükselci" creationdate="20190412T143822Z">
@@ -13664,6 +13672,22 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T091129Z">
         <seg>Yazım Denetleyici Ayarları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104225Z" creationid="Erhan Yükselci" creationdate="20190413T104225Z">
+        <seg>Yazım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T104214Z" creationid="Erhan Yükselci" creationdate="20190413T104214Z">
+        <seg>Yazım Sorunları</seg>
       </tuv>
     </tu>
     <tu>
