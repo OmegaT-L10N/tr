@@ -8324,6 +8324,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Igbo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071537Z" creationid="Erhan Yükselci" creationdate="20190414T071537Z">
+        <seg>Igbo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130402Z" creationid="Erhan Yükselci" creationdate="20161129T130402Z">
@@ -9257,6 +9265,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T094234Z" creationid="Erhan Yükselci" creationdate="20160922T094234Z">
         <seg>Khmerce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kikuyu, Gikuyu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071546Z" creationid="Erhan Yükselci" creationdate="20190414T071546Z">
+        <seg>Kikuyu, Gikuyu</seg>
       </tuv>
     </tu>
     <tu>
