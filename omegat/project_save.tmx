@@ -16483,6 +16483,16 @@ YY bölge ya da ülke kodunu (tercihe bağlı) belirtmektedir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T081800Z" creationid="Erhan Yükselci" creationdate="20190414T081800Z">
+        <seg>Her kitaplığın lisansı şurada belirtilmektedir:
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085820Z" creationid="Erhan Yükselci" creationdate="20190413T085820Z">
