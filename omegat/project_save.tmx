@@ -7960,6 +7960,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hiri Motu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071340Z" creationid="Erhan Yükselci" creationdate="20190414T071340Z">
+        <seg>Hiri Motu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T122908Z" creationid="Erhan Yükselci" creationdate="20190130T122908Z">
