@@ -5726,6 +5726,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132521Z" creationid="Erhan Yükselci" creationdate="20190414T132521Z">
+        <seg>OmegaT uygulamasına çift tıklayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T122748Z" creationid="Erhan Yükselci" creationdate="20161129T115803Z">
@@ -9753,6 +9761,16 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084704Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
         <seg>Kurulum programını başlatın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132459Z" creationid="Erhan Yükselci" creationdate="20190414T132459Z">
+        <seg>OmegaT'nin başlatılması (Mac)
+==========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -19173,6 +19191,16 @@ daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Her farklı kaynak dosya adı örüntüsü için kaynak kodlamasını değiştirebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T141542Z" creationid="Erhan Yükselci" creationdate="20190414T141542Z">
+        <seg>OmegaT uygulamasını dosyasını sabitleme yuvasına ya da bir Finder penceresinin
+araç çubuğuna sürükleyerek uygulamayı herhangi bir konumdan açabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
