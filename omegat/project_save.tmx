@@ -10301,6 +10301,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080523Z" creationid="Erhan Yükselci" creationdate="20190414T080523Z">
+        <seg>Menüler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114932Z" creationid="Erhan Yükselci" creationdate="20190412T114932Z">
@@ -11922,6 +11930,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
       </tuv>
       <tuv lang="TR">
         <seg>Sayfa parmaklarınız arasından kayıyor&lt;p&gt;Delice çarpan bir kalbin atması gibi&lt;p&gt;Sislerin içinde kayboluyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080542Z" creationid="Erhan Yükselci" creationdate="20190414T080542Z">
+        <seg>Bölmeler</seg>
       </tuv>
     </tu>
     <tu>
