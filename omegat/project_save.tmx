@@ -3298,6 +3298,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161011Z" creationid="Erhan Yükselci" creationdate="20190414T161011Z">
+        <seg>Süsle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="TR">
