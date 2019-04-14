@@ -3368,6 +3368,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142837Z" creationid="Erhan Yükselci" creationdate="20190414T142837Z">
+        <seg>Briac Pilpré (web yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180643Z">
@@ -4260,6 +4268,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR">
         <seg>İçi&amp;ndekiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142752Z" creationid="Erhan Yükselci" creationdate="20190414T142752Z">
+        <seg>Concepción Martin (Facebook topluluk yöneticisi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9244,6 +9260,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142726Z" creationid="Erhan Yükselci" creationdate="20190414T142726Z">
+        <seg>Jean-Christophe Helary (Twitter topluluk yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T082845Z">
@@ -9480,6 +9504,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Korece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142743Z" creationid="Erhan Yükselci" creationdate="20190414T142743Z">
+        <seg>Kos Ivantsof (yerelleştirme yöneticisi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10250,6 +10282,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112629Z" creationid="Erhan Yükselci" creationdate="20160921T112629Z">
         <seg>Yazdığım ilk taslağı OmegaT ve İngilizce'ye olan sevgisiyle gözden geçiren Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142717Z" creationid="Erhan Yükselci" creationdate="20190414T142717Z">
+        <seg>Marco Cevoli (Telegram topluluk yöneticisi)</seg>
       </tuv>
     </tu>
     <tu>
