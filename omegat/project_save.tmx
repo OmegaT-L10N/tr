@@ -5702,8 +5702,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T104015Z">
-        <seg>Sözlük dizinindeki (/dictionary/) sözlük dosyalarının kaynak dilimde mevcut olan girdilerini gösterir.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161624Z">
+        <seg>Sözlük klasöründeki (/dictionary/) sözlük dosyalarının kaynak dilimde mevcut olan girdilerini gösterir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,8 +5718,8 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T103833Z">
-        <seg>Sözlükçe dizinindeki (/glossary/) sözlükçe dosyalarının kaynak dilimde mevcut olan girdilerini gösterir.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161609Z">
+        <seg>Sözlükçe klasöründeki (/glossary/) sözlükçe dosyalarının kaynak dilimde mevcut olan girdilerini gösterir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19842,8 +19842,8 @@ araç çubuğuna sürükleyerek uygulamayı herhangi bir konumdan açabilirsiniz
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>JDK 1.6'yı en son sürüme güncellemeniz ya da OmegaT'nin /lib dizinindeki jaxb-*.jar dosyalarını kaldırmanız gereklidir</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161643Z">
+        <seg>JDK 1.6'yı en son sürüme güncellemeniz ya da OmegaT'nin /lib klasöründeki jaxb-*.jar dosyalarını kaldırmanız gereklidir</seg>
       </tuv>
     </tu>
     <tu>
