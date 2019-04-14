@@ -14325,6 +14325,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152734Z" creationid="Erhan Yükselci" creationdate="20190414T152734Z">
+        <seg>SVN - Temizleme (özyinelemeli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074927Z" creationid="Erhan Yükselci" creationdate="20190204T074927Z">
