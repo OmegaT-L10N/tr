@@ -18320,8 +18320,8 @@ kullanıcı desteği alabilirsiniz:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T125921Z" creationid="Erhan Yükselci" creationdate="20190414T125921Z">
-        <seg>OmegaT'nin Java Web Start kullanılarak kurulması (tüm platformlar)
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132028Z" creationid="Erhan Yükselci" creationdate="20190414T125921Z">
+        <seg>OmegaT'nin Java Ağ Başlatıcı kullanılarak kurulması (tüm platformlar)
 ===========================================================</seg>
       </tuv>
     </tu>
