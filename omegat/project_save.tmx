@@ -2141,6 +2141,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Translation memories&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080713Z" creationid="Erhan Yükselci" creationdate="20190414T080713Z">
+        <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Çeviri bellekleri&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073126Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
@@ -17310,6 +17318,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T104222Z">
         <seg>Çeviri bellekleri, tekrarların ya da makul düzeyde benzerliklerin çok olduğu bir metni çevirirken son derece kullanışlı olabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memories in OmegaT</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080723Z" creationid="Erhan Yükselci" creationdate="20190414T080723Z">
+        <seg>OmegaT'de çeviri bellekleri</seg>
       </tuv>
     </tu>
     <tu>
