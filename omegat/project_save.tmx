@@ -10635,6 +10635,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T085016Z" creationid="Erhan Yükselci" creationdate="20190414T085016Z">
+        <seg>Dizini uygun bir yere
+(söz gelimi Uygulamalar dizinine) taşıyın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the editing field to the next segment that is not registered in the project's translation memory</seg>
       </tuv>
       <tuv lang="TR">
