@@ -4722,6 +4722,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160358Z" creationid="Erhan Yükselci" creationdate="20190414T160358Z">
+        <seg>Çıktı dosyası '{0}' oluşturuluyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated documents: {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155312Z">
@@ -12223,6 +12231,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160337Z" creationid="Erhan Yükselci" creationdate="20190414T160337Z">
+        <seg>Girdi dosyası '{0}' açılıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T142641Z" creationid="Erhan Yükselci" creationdate="20190224T142641Z">
@@ -16421,6 +16437,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153202Z" creationid="Erhan Yükselci" creationdate="20190414T153202Z">
         <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160308Z" creationid="Erhan Yükselci" creationdate="20190414T160308Z">
+        <seg>Tagwipe bitti, proje yeniden yükleniyor...</seg>
       </tuv>
     </tu>
     <tu>
