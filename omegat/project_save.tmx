@@ -8349,6 +8349,16 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132215Z" creationid="Erhan Yükselci" creationdate="20190414T132215Z">
+        <seg>* Windows kullanıcıları:
+Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız bu kısayola çift tıklayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Igbo</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071537Z" creationid="Erhan Yükselci" creationdate="20190414T071537Z">
@@ -9732,6 +9742,16 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084704Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
         <seg>Kurulum programını başlatın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132235Z" creationid="Erhan Yükselci" creationdate="20190414T132214Z">
+        <seg>OmegaT'nin başlatılması (Windows)
+==============================</seg>
       </tuv>
     </tu>
     <tu>
