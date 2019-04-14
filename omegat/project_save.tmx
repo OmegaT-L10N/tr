@@ -10176,6 +10176,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152901Z" creationid="Erhan Yükselci" creationdate="20190414T152901Z">
+        <seg>Temizlenen yerel çalışma kopyaları: {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="TR">
@@ -17469,6 +17477,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152955Z" creationid="Erhan Yükselci" creationdate="20190414T152955Z">
+        <seg>Bu betik, OmegaT 3.6 ve üzeri için tasarlanmıştır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This short text describes key behavior in the editor pane.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T094613Z">
@@ -19390,6 +19406,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075915Z" creationid="Erhan Yükselci" creationdate="20190131T075915Z">
         <seg>{0} dilimi değiştireceksiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152927Z" creationid="Erhan Yükselci" creationdate="20190414T152927Z">
+        <seg>OmegaT sürüm {0} kullanıyorsunuz.</seg>
       </tuv>
     </tu>
     <tu>
