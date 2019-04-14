@@ -8352,6 +8352,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142351Z" creationid="Erhan Yükselci" creationdate="20190414T142351Z">
+        <seg>Eğer linux-install.sh betiğini kullandıysanız OmegaT'yi başlatmak için önce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115726Z">
@@ -9761,6 +9769,16 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084704Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
         <seg>Kurulum programını başlatın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T141613Z" creationid="Erhan Yükselci" creationdate="20190414T141613Z">
+        <seg>OmegaT'nin başlatılması (Linux)
+===========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -19093,6 +19111,15 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092409Z">
         <seg>Şu an projenizin kullandığı yazım denetimi sözlüğünü kaldırmak üzeresiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also launch
+it from the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T141557Z" creationid="Erhan Yükselci" creationdate="20190414T141557Z">
+        <seg>Ayrıca Spotlight arama alanından da çağırabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
