@@ -15591,6 +15591,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source Text File: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152546Z" creationid="Erhan Yükselci" creationdate="20190414T152546Z">
+        <seg>Kaynak Metin Dosyası: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="TR">
