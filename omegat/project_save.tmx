@@ -2173,6 +2173,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T081028Z" creationid="Erhan Yükselci" creationdate="20190414T081028Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T204820Z" creationid="Erhan Yükselci" creationdate="20190413T204820Z">
@@ -11437,6 +11445,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20121003T103737Z">
         <seg>OmegaT'nin temel özellikleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T081208Z" creationid="Erhan Yükselci" creationdate="20190414T081208Z">
+        <seg>OmegaT özgür ve açık kaynak kodlu her platformda çalışan bir Bilgisayar Destekli Çeviri aracıdır; bulanık eşleşme, çeviri belleği, anahtar sözcük arama, sözlükçe ve proje güncelleme gibi özelliklere sahiptir.</seg>
       </tuv>
     </tu>
     <tu>
