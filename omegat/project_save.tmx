@@ -19757,6 +19757,14 @@ daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171135Z" creationid="Erhan Yükselci" creationdate="20190414T171135Z">
+        <seg>Seçili makroları ana menüden de başlatabilirsiniz; bunun için &lt;g0&gt;Araçlar&lt;/g0&gt; menüsündeki girdilerini kullanabilirsiniz ya da &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt; (# = 1 ile 12 arasında bir sayı) tuşlarına basabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142529Z" creationid="Erhan Yükselci" creationdate="20190414T142529Z">
