@@ -10717,6 +10717,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ndonga</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071849Z" creationid="Erhan Yükselci" creationdate="20190414T071849Z">
+        <seg>Ndonga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nepali</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100016Z" creationid="Erhan Yükselci" creationdate="20160922T100016Z">
@@ -11265,6 +11273,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nuosu</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071851Z" creationid="Erhan Yükselci" creationdate="20190414T071851Z">
+        <seg>Nuosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
       <tuv lang="TR">
@@ -11285,6 +11301,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100145Z" creationid="Erhan Yükselci" creationdate="20160922T100145Z">
         <seg>Oksitanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071854Z" creationid="Erhan Yükselci" creationdate="20190414T071854Z">
+        <seg>Ojibwe, Ojibwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T072015Z" creationid="Erhan Yükselci" creationdate="20190414T072015Z">
+        <seg>Eski Kilise Slavcası, Kilise Slavcası, Eski Bulgarca, Eski Slavca</seg>
       </tuv>
     </tu>
     <tu>
