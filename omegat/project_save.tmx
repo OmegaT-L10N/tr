@@ -18433,6 +18433,16 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T082253Z" creationid="Erhan Yükselci" creationdate="20190414T082253Z">
+        <seg>JRE seçmek, bulmak ve kurmakla uğraşmamak için JRE ile birlikte gelen
+OmegaT paketlerini kullanmanızı öneririz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071609Z" creationid="Erhan Yükselci" creationdate="20190204T071609Z">
