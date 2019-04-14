@@ -19706,6 +19706,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171415Z" creationid="Erhan Yükselci" creationdate="20190414T171415Z">
+        <seg>Bu klasöre yeni betikler ekleyebilirsiniz; yeni betikler Betik Çalıştırma penceresinde kullanılabilir betikler listesinde görünecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
