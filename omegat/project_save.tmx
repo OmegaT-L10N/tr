@@ -8324,6 +8324,17 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132441Z" creationid="Erhan Yükselci" creationdate="20190414T132441Z">
+        <seg>Dosya Yöneticisinde (Windows Explorer) OmegaT dosyasını görebiliyor,
+ama OmegaT.exe dosyasını göremiyorsanız, ayarlarınızı değiştirerek dosya
+uzantılarının görünür hale gelmesini sağlayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
       </tuv>
@@ -19064,6 +19075,18 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T092409Z">
         <seg>Şu an projenizin kullandığı yazım denetimi sözlüğünü kaldırmak üzeresiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132405Z" creationid="Erhan Yükselci" creationdate="20190414T132405Z">
+        <seg>Alternatif olarak OmegaT.exe
+dosyasını manüel olarak masaüstüne ya da hızlı başlat alanına taşımak suretiyle
+bağlantı oluşturabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
