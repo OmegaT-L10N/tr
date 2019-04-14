@@ -11806,6 +11806,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oromo</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T072030Z" creationid="Erhan Yükselci" creationdate="20190414T072030Z">
+        <seg>Oromo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="TR">
@@ -13890,6 +13898,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sango</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T072045Z" creationid="Erhan Yükselci" creationdate="20190414T072045Z">
+        <seg>Sango</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sanskrit (Saṁskṛta)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T100755Z" creationid="Erhan Yükselci" creationdate="20160922T100755Z">
@@ -14768,6 +14784,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163736Z" creationid="Erhan Yükselci" creationdate="20190413T163736Z">
         <seg>Shift+F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shona</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T072108Z" creationid="Erhan Yükselci" creationdate="20190414T072108Z">
+        <seg>Shona</seg>
       </tuv>
     </tu>
     <tu>
