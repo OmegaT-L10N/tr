@@ -4472,6 +4472,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160224Z" creationid="Erhan Yükselci" creationdate="20190414T160224Z">
+        <seg>Geçerli .DOCX dönüştürülüyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155040Z">
@@ -11222,6 +11230,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143956Z" creationid="Erhan Yükselci" creationdate="20190412T143956Z">
         <seg>Sonraki →</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160249Z" creationid="Erhan Yükselci" creationdate="20190414T160249Z">
+        <seg>Temizlenecek .DOCX dosyası yok.</seg>
       </tuv>
     </tu>
     <tu>
