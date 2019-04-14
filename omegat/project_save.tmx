@@ -4722,6 +4722,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161207Z" creationid="Erhan Yükselci" creationdate="20190414T161207Z">
+        <seg>Özgün DOCX dosyalarının yedeğini oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T112307Z" creationid="Erhan Yükselci" creationdate="20190204T112307Z">
@@ -5206,6 +5214,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T163746Z" creationid="Erhan Yükselci" creationdate="20190413T163746Z">
         <seg>Ctrl+↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161140Z" creationid="Erhan Yükselci" creationdate="20190414T161140Z">
+        <seg>Geçerli DOCX dosyası</seg>
       </tuv>
     </tu>
     <tu>
