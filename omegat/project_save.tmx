@@ -7312,8 +7312,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="EN">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T142852Z" creationid="Erhan Yükselci" creationdate="20190130T142852Z">
-        <seg>Dosya: % tekrarsız çevrilmiş (tekrarsız kalan)  / proje: % tekrarsız çevrilmiş (tekrarsız kalan), toplam dilim sayısı</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171738Z" creationid="Erhan Yükselci" creationdate="20190130T142852Z">
+        <seg>Dosya: % tekrarsız çevrilmiş (tekrarsız kalan) / proje: % tekrarsız çevrilmiş (tekrarsız kalan), toplam dilim sayısı</seg>
       </tuv>
     </tu>
     <tu>
@@ -12209,8 +12209,8 @@ sisteminizde yüklü olmasını gerektirir.</seg>
       <tuv lang="EN">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074528Z" creationid="Erhan Yükselci" creationdate="20190204T074528Z">
-        <seg>OmegaT sürüm  {0} ({1})</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171758Z" creationid="Erhan Yükselci" creationdate="20190204T074528Z">
+        <seg>OmegaT sürüm {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
