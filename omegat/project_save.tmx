@@ -7989,6 +7989,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143131Z" creationid="Erhan Yükselci" creationdate="20190414T143131Z">
+        <seg>Henry Pijffers (sürüm yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here is a short summary of the chapters and their contents.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130411T072341Z">
@@ -10326,6 +10334,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143209Z" creationid="Erhan Yükselci" creationdate="20190414T143209Z">
+        <seg>Marc Prior (proje koordinatörü, web yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160921T112629Z" creationid="Erhan Yükselci" creationdate="20160921T112629Z">
@@ -10594,6 +10610,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Maksimum arama sonucuna ulaşıldı ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143118Z" creationid="Erhan Yükselci" creationdate="20190414T143118Z">
+        <seg>Maxym Mykhalchuk (baş geliştirici)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14295,6 +14319,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Örnek Metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Samuel Murray</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143119Z" creationid="Erhan Yükselci" creationdate="20190414T143119Z">
+        <seg>Samuel Murray</seg>
       </tuv>
     </tu>
     <tu>
