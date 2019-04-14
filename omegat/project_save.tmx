@@ -8352,9 +8352,9 @@ is to use Java Web Start.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132215Z" creationid="Erhan Yükselci" creationdate="20190414T132215Z">
-        <seg>* Windows kullanıcıları:
-Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız bu kısayola çift tıklayın.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132308Z" creationid="Erhan Yükselci" creationdate="20190414T132215Z">
+        <seg>Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız bu kısayola
+çift tıklayın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16604,6 +16604,16 @@ kullanılacaktır.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Aradığınız yardım sayfası&lt;p&gt;Algı sınırlarımızın ötesinde bulunuyor&lt;p&gt;Ama bekleyen başkaları var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T132343Z" creationid="Erhan Yükselci" creationdate="20190414T132343Z">
+        <seg>Kurulum programı sizin için başlangıç menüsünde, masaüstünde ve hızlı
+başlat alanında kısayollar oluşturabilir.</seg>
       </tuv>
     </tu>
     <tu>
