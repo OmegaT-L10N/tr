@@ -12898,9 +12898,9 @@ project without team functionality.</seg>
         <seg>Previous contributors include:
 (alphabetical order)</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Katkıda bulunanlar aşağıda belirtilmektedir:
-(alfabetik sıra ile)</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143013Z">
+        <seg>Daha önce katkıda bulunanlar:
+(alfabetik sıra)</seg>
       </tuv>
     </tu>
     <tu>
