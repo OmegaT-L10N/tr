@@ -11479,6 +11479,18 @@ proje güncelleme gibi özelliklere sahiptir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T081537Z" creationid="Erhan Yükselci" creationdate="20190414T081537Z">
+        <seg>OmegaT'yi Özgür Yazılım Vakfı tarafından yayınlanan GNU Genel Kamu
+Lisansının 3. ya da (tercihinize bağlı olarak) daha sonraki bir sürümü altında
+yeniden dağıtabilir ve/veya değiştirebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is refused access to the system property containing
 the name of your OS and/or the system property containing
 your home folder.</seg>
