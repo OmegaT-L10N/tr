@@ -8692,6 +8692,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084716Z" creationid="Erhan Yükselci" creationdate="20190414T084716Z">
+        <seg>OmegaT kurulumu (Mac)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -9681,8 +9691,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T082328Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
-        <seg>Kurulum </seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084704Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
+        <seg>Kurulum programını başlatın.</seg>
       </tuv>
     </tu>
     <tu>
