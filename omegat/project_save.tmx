@@ -9820,6 +9820,16 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142608Z" creationid="Erhan Yükselci" creationdate="20190414T142608Z">
+        <seg>OmegaT'nin komut satırından başlatılması (tüm sistemler)
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130406Z" creationid="Erhan Yükselci" creationdate="20161129T130406Z">
@@ -17317,6 +17327,16 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142511Z" creationid="Erhan Yükselci" creationdate="20190414T142459Z">
+        <seg>Bu betiği kullanmak için önce Kaptain'i
+kurmanız gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -19187,6 +19207,15 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090156Z" creationid="Erhan Yükselci" creationdate="20190414T090156Z">
         <seg>Bununla birlikte kurulum betiğini (linux-install.sh) kullanırsanız daha temiz ve
 daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142529Z" creationid="Erhan Yükselci" creationdate="20190414T142529Z">
+        <seg>Sonra Kaptain başlatma betiğini aşağıdaki şekilde çalıştırabilirsiniz:
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -21769,6 +21798,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142422Z" creationid="Erhan Yükselci" creationdate="20190414T142422Z">
         <seg>omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142533Z" creationid="Erhan Yükselci" creationdate="20190414T142533Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
