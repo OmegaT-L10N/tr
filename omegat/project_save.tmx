@@ -4464,6 +4464,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T160212Z" creationid="Erhan Yükselci" creationdate="20190414T160212Z">
+        <seg>Projedeki tüm .DOCX dönüştürülüyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T155040Z">
@@ -14277,6 +14285,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153304Z" creationid="Erhan Yükselci" creationdate="20190414T153304Z">
+        <seg>Tagwipe '{0}' dosyası için çalıştırılıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Running on Java {0} ({1}-bit)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T084850Z" creationid="Erhan Yükselci" creationdate="20190130T084839Z">
@@ -15179,6 +15195,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111434Z">
         <seg>Seçilen Motor: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153313Z" creationid="Erhan Yükselci" creationdate="20190414T153313Z">
+        <seg>Belirlenen seçenekler:</seg>
       </tuv>
     </tu>
     <tu>
