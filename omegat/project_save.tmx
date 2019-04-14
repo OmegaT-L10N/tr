@@ -8692,6 +8692,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T085030Z" creationid="Erhan Yükselci" creationdate="20190414T085030Z">
+        <seg>OmegaT kurulumu (Linux)
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
