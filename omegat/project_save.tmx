@@ -4404,6 +4404,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142638Z" creationid="Erhan Yükselci" creationdate="20190414T142638Z">
+        <seg>Katkıda Bulunanlar
+================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T150247Z" creationid="Erhan Yükselci" creationdate="20190204T150247Z">
@@ -5090,6 +5100,16 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T084925Z" creationid="Erhan Yükselci" creationdate="20190130T084925Z">
         <seg>Sanal Belleğin mevcut bellek kullanımı: {0}MB; bunun {1}MB'ı serbest bellek {2}MB'ı maksimum kullanılabilir bellektir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142703Z" creationid="Erhan Yükselci" creationdate="20190414T142703Z">
+        <seg>Şu anki ekip:
+(alfabetik sıra)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8213,6 +8233,16 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Eğer HTML dosyasının kodlama bildirimi varsa, bu diyalog kutucuğunda belirttiğiniz değerler dikkate alınmaksızın bu kodlama kullanılacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142627Z" creationid="Erhan Yükselci" creationdate="20190414T142627Z">
+        <seg>Eğer Java tüm sistem seviyesinde kurulmuşsa ve komut yolunda yer alıyorsa, tam
+dosya yolunun girilmesine gerek yoktur).</seg>
       </tuv>
     </tu>
     <tu>
