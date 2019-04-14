@@ -17048,6 +17048,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152839Z" creationid="Erhan Yükselci" creationdate="20190414T152839Z">
+        <seg>Betik şimdi kapatılacak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130411T090214Z">
@@ -17228,6 +17236,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T131150Z" creationid="Erhan Yükselci" creationdate="20190413T131150Z">
         <seg>Çevrim içi olarak birçok OmegaT eklentisi bulunabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152819Z" creationid="Erhan Yükselci" creationdate="20190414T152819Z">
+        <seg>{0}'de yerel bir çalışma kopyası yok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23260,6 +23276,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152802Z" creationid="Erhan Yükselci" creationdate="20190414T152802Z">
+        <seg>{0} yerel bir çalışma kopyası değil, atlanıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111340Z">
@@ -23328,6 +23352,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T143925Z" creationid="Erhan Yükselci" creationdate="20190412T143925Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152748Z" creationid="Erhan Yükselci" creationdate="20190414T152748Z">
+        <seg>{0}:	Temizleme yapıldı!!</seg>
       </tuv>
     </tu>
     <tu>
