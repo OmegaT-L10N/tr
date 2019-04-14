@@ -3490,6 +3490,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171304Z" creationid="Erhan Yükselci" creationdate="20190414T171304Z">
+        <seg>Varsayılan olarak betikler, OmegaT'nin kurulum klasöründeki (OmegaT.jar dosyasını içeren klasör) "betikler" (scripts) klasöründe saklanır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="TR">
