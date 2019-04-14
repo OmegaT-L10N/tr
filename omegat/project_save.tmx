@@ -1847,6 +1847,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171631Z" creationid="Erhan Yükselci" creationdate="20190414T171631Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): Java Sanal makinesi için dinamik bir dildir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T100553Z">
@@ -9191,6 +9199,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Mevcut dilim için bulanık eşleşme ve sözlükçe eşleşmelerinin sayısını da gösterir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171732Z" creationid="Erhan Yükselci" creationdate="20190414T171732Z">
+        <seg>Java'nın güçlü yönlerini</seg>
       </tuv>
     </tu>
     <tu>
@@ -17182,6 +17198,14 @@ kullanılacaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073044Z" creationid="Erhan Yükselci" creationdate="20190204T073044Z">
         <seg>"&amp;OmegaT 2.6 ile uyumluluk" seçildiyse aşağıdaki seçenekler geçerli olmaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following scripting languages have been implemented:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171605Z" creationid="Erhan Yükselci" creationdate="20190414T171605Z">
+        <seg>Aşağıdaki betik dilleri uygulamaya alınmıştır:</seg>
       </tuv>
     </tu>
     <tu>
