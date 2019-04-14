@@ -7841,8 +7841,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091814Z">
-        <seg>Sözlükçe dosyası:  {0}</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171827Z">
+        <seg>Sözlükçe dosyası: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9968,8 +9968,8 @@ kuracaktır.</seg>
       <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130414T083341Z">
-        <seg>Ayrıca yardım ve destek belgelerinin öncesi sürümlerindeki tutarsızlık ve hataları &lt;u0&gt;OmegaT dokümantasyon  takipçisini&lt;/u0&gt; kullanarak rapor eden herkese de teşekkürü borç bilirim.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171827Z">
+        <seg>Ayrıca yardım ve destek belgelerinin öncesi sürümlerindeki tutarsızlık ve hataları &lt;u0&gt;OmegaT dokümantasyon takipçisini&lt;/u0&gt; kullanarak rapor eden herkese de teşekkürü borç bilirim.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13000,8 +13000,8 @@ hedef dili seçin.</seg>
       <tuv lang="EN">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104616Z">
-        <seg>Lütfen bu çoğulu  #{0} çoğul biçiminde çevirin.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T171827Z">
+        <seg>Lütfen bu çoğulu #{0} çoğul biçiminde çevirin.</seg>
       </tuv>
     </tu>
     <tu>
