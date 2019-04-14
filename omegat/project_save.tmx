@@ -8324,6 +8324,15 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T130042Z" creationid="Erhan Yükselci" creationdate="20190414T130042Z">
+        <seg>Eğer sisteminizde Java kurulu ise, OmegaT'yi Java Ağ Başlatıcı'yı kullanmaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115726Z">
