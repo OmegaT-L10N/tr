@@ -2623,6 +2623,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161123Z" creationid="Erhan Yükselci" creationdate="20190414T161123Z">
+        <seg>Projedeki tüm DOCX dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151654Z" creationid="Erhan Yükselci" creationdate="20190412T151654Z">
@@ -3234,6 +3242,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161025Z" creationid="Erhan Yükselci" creationdate="20190414T161025Z">
+        <seg>Yedekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bad folder name {0}</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190201T091245Z">
@@ -3302,6 +3318,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161011Z" creationid="Erhan Yükselci" creationdate="20190414T161011Z">
         <seg>Süsle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161040Z" creationid="Erhan Yükselci" creationdate="20190414T161040Z">
+        <seg>Ortaya çıkan DOCX'i süsle</seg>
       </tuv>
     </tu>
     <tu>
@@ -4468,6 +4492,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142638Z" creationid="Erhan Yükselci" creationdate="20190414T142638Z">
         <seg>Katkıda Bulunanlar
 ================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161012Z" creationid="Erhan Yükselci" creationdate="20190414T161012Z">
+        <seg>Dönüştür</seg>
       </tuv>
     </tu>
     <tu>
