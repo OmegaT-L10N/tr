@@ -11282,6 +11282,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153228Z" creationid="Erhan Yükselci" creationdate="20190414T153228Z">
+        <seg>Hiçbir proje yüklenmedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111622Z">
@@ -13163,6 +13171,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153245Z" creationid="Erhan Yükselci" creationdate="20190414T153245Z">
+        <seg>Proje dosya içermiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="TR">
@@ -13791,6 +13807,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075504Z">
         <seg>Deseni kaldırmak istiyor musunuz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T153222Z" creationid="Erhan Yükselci" creationdate="20190414T153222Z">
+        <seg>DOCX belgelerinden etiketleri sil</seg>
       </tuv>
     </tu>
     <tu>
