@@ -11123,9 +11123,9 @@ kuracaktır.</seg>
         <seg>Move the folder to an
 appropriate location such as the Applications folder.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T085016Z" creationid="Erhan Yükselci" creationdate="20190414T085016Z">
-        <seg>Dizini uygun bir yere
-(söz gelimi Uygulamalar dizinine) taşıyın.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T170758Z" creationid="Erhan Yükselci" creationdate="20190414T085016Z">
+        <seg>Klasörü uygun bir yere
+(söz gelimi Uygulamalar klasörüne) taşıyın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17330,8 +17330,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130411T090214Z">
-        <seg>Bu bölümlerin ikincisinde bir çeviri projesindeki alt dizinlerin ve dosyalar, bunların işlevleri ve OmegaT ile ilişkili diğer kullanıcı ve uygulama dosyaları anlatılmaktadır.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T170727Z">
+        <seg>Bu bölümlerin ikincisinde bir çeviri projesindeki alt klasörlerin ve dosyalar, bunların işlevleri ve OmegaT ile ilişkili diğer kullanıcı ve uygulama dosyaları anlatılmaktadır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20372,8 +20372,8 @@ klasörü oluşturmasına izin vermedi.</seg>
       <tuv lang="EN">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>cd &lt;OmegaT.jar adlı dosyanın bulunduğu dizin&gt;</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T170825Z">
+        <seg>cd &lt;OmegaT.jar adlı dosyanın bulunduğu klasör&gt;</seg>
       </tuv>
     </tu>
     <tu>
