@@ -17888,6 +17888,16 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T084932Z" creationid="Erhan Yükselci" creationdate="20190414T084932Z">
+        <seg>OmegaT .zip arşivini açtığınız klasörde bir belgelendirme dosyası
+ve OmegaT uygulaması bulunur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
