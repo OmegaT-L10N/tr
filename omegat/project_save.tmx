@@ -8712,6 +8712,16 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090310Z" creationid="Erhan Yükselci" creationdate="20190414T090310Z">
+        <seg>OmegaT kurulumu (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -18292,8 +18302,8 @@ kullanıcı desteği alabilirsiniz:</seg>
       <tuv lang="EN">
         <seg>Using Java Web Start</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Jaw Web Start'ı kullanma</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090352Z">
+        <seg>Java Web Start'ı kullanma</seg>
       </tuv>
     </tu>
     <tu>
