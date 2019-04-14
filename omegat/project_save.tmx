@@ -11218,6 +11218,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No Loaded Project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143501Z" creationid="Erhan Yükselci" creationdate="20190414T143501Z">
+        <seg>Yüklü Proje Yok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092628Z">
@@ -12746,6 +12754,14 @@ hedef dili seçin.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T104616Z">
         <seg>Lütfen bu çoğulu  #{0} çoğul biçiminde çevirin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again after opening a project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143514Z" creationid="Erhan Yükselci" creationdate="20190414T143514Z">
+        <seg>Lütfen bir proje açtıktan sonra tekrar deneyin.</seg>
       </tuv>
     </tu>
     <tu>
