@@ -6910,6 +6910,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extract Text Content</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143405Z" creationid="Erhan Yükselci" creationdate="20190414T143405Z">
+        <seg>Metin İçeriğini Çıkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extracted comments:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T111917Z">
@@ -6922,6 +6930,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Dosyalarından tercüme edilebilir içeriğin çıkarılması.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extracts the content of the projects in a single text file (one line per segment).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143451Z" creationid="Erhan Yükselci" creationdate="20190414T143451Z">
+        <seg>Projelerin içeriğini tek bir metin dosyasına (her dilim bir satırda) çıkarır.</seg>
       </tuv>
     </tu>
     <tu>
