@@ -1376,6 +1376,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143222Z" creationid="Erhan Yükselci" creationdate="20190414T143222Z">
+        <seg>(Eğer OmegaT Projesine önemli bir katkıda bulunmuşsanız, ama adınız yukarıdaki
+listede yer almıyorsa bizimle irtibata geçebilirsiniz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -16870,6 +16880,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143300Z" creationid="Erhan Yükselci" creationdate="20190414T143300Z">
+        <seg>OmegaT hakkındaki en güncel bilgilere şu adresten ulaşabilirsiniz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new colours have been saved.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T085820Z" creationid="Erhan Yükselci" creationdate="20190413T085820Z">
@@ -18521,6 +18539,16 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115809Z">
         <seg>OmegaT'de kurulum dilini kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Useful links
+============</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143251Z" creationid="Erhan Yükselci" creationdate="20190414T143251Z">
+        <seg>Faydalı bağlantılar
+================</seg>
       </tuv>
     </tu>
     <tu>
