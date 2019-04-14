@@ -19013,6 +19013,16 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090156Z" creationid="Erhan Yükselci" creationdate="20190414T090156Z">
+        <seg>Bununla birlikte kurulum betiğini (linux-install.sh) kullanırsanız daha temiz ve
+daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T104305Z" creationid="Erhan Yükselci" creationdate="20160922T104305Z">
