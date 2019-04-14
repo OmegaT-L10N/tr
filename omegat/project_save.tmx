@@ -12763,9 +12763,9 @@ sisteminizde yüklü olmasını gerektirir.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T080313Z" creationid="Erhan Yükselci" creationdate="20190130T080313Z">
-        <seg>Kaynak dosyalarını ./source dizinine ve yardımcı
-materyalleri ./tm, ./glossary ve ./dictionary dizinlerine yerleştirin,
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T161443Z" creationid="Erhan Yükselci" creationdate="20190130T080313Z">
+        <seg>Kaynak dosyalarını ./source klasörüne ve yardımcı
+materyalleri ./tm, ./glossary ve ./dictionary klasörlerine yerleştirin,
 sonra her şeyi depoya gönderin.</seg>
       </tuv>
     </tu>
