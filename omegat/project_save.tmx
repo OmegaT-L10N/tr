@@ -11550,6 +11550,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T081715Z" creationid="Erhan Yükselci" creationdate="20190414T081715Z">
+        <seg>OmegaT bazı kitaplıklar kullanmaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130405T134838Z">
