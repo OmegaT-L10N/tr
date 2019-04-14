@@ -9679,6 +9679,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T082328Z" creationid="Erhan Yükselci" creationdate="20190414T082328Z">
+        <seg>Kurulum </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T130406Z" creationid="Erhan Yükselci" creationdate="20161129T130406Z">
@@ -20321,6 +20329,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151431Z" creationid="Erhan Yükselci" creationdate="20190413T151431Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T082356Z" creationid="Erhan Yükselci" creationdate="20190414T082356Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
     </tu>
     <tu>
