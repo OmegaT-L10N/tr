@@ -17194,6 +17194,20 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090252Z" creationid="Erhan Yükselci" creationdate="20190414T090252Z">
+        <seg>Bu betiği kullanmak için
+bir terminal penceresi (konsol) açın, klasörü OmegaT.jar dosyasını ve linux-install.sh
+betiğini içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği
+çalıştırın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T093357Z" creationid="Erhan Yükselci" creationdate="20190413T093357Z">
