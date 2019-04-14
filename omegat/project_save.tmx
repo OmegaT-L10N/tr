@@ -11558,6 +11558,16 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T090106Z" creationid="Erhan Yükselci" creationdate="20190414T090106Z">
+        <seg>OmegaT başlatılmak için
+hazır olacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT license</seg>
       </tuv>
       <tuv lang="TR">
