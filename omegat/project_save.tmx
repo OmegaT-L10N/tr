@@ -16369,6 +16369,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target Text File: {0}</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T152551Z" creationid="Erhan Yükselci" creationdate="20190414T152551Z">
+        <seg>Hedef Metin Dosyası: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target count</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T151620Z" creationid="Erhan Yükselci" creationdate="20190412T151620Z">
