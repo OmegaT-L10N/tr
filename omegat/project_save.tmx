@@ -15846,6 +15846,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tahitian</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T072232Z" creationid="Erhan Yükselci" creationdate="20190414T072232Z">
+        <seg>Tahitice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tajik</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T102352Z" creationid="Erhan Yükselci" creationdate="20160922T102352Z">
@@ -18236,6 +18244,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Vito Smolej (dokümantasyon yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Volapük</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080256Z" creationid="Erhan Yükselci" creationdate="20190414T080256Z">
+        <seg>Volapük</seg>
       </tuv>
     </tu>
     <tu>
