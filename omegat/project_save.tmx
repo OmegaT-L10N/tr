@@ -18715,6 +18715,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Xhosa</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080316Z" creationid="Erhan Yükselci" creationdate="20190414T080312Z">
+        <seg>Xhosa Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Yandex Translate</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T101732Z" creationid="Erhan Yükselci" creationdate="20190204T101732Z">
@@ -18735,6 +18743,14 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T103409Z" creationid="Erhan Yükselci" creationdate="20160922T103409Z">
         <seg>Yidiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yoruba</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080335Z" creationid="Erhan Yükselci" creationdate="20190414T080333Z">
+        <seg>Yorubaca</seg>
       </tuv>
     </tu>
     <tu>
@@ -18923,6 +18939,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T181102Z" creationid="Erhan Yükselci" creationdate="20190130T181102Z">
         <seg>ZIP dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zhuang, Chuang</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080430Z" creationid="Erhan Yükselci" creationdate="20190414T080430Z">
+        <seg>Zhuangca</seg>
       </tuv>
     </tu>
     <tu>
