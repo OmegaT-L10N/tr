@@ -2901,6 +2901,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143024Z" creationid="Erhan Yükselci" creationdate="20190414T143024Z">
+        <seg>Anthony Baldwin (yerelleştirme yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075110Z" creationid="Erhan Yükselci" creationdate="20190204T075110Z">
@@ -5402,6 +5410,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143036Z" creationid="Erhan Yükselci" creationdate="20190414T143036Z">
+        <seg>Didier Briel (proje yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel is the OmegaT project manager.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T113719Z" creationid="Erhan Yükselci" creationdate="20161129T113719Z">
@@ -5646,6 +5662,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T092754Z" creationid="Erhan Yükselci" creationdate="20160922T092754Z">
         <seg>Divehi, Maldivce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dmitri Gabinski</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143042Z" creationid="Erhan Yükselci" creationdate="20190414T143042Z">
+        <seg>Dmitri Gabinski</seg>
       </tuv>
     </tu>
     <tu>
@@ -9272,6 +9296,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142726Z" creationid="Erhan Yükselci" creationdate="20190414T142726Z">
         <seg>Jean-Christophe Helary (Twitter topluluk yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143108Z" creationid="Erhan Yükselci" creationdate="20190414T143108Z">
+        <seg>Jean-Christophe Helary (destek grubu sahibi, yerelleştirme yöneticisi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14231,6 +14263,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T074927Z" creationid="Erhan Yükselci" creationdate="20190204T074927Z">
         <seg>SVNKit (TMate Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sabine Cretella</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T143041Z" creationid="Erhan Yükselci" creationdate="20190414T143041Z">
+        <seg>Sabine Cretella</seg>
       </tuv>
     </tu>
     <tu>
