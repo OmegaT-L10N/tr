@@ -12375,14 +12375,6 @@ sisteminizde yüklü olmasını gerektirir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Open</seg>
-      </tuv>
-      <tuv lang="TR">
-        <seg>Aç</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104012Z" creationid="Erhan Yükselci" creationdate="20190130T085709Z">
@@ -22720,6 +22712,38 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T161704Z" creationid="Erhan Yükselci" creationdate="20190413T161704Z">
         <seg>por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133530Z" creationid="Erhan Yükselci" creationdate="20190415T133530Z">
+        <seg>projectNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133534Z" creationid="Erhan Yükselci" creationdate="20190415T133534Z">
+        <seg>projectOpenMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133536Z" creationid="Erhan Yükselci" creationdate="20190415T133536Z">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133532Z" creationid="Erhan Yükselci" creationdate="20190415T133532Z">
+        <seg>projectTeamNewMenuItem</seg>
       </tuv>
     </tu>
     <tu>
