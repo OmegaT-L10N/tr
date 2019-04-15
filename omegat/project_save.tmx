@@ -17298,6 +17298,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T124430Z" creationid="Erhan Yükselci" creationdate="20190415T124430Z">
+        <seg>Tuşlar (kısayollar) için tam sözdizimi, Oracle'ın şu Java 1.6 belgelendirmesinde tanımlanmıştır (sayfa sonu): &lt;u0&gt;Java 1.7 tuş kısayolları&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="TR">
@@ -21262,6 +21270,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T152017Z" creationid="Erhan Yükselci" creationdate="20190413T152017Z">
         <seg>ht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T124222Z" creationid="Erhan Yükselci" creationdate="20190415T124222Z">
+        <seg>http://docs.oracle.com/javase/6/docs/api/javax/swing/KeyStroke.html</seg>
       </tuv>
     </tu>
     <tu>
