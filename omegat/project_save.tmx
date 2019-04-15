@@ -2663,6 +2663,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T103343Z" creationid="Erhan Yükselci" creationdate="20190415T103343Z">
+        <seg>Tüm diller, projenin en üst nesne olduğu, OmegaT nesne modeline erişim sahibidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T081412Z" creationid="Erhan Yükselci" creationdate="20190204T081412Z">
