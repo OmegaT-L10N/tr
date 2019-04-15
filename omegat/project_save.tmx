@@ -2959,6 +2959,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T110544Z" creationid="Erhan Yükselci" creationdate="20190415T110544Z">
+        <seg>"//" işaretinden sonraki her şey yok sayılır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apache Commons (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T075110Z" creationid="Erhan Yükselci" creationdate="20190204T075110Z">
@@ -12307,6 +12315,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T150731Z" creationid="Erhan Yükselci" creationdate="20190413T150731Z">
         <seg>Otomatik Tamamlayıcı açılınca &lt;e1&gt;Ctrl+Space&lt;/e1&gt; tuşlarını kullanarak sırasıyla &lt;e2&gt;Sözlükçe girdileri&lt;/e2&gt;, &lt;e3&gt;Otomatik metin girdileri,&lt;/e3&gt; &lt;e4&gt;Eksik etiketler&lt;/e4&gt; ve &lt;e5&gt;Karakter tablosu&lt;/e5&gt; seçenekleri arasında geçiş yapabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T110650Z" creationid="Erhan Yükselci" creationdate="20190415T110650Z">
+        <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; dosyasında değişiklik yapıldıktan sonra yeni kısayolların geçerli olması için &lt;a1&gt;OmegaT&lt;/a1&gt;'nin yeniden başlatılması gereklidir.</seg>
       </tuv>
     </tu>
     <tu>
