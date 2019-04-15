@@ -6318,6 +6318,14 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty lines are accepted and comment lines should start with "//".</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T110521Z" creationid="Erhan Yükselci" creationdate="20190415T110521Z">
+        <seg>Bu dosyada boş satırlar olabilir ve yorum satırlarının "//" ile başlaması gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074131Z" creationid="Erhan Yükselci" creationdate="20190131T074131Z">
@@ -17460,6 +17468,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Pencerelerin arasındaki ayırıcıları sürüklemek suretiyle pencereleri yeniden boyutlandırmak mümkündür.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T110440Z" creationid="Erhan Yükselci" creationdate="20190415T110440Z">
+        <seg>Kısayol tanımları dosyası adı &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; olmalı ve dosya her satırda en faza bir kısayol tanımı içermelidir.</seg>
       </tuv>
     </tu>
     <tu>
