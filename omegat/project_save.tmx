@@ -17496,6 +17496,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T124220Z" creationid="Erhan Yükselci" creationdate="20190415T124220Z">
+        <seg>Kısayol tanımı sözdizimi şu şekildedir: &lt;c0&gt;&lt;menü ögesi kodu&gt;=&lt;kısayol&gt;&lt;/c0&gt;; burada &lt;e1&gt;&lt;menü ögesi kodu&gt;&lt;/e1&gt; aşağıda yer alan tablolardan alınan bir kod, &lt;e2&gt;&lt;kısayol&gt;&lt;/e2&gt; ise kullanıcı tarafından belirlenen tuş kombinasyonudur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151423Z" creationid="Erhan Yükselci" creationdate="20190413T151423Z">
