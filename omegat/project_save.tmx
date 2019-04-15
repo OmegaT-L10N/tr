@@ -3346,6 +3346,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T103259Z" creationid="Erhan Yükselci" creationdate="20190415T103259Z">
+        <seg>Firefox gibi popüler yazılımların arkasındaki dil olduğu için açık kaynak evreninde bilinen ve tercih edilen bir programlama aracıdır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
       <tuv lang="TR">
@@ -9245,8 +9253,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T103104Z" creationid="Erhan Yükselci" creationdate="20190415T103104Z">
-        <seg>Nesne tabanlı, zorunlu </seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T103203Z" creationid="Erhan Yükselci" creationdate="20190415T103104Z">
+        <seg>Nesne tabanlı, zorunlu ve işlevsel programlama tarzlarını destekleyen çok paradigmalı bir dildir.</seg>
       </tuv>
     </tu>
     <tu>
