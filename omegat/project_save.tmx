@@ -19839,6 +19839,14 @@ bağlantı oluşturabilirsiniz.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T110349Z" creationid="Erhan Yükselci" creationdate="20190415T110349Z">
+        <seg>OmegaT tercihler klasörüne bir kısayol tanımları dosyası (bkz. &lt;l0&gt;Kullanıcı dosyalarının konumu&lt;/l0&gt;) koyarak var olan kısaları değiştirebilir ve yeni kısayollar ekleyebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085648Z" creationid="Erhan Yükselci" creationdate="20190204T085648Z">
