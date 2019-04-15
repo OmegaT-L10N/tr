@@ -156,3 +156,4 @@ spelling dictionary	yazım sözlüğü
 hyperlink	köprü
 aligner	hizalayıcı
 alignment	hizalama
+scripting language	betik dili
