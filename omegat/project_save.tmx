@@ -2167,6 +2167,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T105237Z" creationid="Erhan Yükselci" creationdate="20190415T105237Z">
+        <seg>&lt;p0&gt;Kısayolları&lt;/p0&gt; &lt;s1&gt;Özelleştirme&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;TMX&lt;/p0&gt; &lt;s1&gt;Translation memories&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T080713Z" creationid="Erhan Yükselci" creationdate="20190414T080713Z">
@@ -15619,6 +15627,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T134807Z" creationid="Erhan Yükselci" creationdate="20190413T134807Z">
         <seg>Kısayol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcuts customization</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T105030Z" creationid="Erhan Yükselci" creationdate="20190415T105030Z">
+        <seg>Kısayolları özelleştirme</seg>
       </tuv>
     </tu>
     <tu>
