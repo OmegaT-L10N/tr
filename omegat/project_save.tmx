@@ -11112,6 +11112,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T105350Z" creationid="Erhan Yükselci" creationdate="20190415T105350Z">
+        <seg>Ana menüde görünen ögelerin çoğuna yeni bir kısayol atanabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154019Z">
