@@ -17226,6 +17226,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T105010Z" creationid="Erhan Yükselci" creationdate="20190415T105010Z">
+        <seg>Söz gelimi aşağıdaki kod parçası, geçerli projedeki tüm dilimleri tarayarak tercüme olanları bulup dilimin kaynak ve hedefini yazdırmaktadır:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073044Z" creationid="Erhan Yükselci" creationdate="20190204T073044Z">
