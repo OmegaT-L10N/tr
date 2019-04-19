@@ -7679,6 +7679,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190419T123630Z" creationid="Erhan Yükselci" creationdate="20190419T123630Z">
+        <seg>Zorunlu bellekten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T075930Z" creationid="Erhan Yükselci" creationdate="20190413T075930Z">
