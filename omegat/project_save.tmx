@@ -6012,6 +6012,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131835Z" creationid="Erhan Yükselci" creationdate="20190421T131835Z">
+        <seg>MediaWiki Sayfası İndir...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T135709Z" creationid="Erhan Yükselci" creationdate="20190224T135709Z">
@@ -22748,6 +22756,22 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131848Z" creationid="Erhan Yükselci" creationdate="20190421T131848Z">
+        <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131837Z" creationid="Erhan Yükselci" creationdate="20190421T131837Z">
+        <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectNewMenuItem</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133530Z" creationid="Erhan Yükselci" creationdate="20190415T133530Z">
@@ -22772,10 +22796,26 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131843Z" creationid="Erhan Yükselci" creationdate="20190421T131843Z">
+        <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectTeamNewMenuItem</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190415T133532Z" creationid="Erhan Yükselci" creationdate="20190415T133532Z">
         <seg>projectTeamNewMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectWikiImportMenuItem</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131839Z" creationid="Erhan Yükselci" creationdate="20190421T131839Z">
+        <seg>projectWikiImportMenuItem</seg>
       </tuv>
     </tu>
     <tu>
