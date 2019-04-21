@@ -12375,6 +12375,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="TR">
+        <seg>Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T104012Z" creationid="Erhan Yükselci" creationdate="20190130T085709Z">
@@ -12395,6 +12403,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T103747Z" creationid="Erhan Yükselci" creationdate="20190130T085121Z">
         <seg>&amp;Son Projeyi Aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190421T131804Z" creationid="Erhan Yükselci" creationdate="20190421T131804Z">
+        <seg>Son Projeyi Aç</seg>
       </tuv>
     </tu>
     <tu>
