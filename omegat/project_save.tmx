@@ -9840,8 +9840,8 @@ kuracaktır.</seg>
       <tuv lang="EN">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153711Z" creationid="Erhan Yükselci" creationdate="20190514T153620Z">
-        <seg>KLT</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153723Z" creationid="Erhan Yükselci" creationdate="20190514T153620Z">
+        <seg>KLL</seg>
       </tuv>
     </tu>
     <tu>
@@ -18551,6 +18551,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T075452Z" creationid="Erhan Yükselci" creationdate="20190131T075452Z">
         <seg>Çe&amp;vrilmemiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153714Z" creationid="Erhan Yükselci" creationdate="20190514T153714Z">
+        <seg>KLS</seg>
       </tuv>
     </tu>
     <tu>
