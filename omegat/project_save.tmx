@@ -8931,6 +8931,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153436Z" creationid="Erhan Yükselci" creationdate="20190514T153436Z">
+        <seg>Araya Ekleme Kipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130422T103006Z">
@@ -9818,6 +9826,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T120626Z" creationid="Erhan Yükselci" creationdate="20190130T120523Z">
         <seg>&amp;Günlük...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153620Z" creationid="Erhan Yükselci" creationdate="20190514T153620Z">
+        <seg>LCK</seg>
       </tuv>
     </tu>
     <tu>
