@@ -8439,6 +8439,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153633Z" creationid="Erhan Yükselci" creationdate="20190514T153633Z">
+        <seg>ARY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T122553Z">
@@ -9832,8 +9840,8 @@ kuracaktır.</seg>
       <tuv lang="EN">
         <seg>LCK</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153620Z" creationid="Erhan Yükselci" creationdate="20190514T153620Z">
-        <seg>LCK</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153711Z" creationid="Erhan Yükselci" creationdate="20190514T153620Z">
+        <seg>KLT</seg>
       </tuv>
     </tu>
     <tu>
@@ -12042,6 +12050,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102756Z" creationid="Erhan Yükselci" creationdate="20190204T102756Z">
         <seg>Tamam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190514T153651Z" creationid="Erhan Yükselci" creationdate="20190514T153623Z">
+        <seg>ÜZR</seg>
       </tuv>
     </tu>
     <tu>
