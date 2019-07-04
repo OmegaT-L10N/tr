@@ -2743,6 +2743,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115008Z">
+        <seg>Her proje özgü harici komutların kullanılması izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142353Z" creationid="Erhan Yükselci" creationdate="20190414T142353Z">
@@ -2995,6 +3003,14 @@ TMX dosyası yüklenmeyecek.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T132024Z" creationid="Erhan Yükselci" creationdate="20190413T132024Z">
         <seg>Görünüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="TR">
+        <seg>Ekler</seg>
       </tuv>
     </tu>
     <tu>
@@ -3334,6 +3350,18 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T091519Z" creationid="Erhan Yükselci" creationdate="20160922T091519Z">
         <seg>Bambara Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193100Z" creationid="Erhan Yükselci" creationdate="20190704T193100Z">
+        <seg>Ben nerede yanlış yaptım:
+Aradığın sayfa artık burada oturmuyor
+Hadi başka kapıya</seg>
       </tuv>
     </tu>
     <tu>
@@ -6350,6 +6378,18 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193144Z" creationid="Erhan Yükselci" creationdate="20190704T193144Z">
+        <seg>Ruhum bomboş
+Bu karanlık beynimde zonkluyor
+Yardım sayfanız bulunamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="TR">
@@ -6514,6 +6554,18 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T085807Z" creationid="Erhan Yükselci" creationdate="20190204T085807Z">
         <seg>Yazılabilir sözlükçeden gelen girdiler kalın harflerle görüntülenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193156Z" creationid="Erhan Yükselci" creationdate="20190704T193156Z">
+        <seg>İşte öldüm
+işte son kadife çiçekleri son defneler
+baldıranlarla kefenlediler</seg>
       </tuv>
     </tu>
     <tu>
@@ -6906,6 +6958,18 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T130926Z">
         <seg>Dilimleme kurallarını yüklerken özel durumlar oluştu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193033Z" creationid="Erhan Yükselci" creationdate="20190704T193033Z">
+        <seg>Heyecan verici yardım sayfası
+Örümcek ağlarına yakalandınız
+404 bulunamadı</seg>
       </tuv>
     </tu>
     <tu>
@@ -8195,6 +8259,18 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Yardım dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193219Z" creationid="Erhan Yükselci" creationdate="20190704T193219Z">
+        <seg>Aradığın yardım
+Yolundan kaçıyor
+Kışı gelmiş</seg>
       </tuv>
     </tu>
     <tu>
@@ -11208,6 +11284,18 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193213Z" creationid="Erhan Yükselci" creationdate="20190704T193213Z">
+        <seg>Başımız sağ olsun
+404 aramızdan ayrıldı
+Ebediyete gitti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T154019Z">
@@ -12767,6 +12855,18 @@ sisteminizde yüklü olmasını gerektirir.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193110Z" creationid="Erhan Yükselci" creationdate="20190704T193110Z">
+        <seg>Sayfa parmaklarınız arasından kayıyor
+Delice çarpan bir kalbin atması gibi
+Sislerin içinde kayboluyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="TR">
@@ -13475,6 +13575,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="TR">
+        <seg>Proje Dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T143942Z" creationid="Erhan Yükselci" creationdate="20190130T143942Z">
@@ -13495,6 +13603,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Proje Dosyaları...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="TR">
+        <seg>Proje Özellikleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -13815,6 +13931,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T100432Z">
         <seg>Sağdan sola/soldan sağa yazma yönünü değiştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193208Z" creationid="Erhan Yükselci" creationdate="20190704T193208Z">
+        <seg>Biplemekten ziyade
+Ya da kaba bir hata mesajından
+Şu sözcükler: 'Dosya bulunamadı'</seg>
       </tuv>
     </tu>
     <tu>
@@ -14589,6 +14717,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="TR">
+        <seg>Panel üzerindeyken farenin sağ tuşuna tıklayın ve &lt;e0&gt;Yeni Başlatıcı Ekle&lt;/e0&gt; menüsünü seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T092225Z" creationid="Erhan Yükselci" creationdate="20190130T092225Z">
@@ -15095,6 +15231,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193449Z" creationid="Erhan Yükselci" creationdate="20190704T193449Z">
+        <seg>Bulunan İşareti Ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="TR">
@@ -15107,6 +15251,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="TR">
         <seg>Projede Arama Yap...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193459Z" creationid="Erhan Yükselci" creationdate="20190704T193459Z">
+        <seg>Değiştirilen İşareti Ara</seg>
       </tuv>
     </tu>
     <tu>
@@ -17410,6 +17562,18 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193137Z" creationid="Erhan Yükselci" creationdate="20190704T193137Z">
+        <seg>Aradığınız yardım sayfası
+Algı sınırlarımızın ötesinde bulunuyor
+Ama bekleyen başkaları var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="TR">
@@ -17798,6 +17962,18 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T090427Z">
         <seg>Bu yüzden, OmegaT'nin yapılandırma
 klasörünün konumu sağlıklı bir şekilde tespit edilemedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193130Z" creationid="Erhan Yükselci" creationdate="20190704T193130Z">
+        <seg>Üç şey kesin:
+Ölüm, vergiler ve sayfanız bulunamadı
+Sen, ey zavallı</seg>
       </tuv>
     </tu>
     <tu>
@@ -19702,6 +19878,18 @@ Hem tam arama hem de anahtar sözcük aramaların joker karakterler * ve ? kulla
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T113636Z">
         <seg>Eşitleme bir sonraki seferde yapılacak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193044Z" creationid="Erhan Yükselci" creationdate="20190704T193044Z">
+        <seg>Zambaklar en ıssız yerlerde açar
+Ve vardır her vahşi çiçekte gurur:
+Sayfanız bulunamadı</seg>
       </tuv>
     </tu>
     <tu>
