@@ -2191,6 +2191,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190704T193752Z" creationid="Erhan Yükselci" creationdate="20190704T193752Z">
+        <seg>&lt;r0&gt;Not:&lt;/r0&gt;Apple Mac ile çalışırken &lt;k1&gt;Command&lt;/k1&gt; tuşu, &lt;k2&gt;Control&lt;/k2&gt; tuşunun yerine kullanılmalıdır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073126Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
