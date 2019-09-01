@@ -17980,6 +17980,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112145Z" creationid="Erhan Yükselci" creationdate="20190901T112145Z">
+        <seg>Uzantıları &lt;e1&gt;dz, idx &lt;/e1&gt;ve&lt;e2&gt;ifo&lt;/e2&gt; olan üç adet dosya ortaya çıkmalıdır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T100537Z" creationid="Erhan Yükselci" creationdate="20190204T100537Z">
