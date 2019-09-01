@@ -17642,6 +17642,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T134708Z" creationid="Erhan Yükselci" creationdate="20190901T134708Z">
+        <seg>Uzantısı, &lt;f0&gt;.txt&lt;/f0&gt; ya da &lt;f1&gt;.utf8&lt;/f1&gt; olmalıdır (uzantısı yoksa eklenecektir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T092528Z" creationid="Erhan Yükselci" creationdate="20190413T092528Z">
