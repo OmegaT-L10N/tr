@@ -4374,6 +4374,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment fields are separated by a comma ','.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144957Z" creationid="Erhan Yükselci" creationdate="20190901T144957Z">
+        <seg>Yorum alanları, virgülle (,) birbirinden ayrılır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment:</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T091801Z">
