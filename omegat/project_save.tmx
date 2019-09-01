@@ -4046,6 +4046,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112929Z" creationid="Erhan Yükselci" creationdate="20190901T112929Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20161129T123126Z" creationid="Erhan Yükselci" creationdate="20161129T123126Z">
@@ -11112,6 +11120,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T114932Z" creationid="Erhan Yükselci" creationdate="20190412T114932Z">
         <seg>Birleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112916Z" creationid="Erhan Yükselci" creationdate="20190901T112916Z">
+        <seg>Merriam Webster sözlüğü - kullanım</seg>
       </tuv>
     </tu>
     <tu>
