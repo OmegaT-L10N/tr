@@ -17329,6 +17329,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140839Z" creationid="Erhan Yükselci" creationdate="20190901T140839Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt;'nin mevcut dilimde bulduğu sözlükçe terimleri Sözlükçe penceresinde görüntülenir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terms with multiple targets</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190311T072203Z" creationid="Erhan Yükselci" creationdate="20190311T072203Z">
