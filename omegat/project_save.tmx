@@ -18405,6 +18405,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This format is the same as the tab separated one: source term, target term.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144632Z" creationid="Erhan Yükselci" creationdate="20190901T144632Z">
+        <seg>Bu format, sekmeyle ayrılan formatla aynıdır: kaynak terim, hedef terim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190224T140153Z" creationid="Erhan Yükselci" creationdate="20190224T140153Z">
