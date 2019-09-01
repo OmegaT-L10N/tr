@@ -6002,8 +6002,8 @@ Hadi başka kapıya</seg>
       <tuv lang="EN">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T130834Z" creationid="Erhan Yükselci" creationdate="20190901T130834Z">
-        <seg>Bu dizin uzantılarıyla birlikte aynı ada sahip üç dosya içeriyor mu?</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T131002Z" creationid="Erhan Yükselci" creationdate="20190901T130834Z">
+        <seg>Bu klasör yukarıda belirtilen uzantılara sahip aynı ada sahip üç dosya içeriyor mu?</seg>
       </tuv>
     </tu>
     <tu>
