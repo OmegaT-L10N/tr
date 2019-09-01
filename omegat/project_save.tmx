@@ -6000,6 +6000,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T130834Z" creationid="Erhan Yükselci" creationdate="20190901T130834Z">
+        <seg>Bu dizin uzantılarıyla birlikte aynı ada sahip üç dosya içeriyor mu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T071644Z" creationid="Erhan Yükselci" creationdate="20190204T071644Z">
