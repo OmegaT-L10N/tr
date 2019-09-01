@@ -16247,6 +16247,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T143642Z" creationid="Erhan Yükselci" creationdate="20190901T143642Z">
+        <seg>Dolayısıyla yalın hal olarak eklenen "pojavni meni" teriminin "pojavnem meniju" şeklinde -de haline dönüştürülmesi gerekir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T101733Z" creationid="Erhan Yükselci" creationdate="20160922T101733Z">
