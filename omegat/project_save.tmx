@@ -6098,8 +6098,8 @@ Hadi başka kapıya</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111739Z" creationid="Erhan Yükselci" creationdate="20190901T111739Z">
-        <seg>Dosyayı indirin; sıkıştırılmış &lt;f0&gt;tarball arşivi şeklinde olması beklenir (uzantısı &lt;s0&gt;tar.bz&lt;/s0&gt;).</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111836Z" creationid="Erhan Yükselci" creationdate="20190901T111739Z">
+        <seg>Dosyayı indirin; sıkıştırılmış &lt;f0&gt;tarball&lt;/f0&gt; arşivi şeklinde olmalıdır (uzantısı &lt;e1&gt;tar.bz2&lt;/e1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19371,6 +19371,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T115809Z">
         <seg>OmegaT'de kurulum dilini kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111815Z" creationid="Erhan Yükselci" creationdate="20190901T111815Z">
+        <seg>Bu arşivin içindekilerini untar komutuyla (ya da Windows'da Winrar gibi bir programla) projenin sözlük dizinine (dictionary) açın.</seg>
       </tuv>
     </tu>
     <tu>
