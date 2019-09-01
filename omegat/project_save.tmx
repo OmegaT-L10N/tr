@@ -22904,6 +22904,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>multiple words entries in glossaries - example</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T142818Z" creationid="Erhan Yükselci" creationdate="20190901T142818Z">
+        <seg>Sözlükçelerde çoklu sözcük girdileri - örnek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>my</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T151815Z" creationid="Erhan Yükselci" creationdate="20190413T151815Z">
