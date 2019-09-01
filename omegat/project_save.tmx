@@ -8427,6 +8427,14 @@ Kışı gelmiş</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T143119Z" creationid="Erhan Yükselci" creationdate="20190901T143119Z">
+        <seg>Sözlükçe bölgesinden seçili hale getirip farenin sağ tuşuna tıklayarak hedef bilimde imleç konumuna eklenebilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hindi</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T093411Z" creationid="Erhan Yükselci" creationdate="20160922T093411Z">
