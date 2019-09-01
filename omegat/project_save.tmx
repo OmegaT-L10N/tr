@@ -8089,8 +8089,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="TR">
-        <seg>Sözlükçe penceresi</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140856Z">
+        <seg>Sözlükçe bölmesi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17331,8 +17331,8 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140839Z" creationid="Erhan Yükselci" creationdate="20190901T140839Z">
-        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt;'nin mevcut dilimde bulduğu sözlükçe terimleri Sözlükçe penceresinde görüntülenir:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140851Z" creationid="Erhan Yükselci" creationdate="20190901T140839Z">
+        <seg>&lt;a2&gt;OmegaT&lt;/a2&gt;'nin mevcut dilimde bulduğu sözlükçe terimleri Sözlükçe bölmesinde görüntülenir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18080,6 +18080,22 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Kullanıcı Arayüzü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The vocabulary entry can have a comment added.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140929Z" creationid="Erhan Yükselci" creationdate="20190901T140929Z">
+        <seg>Sözlükçe girdisinde yorum da yer alabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140912Z" creationid="Erhan Yükselci" creationdate="20190901T140912Z">
+        <seg>= işaretinin önündeki kelimeler kaynak terim, = işaretinin arkasındaki kelimeler ise onun çevirisidir.</seg>
       </tuv>
     </tu>
     <tu>
