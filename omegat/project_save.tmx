@@ -8071,6 +8071,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144139Z" creationid="Erhan Yükselci" creationdate="20190901T144139Z">
+        <seg>Sözlükçe dosyaları sekmeyle birbirinden ayrılmış üç sütundan oluşan düz metin dosyalarıdır; birinci ve ikinci sütundaki terimler kaynak ve hedef terimlerdir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190131T074236Z">
