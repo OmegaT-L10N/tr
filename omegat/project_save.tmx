@@ -4048,8 +4048,8 @@ Hadi başka kapıya</seg>
       <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112929Z" creationid="Erhan Yükselci" creationdate="20190901T112929Z">
-        <seg>.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T113912Z" creationid="Erhan Yükselci" creationdate="20190901T112929Z">
+        <seg>Yüklediğiniz dict dosyalarının doğru klasör (ya da onun alt klasörü) içinde olup olmadığını kontrol edin.</seg>
       </tuv>
     </tu>
     <tu>
