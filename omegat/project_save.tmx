@@ -17594,6 +17594,14 @@ kullanılacaktır.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112840Z" creationid="Erhan Yükselci" creationdate="20190901T112840Z">
+        <seg>Aşağıdaki örnekte Merriam Webster 10th dictionary OmegaT ile birlikte kullanılırken gösterilmektedir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T073044Z" creationid="Erhan Yükselci" creationdate="20190204T073044Z">
