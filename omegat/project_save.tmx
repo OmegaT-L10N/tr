@@ -19377,8 +19377,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111815Z" creationid="Erhan Yükselci" creationdate="20190901T111815Z">
-        <seg>Bu arşivin içindekilerini untar komutuyla (ya da Windows'da Winrar gibi bir programla) projenin sözlük dizinine (dictionary) açın.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112030Z" creationid="Erhan Yükselci" creationdate="20190901T111815Z">
+        <seg>Bu arşivin içindekilerini untar yazılımıyla (ya da Windows'da &lt;f0&gt;winrar&lt;/f0&gt; gibi eşdeğer bir programla) projenin sözlük dizinine ("Dictionary") açın.</seg>
       </tuv>
     </tu>
     <tu>
