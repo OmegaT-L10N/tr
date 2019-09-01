@@ -18289,8 +18289,8 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T104316Z" creationid="Erhan Yükselci" creationdate="20190901T104316Z">
-        <seg>Gerekli dosyaları kurmak için aşağıdaki adımları takip edin:</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111016Z" creationid="Erhan Yükselci" creationdate="20190901T104316Z">
+        <seg>StarDict formatında gerekli dosyaları kurmak için aşağıdaki adımları takip edin:</seg>
       </tuv>
     </tu>
     <tu>
