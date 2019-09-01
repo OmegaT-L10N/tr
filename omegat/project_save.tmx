@@ -3098,6 +3098,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140110Z" creationid="Erhan Yükselci" creationdate="20190901T140110Z">
+        <seg>Mevcut içeriğe dokunulmadığı için mevcut dosyaya verilecek hasar sınırlı kalacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T102302Z">
