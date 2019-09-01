@@ -20426,6 +20426,14 @@ daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T134352Z" creationid="Erhan Yükselci" creationdate="20190901T134352Z">
+        <seg>Sözlükçenin konumu ve adını, proje özellikleri diyalog kutucuğunda belirtebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190204T102601Z" creationid="Erhan Yükselci" creationdate="20190204T102601Z">
