@@ -11714,6 +11714,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T141617Z" creationid="Erhan Yükselci" creationdate="20190901T141617Z">
+        <seg>Çeviri sırasında yeni terimleri sözlükçeye eklemek mümkündür; bunun için örneğin bir metin düzenleyicisi kullanılabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190412T144035Z" creationid="Erhan Yükselci" creationdate="20190412T144035Z">
