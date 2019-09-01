@@ -1767,6 +1767,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140200Z" creationid="Erhan Yükselci" creationdate="20190901T140200Z">
+        <seg>OmegaT, proje açıldığında bu dizinde bulunan sözlükçe dosyalarını otomatik olarak tanır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="TR">
@@ -18475,6 +18483,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175207Z" creationid="Erhan Yükselci" creationdate="20190413T175207Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'nin kullanıcı ara yüzü, kullanım kılavuzu ya da diğer belgelerini tercüme etmek için:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140158Z" creationid="Erhan Yükselci" creationdate="20190901T140111Z">
+        <seg>Mevcut bir sözlükçeyi kullanmak için projeyi oluşturduktan sonra sözlükçe dosyasını &lt;f0&gt;/glossary&lt;/f0&gt; (sözlükçe) klasörüne kopyalamanız gereklidir.</seg>
       </tuv>
     </tu>
     <tu>
