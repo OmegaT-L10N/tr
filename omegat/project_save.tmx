@@ -17910,8 +17910,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T134926Z" creationid="Erhan Yükselci" creationdate="20190901T134926Z">
-        <seg>Dosyanın konusu &lt;f2&gt;/glossary&lt;/f2&gt; (sözlükçe) klasörü altında olmalıdır, ancak alt klasörlere de yerleştirilebilir (söz gelimi &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T152301Z" creationid="Erhan Yükselci" creationdate="20190901T134926Z">
+        <seg>Dosyanın konumu &lt;f2&gt;/glossary&lt;/f2&gt; (sözlükçe) klasörü altında olmalıdır, ancak alt klasörlere de yerleştirilebilir (söz gelimi &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
