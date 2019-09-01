@@ -6122,8 +6122,8 @@ Hadi başka kapıya</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111836Z" creationid="Erhan Yükselci" creationdate="20190901T111739Z">
-        <seg>Dosyayı indirin; sıkıştırılmış &lt;f0&gt;tarball&lt;/f0&gt; arşivi şeklinde olmalıdır (uzantısı &lt;e1&gt;tar.bz2&lt;/e1&gt;).</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T131130Z" creationid="Erhan Yükselci" creationdate="20190901T111739Z">
+        <seg>Dosyayı indirin; sıkıştırılmış &lt;f0&gt;tarball&lt;/f0&gt; arşivi şeklinde olmalıdır (uzantısı &lt;e1&gt;tar.bz2&lt;/e1&gt;) ya da &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7987,6 +7987,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="TR">
         <seg>Sözlükçeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T131246Z" creationid="Erhan Yükselci" creationdate="20190901T131246Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'de kullanılan sözlükçeler manüel olarak oluşturulur ve güncellenir.</seg>
       </tuv>
     </tu>
     <tu>
