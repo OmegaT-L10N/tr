@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5564,6 +5564,14 @@ Hadi başka kapıya</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130424T092728Z">
         <seg>Kurulu sözlükler:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T104314Z" creationid="Erhan Yükselci" creationdate="20190901T104314Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'de kullanılan sözlükler StarDict ya da Lingvo DSL formatındadır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18275,6 +18283,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190413T175111Z" creationid="Erhan Yükselci" creationdate="20190413T175111Z">
         <seg>&lt;a3&gt;OmegaT&lt;/a3&gt;'nin geliştirilmesine katkıda bulunmak için geliştirici grubuna katılabilirsiniz (websitesinden ya da &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; adresine konusu kısmında "subscribe" (abone ol) yazısıyla bir elektronik posta göndererek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T104316Z" creationid="Erhan Yükselci" creationdate="20190901T104316Z">
+        <seg>Gerekli dosyaları kurmak için aşağıdaki adımları takip edin:</seg>
       </tuv>
     </tu>
     <tu>
