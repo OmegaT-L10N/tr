@@ -11974,6 +11974,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112556Z" creationid="Erhan Yükselci" creationdate="20190901T112556Z">
+        <seg>"Kaynak-hedef" şeklindeki sözlüklerine ek olarak Sözlük özelliğini kullanarak aşağıdaki bilgilere de erişebilirsiniz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that you can reassign the shortcuts to your own preferences.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130415T101618Z">
