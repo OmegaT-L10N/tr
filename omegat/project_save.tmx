@@ -15303,6 +15303,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T111724Z" creationid="Erhan Yükselci" creationdate="20190901T111724Z">
+        <seg>İstediğiniz dil çifti için sözlük olup olmadığını araştırın (söz gelimi &lt;u0&gt;OmegaT Wiki'de verilen sözlük bağlantıları&lt;/u0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="TR">
