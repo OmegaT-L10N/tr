@@ -12326,6 +12326,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144459Z" creationid="Erhan Yükselci" creationdate="20190901T144459Z">
+        <seg>Elbette ki, kodlamanın söz konusu iki dille de uyumlu olması şarttır. Bu yüzden Unikod tavsiye edilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T071854Z" creationid="Erhan Yükselci" creationdate="20190414T071854Z">
@@ -17726,6 +17734,14 @@ kullanılacaktır.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20160922T112747Z" creationid="Erhan Yükselci" creationdate="20160922T112747Z">
         <seg>Bu belgelendirme, yararlı olacağı umuduyla, ancak herhangi bir GÜVENCE, TİCARETE YA DA BELLİ BİR AMACA UYGUNLUK güvencesi OLMAKSIZIN dağıtılmaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144346Z" creationid="Erhan Yükselci" creationdate="20190901T144346Z">
+        <seg>Sözlükçelerin kodlaması otomatik olarak belirlenir.</seg>
       </tuv>
     </tu>
     <tu>
