@@ -16247,6 +16247,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T143729Z" creationid="Erhan Yükselci" creationdate="20190901T143729Z">
+        <seg>O yüzden sözlükçe ve kısayollarıyla hiç uğraşmadan terimi doğrudan yazmak büyük olasılıkla daha hızlı olacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T143642Z" creationid="Erhan Yükselci" creationdate="20190901T143642Z">
