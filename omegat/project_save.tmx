@@ -17996,6 +17996,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source term does not have to be a single-word item, as the next example shows:</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T142028Z" creationid="Erhan Yükselci" creationdate="20190901T142028Z">
+        <seg>Bir sonraki örnekte görüldüğü üzere kaynak terimin tek sözcük olması zorunlu değildir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source text</seg>
       </tuv>
       <tuv lang="TR">
