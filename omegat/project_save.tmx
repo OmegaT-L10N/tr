@@ -8785,6 +8785,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140021Z" creationid="Erhan Yükselci" creationdate="20190901T140021Z">
+        <seg>Dosya zaten mevcutsa dosyanın format ya da karakter kümesini doğrulamak üzere herhangi girişimde bulunulmaz: yeni girdiler her zaman sekmeyle ayrılmış formatta UTF-8 karakter setinde olacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130423T125710Z">
