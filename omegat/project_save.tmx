@@ -2767,6 +2767,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T144602Z" creationid="Erhan Yükselci" creationdate="20190901T144602Z">
+        <seg>Desteklenen diğer bir format türü de CSV formatıdır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190414T142353Z" creationid="Erhan Yükselci" creationdate="20190414T142353Z">
