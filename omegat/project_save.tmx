@@ -16151,6 +16151,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T112803Z" creationid="Erhan Yükselci" creationdate="20190901T112803Z">
+        <seg>Bazı sözlüklerin kullanımıyla ilgili herhangi bir koşul ifade edilmezken (yani "kullanımı serbest") bazıları (söz gelimi yukarıda belirtilenler) GPL lisansına tabidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190130T180844Z">
