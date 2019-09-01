@@ -8669,6 +8669,14 @@ dosya yolunun girilmesine gerek yoktur).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T131247Z" creationid="Erhan Yükselci" creationdate="20190901T131247Z">
+        <seg>Eğer bir OmegaT projesi bir ya da daha çok sayıda sözlükçe içerirse mevcut dilimde bulunan sözlükçe terimleri &lt;a0&gt;Sözlükçe göstericisinde&lt;/a0&gt; otomatik olarak gösterilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT.</seg>
       </tuv>
       <tuv lang="TR" changeid="Erhan Yükselci" changedate="20130412T095119Z">
