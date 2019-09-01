@@ -1769,8 +1769,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140200Z" creationid="Erhan Yükselci" creationdate="20190901T140200Z">
-        <seg>OmegaT, proje açıldığında bu dizinde bulunan sözlükçe dosyalarını otomatik olarak tanır.</seg>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T140226Z" creationid="Erhan Yükselci" creationdate="20190901T140200Z">
+        <seg>&lt;a1&gt;OmegaT&lt;/a1&gt;, proje açıldığında bu dizinde bulunan sözlükçe dosyalarını otomatik olarak tanır.</seg>
       </tuv>
     </tu>
     <tu>
