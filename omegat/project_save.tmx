@@ -18100,6 +18100,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
+      </tuv>
+      <tuv lang="TR" changeid="Erhan Yükselci" changedate="20190901T142906Z" creationid="Erhan Yükselci" creationdate="20190901T142906Z">
+        <seg>Altı çizili olan "pop-up menu" ifadesi, sözlükçe bölmesinde "pojavni menu" olarak bulunabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
       <tuv lang="TR">
