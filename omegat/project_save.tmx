@@ -9423,6 +9423,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T172208Z" creationid="Erhan Yükselci" creationdate="20191031T172208Z">
+        <seg>OmegaT'nin kurulumu ve çalıştırılması</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T143124Z" creationid="Erhan Yükselci" creationdate="20190413T143124Z">
