@@ -19235,6 +19235,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to connect to server.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T170626Z" creationid="Erhan Yükselci" creationdate="20191031T170626Z">
+        <seg>Sunucuya bağlanamıyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to convert project!</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190130T181119Z" creationid="Erhan Yükselci" creationdate="20190130T181119Z">
