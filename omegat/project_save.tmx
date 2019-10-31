@@ -6622,6 +6622,14 @@ Yardım sayfanız bulunamadı</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the server URL is correct.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T170704Z" creationid="Erhan Yükselci" creationdate="20191031T170704Z">
+        <seg>Sunucu adresinin (URL) doğru olduğundan emin olun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T095942Z" creationid="Erhan Yükselci" creationdate="20190204T095942Z">
