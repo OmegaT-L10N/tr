@@ -18108,6 +18108,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The server is not a valid Apertium server.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171338Z" creationid="Erhan Yükselci" creationdate="20191031T171338Z">
+        <seg>Sunucu, geçerli  bir Apertium sunucu değil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190415T110440Z" creationid="Erhan Yükselci" creationdate="20190415T110440Z">
