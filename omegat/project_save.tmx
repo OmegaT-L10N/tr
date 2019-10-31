@@ -4550,6 +4550,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connect to custom server instead of apertium.org</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T165829Z" creationid="Erhan Yükselci" creationdate="20191031T165829Z">
+        <seg>Apertium.org yerine özel sunucuya bağlan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T114046Z">
@@ -5444,6 +5452,14 @@ Hadi başka kapıya</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190412T154034Z" creationid="Erhan Yükselci" creationdate="20190412T154034Z">
         <seg>Özelleştirilmiş Renk Seçimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom server URL</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T165921Z" creationid="Erhan Yükselci" creationdate="20191031T165921Z">
+        <seg>Özel sunucu adresi (URL)</seg>
       </tuv>
     </tu>
     <tu>
