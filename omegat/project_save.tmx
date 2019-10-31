@@ -2327,6 +2327,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API Key (optional)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T170023Z" creationid="Erhan Yükselci" creationdate="20191031T170023Z">
+        <seg>API Anahtarı (tercihe bağlı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T101904Z" creationid="Erhan Yükselci" creationdate="20190204T101904Z">
