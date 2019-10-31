@@ -5912,6 +5912,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171541Z" creationid="Erhan Yükselci" creationdate="20191031T171541Z">
+        <seg>GrridDisplays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190311T072057Z" creationid="Erhan Yükselci" creationdate="20190311T072057Z">
@@ -6892,8 +6900,8 @@ baldıranlarla kefenlediler</seg>
       <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171430Z" creationid="Erhan Yükselci" creationdate="20191031T171430Z">
-        <seg>Depoyu güncellerken hata</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171516Z" creationid="Erhan Yükselci" creationdate="20191031T171430Z">
+        <seg>Depo güncellenirken hata oluştu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6926,6 +6934,14 @@ baldıranlarla kefenlediler</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T105929Z">
         <seg>Hata {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171526Z" creationid="Erhan Yükselci" creationdate="20191031T171526Z">
+        <seg>Hata: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16323,6 +16339,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T143330Z" creationid="Erhan Yükselci" creationdate="20190413T143330Z">
         <seg>'{0}' sınıfından daha önce yüklenen eklenti atlanıyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171522Z" creationid="Erhan Yükselci" creationdate="20191031T171522Z">
+        <seg>Atlanıyor.</seg>
       </tuv>
     </tu>
     <tu>
