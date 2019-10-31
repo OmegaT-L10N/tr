@@ -6622,6 +6622,14 @@ Yardım sayfanız bulunamadı</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171351Z" creationid="Erhan Yükselci" creationdate="20191031T171351Z">
+        <seg>Adresin (URL) doğru olduğundan emin olun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T170704Z" creationid="Erhan Yükselci" creationdate="20191031T170704Z">
@@ -6878,6 +6886,14 @@ baldıranlarla kefenlediler</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190412T152151Z" creationid="Erhan Yükselci" creationdate="20190412T152151Z">
         <seg>Sözlükçe dosyasının güncellenmesinde hata oluştu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171430Z" creationid="Erhan Yükselci" creationdate="20191031T171430Z">
+        <seg>Depoyu güncellerken hata</seg>
       </tuv>
     </tu>
     <tu>
