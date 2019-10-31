@@ -9111,6 +9111,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171928Z" creationid="Erhan Yükselci" creationdate="20191031T171928Z">
+        <seg>&lt;g0&gt;Proje&lt;/g0&gt; menüsünden &lt;m1&gt; &lt;g2&gt;Yeni...&lt;/g2&gt; &lt;/m1&gt;&lt;i3/&gt; başlığını seçin ve projenize bir ad verin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the above example, two scripts (position 1 and 2) have already been added.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20161124T132650Z" creationid="Erhan Yükselci" creationdate="20161124T132650Z">
@@ -22170,6 +22178,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T082356Z" creationid="Erhan Yükselci" creationdate="20190414T082356Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171930Z" creationid="Erhan Yükselci" creationdate="20191031T171930Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
