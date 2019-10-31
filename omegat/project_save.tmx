@@ -5914,8 +5914,8 @@ Hadi başka kapıya</seg>
       <tuv lang="en">
         <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171541Z" creationid="Erhan Yükselci" creationdate="20191031T171541Z">
-        <seg>GrridDisplays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171634Z" creationid="Erhan Yükselci" creationdate="20191031T171541Z">
+        <seg>Girdileri "&lt;kaynak&gt; → &lt;hedef&gt;" şeklinde gösterir</seg>
       </tuv>
     </tu>
     <tu>
