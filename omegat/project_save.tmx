@@ -20298,6 +20298,17 @@ OmegaT paketlerini kullanmanızı öneririz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083701Z" creationid="Erhan Yükselci" creationdate="20200726T083701Z">
+        <seg>JRE seçmek, bulmak ve kurmakla uğraşmamak için JRE ile birlikte gelen
+OmegaT
+paketlerini kullanmanızı öneririz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T071609Z" creationid="Erhan Yükselci" creationdate="20190204T071609Z">
