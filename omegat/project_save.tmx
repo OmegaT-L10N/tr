@@ -8980,6 +8980,17 @@ uzantılarının görünür hale gelmesini sağlayın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084122Z" creationid="Erhan Yükselci" creationdate="20200726T084122Z">
+        <seg>Dosya Yöneticisinde (Windows Explorer) OmegaT dosyasını görebiliyor, ama
+OmegaT.exe
+dosyasını göremiyorsanız, ayarlarınızı değiştirerek dosya uzantılarının görünür hale gelmesini sağlayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
       </tuv>
@@ -9020,6 +9031,16 @@ kurabilirsiniz.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T174544Z" creationid="Erhan Yükselci" creationdate="20190413T174544Z">
         <seg>Bildirdiğiniz hata raporunun akibetini merak ediyorsanız SourceForge kullanıcısı olarak kayıt olun, bu kullanıcıyla giriş yapın, hata raporu gönderin ve raporun üzerindeki Monitor (Takip Et) düğmesine tıklayın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084009Z" creationid="Erhan Yükselci" creationdate="20200726T084009Z">
+        <seg>Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız
+bu kısayola çift tıklayın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18121,6 +18142,17 @@ başlat alanında kısayollar oluşturabilir.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084019Z" creationid="Erhan Yükselci" creationdate="20200726T084019Z">
+        <seg>Kurulum programı sizin için başlangıç menüsünde, masaüstünde ve hızlı
+başlat
+alanında kısayollar oluşturabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -20901,6 +20933,16 @@ from there.</seg>
         <seg>Alternatif olarak OmegaT.exe
 dosyasını manüel olarak masaüstüne ya da hızlı başlat alanına taşımak suretiyle
 bağlantı oluşturabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084036Z" creationid="Erhan Yükselci" creationdate="20200726T084036Z">
+        <seg>Alternatif olarak OmegaT.exe dosyasını manüel olarak
+masaüstüne ya da hızlı başlat alanına taşımak suretiyle bağlantı oluşturabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
