@@ -7704,8 +7704,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Folder ID</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082718Z" creationid="Erhan Yükselci" creationdate="20200726T082718Z">
-        <seg>Klasör Tanıtıcısı</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082821Z" creationid="Erhan Yükselci" creationdate="20200726T082718Z">
+        <seg>Klasör tanıtıcısı</seg>
       </tuv>
     </tu>
     <tu>
@@ -11986,6 +11986,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082802Z" creationid="Erhan Yükselci" creationdate="20200726T082802Z">
+        <seg>OAuth belirteç ayırıcısı belirtilmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T092628Z">
@@ -11998,6 +12006,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T114019Z">
         <seg>Bağlantı yok, proje çevrimdışı modunda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082816Z" creationid="Erhan Yükselci" creationdate="20200726T082816Z">
+        <seg>Klasör tanıtıcısı belirtilmedi</seg>
       </tuv>
     </tu>
     <tu>
@@ -19387,6 +19403,14 @@ Tam aramalar, tüm arama dizgisiyle eşleşmeye bakar.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082913Z" creationid="Erhan Yükselci" creationdate="20200726T082913Z">
+        <seg>IAM hizmet tepkisi ayrıştırılamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T123413Z">
@@ -19851,6 +19875,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20161129T130417Z" creationid="Erhan Yükselci" creationdate="20161129T130417Z">
         <seg>Sözlükçeyi kullan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use glossary terms</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082755Z" creationid="Erhan Yükselci" creationdate="20200726T082755Z">
+        <seg>Sözlükçe terimlerini kullan</seg>
       </tuv>
     </tu>
     <tu>
