@@ -3186,6 +3186,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083026Z" creationid="Erhan Yükselci" creationdate="20200726T083026Z">
+        <seg>Yazan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190201T102804Z">
@@ -4178,6 +4186,14 @@ Hadi başka kapıya</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T092452Z" creationid="Erhan Yükselci" creationdate="20160922T092452Z">
         <seg>Çuvaş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082957Z" creationid="Erhan Yükselci" creationdate="20200726T082957Z">
+        <seg>Sınıf</seg>
       </tuv>
     </tu>
     <tu>
@@ -9379,6 +9395,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T110129Z" creationid="Erhan Yükselci" creationdate="20160922T110129Z">
         <seg>Kurulum ve Kullanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082953Z" creationid="Erhan Yükselci" creationdate="20200726T082953Z">
+        <seg>Kurulu etklentiler:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20097,6 +20121,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T103147Z" creationid="Erhan Yükselci" creationdate="20160922T103147Z">
         <seg>Venda Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083000Z" creationid="Erhan Yükselci" creationdate="20200726T083000Z">
+        <seg>Sürüm</seg>
       </tuv>
     </tu>
     <tu>
