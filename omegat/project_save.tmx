@@ -11380,6 +11380,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimal threshold to show a fuzzy match:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082623Z" creationid="Erhan Yükselci" creationdate="20200726T082623Z">
+        <seg>Bulanık eşleşme gösterilecek en düşük eşik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimize</seg>
       </tuv>
       <tuv lang="tr">
@@ -20618,6 +20626,14 @@ Sayfanız bulunamadı</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T102518Z" creationid="Erhan Yükselci" creationdate="20190204T102518Z">
         <seg>Yandex Translate - API Anahtarı Belirtilmedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082629Z" creationid="Erhan Yükselci" creationdate="20200726T082629Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
