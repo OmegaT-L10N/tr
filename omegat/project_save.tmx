@@ -18909,6 +18909,19 @@ betiğini içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083852Z" creationid="Erhan Yükselci" creationdate="20200726T083852Z">
+        <seg>Bu betiği kullanmak için bir terminal
+penceresi (konsol) açın, klasörü OmegaT.jar dosyasını ve linux-install.sh
+betiğini
+içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği çalıştırın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T093357Z" creationid="Erhan Yükselci" creationdate="20190413T093357Z">
@@ -20919,6 +20932,16 @@ bağlantı oluşturabilirsiniz.</seg>
 the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T090156Z" creationid="Erhan Yükselci" creationdate="20190414T090156Z">
+        <seg>Bununla birlikte kurulum betiğini (linux-install.sh) kullanırsanız daha temiz ve
+daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083822Z" creationid="Erhan Yükselci" creationdate="20200726T083822Z">
         <seg>Bununla birlikte kurulum betiğini (linux-install.sh) kullanırsanız daha temiz ve
 daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
       </tuv>
