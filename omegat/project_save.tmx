@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.0.0_0_c63a9b8d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11714,6 +11714,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082519Z" creationid="Erhan Yükselci" creationdate="20200726T082519Z">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082529Z" creationid="Erhan Yükselci" creationdate="20200726T082529Z">
+        <seg>Mozilla FTL Filtre Seçenekleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mozilla Lang</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T063559Z" creationid="Erhan Yükselci" creationdate="20190204T063559Z">
@@ -17729,6 +17745,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T063556Z" creationid="Erhan Yükselci" creationdate="20190204T063556Z">
         <seg>Mozilla DTD filtresi özel durum oluşturdu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082538Z" creationid="Erhan Yükselci" creationdate="20200726T082538Z">
+        <seg>Mozilla FTL filtresi özel durum oluşturdu:</seg>
       </tuv>
     </tu>
     <tu>
