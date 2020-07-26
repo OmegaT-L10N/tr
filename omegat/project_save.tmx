@@ -7702,6 +7702,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder ID</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082718Z" creationid="Erhan Yükselci" creationdate="20200726T082718Z">
+        <seg>Klasör Tanıtıcısı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder already exists and is not empty.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190131T074330Z">
@@ -12442,6 +12450,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>S&amp;eçenekler...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OAuth token</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T082742Z" creationid="Erhan Yükselci" creationdate="20200726T082742Z">
+        <seg>OAuth belirteç ayırıcısı</seg>
       </tuv>
     </tu>
     <tu>
