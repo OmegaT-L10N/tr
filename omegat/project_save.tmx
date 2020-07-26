@@ -8989,6 +8989,17 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083937Z" creationid="Erhan Yükselci" creationdate="20200726T083937Z">
+        <seg>Eğer sisteminizde Java kurulu ise, Java Ağ Başlatıcıyı kullanarak
+OmegaT'yi
+kurabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142351Z" creationid="Erhan Yükselci" creationdate="20190414T142351Z">
@@ -9440,6 +9451,16 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T090310Z" creationid="Erhan Yükselci" creationdate="20190414T090310Z">
         <seg>OmegaT kurulumu (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083923Z" creationid="Erhan Yükselci" creationdate="20200726T083923Z">
+        <seg>OmegaT kurulumu (Solaris, FreeBSD, vb.)
 =========================================</seg>
       </tuv>
     </tu>
@@ -22405,6 +22426,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171930Z" creationid="Erhan Yükselci" creationdate="20191031T171930Z">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083949Z" creationid="Erhan Yükselci" creationdate="20200726T083949Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
