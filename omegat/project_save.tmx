@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_fee75dd3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1483,6 +1483,54 @@ OmegaT 3.6'yı halen kullanabileceksiniz).</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T104623Z" creationid="Erhan Yükselci" creationdate="20190413T104623Z">
         <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085631Z" creationid="Erhan Yükselci" creationdate="20201204T085631Z">
+        <seg>- Anthony Baldwin (yerelleştirme yöneticisi)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085608Z" creationid="Erhan Yükselci" creationdate="20201204T085553Z">
+        <seg>- Vincent Bidaux (belgelendirme yöneticisi)
+- Marco Cevoli (Telegram topluluk yöneticisi)
+- Jean-Christophe Helary (Twitter topluluk yöneticisi)
+- Kos Ivantsof (yerelleştirme yöneticisi)
+- Concepción Martin (Facebook topluluk yöneticisi)
+- Briac Pilpré (web yöneticisi)
+- Lucie Vecerova (Facebook topluluk yöneticisi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7799,6 +7847,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085413Z" creationid="Erhan Yükselci" creationdate="20201204T085413Z">
+        <seg>OmegaT'nin daha kullanıcı dostu şekilde başlatılması için Kaptain betiğini (omegat.kaptn) kullanabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130411T085156Z">
@@ -8783,6 +8840,17 @@ Kışı gelmiş</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T093828Z" creationid="Erhan Yükselci" creationdate="20160922T093828Z">
         <seg>İdo Dili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085426Z" creationid="Erhan Yükselci" creationdate="20201204T085426Z">
+        <seg>Eğer Java tüm sistem seviyesinde kurulmuşsa ve komut yolunda yer alıyorsa, tam
+dosya yolunun girilmesine gerek yoktur).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,6 +19016,15 @@ kurmanız gereklidir.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085417Z" creationid="Erhan Yükselci" creationdate="20201204T085417Z">
+        <seg>Bu betiği kullanmak için önce Kaptain'i
+kurmanız gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -20868,6 +20945,16 @@ Sayfanız bulunamadı</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085419Z" creationid="Erhan Yükselci" creationdate="20201204T085419Z">
+        <seg>Sonra Kaptain başlatma betiğini aşağıdaki şekilde çalıştırabilirsiniz:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T142346Z" creationid="Erhan Yükselci" creationdate="20190413T142346Z">
@@ -20920,6 +21007,15 @@ Sayfanız bulunamadı</seg>
 it from the Spotlight search field.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T141557Z" creationid="Erhan Yükselci" creationdate="20190414T141557Z">
+        <seg>Ayrıca Spotlight arama alanından da çağırabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085342Z" creationid="Erhan Yükselci" creationdate="20201204T085342Z">
         <seg>Ayrıca Spotlight arama alanından da çağırabilirsiniz.</seg>
       </tuv>
     </tu>
@@ -21088,6 +21184,16 @@ daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
 Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T141542Z" creationid="Erhan Yükselci" creationdate="20190414T141542Z">
+        <seg>OmegaT uygulamasını dosyasını sabitleme yuvasına ya da bir Finder penceresinin
+araç çubuğuna sürükleyerek uygulamayı herhangi bir konumdan açabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085334Z" creationid="Erhan Yükselci" creationdate="20201204T085334Z">
         <seg>OmegaT uygulamasını dosyasını sabitleme yuvasına ya da bir Finder penceresinin
 araç çubuğuna sürükleyerek uygulamayı herhangi bir konumdan açabilirsiniz.</seg>
       </tuv>
