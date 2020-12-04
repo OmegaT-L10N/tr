@@ -20177,6 +20177,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T161912Z" creationid="Erhan Yükselci" creationdate="20201204T161912Z">
+        <seg>Kullanıcı destek kaynakları:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -22582,6 +22590,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T171930Z" creationid="Erhan Yükselci" creationdate="20191031T171930Z">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.org/support</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T161913Z" creationid="Erhan Yükselci" creationdate="20201204T161913Z">
+        <seg>https://omegat.org/support</seg>
       </tuv>
     </tu>
     <tu>
