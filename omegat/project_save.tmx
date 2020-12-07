@@ -19740,6 +19740,14 @@ içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği çalışt�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T092605Z" creationid="Erhan Yükselci" creationdate="20201207T092605Z">
+        <seg>Dosyanın çevirisini yapın</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T080718Z">
