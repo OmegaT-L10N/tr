@@ -9239,8 +9239,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T140154Z">
-        <seg>Bu diyalog kutucuğundaki diğer ayarlara ihtiyaç duyarsanız herhangi bir anda &lt;k0&gt;Ctrl+E&lt;/k0&gt; tuşlarına basarak bu kutucuğu çağırabilirsiniz.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T091927Z">
+        <seg>Bu iletişim penceresindeki diğer ayarlara ihtiyaç duyarsanız herhangi bir anda &lt;k0&gt;Ctrl+E&lt;/k0&gt; tuşlarına basarak bu pencereyi çağırabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18869,8 +18869,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
       </tuv>
-      <tuv lang="tr">
-        <seg>Aynı diyalog kutucuğu, örüntü eklemek ya da belli bir örüntüyü düzenlemek için kullanılabilir.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T091816Z">
+        <seg>Aynı iletişim penceresi, örüntü eklemek ya da belli bir örüntüyü düzenlemek için kullanılabilir.</seg>
       </tuv>
     </tu>
     <tu>
