@@ -161,3 +161,5 @@ Java Runtime Environment	Java Çalışma Zamanı Ortamı
 OmegaT project	OmegaT projesi
 website	web sitesi
 project manager	proje yöneticisi
+integration manager	bütünleştirme yöneticisi
+lead developer	baş geliştirici
