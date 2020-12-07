@@ -170,3 +170,4 @@ user group owner	kullanıcı grubu sahibi
 developer	geliştirici
 mailing list	yazışma listesi
 tracker	izleyici
+localizer	yerelleştirici
