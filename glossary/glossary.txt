@@ -181,3 +181,4 @@ recommended support channel	önerilen destek kanalı
 webmaster	web yöneticisi
 Help	Yardım
 Instant Start Guide	Hızlı Başlangıç Kılavuzu
+dialog	iletişim penceresi
