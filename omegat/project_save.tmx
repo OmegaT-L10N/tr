@@ -2951,6 +2951,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090037Z" creationid="Erhan Yükselci" creationdate="20201207T090037Z">
+        <seg>OmegaT'nin ana işlem ve işlevleri konusunda size yardımcı olan Hızlı Başlangıç Kılavuzu, OmegaT kullanıcı arayüzünde varsayılan olarak görüntülenir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T103901Z" creationid="Erhan Yükselci" creationdate="20190204T103901Z">
@@ -19368,8 +19376,8 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T085225Z" creationid="Erhan Yükselci" creationdate="20201207T085225Z">
-        <seg>OmegaT içinden kılavuza ulaşmak için menüden Yardım &gt; Kullanım Kılavuzu ögesini seçin ya da F1 tuşuna başın.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T085231Z" creationid="Erhan Yükselci" creationdate="20201207T085225Z">
+        <seg>OmegaT içinden kılavuza ulaşmak için menüden Yardım &gt; Kullanım Kılavuzu ögesini seçin ya da F1 tuşuna basın.</seg>
       </tuv>
     </tu>
     <tu>
