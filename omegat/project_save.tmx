@@ -18287,6 +18287,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090338Z" creationid="Erhan Yükselci" creationdate="20201207T090338Z">
+        <seg>OmegaT standart sürüm için HTML kullanım kılavuzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T071218Z" creationid="Erhan Yükselci" creationdate="20190204T071218Z">
@@ -18576,6 +18584,14 @@ kullanılacaktır.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T171605Z" creationid="Erhan Yükselci" creationdate="20190414T171605Z">
         <seg>Aşağıdaki betik dilleri uygulamaya alınmıştır:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090430Z" creationid="Erhan Yükselci" creationdate="20201207T090430Z">
+        <seg>Aşağıdaki öğreticiler, çevrim içi kullanılabilir ya da indirilebilir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19898,6 +19914,14 @@ içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği çalışt�
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T102718Z" creationid="Erhan Yükselci" creationdate="20160922T102718Z">
         <seg>Türkmence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090343Z" creationid="Erhan Yükselci" creationdate="20201207T090343Z">
+        <seg>Öğreticiler</seg>
       </tuv>
     </tu>
     <tu>
