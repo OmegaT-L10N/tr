@@ -158,3 +158,5 @@ aligner	hizalayıcı
 alignment	hizalama
 scripting language	betik dili
 Java Runtime Environment	Java Çalışma Zamanı Ortamı
+OmegaT project	OmegaT projesi
+website	web sitesi
