@@ -168,3 +168,4 @@ documentation manager	belgelendirme yöneticisi
 localization manager	yerelleştirme yöneticisi
 user group owner	kullanıcı grubu sahibi
 developer	geliştirici
+mailing list	yazışma listesi
