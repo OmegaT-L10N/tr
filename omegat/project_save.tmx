@@ -2679,6 +2679,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082804Z" creationid="Erhan Yükselci" creationdate="20201207T082804Z">
+        <seg>Yönetim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Afar</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130415T102100Z">
@@ -7546,6 +7554,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T163553Z" creationid="Erhan Yükselci" creationdate="20190413T163553Z">
         <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082754Z" creationid="Erhan Yükselci" creationdate="20201207T082754Z">
+        <seg>Facebook grubu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12982,6 +12998,14 @@ klasörüne) taşıyın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082748Z" creationid="Erhan Yükselci" creationdate="20201207T082748Z">
+        <seg>OmegaT birçok sosyal ağda yer almaktadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T080327Z" creationid="Erhan Yükselci" creationdate="20201207T080327Z">
@@ -16913,6 +16937,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082731Z" creationid="Erhan Yükselci" creationdate="20201207T082731Z">
+        <seg>Sosyal Ağlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T101733Z" creationid="Erhan Yükselci" creationdate="20160922T101733Z">
@@ -18007,6 +18039,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190224T135755Z" creationid="Erhan Yükselci" creationdate="20190224T135755Z">
         <seg>Ekip eşitlemesi: Bu dilim bitirmeniz bekleniyor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082757Z" creationid="Erhan Yükselci" creationdate="20201207T082757Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -19794,6 +19834,14 @@ içeren klasöre değiştirin ve ./linux-install.sh komutuyla betiği çalışt�
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T072153Z" creationid="Erhan Yükselci" creationdate="20190414T072153Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082756Z" creationid="Erhan Yükselci" creationdate="20201207T082756Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
