@@ -16713,6 +16713,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T080227Z" creationid="Erhan Yükselci" creationdate="20201207T080227Z">
+        <seg>Proje, başlangıcından itibaren onlarca kişinin katkısıyla desteklenmiştir; hepsinin adını burada tek tek sayamazsak da kendilerine teşekkür borçluyuz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T100859Z" creationid="Erhan Yükselci" creationdate="20160922T100859Z">
@@ -18527,6 +18535,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T130046Z" creationid="Erhan Yükselci" creationdate="20190413T130046Z">
         <seg>Parolalar eşleşmiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T080017Z" creationid="Erhan Yükselci" creationdate="20201207T080017Z">
+        <seg>Projenin felsefesi &lt;a0&gt;burada&lt;/a0&gt; açıklanmıştır.</seg>
       </tuv>
     </tu>
     <tu>
