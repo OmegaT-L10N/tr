@@ -157,3 +157,4 @@ hyperlink	köprü
 aligner	hizalayıcı
 alignment	hizalama
 scripting language	betik dili
+Java Runtime Environment	Java Çalışma Zamanı Ortamı
