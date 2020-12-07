@@ -11098,6 +11098,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075907Z" creationid="Erhan Yükselci" creationdate="20201207T075907Z">
+        <seg>Yerelleştirme yöneticisi, kullanıcı grubu sahibi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Location</seg>
       </tuv>
       <tuv lang="tr">
@@ -20577,6 +20585,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Dosya filtrelerini görüntüleyin ya da düzenleyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075747Z" creationid="Erhan Yükselci" creationdate="20201207T075747Z">
+        <seg>Vincent Bidaux</seg>
       </tuv>
     </tu>
     <tu>
