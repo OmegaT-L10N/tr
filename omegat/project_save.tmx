@@ -16745,6 +16745,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073054Z" creationid="Erhan Yükselci" creationdate="20201207T073054Z">
+        <seg>Özür dileriz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190311T072325Z" creationid="Erhan Yükselci" creationdate="20190311T072325Z">
@@ -20538,6 +20546,14 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T112733Z" creationid="Erhan Yükselci" creationdate="20160922T112733Z">
         <seg>Garanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073110Z" creationid="Erhan Yükselci" creationdate="20201207T073110Z">
+        <seg>Aradığınız sayfayı bulamadı.</seg>
       </tuv>
     </tu>
     <tu>
