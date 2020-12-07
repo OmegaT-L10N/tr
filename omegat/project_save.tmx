@@ -2455,6 +2455,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075422Z" creationid="Erhan Yükselci" creationdate="20201207T075422Z">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20161129T113801Z" creationid="Erhan Yükselci" creationdate="20161129T113801Z">
@@ -2707,6 +2715,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="tr">
         <seg>Arnavutça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075429Z" creationid="Erhan Yükselci" creationdate="20201207T075429Z">
+        <seg>Alex Buloichik</seg>
       </tuv>
     </tu>
     <tu>
@@ -10224,6 +10240,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075411Z" creationid="Erhan Yükselci" creationdate="20201207T075411Z">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key behavior in the editor</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130425T133943Z">
@@ -10740,6 +10764,14 @@ kuracaktır.</seg>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142608Z" creationid="Erhan Yükselci" creationdate="20190414T142608Z">
         <seg>OmegaT'nin komut satırından başlatılması (tüm sistemler)
 ====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075428Z" creationid="Erhan Yükselci" creationdate="20201207T075428Z">
+        <seg>Baş geliştirici</seg>
       </tuv>
     </tu>
     <tu>
@@ -13321,6 +13353,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075409Z" creationid="Erhan Yükselci" creationdate="20201207T075409Z">
+        <seg>OmegaT uygulamasını ilk yazan kişi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oriya</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T100236Z" creationid="Erhan Yükselci" creationdate="20160922T100236Z">
@@ -14397,6 +14437,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Proje yönetimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075419Z" creationid="Erhan Yükselci" creationdate="20201207T075419Z">
+        <seg>Proje yöneticisi</seg>
       </tuv>
     </tu>
     <tu>
