@@ -13921,6 +13921,14 @@ günlük dosyasına başvurun.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T084854Z" creationid="Erhan Yükselci" creationdate="20201207T084854Z">
+        <seg>Özellikle web sitesini ilgilendiren konularda lütfen &lt;a3&gt;web yönetici&lt;/a3&gt; ile irtibata geçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
