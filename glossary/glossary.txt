@@ -179,3 +179,4 @@ user group	kullanıcı grubu
 social network	sosyal ağ
 recommended support channel	önerilen destek kanalı
 webmaster	web yöneticisi
+Help	Yardım
