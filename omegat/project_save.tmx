@@ -13089,6 +13089,14 @@ ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T085040Z" creationid="Erhan Yükselci" creationdate="20201207T085040Z">
+        <seg>OmegaT, kapsamlı bir kullanım kılavuzuyla gelir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="tr">
@@ -19354,6 +19362,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T114803Z" creationid="Erhan Yükselci" creationdate="20190204T114803Z">
         <seg>Çeviri kaybını önlemek için şunları yapmalısınız:
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T085225Z" creationid="Erhan Yükselci" creationdate="20201207T085225Z">
+        <seg>OmegaT içinden kılavuza ulaşmak için menüden Yardım &gt; Kullanım Kılavuzu ögesini seçin ya da F1 tuşuna başın.</seg>
       </tuv>
     </tu>
     <tu>
