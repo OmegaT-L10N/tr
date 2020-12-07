@@ -163,3 +163,5 @@ website	web sitesi
 project manager	proje yöneticisi
 integration manager	bütünleştirme yöneticisi
 lead developer	baş geliştirici
+website manager	web sitesi yöneticisi
+documentation manager	belgelendirme yöneticisi
