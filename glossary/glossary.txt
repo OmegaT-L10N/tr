@@ -176,3 +176,4 @@ tracking system	izleme sistemi
 bug	hata
 feature request	özellik isteği
 user group	kullanıcı grubu
+social network	sosyal ağ
