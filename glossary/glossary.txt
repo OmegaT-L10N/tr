@@ -171,3 +171,5 @@ developer	geliştirici
 mailing list	yazışma listesi
 tracker	izleyici
 localizer	yerelleştirici
+tracking	izleme
+tracking system	izleme sistemi
