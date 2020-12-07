@@ -6240,6 +6240,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082713Z" creationid="Erhan Yükselci" creationdate="20201207T082713Z">
+        <seg>Belgelendirme izleme sistemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T131002Z" creationid="Erhan Yükselci" creationdate="20190901T130834Z">
@@ -7634,6 +7642,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T122356Z">
         <seg>Ayrıştırma sırasında satır {0}, sütun {1}'de önemli hata:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082659Z" creationid="Erhan Yükselci" creationdate="20201207T082659Z">
+        <seg>Özellik isteği izleme sistemi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9881,6 +9897,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T102514Z" creationid="Erhan Yükselci" creationdate="20190413T102514Z">
         <seg>{0} için sorunlar ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082647Z" creationid="Erhan Yükselci" creationdate="20201207T082647Z">
+        <seg>Sorun/hata izleme sistemi</seg>
       </tuv>
     </tu>
     <tu>
