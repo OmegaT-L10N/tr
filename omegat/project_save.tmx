@@ -3662,6 +3662,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073714Z" creationid="Erhan Yükselci" creationdate="20201207T073714Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré (webmaster)</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142837Z" creationid="Erhan Yükselci" creationdate="20190414T142837Z">
@@ -6746,6 +6754,14 @@ Yardım sayfanız bulunamadı</seg>
       </tuv>
       <tuv lang="tr">
         <seg>İngilizce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073726Z" creationid="Erhan Yükselci" creationdate="20201207T073726Z">
+        <seg>İngilizce sürüm çevirmenleri</seg>
       </tuv>
     </tu>
     <tu>
@@ -18031,6 +18047,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073732Z" creationid="Erhan Yükselci" creationdate="20201207T073732Z">
+        <seg>OmegaT projesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T123714Z">
@@ -20591,6 +20615,14 @@ paketlerini kullanmanızı öneririz.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073706Z" creationid="Erhan Yükselci" creationdate="20201207T073706Z">
         <seg>Web sitesi içerik yazarları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T073710Z" creationid="Erhan Yükselci" creationdate="20201207T073710Z">
+        <seg>Web sitesi tasarımı</seg>
       </tuv>
     </tu>
     <tu>
