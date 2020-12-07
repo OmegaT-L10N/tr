@@ -9965,6 +9965,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090138Z" creationid="Erhan Yükselci" creationdate="20201207T090138Z">
+        <seg>Bu kılavuz, OmegaT'nin program klasöründe "docs" adlı klasörde bulunur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130411T073700Z">
@@ -21527,6 +21535,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T171415Z" creationid="Erhan Yükselci" creationdate="20190414T171415Z">
         <seg>Bu klasöre yeni betikler ekleyebilirsiniz; yeni betikler Betik Çalıştırma penceresinde kullanılabilir betikler listesinde görünecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090108Z" creationid="Erhan Yükselci" creationdate="20201207T090108Z">
+        <seg>OmegaT ile birlikte gelen kullanım kılavuzuna, OmegaT'yi çalıştırmadan da erişebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
