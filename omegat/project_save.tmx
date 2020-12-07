@@ -2719,6 +2719,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T092843Z" creationid="Erhan Yükselci" creationdate="20201207T092843Z">
+        <seg>Her dilimin çevirisini yaptıktan sonra &lt;k0&gt;Ctrl+U&lt;/k0&gt; tuşlarını kullanarak bir sonraki çevrilmemiş dilime gidebilirsiniz (ya da &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; tuşlarına basarak bir sonraki çevrilmiş dilime gidebilirsiniz).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T101431Z" creationid="Erhan Yükselci" creationdate="20190204T101431Z">
@@ -13357,6 +13365,14 @@ sisteminizde yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>OmegaT şimdi kapanacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T092644Z" creationid="Erhan Yükselci" creationdate="20201207T092644Z">
+        <seg>OmegaT çevirmeniz için her seferinde size bir dilim gösterecektir.</seg>
       </tuv>
     </tu>
     <tu>
