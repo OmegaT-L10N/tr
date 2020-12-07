@@ -6668,8 +6668,8 @@ project_save.tmx karşıya yüklenmedi ve SVN, karasız duruma geçti.</seg>
       <tuv lang="en">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="tr">
-        <seg>Filtre düzenle diyalog kutucuğu</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T091759Z">
+        <seg>Filtre düzenle iletişim penceresi</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,8 +9099,8 @@ dosya yolunun girilmesine gerek yoktur).</seg>
       <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="tr">
-        <seg>Eğer HHC ya da HHK dosyasının kodlama bildirimi varsa, bu diyalog kutucuğunda belirttiğiniz değerler dikkate alınmaksızın bu kodlama kullanılacaktır.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T091700Z">
+        <seg>Eğer HHC ya da HHK dosyasının kodlama bildirimi varsa, bu iletişim penceresinde belirttiğiniz değerler dikkate alınmaksızın bu kodlama kullanılacaktır.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21806,8 +21806,8 @@ daha kullanıcı dostu bir kurulum elde edebilirsiniz.</seg>
       <tuv lang="en">
         <seg>You define its location and name in the project properties dialog.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T134352Z" creationid="Erhan Yükselci" creationdate="20190901T134352Z">
-        <seg>Sözlükçenin konumu ve adını, proje özellikleri diyalog kutucuğunda belirtebilirsiniz.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T091738Z" creationid="Erhan Yükselci" creationdate="20190901T134352Z">
+        <seg>Sözlükçenin konumu ve adını, proje özellikleri iletişim penceresinde belirtebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
