@@ -5760,6 +5760,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075932Z" creationid="Erhan Yükselci" creationdate="20201207T075932Z">
+        <seg>Geliştiriciler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T075254Z" creationid="Erhan Yükselci" creationdate="20190204T075254Z">
@@ -10396,6 +10404,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142743Z" creationid="Erhan Yükselci" creationdate="20190414T142743Z">
         <seg>Kos Ivantsof (yerelleştirme yöneticisi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T075909Z" creationid="Erhan Yükselci" creationdate="20201207T075909Z">
+        <seg>Kos Ivantsov</seg>
       </tuv>
     </tu>
     <tu>
