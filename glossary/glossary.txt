@@ -165,3 +165,5 @@ integration manager	bütünleştirme yöneticisi
 lead developer	baş geliştirici
 website manager	web sitesi yöneticisi
 documentation manager	belgelendirme yöneticisi
+localization manager	yerelleştirme yöneticisi
+user group owner	kullanıcı grubu sahibi
