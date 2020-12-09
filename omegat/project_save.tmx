@@ -13014,6 +13014,14 @@ klasörüne) taşıyın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201209T123631Z" creationid="Erhan Yükselci" creationdate="20201209T123631Z">
+        <seg>Bu belgelerde, biçimlendirmeyle ilgisi olmayan, ama kaynak dosyalarda (ve çevrilmiş belgelerde) önemli olan etiketler de olacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T071854Z" creationid="Erhan Yükselci" creationdate="20190414T071854Z">
