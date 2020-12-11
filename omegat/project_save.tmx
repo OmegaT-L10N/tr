@@ -18314,6 +18314,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T152431Z" creationid="Erhan Yükselci" creationdate="20201211T152431Z">
+        <seg>Ekip Kipi Depo Eşlemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team Options</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T134507Z">
