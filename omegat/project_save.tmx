@@ -6488,6 +6488,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T095904Z" creationid="Erhan Yükselci" creationdate="20201211T095904Z">
+        <seg>Paketin indirilmesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T124739Z">
@@ -9911,8 +9919,8 @@ click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20191031T172208Z" creationid="Erhan Yükselci" creationdate="20191031T172208Z">
-        <seg>OmegaT'nin kurulumu ve çalıştırılması</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T095849Z" creationid="Erhan Yükselci" creationdate="20191031T172208Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;'nin kurulumu ve çalıştırılması</seg>
       </tuv>
     </tu>
     <tu>
@@ -21649,6 +21657,14 @@ Sayfanız bulunamadı</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190201T103218Z" creationid="Erhan Yükselci" creationdate="20190201T103218Z">
         <seg>Windows Kaynak Dosyaları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Users</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T095855Z" creationid="Erhan Yükselci" creationdate="20201211T095855Z">
+        <seg>Windows Kullanıcıları</seg>
       </tuv>
     </tu>
     <tu>
