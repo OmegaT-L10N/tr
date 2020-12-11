@@ -13202,9 +13202,8 @@ Uygulamalar klasörüne) taşıyın.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084600Z" creationid="Erhan Yükselci" creationdate="20190414T081208Z">
-        <seg>OmegaT özgür ve açık kaynak kodlu her platformda çalışan bir Bilgisayar
-Destekli Çeviri aracıdır; bulanık eşleşme, çeviri belleği, anahtar sözcük
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073453Z" creationid="Erhan Yükselci" creationdate="20190414T081208Z">
+        <seg>OmegaT özgür ve açık kaynak kodlu her platformda çalışan bir Bilgisayar Destekli Çeviri aracıdır; bulanık eşleşme, çeviri belleği, anahtar sözcük
 arama, sözlükçe ve proje güncelleme gibi özelliklere sahiptir.</seg>
       </tuv>
     </tu>
