@@ -21888,6 +21888,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094839Z" creationid="Erhan Yükselci" creationdate="20201211T094839Z">
+        <seg>&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; tuşlarına basarak sözlükçeye yeni terim ekleyebilirsiniz; mevcut sözlükçeleriniz projenizin &lt;f1&gt;/glossary/&lt;/f1&gt; (sözlükçe) alt klasörüne kopyalayabilirsiniz; OmegaT bu sözlükçelerdeki terimleri otomatik olarak arayıp gösterecektir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T171415Z" creationid="Erhan Yükselci" creationdate="20190414T171415Z">
