@@ -5062,6 +5062,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T153252Z" creationid="Erhan Yükselci" creationdate="20201211T153252Z">
+        <seg>{0} silinemedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="tr">
