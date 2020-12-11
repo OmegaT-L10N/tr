@@ -26123,6 +26123,14 @@ klasörü oluşturmasına izin vermedi.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T152828Z" creationid="Erhan Yükselci" creationdate="20201211T152828Z">
+        <seg>{0} sürüm {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} x{1}</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T104524Z" creationid="Erhan Yükselci" creationdate="20190413T104524Z">
