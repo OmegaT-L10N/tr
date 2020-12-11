@@ -19708,6 +19708,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093808Z" creationid="Erhan Yükselci" creationdate="20201211T093808Z">
+        <seg>Projenin başlangıçtaki ayarlarını hatırlamak için &lt;k0&gt;Ctrl+E&lt;/k0&gt; tuşlarına basarak proje özellikleri iletişim penceresini açabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130416T094358Z">
@@ -21901,6 +21909,14 @@ oluşturabilirsiniz.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190415T110349Z" creationid="Erhan Yükselci" creationdate="20190415T110349Z">
         <seg>OmegaT tercihler klasörüne bir kısayol tanımları dosyası (bkz. &lt;l0&gt;Kullanıcı dosyalarının konumu&lt;/l0&gt;) koyarak var olan kısaları değiştirebilir ve yeni kısayollar ekleyebilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093718Z" creationid="Erhan Yükselci" creationdate="20201211T093718Z">
+        <seg>Her yeni iş için yeni bir proje oluşturabilir ve herhangi bir anda projenize yeni kaynak dosyaları ekleyebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
