@@ -8973,6 +8973,14 @@ Kışı gelmiş</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T092951Z" creationid="Erhan Yükselci" creationdate="20201211T092951Z">
+        <seg>Ancak etiketlerin formatı konusunda hata yaptıysanız çevrilmiş dosyalarınız açılmayabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="tr">
@@ -19277,6 +19285,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T100537Z" creationid="Erhan Yükselci" creationdate="20190204T100537Z">
         <seg>LanguageTool başlatılırken hata oluştu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093108Z" creationid="Erhan Yükselci" creationdate="20201211T093108Z">
+        <seg>Bu yüzden çevrilmiş dosyalarınızı oluşturmadan önce &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; tuşlarına basarak etiketlerin doğru olup olmadığını kontrol edin.</seg>
       </tuv>
     </tu>
     <tu>
