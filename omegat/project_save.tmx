@@ -13322,9 +13322,9 @@ dağıtabilir ve/veya değiştirebilirsiniz.</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T090417Z">
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T100343Z">
         <seg>OmegatT'nin işletim sisteminizin adını içeren sistem özelliğine
-ve/veya başlangıç (home) klasörünüz içeren sistem özelliğine erişimine izin verilmedi.</seg>
+ve/veya başlangıç (home) klasörünüzü içeren sistem özelliğine erişimine izin verilmedi.</seg>
       </tuv>
     </tu>
     <tu>
