@@ -18486,6 +18486,14 @@ yerine mevcut klasör kullanılacaktır. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094240Z" creationid="Erhan Yükselci" creationdate="20201211T094240Z">
+        <seg>&lt;f3&gt;level1&lt;/f3&gt; ve &lt;f4&gt;level2&lt;/f4&gt; uzantılı çevir belleklerini, diğer çeviri programlarının kullananlarla paylaşabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T112618Z" creationid="Erhan Yükselci" creationdate="20190901T112618Z">
