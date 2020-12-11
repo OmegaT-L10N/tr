@@ -9121,9 +9121,9 @@ Kışı gelmiş</seg>
 Java is installed at system level and is in the command path, the full path need
 not be entered.)</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085426Z" creationid="Erhan Yükselci" creationdate="20201204T085426Z">
-        <seg>Eğer Java tüm sistem seviyesinde kurulmuşsa ve komut yolunda yer alıyorsa, tam
-dosya yolunun girilmesine gerek yoktur).</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T080506Z" creationid="Erhan Yükselci" creationdate="20201204T085426Z">
+        <seg>Eğer Java tüm sistem seviyesinde kurulmuşsa ve
+komut yolunda yer alıyorsa, tam dosya yolunun girilmesine gerek yoktur).</seg>
       </tuv>
     </tu>
     <tu>
