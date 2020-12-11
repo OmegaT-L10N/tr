@@ -4326,6 +4326,14 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T153024Z" creationid="Erhan Yükselci" creationdate="20201211T153024Z">
+        <seg>Basit &amp;java MessageFormat örüntülerini kontrol et (örneğin {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check spaces around tags</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20161129T124507Z" creationid="Erhan Yükselci" creationdate="20161129T124507Z">
