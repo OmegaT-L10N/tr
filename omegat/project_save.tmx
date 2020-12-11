@@ -8102,6 +8102,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T095438Z" creationid="Erhan Yükselci" creationdate="20201211T095438Z">
+        <seg>Daha ayrıntılı bir başlangıç için OmegaT web sitesindeki &lt;u0&gt;OmegaT for beginners"&lt;/u0&gt; (Yeni başlayanlar için OmegaT) bağlantısını kullanın.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
