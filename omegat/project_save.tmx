@@ -9385,9 +9385,9 @@ kurabilirsiniz.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop,
 double-click on that shortcut.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084009Z" creationid="Erhan Yükselci" creationdate="20200726T084009Z">
-        <seg>Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız
-bu kısayola çift tıklayın.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074143Z" creationid="Erhan Yükselci" creationdate="20200726T084009Z">
+        <seg>Eğer kurulum sırasında masaüstünde bir kısayol oluşturduysanız bu kısayola çift
+tıklayın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18802,9 +18802,8 @@ başlat alanında kısayollar oluşturabilir.</seg>
         <seg>The installer can create shortcuts for you in the start menu, on the desktop and
 in the quick launch area.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084019Z" creationid="Erhan Yükselci" creationdate="20200726T084019Z">
-        <seg>Kurulum programı sizin için başlangıç menüsünde, masaüstünde ve hızlı
-başlat
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074219Z" creationid="Erhan Yükselci" creationdate="20200726T084019Z">
+        <seg>Kurulum programı sizin için başlangıç menüsünde, masaüstünde ve hızlı başlat
 alanında kısayollar oluşturabilir.</seg>
       </tuv>
     </tu>
@@ -21815,9 +21814,10 @@ bağlantı oluşturabilirsiniz.</seg>
         <seg>You can also manually drag the file OmegaT.exe to the
 start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T084036Z" creationid="Erhan Yükselci" creationdate="20200726T084036Z">
-        <seg>Alternatif olarak OmegaT.exe dosyasını manüel olarak
-masaüstüne ya da hızlı başlat alanına taşımak suretiyle bağlantı oluşturabilirsiniz.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074248Z" creationid="Erhan Yükselci" creationdate="20200726T084036Z">
+        <seg>Alternatif olarak OmegaT.exe dosyasını
+manüel olarak masaüstüne ya da hızlı başlat alanına taşımak suretiyle bağlantı
+oluşturabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
