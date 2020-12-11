@@ -9399,6 +9399,14 @@ kurabilirsiniz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T095528Z" creationid="Erhan Yükselci" creationdate="20201211T095528Z">
+        <seg>OmegaT'nin herhangi bir özelliğiyle ilgili yardıma ihtiyaç duyarsanız &lt;u1&gt;OmegaT kullanıcı grubu&lt;/u1&gt;na katılmaktan çekinmeyin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094450Z" creationid="Erhan Yükselci" creationdate="20201211T094450Z">
