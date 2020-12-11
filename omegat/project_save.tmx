@@ -19716,6 +19716,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093930Z" creationid="Erhan Yükselci" creationdate="20201211T093930Z">
+        <seg>Projedeki dosyaların listesini görmek için &lt;k2&gt;Ctrl+L&lt;/k2&gt; tuşlarına basarak &lt;g1&gt;Proje Dosyaları&lt;/g1&gt; iletişim penceresini açabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130416T094358Z">
