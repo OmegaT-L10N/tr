@@ -13311,9 +13311,9 @@ hazır olacaktır.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T082055Z" creationid="Erhan Yükselci" creationdate="20190414T082055Z">
-        <seg>OmegaT, Java Çalışma Zamanı Ortamı (JRE) 1.8 ya da üzeri sürümünün
-sisteminizde yüklü olmasını gerektirir.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073646Z" creationid="Erhan Yükselci" creationdate="20190414T082055Z">
+        <seg>OmegaT, Java Çalışma Zamanı Ortamı (JRE) 1.8 ya da üzeri sürümünün sisteminizde
+yüklü olmasını gerektirir.</seg>
       </tuv>
     </tu>
     <tu>
