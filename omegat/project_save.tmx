@@ -12147,9 +12147,9 @@ appropriate location such as the Applications folder.</seg>
         <seg>Move the folder to an appropriate location such
 as the Applications folder.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083726Z" creationid="Erhan Yükselci" creationdate="20200726T083726Z">
-        <seg>Klasörü uygun bir yere (söz gelimi Uygulamalar
-klasörüne) taşıyın.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073215Z" creationid="Erhan Yükselci" creationdate="20200726T083726Z">
+        <seg>Klasörü uygun bir yere (söz gelimi
+Uygulamalar klasörüne) taşıyın.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20533,10 +20533,9 @@ ve OmegaT uygulaması bulunur.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20200726T083715Z" creationid="Erhan Yükselci" creationdate="20200726T083715Z">
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073141Z" creationid="Erhan Yükselci" creationdate="20200726T083715Z">
         <seg>OmegaT .zip arşivini açtığınız klasörde bir belgelendirme dosyası
-ve OmegaT
-uygulaması bulunur.</seg>
+ve OmegaT uygulaması bulunur.</seg>
       </tuv>
     </tu>
     <tu>
