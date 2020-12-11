@@ -184,3 +184,4 @@ Instant Start Guide	Hızlı Başlangıç Kılavuzu
 dialog	iletişim penceresi
 Preferences	Tercihler
 File Filters	Dosya Filtreleri
+Project Files	Proje Dosyalar
