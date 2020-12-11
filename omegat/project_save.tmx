@@ -8345,6 +8345,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093131Z" creationid="Erhan Yükselci" creationdate="20201211T093131Z">
+        <seg>Çevrilmiş dosyayı oluşturun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Georgian</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T093015Z" creationid="Erhan Yükselci" creationdate="20160922T093015Z">
@@ -13460,6 +13468,14 @@ yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190415T110650Z" creationid="Erhan Yükselci" creationdate="20190415T110650Z">
         <seg>&lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; dosyasında değişiklik yapıldıktan sonra yeni kısayolların geçerli olması için &lt;a1&gt;OmegaT&lt;/a1&gt;'nin yeniden başlatılması gereklidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T093252Z" creationid="Erhan Yükselci" creationdate="20201211T093252Z">
+        <seg>Çeviride herhangi bir etiket hatası olmadığından emin olduktan sonra &lt;k0&gt;Ctrl+D&lt;/k0&gt; tuşlarına basarak çevrilmiş belgeleri oluşturabilirsiniz; oluşturulan belgeler proje klasörünün &lt;f1&gt;/target/&lt;/f1&gt; (hedef) alt klasöründe bulunur.</seg>
       </tuv>
     </tu>
     <tu>
