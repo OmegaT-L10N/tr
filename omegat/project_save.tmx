@@ -8098,8 +8098,9 @@ script provided (omegat.kaptn).</seg>
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085413Z" creationid="Erhan Yükselci" creationdate="20201204T085413Z">
-        <seg>OmegaT'nin daha kullanıcı dostu şekilde başlatılması için Kaptain betiğini (omegat.kaptn) kullanabilirsiniz.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074543Z" creationid="Erhan Yükselci" creationdate="20201204T085413Z">
+        <seg>OmegaT'nin daha kullanıcı dostu şekilde başlatılması için Kaptain betiğini
+(omegat.kaptn) kullanabilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
