@@ -19327,6 +19327,14 @@ Sen, ey zavallı</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T081554Z" creationid="Erhan Yükselci" creationdate="20201211T081554Z">
+        <seg>Etiketler korumalı olduğundan üzerinde değişiklik yapamazsınız, ama hedef cümlede etiketleri silebilir, manüel olarak etiket oluşturabilir ve etiketlerin etrafından dolaşabilirsiniz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
