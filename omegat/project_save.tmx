@@ -9391,6 +9391,14 @@ kurabilirsiniz.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094450Z" creationid="Erhan Yükselci" creationdate="20201211T094450Z">
+        <seg>Bu çeviri belleği dosyalarını bir projenin &lt;f6&gt;/tm/&lt;/f6&gt; alt klasörüne koyarsanız OmegaT bu dosyalarda otomatik olarak "bulanık eşleşmeler" denilen benzer dilimleri arayacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142351Z" creationid="Erhan Yükselci" creationdate="20190414T142351Z">
@@ -18917,6 +18925,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T152301Z" creationid="Erhan Yükselci" creationdate="20190901T134926Z">
         <seg>Dosyanın konumu &lt;f2&gt;/glossary&lt;/f2&gt; (sözlükçe) klasörü altında olmalıdır, ancak alt klasörlere de yerleştirilebilir (söz gelimi &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094318Z" creationid="Erhan Yükselci" creationdate="20201211T094318Z">
+        <seg>&lt;f5&gt;omegat&lt;/f5&gt; uzantılı dosya ise, ileride oluşturacağınız projelerde OmegaT'de kullanılabilir.</seg>
       </tuv>
     </tu>
     <tu>
