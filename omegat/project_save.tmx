@@ -19671,9 +19671,9 @@ kurmanız gereklidir.</seg>
       <tuv lang="en">
         <seg>To use this script you must first install Kaptain.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085417Z" creationid="Erhan Yükselci" creationdate="20201204T085417Z">
-        <seg>Bu betiği kullanmak için önce Kaptain'i
-kurmanız gereklidir.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074620Z" creationid="Erhan Yükselci" creationdate="20201204T085417Z">
+        <seg>Bu betiği kullanmak için önce
+Kaptain'ı kurmanız gereklidir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21719,8 +21719,9 @@ Sayfanız bulunamadı</seg>
         <seg>You
 can then launch the Kaptain launch script with:</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201204T085419Z" creationid="Erhan Yükselci" creationdate="20201204T085419Z">
-        <seg>Sonra Kaptain başlatma betiğini aşağıdaki şekilde çalıştırabilirsiniz:
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T074648Z" creationid="Erhan Yükselci" creationdate="20201204T085419Z">
+        <seg>Sonra Kaptain başlatma betiğini aşağıdaki
+şekilde çalıştırabilirsiniz:
 </seg>
       </tuv>
     </tu>
