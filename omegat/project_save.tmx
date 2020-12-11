@@ -20532,9 +20532,9 @@ ve OmegaT uygulaması bulunur.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
 file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073141Z" creationid="Erhan Yükselci" creationdate="20200726T083715Z">
-        <seg>OmegaT .zip arşivini açtığınız klasörde bir belgelendirme dosyası
-ve OmegaT uygulaması bulunur.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073723Z" creationid="Erhan Yükselci" creationdate="20200726T083715Z">
+        <seg>OmegaT .zip arşivini açtığınız klasörde bir belgelendirme dosyası ve OmegaT
+uygulaması bulunur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21217,9 +21217,9 @@ OmegaT paketlerini kullanmanızı öneririz.</seg>
         <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
 of selecting, obtaining and installing it.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073118Z" creationid="Erhan Yükselci" creationdate="20200726T083701Z">
-        <seg>JRE seçmek, bulmak ve kurmakla uğraşmamak için JRE ile birlikte gelen
-OmegaT paketlerini kullanmanızı öneririz.</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T073657Z" creationid="Erhan Yükselci" creationdate="20200726T083701Z">
+        <seg>JRE seçmek, bulmak ve kurmakla uğraşmamak için JRE ile birlikte gelen OmegaT
+paketlerini kullanmanızı öneririz.</seg>
       </tuv>
     </tu>
     <tu>
