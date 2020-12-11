@@ -3314,6 +3314,14 @@ ayarlar varsayılan değerlerde olacaktır. Dolayısıyla beklenmedik, ama doğr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T094137Z" creationid="Erhan Yükselci" creationdate="20201211T094137Z">
+        <seg>Çevirinin sonunda OmegaT, proje klasörünüzün içinde &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; ve &lt;f2&gt;omegat&lt;/f2&gt; uzantılarıyla üç çeviri belleği dosyasını oluşturur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the same time, it can use memories files from previous translations for reference.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20121003T104137Z">
