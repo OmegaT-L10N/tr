@@ -2401,8 +2401,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201209T123718Z" creationid="Erhan Yükselci" creationdate="20201209T123718Z">
-        <seg>Kaynak dosyadaki cümle aşağıdaki şekilde görünebilir:</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T081201Z" creationid="Erhan Yükselci" creationdate="20201209T123718Z">
+        <seg>Kaynak dosyadaki cümle normalde aşağıdaki şekilde görünebilir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19109,6 +19109,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T102710Z" creationid="Erhan Yükselci" creationdate="20190204T102710Z">
         <seg>Belirtilen çeviri yönü desteklenmiyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T081339Z" creationid="Erhan Yükselci" creationdate="20201211T081339Z">
+        <seg>OmegaT'de etiketler silik şekilde belirtildiği için fark edilmeleri kolaydı.</seg>
       </tuv>
     </tu>
     <tu>
