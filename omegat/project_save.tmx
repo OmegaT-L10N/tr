@@ -1450,6 +1450,14 @@ listede yer almıyorsa bizimle irtibata geçebilirsiniz).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122656Z" creationid="Erhan Yükselci" creationdate="20201214T122656Z">
+        <seg>(İtalyanca)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -2409,8 +2417,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T094443Z" creationid="Erhan Yükselci" creationdate="20201214T094443Z">
-        <seg>Rainbow'un Metin Ayıklama ve Metin Birleştirme araçlarını kullanarak OmegaT ile çevrilecek dosyaların işlem öncesi ve işlem sonrası </seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122225Z" creationid="Erhan Yükselci" creationdate="20201214T094443Z">
+        <seg>Rainbow'un Metin Ayıklama ve Metin Birleştirme araçlarını kullanarak OmegaT ile çevrilecek dosyaların ön ve son işlemleri nasıl gerçekleştirileceği konusunda aşamalı bir rehber.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,6 +3159,14 @@ TMX dosyası yüklenmeyecek.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122529Z" creationid="Erhan Yükselci" creationdate="20201214T122529Z">
+        <seg>John Moran tarafından İngilizce olarak hazırlanmış OmegaT'ye giriş videosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T090502Z" creationid="Erhan Yükselci" creationdate="20190413T090502Z">
@@ -3710,10 +3726,26 @@ Hadi başka kapıya</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122822Z" creationid="Erhan Yükselci" creationdate="20201214T122822Z">
+        <seg>Blog’lar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T071746Z">
         <seg>Yer İmi &amp;referansları</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122635Z" creationid="Erhan Yükselci" creationdate="20201214T122635Z">
+        <seg>Kitaplar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,6 +3866,14 @@ Hadi başka kapıya</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T092251Z" creationid="Erhan Yükselci" creationdate="20160922T092251Z">
         <seg>Birmanca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122652Z" creationid="Erhan Yükselci" creationdate="20201214T122652Z">
+        <seg>Yazan: Marco Cevoli ve Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8341,6 +8381,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T075930Z" creationid="Erhan Yükselci" creationdate="20190413T075930Z">
         <seg>Bellekten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122616Z" creationid="Erhan Yükselci" creationdate="20201214T122616Z">
+        <seg>Miguel Navarro tarafından hazırlanan YouTube OmegaT serisi (İspanyolca).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13358,6 +13406,14 @@ taşıyın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122451Z" creationid="Erhan Yükselci" creationdate="20201214T122451Z">
+        <seg>OmegaT başlangıç öğreticisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
@@ -13548,6 +13604,14 @@ yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T074552Z" creationid="Erhan Yükselci" creationdate="20190204T074552Z">
         <seg>OmegaT sürüm {0}, güncelleme {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122433Z" creationid="Erhan Yükselci" creationdate="20201214T122433Z">
+        <seg>Qabiria YouTube kanalındaki OmegaT videoları.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14220,6 +14284,14 @@ sonra her şeyi depoya gönderin.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Düz metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122417Z" creationid="Erhan Yükselci" creationdate="20201214T122417Z">
+        <seg>OmegaT videoları çalma listesi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17000,6 +17072,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122817Z" creationid="Erhan Yükselci" creationdate="20201214T122817Z">
+        <seg>Hızınızı kendinizin ayarlayabileceği İngilizce çevrim içi eğitim kursu (ücretli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T125208Z">
@@ -19567,6 +19647,14 @@ Sen, ey zavallı</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122328Z" creationid="Erhan Yükselci" creationdate="20201214T122328Z">
+        <seg>Bu araçlar, XLIFF dönüşüm filtresi bulunan dosya formatlarının OmegaT kullanılarak çevrilmesini sağlar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T081554Z" creationid="Erhan Yükselci" creationdate="20201211T081554Z">
@@ -20062,6 +20150,22 @@ komutuyla betiği çalıştırın.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082232Z" creationid="Erhan Yükselci" creationdate="20201207T082232Z">
         <seg>İzleme sistemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122659Z" creationid="Erhan Yükselci" creationdate="20201214T122659Z">
+        <seg>Eğitim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122344Z" creationid="Erhan Yükselci" creationdate="20201214T122344Z">
+        <seg>Eğitim videoları</seg>
       </tuv>
     </tu>
     <tu>
@@ -21314,6 +21418,14 @@ kullanıcı desteği alabilirsiniz:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122857Z" creationid="Erhan Yükselci" creationdate="20201214T122857Z">
+        <seg>Velior'un kurumsal blog'u &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Venda</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T103147Z" creationid="Erhan Yükselci" creationdate="20160922T103147Z">
@@ -21334,6 +21446,30 @@ kullanıcı desteği alabilirsiniz:</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Sürüm: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122539Z" creationid="Erhan Yükselci" creationdate="20201214T122539Z">
+        <seg>Video 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122617Z" creationid="Erhan Yükselci" creationdate="20201214T122617Z">
+        <seg>Video 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T122627Z" creationid="Erhan Yükselci" creationdate="20201214T122627Z">
+        <seg>Video 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -24919,6 +25055,14 @@ klasörü oluşturmasına izin vermedi.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190414T142533Z" creationid="Erhan Yükselci" creationdate="20190414T142533Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T123021Z" creationid="Erhan Yükselci" creationdate="20201214T123021Z">
+        <seg>çeviri ve</seg>
       </tuv>
     </tu>
     <tu>
