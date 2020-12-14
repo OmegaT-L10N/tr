@@ -8289,6 +8289,22 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135939Z" creationid="Erhan Yükselci" creationdate="20201214T135939Z">
+        <seg>Mac OS X sisteminde kurulum için.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135926Z" creationid="Erhan Yükselci" creationdate="20201214T135926Z">
+        <seg>Windows sisteminde kurulum için.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="tr">
@@ -11474,6 +11490,14 @@ kuracaktır.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135940Z" creationid="Erhan Yükselci" creationdate="20201214T135940Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190412T143910Z" creationid="Erhan Yükselci" creationdate="20190412T143910Z">
@@ -11654,6 +11678,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T094710Z" creationid="Erhan Yükselci" creationdate="20160922T094710Z">
         <seg>Lüksemburgca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135927Z" creationid="Erhan Yükselci" creationdate="20201214T135927Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -22057,6 +22089,14 @@ Sayfanız bulunamadı</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Zambaklar en ıssız yerlerde açar&lt;p&gt;Ve vardır her vahşi çiçekte gurur:&lt;p&gt;Sayfanız bulunamadı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135910Z" creationid="Erhan Yükselci" creationdate="20201214T135910Z">
+        <seg>Windows</seg>
       </tuv>
     </tu>
     <tu>
