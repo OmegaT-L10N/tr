@@ -17216,6 +17216,14 @@ Arama kapsamı varsayılan olarak projedir ve belirtilen klasör hiyerarşisi i�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T140259Z" creationid="Erhan Yükselci" creationdate="20201214T140259Z">
+        <seg>OmegaT'yle birlikte Java Çalışma Zamanı Ortamını (JRE) da indirip indirmeyeceğinizi seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T111434Z">
