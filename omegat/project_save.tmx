@@ -9526,6 +9526,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T141048Z" creationid="Erhan Yükselci" creationdate="20201214T141048Z">
+        <seg>Sisteminizde JRE yüklenmemişse ya da yüklü olup olmadığından emin değilseniz "with JRE" (JRE'li) seçeneğini seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If only one file is present, check its extension.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T131019Z" creationid="Erhan Yükselci" creationdate="20190901T131019Z">
