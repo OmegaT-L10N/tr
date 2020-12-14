@@ -187,3 +187,4 @@ File Filters	Dosya Filtreleri
 Project Files	Proje Dosyalar
 Text Search	Metin Arama
 Web Start	Web Başlangıç
+plug-in	eklenti
