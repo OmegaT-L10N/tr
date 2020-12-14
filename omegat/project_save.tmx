@@ -9410,6 +9410,14 @@ dosya yolunun girilmesine gerek yoktur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132140Z" creationid="Erhan Yükselci" creationdate="20201214T132140Z">
+        <seg>Emin değilseniz bu sürümü seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
@@ -10500,6 +10508,14 @@ kuracaktır.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T125229Z">
         <seg>JGit (Eclipse Dağıtım Lisansı)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132033Z" creationid="Erhan Yükselci" creationdate="20201214T132033Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -13948,6 +13964,14 @@ yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Daha önceden oluşturulmuş olan bir projeyi açar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132031Z" creationid="Erhan Yükselci" creationdate="20201214T132031Z">
+        <seg>İşletim Sistemi</seg>
       </tuv>
     </tu>
     <tu>
@@ -19569,6 +19593,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132123Z" creationid="Erhan Yükselci" creationdate="20201214T132123Z">
+        <seg>Kullanıcı tarafından kurulum sürümü; mevcut OmegaT kullanıcıları bu yönteme aşinadır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T140929Z" creationid="Erhan Yükselci" creationdate="20190901T140929Z">
@@ -20214,6 +20246,14 @@ komutuyla betiği çalıştırın.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T082232Z" creationid="Erhan Yükselci" creationdate="20201207T082232Z">
         <seg>İzleme sistemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132037Z" creationid="Erhan Yükselci" creationdate="20201214T132037Z">
+        <seg>Geleneksel</seg>
       </tuv>
     </tu>
     <tu>
