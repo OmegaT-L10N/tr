@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_f214222fc" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_fee75dd3" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2353,8 +2353,8 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T204820Z" creationid="Erhan Yükselci" creationdate="20190413T204820Z">
-        <seg>@@ÇEVİRİ UYARISI@@</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083353Z" creationid="Erhan Yükselci" creationdate="20190413T204820Z">
+        <seg>Bu çeviri Erhan Yükselci tarafından yapılmıştır, telif hakkı © 2009-2020</seg>
       </tuv>
     </tu>
     <tu>
@@ -2403,6 +2403,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T081201Z" creationid="Erhan Yükselci" creationdate="20201209T123718Z">
         <seg>Kaynak dosyadaki cümle normalde aşağıdaki şekilde görünebilir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T094443Z" creationid="Erhan Yükselci" creationdate="20201214T094443Z">
+        <seg>Rainbow'un Metin Ayıklama ve Metin Birleştirme araçlarını kullanarak OmegaT ile çevrilecek dosyaların işlem öncesi ve işlem sonrası </seg>
       </tuv>
     </tu>
     <tu>
@@ -7648,8 +7656,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>External documentation</seg>
       </tuv>
-      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201207T090859Z" creationid="Erhan Yükselci" creationdate="20201207T090859Z">
-        <seg>Harici belgelendirme</seg>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083431Z" creationid="Erhan Yükselci" creationdate="20201207T090859Z">
+        <seg>Harici belgeler</seg>
       </tuv>
     </tu>
     <tu>
@@ -9053,6 +9061,22 @@ Kışı gelmiş</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083705Z" creationid="Erhan Yükselci" creationdate="20201214T083633Z">
+        <seg>Magento nasıl çevrilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083719Z" creationid="Erhan Yükselci" creationdate="20201214T083719Z">
+        <seg>Wordpress XLIFF dosyaları nasıl çevrilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201211T092951Z" creationid="Erhan Yükselci" creationdate="20201211T092951Z">
@@ -9719,6 +9743,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083538Z" creationid="Erhan Yükselci" creationdate="20201214T083538Z">
+        <seg>Başka sitelerde bulunan, ileri düzey kullanıcılar için OmegaT'nin prosedür ve özellikleri hakkında bilgiler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14692,6 +14724,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="tr">
         <seg>Sözlüklerle ilgili sorunlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083642Z" creationid="Erhan Yükselci" creationdate="20201214T083642Z">
+        <seg>Magento yerelleştirmesi için OmegaT'nin kullanım prosedürü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083801Z" creationid="Erhan Yükselci" creationdate="20201214T083801Z">
+        <seg>Wordpress'ten dışa aktarılan XLIFF dosyalarının yerelleştirilmesi için OmegaT'nin kullanım prosedürü.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083620Z" creationid="Erhan Yükselci" creationdate="20201214T083620Z">
+        <seg>NetBeans IDE yerelleştirmesi için OmegaT'nin kullanım prosedürü.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20148,10 +20204,26 @@ komutuyla betiği çalıştırın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083654Z" creationid="Erhan Yükselci" creationdate="20201214T083547Z">
+        <seg>NetBeans IDE çevirisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130424T112233Z">
         <seg>Proje Çevriliyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T083812Z" creationid="Erhan Yükselci" creationdate="20201214T083812Z">
+        <seg>Rainbow ve OmegaT ile çeviri</seg>
       </tuv>
     </tu>
     <tu>
