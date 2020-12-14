@@ -13510,6 +13510,14 @@ taşıyın.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T141241Z" creationid="Erhan Yükselci" creationdate="20201214T141241Z">
+        <seg>OmegaT şu anda JRE sürüm 1.6 ya da üzerine ihtiyaç duyuyor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190131T074452Z" creationid="Erhan Yükselci" creationdate="20190131T074452Z">
@@ -13812,6 +13820,14 @@ yüklü olmasını gerektirir.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20130423T122759Z">
         <seg>OmegaT, TMX dosyasını yeniden dilimlemeye çalışacak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T141134Z" creationid="Erhan Yükselci" creationdate="20201214T141134Z">
+        <seg>OmegaT genel olarak uygun herhangi bir Java Çalışma Zamanı Ortamı (JRE) yüklü tüm Linux sistemlerinde çalışır.</seg>
       </tuv>
     </tu>
     <tu>
