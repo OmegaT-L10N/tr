@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T141445Z" creationid="Erhan Yükselci" creationdate="20201214T141445Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>$ tar xf downloaded_file.tar.gz</seg>
       </tuv>
       <tuv lang="tr">
@@ -9586,6 +9594,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20140715T082952Z">
         <seg>Eğer elinizde daha önceden oluşturulmuş çeviri belleklerini varsa (mesela çeviri bürosu ya da müşteri tarafından verilen bellekler gibi) OmegaT bunları referans bellekleri olarak kullanabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T142910Z" creationid="Erhan Yükselci" creationdate="20201214T142910Z">
+        <seg>Sisteminizde uygun bir JRE yüklü olup olmadığından emin değilseniz OmegaT'nin JRE'li seçeneğini indirip yükleyebilirsiniz.</seg>
       </tuv>
     </tu>
     <tu>
