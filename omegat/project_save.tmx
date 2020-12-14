@@ -2239,6 +2239,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T140114Z" creationid="Erhan Yükselci" creationdate="20201214T140114Z">
+        <seg>&lt;i1&gt;OmegaT, Java çalışma zamanı ortamı sürüm 1.6'yı çalıştırabilen tüm işletim sistemlerine kurulabilir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T151410Z" creationid="Erhan Yükselci" creationdate="20190413T151410Z">
@@ -8289,6 +8297,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135954Z" creationid="Erhan Yükselci" creationdate="20201214T135954Z">
+        <seg>Linux sisteminde kurulum için.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135939Z" creationid="Erhan Yükselci" creationdate="20201214T135939Z">
@@ -8301,6 +8317,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135926Z" creationid="Erhan Yükselci" creationdate="20201214T135926Z">
         <seg>Windows sisteminde kurulum için.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T140016Z" creationid="Erhan Yükselci" creationdate="20201214T140016Z">
+        <seg>Diğer işletim sistemleri (FreeBSD ve Solaris gibi) kurulum için.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
