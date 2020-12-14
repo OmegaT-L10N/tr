@@ -10003,6 +10003,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132028Z" creationid="Erhan Yükselci" creationdate="20201214T132028Z">
+        <seg>Kurulum Türü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation and Use</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20160922T110129Z" creationid="Erhan Yükselci" creationdate="20160922T110129Z">
@@ -13322,6 +13330,14 @@ taşıyın.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190130T074625Z" creationid="Erhan Yükselci" creationdate="20190130T074625Z">
         <seg>OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T132023Z" creationid="Erhan Yükselci" creationdate="20201214T132023Z">
+        <seg>OmegaT İndirme Seçici</seg>
       </tuv>
     </tu>
     <tu>
