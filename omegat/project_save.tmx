@@ -20114,6 +20114,14 @@ yerel verilerinizi silecek ve proje içeriğini sunucudan yeniden indirecektir.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T143049Z" creationid="Erhan Yükselci" creationdate="20201214T143049Z">
+        <seg>Bu JRE sürümü sadece OmegaT'yi çalıştırmak için kullanılacak, sistemdeki diğer JRE kurulumlarıyla çatışmayacak, onlara müdahale etmeyecek ve onları sistemden kaldırmayacaktır. Bu yüzden bu sürümü kullanmak güvenlidir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190413T095404Z" creationid="Erhan Yükselci" creationdate="20190413T095404Z">
