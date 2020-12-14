@@ -2351,6 +2351,14 @@ OmegaT'nin kullanabileceği bellek miktarını arttırın.
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T135908Z" creationid="Erhan Yükselci" creationdate="20201214T135908Z">
+        <seg>&lt;s3&gt;Sakınca&lt;/s3&gt;: bu sürümü şu anda eklentilerle birlikte kullanmak mümkün olmadığında bazı işlevler çalışmayacaktır.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190204T073126Z" creationid="Erhan Yükselci" creationdate="20190204T072104Z">
