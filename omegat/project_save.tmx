@@ -9410,6 +9410,14 @@ dosya yolunun girilmesine gerek yoktur).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="tr" changeid="Erhan Yükselci" changedate="20201214T140404Z" creationid="Erhan Yükselci" creationdate="20201214T140404Z">
+        <seg>Windows sisteminizde önceden uygun bir JRE yüklenmiş ise "Without JRE" (JRE'siz) seçeneğini seçin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="tr" changeid="Erhan Yükselci" changedate="20190901T134240Z" creationid="Erhan Yükselci" creationdate="20190901T131247Z">
